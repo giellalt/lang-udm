@@ -1,0 +1,93 @@
+Multichar_Symbols
+
+! POS
++N +V +A 
++Adv +CC +CS +Interj +Pron +Num
+
+! Verbal MSP
++Prs +Fut +Prt +Prf +PrfIpf +HstPrf +PluPrf +HstPluPrf
++Ind +Imp +Cond +Opt
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
++Inf
++Pos +Neg
+
+! Nominal MSP
++Sg +Pl
++Nom +Acc +Gen +Abl +Dat +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
++Prl +Apr
++Ord
++PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
+
+e2 o2 ö2 k2 m2 t2 %> £¤ z¤ þ¤ §¤ 
+
+! Key lexicon
+
+LEXICON Root
+
+Noun ;
+Verb ;
+Adjective ;
+Adverb ;
+Conjunction ;
+Subjunction ;
+Interjection ;
+Numeral ;
+Pronoun ;
+Postposition ;
+Punctuation ;
+
+
+
+! I include some small lexica here
+! waiting for own files, or perhaps they could stay here
+
+LEXICON Conjunction 
+no CT ;
+no§ CT ;
+
+LEXICON CT
++CS: # ;
+ 
+LEXICON Subjunction  
+# ;
+
+LEXICON Interjection 
+# ;
+
+LEXICON Numeral
+odïg NUMBERSUF ;
+kyk:kykt2 NUMBERSUF ;
+kuin':kuin't2 NUMBERSUF ;
+n'yl' NUMBERSUF ;
+vit' NUMBERSUF ;
+kuat' NUMBERSUF ;
+siz'ym NUMBERSUF ;
+tâmys NUMBERSUF ;
+ykmys NUMBERSUF ;
+das NUMBERSUF ;
+kyz' NUMBERSUF ;
+kuamyn NUMBERSUF ;
+n'yl'don NUMBERSUF ;
+vit'ton NUMBERSUF ;
+kuat'ton NUMBERSUF ;
+siz'ymdon NUMBERSUF ;
+tâmyston NUMBERSUF ;
+ykmyston NUMBERSUF ;
+sû NUMBERSUF ;
+sûrs NUMBERSUF ;
+million NUMBERSUF ;
+milliard NUMBERSUF ;
+
+LEXICON NUMBERSUF
++Num: K;
++Num:%> CASESUF ;
++Num:%> ORDINAL ;
+
+LEXICON ORDINAL
++Ord:êtï K;
+
+
+
+LEXICON K
++Qst:a #;
+#; 
