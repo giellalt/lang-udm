@@ -1,0 +1,53 @@
+LEXICON Pronoun 
+
+Personal ;
+Demonstrative ;
+Reflexive ;
+
+LEXICON Personal
+
+mon+Pron+Pers:mon PPRONSG-NCAIA ;
+ton+Pron+Pers:ton PPRONSG-NCAIA ;
+so+Pron+Pers:so PPRONSG-NCAIA ;
+mi+Pron+Pers+Pl:mi PPRONPL ;
+tï+Pron+Pers+Pl:tï PPRONPL ;
+soos+Pron+Pers+Pl:soos PPRONPL ;
+
+mon+Pron+Pers+Sg+Gen:mynam K ;
+ton+Pron+Pers+Sg+Gen:tynad K ;
+so+Pron+Pers+Sg+Gen:solên K ;
+
+mon+Pron+Pers+Sg+Abl:mynês'tym K ;
+ton+Pron+Pers+Sg+Abl:tynês'tyd K ;
+so+Pron+Pers+Sg+Abl:solês' K ;
+
+mon+Pron+Pers+Sg+Dat:mynym K ;
+ton+Pron+Pers+Sg+Dat:tynyd K ;
+so+Pron+Pers+Sg+Dat:soly K ;
+
+LEXICON PPRONSG-NCAIA
++Acc:e K ;
++Car:tek K ;
++Advc:ja K ;
++Ins:en K ;
++Ins:enym K ;
++Appr:lan' K ;
+
+LEXICON PPRONPL
++Nom: K ;
++Gen: K ;
++Acc: K ;
++Dat: K ;
++Abl: K ;
+
+
+LEXICON Demonstrative
+ta+Pron+Dem:t K ;
+taþ¤e+Pron+Dem:taþ¤e K ;
+tamynda+Pron+Dem:tamynda K ;
+so+Pron+Dem:so K ;
+syþ¤e+Pron+Dem:syþ¤e K ;
+somynda+Pron+Dem:somynda K ;
+
+LEXICON Reflexive
+K ;

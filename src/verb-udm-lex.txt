@@ -1,0 +1,5 @@
+LEXICON Verb
+mynyny:myny MONO ;
+u£any:u£a UZA ;
+voz'yny:voz'y MONO ;
+kelâny:kelâ UZA ;

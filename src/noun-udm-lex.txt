@@ -1,0 +1,24 @@
+LEXICON Noun 
+anaj NOUNSUF ;
+ataj NOUNSUF ;
+auditoriâ NOUNSUF ;
+busy NOUNSUF "field" ;
+dy§etskis' NOUNSUF ;
+filosofiâ NOUNSUF ;
+gurt NOUNSUF "village" ;
+istoriâ NOUNSUF ;
+kar NOUNSUF ;
+komissiâ NOUNSUF ;
+komnata NOUNSUF ;
+korka NOUNSUF "house" ;
+ky§no NOUNSUF ;
+nûlês NOUNSUF ;
+radio NOUNSUF ;
+redakciâ NOUNSUF ;
+sobranie NOUNSUF ;
+student NOUNSUF ;
+sêreg:sêre2g NOUNSUF "doll" ;
+televizor NOUNSUF ;
+turyn NOUNSUF ;
+ulon NOUNSUF "life" ;
+universitet NOUNSUF ;

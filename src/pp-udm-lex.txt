@@ -1,0 +1,58 @@
+! The Udmurt postposition
+! Some of them are indeclinable, others are decline in a various number of 
+! local cases.
+
+LEXICON PP ! These are the indeclieable ones 
++Po: #;
+
+LEXICON PPX ! These are the ones declined for case
++Po: #; ! Nominative
+ PPXX ; ! The rest
+ 
+LEXICON PPXX ! The oblique cases
++Po+Ine:yn #;
++Po+Ela:ys' #;
++Po+Ill:ê #;
++Po+Pro:tï #;
++Po+Egr:ysen #;
++Po+Ter:os' #;
++Po+Apr:lan' #;
+
+LEXICON Postposition
+artê PP ;
+bere PP ;
+bydê PP ;
+valþe PP ;
+vamen PP ;
+dyrxâ PP ;
+kuzâ PP ;
+lasân' PP ;
+pumit PP ;
+pumitê PP ;
+pyr PP ;
+pyrtï PP ;
+sâmen PP ;
+sêren PP ;
+þ¤o£e PP ;
+þ¤o§ PP ;
+dyn PPX ; ! Winkler
+az' PPX ;
+bord PPX ;
+börs'y PPX ;
+vades:vadesk2 PPX ;
+vis:visk2 PPX ;
+vöz PPXX ; ! no nominative
+vyl PPX ;
+dor PPX ;
+dur PPX ;
+jyl PPX ;
+kotyr PPX ;
+nal PPX ;
+pum PPX ;
+pu§:pu§k2 PPX ;
+pöl PPX ;
+s'ör PPX ;
+ul PPX ;
+urdês PPX ;
+§or PPX ;
+

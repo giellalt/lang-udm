@@ -1,0 +1,56 @@
+LEXICON MONO
++V+Ind+Prs:%> OPRS ;
++V+Ind+Fut:%>o FUTPAST ;
++V+Ind+PstI:%>i FUTPAST ;
++V+Ind+PstII:%>eme FUTPASTSG ;
++V+Ind+PstII:%>em FUTPASTPL ;
++V+Cond:%>sal COND ;
+
+LEXICON UZA
++V+Ind+Prs:%> APRS ;
++V+Ind+Fut:%>lo FUTPAST ;
++V+Ind+PstI:%> FUTPAST ;
++V+Ind+PstII:%>me FUTPASTSG ;
++V+Ind+PstII:%>m FUTPASTPL ;
++V+Cond:%>sal COND ;
+
+
+LEXICON OPRS
++Sg1:s'ko K ;
++Sg2:s'kod K ;
++Sg3:e K ;
++Pl1:s'kom K ;
++Pl1:s'komy K ;
++Pl2:s'kody K ;
++Pl3:o K ;
+
+LEXICON APRS
++Sg1:s'ko K ;
++Sg2:s'kod K ;
++Sg3: K ;
++Pl1:s'kom K ;
++Pl1:s'komy K ;
++Pl2:s'kody K ;
++Pl3:lo K ;
+
+LEXICON FUTPAST
+FUTPASTSG ;
+FUTPASTPL ;
+FUTPASTPLSHORT ;
+
+LEXICON FUTPASTSG 
++Sg1:%>^@ K ;
++Sg2:%>d K ;
++Sg3:%>z K ;
+
+LEXICON FUTPASTPL 
++Pl1:%>my K ;
++Pl2:%>dy K ;
++Pl3:%>zy K ;
+
+LEXICON FUTPASTPLSHORT 
++Pl1:%>m K ;
+
+LEXICON COND
+K ;
+
