@@ -1,51 +1,51 @@
 LEXICON NOUNSUF
 +N+Sg: CASESUF ;
-+N+Pl:%>xës CASESUF ;
++N+Pl:%>xÃ«s CASESUF ;
 +N: PREPX ;
 +N: POSTPX ;
 
 LEXICON CASESUF
 +Nom:%> K; 
-+Acc:%>êz K;
-+Gen:%>lên K; 
-+Abl:%>lês' K;
++Acc:%>Ãªz K;
++Gen:%>lÃªn K; 
++Abl:%>lÃªs' K;
 +Dat:%>ly K;
-+Ins:%>ên K;
-+Abe:%>têk K;
-+Adc:%>xâ K;
++Ins:%>Ãªn K;
++Abe:%>tÃªk K;
++Adc:%>xÃ¢ K;
 +Ine:%>yn K;
-+Ill:%>ê K;
++Ill:%>Ãª K;
 +Ela:%>ys' K;
 +Egr:%>ysen K;
 +Ter:%>oz' K;
-+Prl:%>êtï K;
++Prl:%>ÃªtÃ¯ K;
 +Apr:%>lan' K;
 
 LEXICON PREPX
 +PxSg1:%>m POSTCX;
 +PxSg2:%>d POSTCX;
 +PxSg3:%>z POSTCX;
-+PxPl1:%>mö POSTCX;
-+PxPl2:%>dö POSTCX;
-+Px+Pl3:%>zö POSTCX;
++PxPl1:%>mÃ¶ POSTCX;
++PxPl2:%>dÃ¶ POSTCX;
++Px+Pl3:%>zÃ¶ POSTCX;
 
 LEXICON POSTCX
 +Acc:%>e K;
-+Gen:%>lên K;
-+Abl:%>lês' K;
++Gen:%>lÃªn K;
++Abl:%>lÃªs' K;
 +Dat:%>ly K;
-+Abe:%>têk K;
-+Adc:%>xâ K;
++Abe:%>tÃªk K;
++Adc:%>xÃ¢ K;
 +Apr:%>lan' K;
 +Prl:%>oz' K;
 
 LEXICON POSTPX
-+Nom:%>ê CXPX ;
-+Ins:%>enö CXPX ;
++Nom:%>Ãª CXPX ;
++Ins:%>enÃ¶ CXPX ;
 +Ine:%>a CXPX ;
 +Ill:%>a CXPX ;
-+Ela:%>ös'ti CXPX ;
-+Egr:%>ös'enö CXPX ;
++Ela:%>Ã¶s'ti CXPX ;
++Egr:%>Ã¶s'enÃ¶ CXPX ;
 +Tra:%>eti CXPX ;
 +Ter:%>oz'a CXPX ;
 

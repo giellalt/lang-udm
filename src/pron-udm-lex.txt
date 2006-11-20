@@ -10,16 +10,16 @@ mon+Pron+Pers:mon PPRONSG-NCAIA ;
 ton+Pron+Pers:ton PPRONSG-NCAIA ;
 so+Pron+Pers:so PPRONSG-NCAIA ;
 mi+Pron+Pers+Pl:mi PPRONPL ;
-tï+Pron+Pers+Pl:tï PPRONPL ;
+tÃ¯+Pron+Pers+Pl:tÃ¯ PPRONPL ;
 soos+Pron+Pers+Pl:soos PPRONPL ;
 
 mon+Pron+Pers+Sg+Gen:mynam K ;
 ton+Pron+Pers+Sg+Gen:tynad K ;
-so+Pron+Pers+Sg+Gen:solên K ;
+so+Pron+Pers+Sg+Gen:solÃªn K ;
 
-mon+Pron+Pers+Sg+Abl:mynês'tym K ;
-ton+Pron+Pers+Sg+Abl:tynês'tyd K ;
-so+Pron+Pers+Sg+Abl:solês' K ;
+mon+Pron+Pers+Sg+Abl:mynÃªs'tym K ;
+ton+Pron+Pers+Sg+Abl:tynÃªs'tyd K ;
+so+Pron+Pers+Sg+Abl:solÃªs' K ;
 
 mon+Pron+Pers+Sg+Dat:mynym K ;
 ton+Pron+Pers+Sg+Dat:tynyd K ;
@@ -43,10 +43,10 @@ LEXICON PPRONPL
 
 LEXICON Demonstrative
 ta+Pron+Dem:t K ;
-taþ¤e+Pron+Dem:taþ¤e K ;
+taÃ¾Â¤e+Pron+Dem:taÃ¾Â¤e K ;
 tamynda+Pron+Dem:tamynda K ;
 so+Pron+Dem:so K ;
-syþ¤e+Pron+Dem:syþ¤e K ;
+syÃ¾Â¤e+Pron+Dem:syÃ¾Â¤e K ;
 somynda+Pron+Dem:somynda K ;
 
 LEXICON Reflexive

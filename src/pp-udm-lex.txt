@@ -12,36 +12,36 @@ LEXICON PPX ! These are the ones declined for case
 LEXICON PPXX ! The oblique cases
 +Po+Ine:yn #;
 +Po+Ela:ys' #;
-+Po+Ill:ê #;
-+Po+Pro:tï #;
++Po+Ill:Ãª #;
++Po+Pro:tÃ¯ #;
 +Po+Egr:ysen #;
 +Po+Ter:os' #;
 +Po+Apr:lan' #;
 
 LEXICON Postposition
-artê PP ;
+artÃª PP ;
 bere PP ;
-bydê PP ;
-valþe PP ;
+bydÃª PP ;
+valÃ¾e PP ;
 vamen PP ;
-dyrxâ PP ;
-kuzâ PP ;
-lasân' PP ;
+dyrxÃ¢ PP ;
+kuzÃ¢ PP ;
+lasÃ¢n' PP ;
 pumit PP ;
-pumitê PP ;
+pumitÃª PP ;
 pyr PP ;
-pyrtï PP ;
-sâmen PP ;
-sêren PP ;
-þ¤o£e PP ;
-þ¤o§ PP ;
+pyrtÃ¯ PP ;
+sÃ¢men PP ;
+sÃªren PP ;
+Ã¾Â¤oÂ£e PP ;
+Ã¾Â¤oÂ§ PP ;
 dyn PPX ; ! Winkler
 az' PPX ;
 bord PPX ;
-börs'y PPX ;
+bÃ¶rs'y PPX ;
 vades:vadesk2 PPX ;
 vis:visk2 PPX ;
-vöz PPXX ; ! no nominative
+vÃ¶z PPXX ; ! no nominative
 vyl PPX ;
 dor PPX ;
 dur PPX ;
@@ -49,10 +49,10 @@ jyl PPX ;
 kotyr PPX ;
 nal PPX ;
 pum PPX ;
-pu§:pu§k2 PPX ;
-pöl PPX ;
-s'ör PPX ;
+puÂ§:puÂ§k2 PPX ;
+pÃ¶l PPX ;
+s'Ã¶r PPX ;
 ul PPX ;
-urdês PPX ;
-§or PPX ;
+urdÃªs PPX ;
+Â§or PPX ;
 
