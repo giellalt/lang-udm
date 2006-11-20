@@ -6,19 +6,19 @@ echo << THE DEFININTIONS >>
 
 echo << defining Vow >>
 
-define Vow [ a | e | ы | i | я | o | Ў | y | ъ | √ | т 
-           | A | E | ╦ | I | ╧ | O | ╓ | Y | ╩ | █ | ┬
-! like the cyrillic...               Ў   bl  eab ju  ja
+define Vow [ a | e | ├л | i | ├п | o | ├╢ | y | ├к | ├╗ | ├в 
+           | A | E | ├Л | I | ├П | O | ├Ц | Y | ├К | ├Ы | ├В
+! like the cyrillic...               ├╢   bl  eab ju  ja
            ];
 
 echo << defining Cns >>
-define Cns [ b | v | g | d | г | гд | z | zд 
-           | B | V | G | D | е | ед | Z | Zд 
+define Cns [ b | v | g | d | ┬г | ┬г┬д | z | z┬д 
+           | B | V | G | D | ┬е | ┬е┬д | Z | Z┬д 
 ! like the cyr..             zh  zh"  z   z"
            | j | k | l | m | n | p | r | s | t | f | h | c 
            | J | K | L | M | N | P | R | S | T | F | H | C 
-           | ■ | ■д | з | зд | x | ' 
-           | ■ | ■д | ▀ | ▀д 
+           | ├╛ | ├╛┬д | ┬з | ┬з┬д | x | ' 
+           | ├╛ | ├╛┬д | ├Я | ├Я┬д 
 ! like cyr   ch  ch"  sh  shch hrd sft
            ];
 
@@ -41,21 +41,21 @@ define Boundary %> ;
 
 echo << defining the rules >>
 
-define ijaDeletion [т -> 0, e -> 0 || Syll Syll _ Boundary ];
+define ijaDeletion [├в -> 0, e -> 0 || Syll Syll _ Boundary ];
 
-define PalatalisedSuffixes ъ -> e, ы -> o || Vow Boundary (x) _ ;
+define PalatalisedSuffixes ├к -> e, ├л -> o || Vow Boundary (x) _ ;
 
 define PalatalMarkDeletion ' -> 0 || _ Boundary e ;
 
 define HardMarkDeletion x -> 0 || Vow Boundary _ ;
 
-define Syncope Ў2 (->) 0, e2 (->) 0, o2 (->) 0 || _ Cns %> (x) Vow ;
+define Syncope ├╢2 (->) 0, e2 (->) 0, o2 (->) 0 || _ Cns %> (x) Vow ;
 
 define ParagogicCns k2 -> k, m2 -> m, t2 -> t || _ %> Vow ;
 
 echo << defining cleanup rules >>
 
-define Cleanup Ў2 -> Ў, e2 -> e, o2 -> o ;
+define Cleanup ├╢2 -> ├╢, e2 -> e, o2 -> o ;
 
 define BoundaryDeletion [ %> -> 0 ] ;
 
