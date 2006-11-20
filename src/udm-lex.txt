@@ -18,7 +18,7 @@ Multichar_Symbols
 +Ord
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 
-e2 o2 ö2 k2 m2 t2 %> £¤ z¤ þ¤ §¤ 
+e2 o2 Ã¶2 k2 m2 t2 %> Â£Â¤ zÂ¤ Ã¾Â¤ Â§Â¤ 
 
 ! Key lexicon
 
@@ -43,7 +43,7 @@ Punctuation ;
 
 LEXICON Conjunction 
 no CT ;
-no§ CT ;
+noÂ§ CT ;
 
 LEXICON CT
 +CS: # ;
@@ -55,14 +55,14 @@ LEXICON Interjection
 # ;
 
 LEXICON Numeral
-odïg NUMBERSUF ;
+odÃ¯g NUMBERSUF ;
 kyk:kykt2 NUMBERSUF ;
 kuin':kuin't2 NUMBERSUF ;
 n'yl' NUMBERSUF ;
 vit' NUMBERSUF ;
 kuat' NUMBERSUF ;
 siz'ym NUMBERSUF ;
-tâmys NUMBERSUF ;
+tÃ¢mys NUMBERSUF ;
 ykmys NUMBERSUF ;
 das NUMBERSUF ;
 kyz' NUMBERSUF ;
@@ -71,10 +71,10 @@ n'yl'don NUMBERSUF ;
 vit'ton NUMBERSUF ;
 kuat'ton NUMBERSUF ;
 siz'ymdon NUMBERSUF ;
-tâmyston NUMBERSUF ;
+tÃ¢myston NUMBERSUF ;
 ykmyston NUMBERSUF ;
-sû NUMBERSUF ;
-sûrs NUMBERSUF ;
+sÃ» NUMBERSUF ;
+sÃ»rs NUMBERSUF ;
 million NUMBERSUF ;
 milliard NUMBERSUF ;
 
@@ -84,7 +84,7 @@ LEXICON NUMBERSUF
 +Num:%> ORDINAL ;
 
 LEXICON ORDINAL
-+Ord:êtï K;
++Ord:ÃªtÃ¯ K;
 
 
 
