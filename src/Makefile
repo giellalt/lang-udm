@@ -5,6 +5,19 @@
 # This is a preliminary file that builds a Skolt Sami parser based upon
 # xfst and not twolc.
 
+
+
+XFST = xfst -utf8
+LEXC = lexc -utf8
+TWOLC = twolc -utf8
+
+ifeq (victorio.uit.no, $(shell hostname))
+XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
+LEXC = /opt/sami/xerox/bin/lexc -utf8
+TWOLC = /opt/sami/xerox/bin/twolc -utf8
+endif
+
+
 # Here we build the final generator , an inverted transducer of the analyzer.
 # It is dependent upon udm.save
 
@@ -17,7 +30,7 @@ iudm.fst: ../bin/iudm.fst
 	invert net \n\
 	save stack ../bin/iudm.fst \n\
 	quit \n" > ../../tmp/iudm-fst-script
-	@xfst -utf8 < ../../tmp/iudm-fst-script
+	$(XFST) < ../../tmp/iudm-fst-script
 	@rm -f ../../tmp/iudm-fst-script
 
 
@@ -32,7 +45,7 @@ udm.fst: ../bin/udm.fst
 	[@\"../bin/caseconv.fst\"]] ; \n\
 	save stack ../bin/udm.fst \n\
 	quit \n" > ../../tmp/udm-fst-script
-	@xfst -utf8 < ../../tmp/udm-fst-script
+	$(XFST) < ../../tmp/udm-fst-script
 	@rm -f ../../tmp/udm-fst-script
 
 
@@ -47,7 +60,7 @@ caseconv.fst: ../bin/caseconv.fst
 	@printf "read regex < case.regex \n\
 	save stack ../bin/caseconv.fst \n\
 	quit \n" > ../../tmp/caseconv-script
-	@xfst -utf8 < ../../tmp/caseconv-script
+	$(XFST) < ../../tmp/caseconv-script
 	@rm -f ../../tmp/caseconv-script
 
 
@@ -61,7 +74,7 @@ tok.fst: ../bin/tok.fst
 	@printf "source tok.txt \n\
 	save stack ../bin/tok.fst \n\
 	quit \n" > ../../tmp/tok-script
-	@xfst -utf8 < ../../tmp/tok-script
+	$(XFST) < ../../tmp/tok-script
 	@rm -f ../../tmp/tok-script
 
 
@@ -74,7 +87,7 @@ udm.save: ../bin/udm.save
 	[@\"../bin/xfst-udm.bin\"]] ; \n\
 	save stack ../bin/udm.save \n\
 	quit \n" > ../../tmp/udm-save-script
-	@xfst -utf8 < ../../tmp/udm-save-script
+	$(XFST) < ../../tmp/udm-save-script
 	@rm -f ../../tmp/udm-save-script
 
 # The first goal is to build udm-lex.save
@@ -93,7 +106,7 @@ udm-lex.save: ../bin/udm-lex.save
 	adv-udm-lex.txt pp-udm-lex.txt punct-udm-lex.txt \n\
 	save-source ../bin/udm-lex.save \n\
 	quit \n" > ../../tmp/udm-lex-save-script
-	@lexc -utf8 < ../../tmp/udm-lex-save-script
+	$(LEXC) < ../../tmp/udm-lex-save-script
 	rm -f ../../tmp/udm-lex-save-script
 
 # The second goal is to build xfst-udm.bin
@@ -107,7 +120,7 @@ xfst-udm.bin: ../bin/xfst-udm.bin
 	@printf "source xfst-udm.txt \n\
 	save stack ../bin/xfst-udm.bin \n\
 	quit \n" > ../../tmp/xfst-udm-script
-	@xfst -utf8 < ../../tmp/xfst-udm-script
+	$(XFST) < ../../tmp/xfst-udm-script
 	@rm -f ../../tmp/xfst-udm-script
 
 clean:
