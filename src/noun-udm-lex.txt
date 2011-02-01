@@ -1,4 +1,4 @@
-LEXICON Noun 
+LEXICON NOUN 
 anaj NOUNSUF ;
 ataj NOUNSUF ;
 auditoriâ NOUNSUF ;

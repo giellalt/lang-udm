@@ -1,10 +1,10 @@
-LEXICON Pronoun 
+LEXICON PRONOUN 
 
-Personal ;
-Demonstrative ;
-Reflexive ;
+PERSONAL ;
+DEMONSTRATIVE ;
+REFLEXIVE ;
 
-LEXICON Personal
+LEXICON PERSONAL
 
 mon+Pron+Pers:mon PPRONSG-NCAIA ;
 ton+Pron+Pers:ton PPRONSG-NCAIA ;
@@ -41,7 +41,7 @@ LEXICON PPRONPL
 +Abl: K ;
 
 
-LEXICON Demonstrative
+LEXICON DEMONSTRATIVE
 ta+Pron+Dem:t K ;
 taþ¤e+Pron+Dem:taþ¤e K ;
 tamynda+Pron+Dem:tamynda K ;
@@ -49,5 +49,5 @@ so+Pron+Dem:so K ;
 syþ¤e+Pron+Dem:syþ¤e K ;
 somynda+Pron+Dem:somynda K ;
 
-LEXICON Reflexive
+LEXICON REFLEXIVE
 K ;

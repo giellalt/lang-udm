@@ -1,5 +1,5 @@
 LEXICON CS 
 +CS: #;
 
-LEXICON Subjunction
+LEXICON SUBJUNCTION
 den CS ;

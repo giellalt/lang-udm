@@ -17,44 +17,45 @@ Multichar_Symbols
 +Prl +Apr
 +Ord
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
++Qst
 
 e2 o2 ö2 k2 m2 t2 %> £¤ z¤ þ¤ §¤ 
 
 ! Key lexicon
 
-LEXICON Root
+LEXICON ROOT
 
-Noun ;
-Verb ;
-Adjective ;
-Adverb ;
-Conjunction ;
-Subjunction ;
-Interjection ;
-Numeral ;
-Pronoun ;
-Postposition ;
-Punctuation ;
+NOUN ;
+VERB ;
+ADJECTIVE ;
+ADVERB ;
+CONJUNCTION ;
+SUBJUNCTION ;
+INTERJECTION ;
+NUMERAL ;
+PRONOUN ;
+POSTPOSITION ;
+PUNCTUATION ;
 
 
 
-! I include some small lexica here
-! waiting for own files, or perhaps they could stay here
+! I INCLUDE SOME SMALL LEXICA HERE
+! WAITING FOR OWN FILES, OR PERHAPS THEY COULD STAY HERE
 
-LEXICON Conjunction 
+LEXICON CONJUNCTION 
 no CT ;
 no§ CT ;
 
 LEXICON CT
 +CS: # ;
  
-LEXICON Subjunction  
+LEXICON SUBJUNCTION  
 # ;
 
-LEXICON Interjection 
+LEXICON INTERJECTION 
 # ;
 
-LEXICON Numeral
+LEXICON NUMERAL
 odïg NUMBERSUF ;
 kyk:kykt2 NUMBERSUF ;
 kuin':kuin't2 NUMBERSUF ;

@@ -1,15 +1,15 @@
-! The Udmurt postposition
-! Some of them are indeclinable, others are decline in a various number of 
-! local cases.
+! THE UDMURT POSTPOSITION
+! SOME OF THEM ARE INDECLINABLE, OTHERS ARE DECLINE IN A VARIOUS NUMBER OF 
+! LOCAL CASES.
 
-LEXICON PP ! These are the indeclieable ones 
-+Po: #;
+LEXICON PP ! THESE ARE THE INDECLIEABLE ONES 
++PO: #;
 
-LEXICON PPX ! These are the ones declined for case
-+Po: #; ! Nominative
- PPXX ; ! The rest
+LEXICON PPX ! THESE ARE THE ONES DECLINED FOR CASE
++PO: #; ! NOMINATIVE
+ PPXX ; ! THE REST
  
-LEXICON PPXX ! The oblique cases
+LEXICON PPXX ! THE OBLIQUE CASES
 +Po+Ine:yn #;
 +Po+Ela:ys' #;
 +Po+Ill:ê #;
@@ -18,7 +18,7 @@ LEXICON PPXX ! The oblique cases
 +Po+Ter:os' #;
 +Po+Apr:lan' #;
 
-LEXICON Postposition
+LEXICON POSTPOSITION
 artê PP ;
 bere PP ;
 bydê PP ;
