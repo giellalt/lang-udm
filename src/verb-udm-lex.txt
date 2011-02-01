@@ -1,5 +1,5 @@
 LEXICON VERB
-mynyny:myny MONO ;
-u£any:u£a UZA ;
-voz'yny:voz'y MONO ;
-kelâny:kelâ UZA ;
+мыныны:мыны MONO ;
+ужаны:ужа UZA ;
+возьыны:возьы MONO ;
+келяны:келя UZA ;

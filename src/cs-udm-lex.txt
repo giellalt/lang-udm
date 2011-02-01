@@ -2,4 +2,4 @@ LEXICON CS
 +CS: #;
 
 LEXICON SUBJUNCTION
-den CS ;
+ден CS ;
