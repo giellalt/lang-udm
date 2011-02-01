@@ -1,2 +1,2 @@
-LEXICON Interjection
-aj #;
+LEXICON INTERJECTION
+ай #;

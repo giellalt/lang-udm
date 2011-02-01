@@ -1,5 +1,5 @@
-LECIXON CC ;
+LEXICON CC ;
 +CC: #;
 
-LEXICON conjunction ;
-ja CC ;
+LEXICON CONJUNCTION ;
+я CC ;
