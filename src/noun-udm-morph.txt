@@ -27,7 +27,7 @@ LEXICON PREPX
 +PxSg3:%>з POSTCX;
 +PxPl1:%>мӧ POSTCX;
 +PxPl2:%>дӧ POSTCX;
-+PXPl3:%>зӧ POSTCX;
++PxPl3:%>зӧ POSTCX;
 
 LEXICON POSTCX
 +Acc:%>е K;
@@ -55,7 +55,7 @@ LEXICON CXPX
 +PxSg3:%>з K;
 +PxPl1:%>мы K;
 +PxPl2:%>ды K;
-+PXPl3:%>зы K;
++PxPl3:%>зы K;
 
 
 
