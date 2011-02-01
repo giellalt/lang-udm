@@ -1,37 +1,37 @@
 LEXICON MONO
 +V+Ind+Prs:%> OPRS ;
-+V+Ind+Fut:%>o FUTPAST ;
-+V+Ind+PstI:%>i FUTPAST ;
-+V+Ind+PstII:%>eme FUTPASTSG ;
-+V+Ind+PstII:%>em FUTPASTPL ;
-+V+Cond:%>sal COND ;
++V+Ind+Fut:%>о FUTPAST ;
++V+Ind+PstI:%>и FUTPAST ;
++V+Ind+PstII:%>еме FUTPASTSG ;
++V+Ind+PstII:%>ем FUTPASTPL ;
++V+Cond:%>сал COND ;
 
 LEXICON UZA
 +V+Ind+Prs:%> APRS ;
-+V+Ind+Fut:%>lo FUTPAST ;
++V+Ind+Fut:%>ло FUTPAST ;
 +V+Ind+PstI:%> FUTPAST ;
-+V+Ind+PstII:%>me FUTPASTSG ;
-+V+Ind+PstII:%>m FUTPASTPL ;
-+V+Cond:%>sal COND ;
++V+Ind+PstII:%>ме FUTPASTSG ;
++V+Ind+PstII:%>м FUTPASTPL ;
++V+Cond:%>сал COND ;
 
 
 LEXICON OPRS
-+Sg1:s'ko K ;
-+Sg2:s'kod K ;
-+Sg3:e K ;
-+Pl1:s'kom K ;
-+Pl1:s'komy K ;
-+Pl2:s'kody K ;
-+Pl3:o K ;
++Sg1:сько K ;
++Sg2:ськод K ;
++Sg3:е K ;
++Pl1:ськом K ;
++Pl1:ськомы K ;
++Pl2:ськоды K ;
++Pl3:о K ;
 
 LEXICON APRS
-+Sg1:s'ko K ;
-+Sg2:s'kod K ;
++Sg1:сько K ;
++Sg2:ськод K ;
 +Sg3: K ;
-+Pl1:s'kom K ;
-+Pl1:s'komy K ;
-+Pl2:s'kody K ;
-+Pl3:lo K ;
++Pl1:ськом K ;
++Pl1:ськомы K ;
++Pl2:ськоды K ;
++Pl3:ло K ;
 
 LEXICON FUTPAST
 FUTPASTSG ;
@@ -40,16 +40,16 @@ FUTPASTPLSHORT ;
 
 LEXICON FUTPASTSG 
 +Sg1:%>^@ K ;
-+Sg2:%>d K ;
-+Sg3:%>z K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
 
 LEXICON FUTPASTPL 
-+Pl1:%>my K ;
-+Pl2:%>dy K ;
-+Pl3:%>zy K ;
++Pl1:%>мы K ;
++Pl2:%>ды K ;
++Pl3:%>зы K ;
 
 LEXICON FUTPASTPLSHORT 
-+Pl1:%>m K ;
++Pl1:%>м K ;
 
 LEXICON COND
 K ;

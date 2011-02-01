@@ -3,56 +3,56 @@
 ! LOCAL CASES.
 
 LEXICON PP ! THESE ARE THE INDECLIEABLE ONES 
-+PO: #;
++Po: #;
 
 LEXICON PPX ! THESE ARE THE ONES DECLINED FOR CASE
-+PO: #; ! NOMINATIVE
++Po: #; ! NOMINATIVE
  PPXX ; ! THE REST
  
 LEXICON PPXX ! THE OBLIQUE CASES
-+Po+Ine:yn #;
-+Po+Ela:ys' #;
-+Po+Ill:ê #;
-+Po+Pro:tï #;
-+Po+Egr:ysen #;
-+Po+Ter:os' #;
-+Po+Apr:lan' #;
++Po+Ine:ын #;
++Po+Ela:ысь #;
++Po+Ill:э #;
++Po+Pro:тӥ #;
++Po+Egr:ысен #;
++Po+Ter:ось #;
++Po+Apr:лань #;
 
 LEXICON POSTPOSITION
-artê PP ;
-bere PP ;
-bydê PP ;
-valþe PP ;
-vamen PP ;
-dyrxâ PP ;
-kuzâ PP ;
-lasân' PP ;
-pumit PP ;
-pumitê PP ;
-pyr PP ;
-pyrtï PP ;
-sâmen PP ;
-sêren PP ;
-þ¤o£e PP ;
-þ¤o§ PP ;
-dyn PPX ; ! Winkler
-az' PPX ;
-bord PPX ;
-börs'y PPX ;
-vades:vadesk2 PPX ;
-vis:visk2 PPX ;
-vöz PPXX ; ! no nominative
-vyl PPX ;
-dor PPX ;
-dur PPX ;
-jyl PPX ;
-kotyr PPX ;
-nal PPX ;
-pum PPX ;
-pu§:pu§k2 PPX ;
-pöl PPX ;
-s'ör PPX ;
-ul PPX ;
-urdês PPX ;
-§or PPX ;
+артэ PP ;
+бере PP ;
+быдэ PP ;
+валче PP ;
+вамен PP ;
+дыръя PP ;
+кузя PP ;
+ласянь PP ;
+пумит PP ;
+пумитэ PP ;
+пыр PP ;
+пыртӥ PP ;
+сямен PP ;
+сэрен PP ;
+ӵоже PP ;
+ӵош PP ;
+дын PPX ; ! Wинклер
+азь PPX ;
+борд PPX ;
+бӧрсьы PPX ;
+вадес:вадеск2 PPX ;
+вис:виск2 PPX ;
+вӧз PPXX ; ! но номинативе
+выл PPX ;
+дор PPX ;
+дур PPX ;
+йыл PPX ;
+котыр PPX ;
+нал PPX ;
+пум PPX ;
+пуш:пушк2 PPX ;
+пӧл PPX ;
+сьӧр PPX ;
+ул PPX ;
+урдэс PPX ;
+шор PPX ;
 

@@ -6,19 +6,19 @@ echo << THE DEFININTIONS >>
 
 echo << defining Vow >>
 
-define Vow [ a | e | ë | i | ï | o | ö | y | ê | û | â 
+define Vow [ а | е | ё | и | ӥ | о | ӧ | ы | э | ю | я 
            | A | E | Ë | I | Ï | O | Ö | Y | Ê | Û | Â
 ! like the cyrillic...               ö   bl  eab ju  ja
            ];
 
 echo << defining Cns >>
-define Cns [ b | v | g | d | £ | £¤ | z | z¤ 
+define Cns [ б | в | г | д | ж | ӝ | з | ӟ 
            | B | V | G | D | ¥ | ¥¤ | Z | Z¤ 
 ! like the cyr..             zh  zh"  z   z"
-           | j | k | l | m | n | p | r | s | t | f | h | c 
+           | й | к | л | м | н | п | р | с | т | ф | х | ц 
            | J | K | L | M | N | P | R | S | T | F | H | C 
-           | þ | þ¤ | § | §¤ | x | ' 
-           | þ | þ¤ | ß | ß¤ 
+           | ч | ӵ | ш | щ | ъ | ь 
+           | ч | ӵ | ß | ß¤ 
 ! like cyr   ch  ch"  sh  shch hrd sft
            ];
 
@@ -41,25 +41,25 @@ define Boundary %> ;
 
 echo << defining the rules >>
 
-define ijaDeletion [â -> 0, e -> 0 || Syll Syll _ Boundary ];
+define ijaDeletion [я -> 0, е -> 0 || Syll Syll _ Boundary ];
 
-define PalatalisedSuffixes ê -> e, ë -> o || Vow Boundary (x) _ ;
+define PalatalisedSuffixes э -> е, ё -> o || Vow Boundary (ъ) _ ;
 
-define PalatalMarkDeletion ' -> 0 || _ Boundary e ;
+define PalatalMarkDeletion ь -> 0 || _ Boundary e ;
 
-define HardMarkDeletion x -> 0 || Vow Boundary _ ;
+define HardMarkDeletion ъ -> 0 || Vow Boundary _ ;
 
-define Syncope ö2 (->) 0, e2 (->) 0, o2 (->) 0 || _ Cns %> (x) Vow ;
+define Syncope ӧ2 (->) 0, е2 (->) 0, о2 (->) 0 || _ Cns %> (ъ) Vow ;
 
-define ParagogicCns k2 -> k, m2 -> m, t2 -> t || _ %> Vow ;
+define ParagogicCns к2 -> к, м2 -> м, т2 -> т || _ %> Vow ;
 
 echo << defining cleanup rules >>
 
-define Cleanup ö2 -> ö, e2 -> e, o2 -> o ;
+define Cleanup ӧ2 -> ӧ, е2 -> е, о2 -> о ;
 
 define BoundaryDeletion [ %> -> 0 ] ;
 
-define Deletion k2 -> 0, m2 -> 0, t2 -> 0, %@ -> 0 ;
+define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0 ;
 !                %^@ -> 0,  ;
 
 echo << composing different parts >>

@@ -2,26 +2,39 @@ Multichar_Symbols
 
 ! POS
 +N +V +A 
-+Adv +CC +CS +Interj +Pron +Num
++Adv +CC +CS +Interj +ProN +Num
 
-! Verbal MSP
+! Vербал MSP
 +Prs +Fut +Prt +Prf +PrfIpf +HstPrf +PluPrf +HstPluPrf
 +Ind +Imp +Cond +Opt
 +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 +Inf
 +Pos +Neg
 
-! Nominal MSP
+! Nоминал MSP
 +Sg +Pl
 +Nom +Acc +Gen +Abl +Dat +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
-+Prl +Apr
++Prl
 +Ord
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 +Qst
 
-e2 o2 ö2 k2 m2 t2 %> £¤ z¤ þ¤ §¤ 
++Appr
++Advc
++Tra
++Ter
++Pro
++Car 
 
-! Key lexicon
++Pers
++Dem
+
++PstI
++PstII
+
+е2 о2 ӧ2 к2 м2 т2 %> ӝ ӟ ӵ щ 
+
+! Kеы леъицон
 
 LEXICON ROOT
 
@@ -43,8 +56,8 @@ PUNCTUATION ;
 ! WAITING FOR OWN FILES, OR PERHAPS THEY COULD STAY HERE
 
 LEXICON CONJUNCTION 
-no CT ;
-no§ CT ;
+но CT ;
+нош CT ;
 
 LEXICON CT
 +CS: # ;
@@ -56,28 +69,28 @@ LEXICON INTERJECTION
 # ;
 
 LEXICON NUMERAL
-odïg NUMBERSUF ;
-kyk:kykt2 NUMBERSUF ;
-kuin':kuin't2 NUMBERSUF ;
-n'yl' NUMBERSUF ;
-vit' NUMBERSUF ;
-kuat' NUMBERSUF ;
-siz'ym NUMBERSUF ;
-tâmys NUMBERSUF ;
-ykmys NUMBERSUF ;
-das NUMBERSUF ;
-kyz' NUMBERSUF ;
-kuamyn NUMBERSUF ;
-n'yl'don NUMBERSUF ;
-vit'ton NUMBERSUF ;
-kuat'ton NUMBERSUF ;
-siz'ymdon NUMBERSUF ;
-tâmyston NUMBERSUF ;
-ykmyston NUMBERSUF ;
-sû NUMBERSUF ;
-sûrs NUMBERSUF ;
-million NUMBERSUF ;
-milliard NUMBERSUF ;
+одӥг NUMBERSUF ;
+кык:кыкт2 NUMBERSUF ;
+куинь:куиньт2 NUMBERSUF ;
+ньыль NUMBERSUF ;
+вить NUMBERSUF ;
+куать NUMBERSUF ;
+сизьым NUMBERSUF ;
+тямыс NUMBERSUF ;
+ыкмыс NUMBERSUF ;
+дас NUMBERSUF ;
+кызь NUMBERSUF ;
+куамын NUMBERSUF ;
+ньыльдон NUMBERSUF ;
+витьтон NUMBERSUF ;
+куатьтон NUMBERSUF ;
+сизьымдон NUMBERSUF ;
+тямыстон NUMBERSUF ;
+ыкмыстон NUMBERSUF ;
+сю NUMBERSUF ;
+сюрс NUMBERSUF ;
+миллион NUMBERSUF ;
+миллиард NUMBERSUF ;
 
 LEXICON NUMBERSUF
 +Num: K;
@@ -85,10 +98,10 @@ LEXICON NUMBERSUF
 +Num:%> ORDINAL ;
 
 LEXICON ORDINAL
-+Ord:êtï K;
++Ord:этӥ K;
 
 
 
 LEXICON K
-+Qst:a #;
++Qst:а #;
 #; 

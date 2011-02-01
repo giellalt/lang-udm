@@ -1,61 +1,61 @@
 LEXICON NOUNSUF
 +N+Sg: CASESUF ;
-+N+Pl:%>xës CASESUF ;
++N+Pl:%>ъёс CASESUF ;
 +N: PREPX ;
 +N: POSTPX ;
 
 LEXICON CASESUF
 +Nom:%> K; 
-+Acc:%>êz K;
-+Gen:%>lên K; 
-+Abl:%>lês' K;
-+Dat:%>ly K;
-+Ins:%>ên K;
-+Abe:%>têk K;
-+Adc:%>xâ K;
-+Ine:%>yn K;
-+Ill:%>ê K;
-+Ela:%>ys' K;
-+Egr:%>ysen K;
-+Ter:%>oz' K;
-+Prl:%>êtï K;
-+Apr:%>lan' K;
++Acc:%>эз K;
++Gen:%>лэн K; 
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>эн K;
++Abe:%>тэк K;
++Adc:%>ъя K;
++Ine:%>ын K;
++Ill:%>э K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
++Apr:%>лань K;
 
 LEXICON PREPX
-+PxSg1:%>m POSTCX;
-+PxSg2:%>d POSTCX;
-+PxSg3:%>z POSTCX;
-+PxPl1:%>mö POSTCX;
-+PxPl2:%>dö POSTCX;
-+Px+Pl3:%>zö POSTCX;
++PxSg1:%>м POSTCX;
++PxSg2:%>д POSTCX;
++PxSg3:%>з POSTCX;
++PxPl1:%>мӧ POSTCX;
++PxPl2:%>дӧ POSTCX;
++PXPl3:%>зӧ POSTCX;
 
 LEXICON POSTCX
-+Acc:%>e K;
-+Gen:%>lên K;
-+Abl:%>lês' K;
-+Dat:%>ly K;
-+Abe:%>têk K;
-+Adc:%>xâ K;
-+Apr:%>lan' K;
-+Prl:%>oz' K;
++Acc:%>е K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Abe:%>тэк K;
++Adc:%>ъя K;
++Apr:%>лань K;
++Prl:%>озь K;
 
 LEXICON POSTPX
-+Nom:%>ê CXPX ;
-+Ins:%>enö CXPX ;
-+Ine:%>a CXPX ;
-+Ill:%>a CXPX ;
-+Ela:%>ös'ti CXPX ;
-+Egr:%>ös'enö CXPX ;
-+Tra:%>eti CXPX ;
-+Ter:%>oz'a CXPX ;
++Nom:%>э CXPX ;
++Ins:%>енӧ CXPX ;
++Ine:%>а CXPX ;
++Ill:%>а CXPX ;
++Ela:%>ӧсьти CXPX ;
++Egr:%>ӧсьенӧ CXPX ;
++Tra:%>ети CXPX ;
++Ter:%>озьа CXPX ;
 
 LEXICON CXPX
 +PxSg1: K;
-+PxSg2:%>d K;
-+PxSg3:%>z K;
-+PxPl1:%>my K;
-+PxPl2:%>dy K;
-+Px+Pl3:%>zy K;
++PxSg2:%>д K;
++PxSg3:%>з K;
++PxPl1:%>мы K;
++PxPl2:%>ды K;
++PXPl3:%>зы K;
 
 
 
