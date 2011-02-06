@@ -2,10 +2,11 @@ LEXICON NOUN
 анай NOUNSUF ;
 атай NOUNSUF ;
 аудитория NOUNSUF ;
-бусы NOUNSUF "фиелд" ;
+бакча NOUNSUF ;
+бусы NOUNSUF "field" ;
 дышетскись NOUNSUF ;
 философия NOUNSUF ;
-гурт NOUNSUF "виллаге" ;
+гурт NOUNSUF "village" ;
 история NOUNSUF ;
 кар NOUNSUF ;
 комиссия NOUNSUF ;
@@ -17,8 +18,9 @@ LEXICON NOUN
 редакция NOUNSUF ;
 собрание NOUNSUF ;
 студент NOUNSUF ;
-сэрег:сэре2г NOUNSUF "долл" ;
+сэрег:сэре2г NOUNSUF "doll" ;
 телевизор NOUNSUF ;
 турын NOUNSUF ;
-улон NOUNSUF "лифе" ;
+ты NOUNSUF ;
+улон NOUNSUF "life" ;
 университет NOUNSUF ;
