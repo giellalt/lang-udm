@@ -2,7 +2,7 @@ SHELL = /bin/sh
 #!/usr/bin/make
 #
 # This is a makefile to automatise most of the testing.
-# It is language independent within the framework of the Sámi language
+# It is language independent within the framework of the Sami language
 # technology project. See further user documentation (and technical as well)
 # in $CVSROOT/gt/doc/docu-testing.html
 
@@ -24,7 +24,7 @@ TEMP = /tmp
 # This variable is holding the filename of the save file:
 # (makes the Makefile truly language independent for
 # the Sami languages)
-SAVEFILE = $(wildcard $(FSTDIR)/kom.save)
+SAVEFILE = $(wildcard $(FSTDIR)/udm.save)
 
 # Copied from old LS makefile:
 # Bond, James Bond
