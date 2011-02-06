@@ -1,8 +1,10 @@
 LEXICON NOUNSUF
 +N+Sg: CASESUF ;
 +N+Pl:%>ъёс CASESUF ;
-+N: PREPX ;
-+N: POSTPX ;
++N+Sg: PREPX ;
++N+Sg: POSTPX ;
++N+Pl:%>ъёс PREPX ;
++N+Pl:%>ъёс POSTPX ;
 
 LEXICON CASESUF
 +Nom:%> K; 
@@ -40,7 +42,8 @@ LEXICON POSTCX
 +Prl:%>озь K;
 
 LEXICON POSTPX
-+Nom:%>э CXPX ;
++Nom:%>э CXPXSG ;
++Nom:%> CXPXPL ; ! also for other cases?
 +Ins:%>енӧ CXPX ;
 +Ine:%>а CXPX ;
 +Ill:%>а CXPX ;
@@ -50,9 +53,15 @@ LEXICON POSTPX
 +Ter:%>озьа CXPX ;
 
 LEXICON CXPX
+CXPXSG ;
+CXPXPL ;
+
+LEXICON CXPXSG
 +PxSg1: K;
 +PxSg2:%>д K;
 +PxSg3:%>з K;
+
+LEXICON CXPXPL
 +PxPl1:%>мы K;
 +PxPl2:%>ды K;
 +PxPl3:%>зы K;
