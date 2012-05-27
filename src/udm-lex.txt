@@ -39,6 +39,7 @@ Multichar_Symbols
 LEXICON ROOT
 
 NOUN ;
+PROPERNOUN ;
 VERB ;
 ADJECTIVE ;
 ADVERB ;

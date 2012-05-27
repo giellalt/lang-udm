@@ -95,7 +95,7 @@ udm.save: ../bin/udm.save
 
 udm-lex.save: ../bin/udm-lex.save
 ../bin/udm-lex.save: udm-lex.txt noun-udm-morph.txt noun-udm-lex.txt \
-        adj-udm-lex.txt \
+        adj-udm-lex.txt propernoun-udm-lex.txt \
 	adv-udm-lex.txt verb-udm-lex.txt pron-udm-lex.txt punct-udm-lex.txt \
 	pp-udm-lex.txt
 	@echo
@@ -103,7 +103,7 @@ udm-lex.save: ../bin/udm-lex.save
 	@echo
 	printf "compile-source udm-lex.txt noun-udm-morph.txt noun-udm-lex.txt \
 	adj-udm-lex.txt verb-udm-lex.txt verb-udm-morph.txt pron-udm-lex.txt \
-	adv-udm-lex.txt pp-udm-lex.txt punct-udm-lex.txt \n\
+	propernoun-udm-lex.txt adv-udm-lex.txt pp-udm-lex.txt punct-udm-lex.txt \n\
 	save-source ../bin/udm-lex.save \n\
 	quit \n" > ../../tmp/udm-lex-save-script
 	$(LEXC) < ../../tmp/udm-lex-save-script
