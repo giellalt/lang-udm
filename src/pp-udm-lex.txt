@@ -7,12 +7,14 @@ LEXICON PP ! THESE ARE THE INDECLIEABLE ONES
 
 LEXICON PPX ! THESE ARE THE ONES DECLINED FOR CASE
 +Po: #; ! NOMINATIVE
- PPXX ; ! THE REST
- 
++Sg: PPXX ; ! THE REST
++Pl: %>ъёс PPXX ;
+
 LEXICON PPXX ! THE OBLIQUE CASES
 +Po+Ine:ын #;
 +Po+Ela:ысь #;
-+Po+Ill:э #;
++Po+Ill:е #;
++Po+Ill:ы #;
 +Po+Pro:тӥ #;
 +Po+Egr:ысен #;
 +Po+Ter:ось #;

@@ -24,16 +24,16 @@ LEXICON CASESUF
 +Apr:%>лань K;
 
 LEXICON PREPX
-+PxSg1:%>м POSTCX;
++PxSg1: POSTCX;
 +PxSg2:%>д POSTCX;
 +PxSg3:%>з POSTCX;
-+PxPl1:%>мӧ POSTCX;
-+PxPl2:%>дӧ POSTCX;
-+PxPl3:%>зӧ POSTCX;
++PxPl1:%>мы POSTCX;
++PxPl2:%>ды POSTCX;
++PxPl3:%>зы POSTCX;
 
 LEXICON POSTCX
-+Acc:%>е K;
-+Gen:%>лэн K;
++Acc:%>э K;
++Gen:%>ляqэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
 +Abe:%>тэк K;
@@ -44,11 +44,11 @@ LEXICON POSTCX
 LEXICON POSTPX
 +Nom:%>э CXPXSG ;
 +Nom:%> CXPXPL ; ! also for other cases?
-+Ins:%>енӧ CXPX ;
++Ins:%>ены CXPX ;
 +Ine:%>а CXPX ;
 +Ill:%>а CXPX ;
-+Ela:%>ӧсьти CXPX ;
-+Egr:%>ӧсьенӧ CXPX ;
++Ela:%>ысьти CXPX ;
++Egr:%>ысьены CXPX ;
 +Tra:%>ети CXPX ;
 +Ter:%>озьа CXPX ;
 
