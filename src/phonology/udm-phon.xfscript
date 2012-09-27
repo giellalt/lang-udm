@@ -1,0 +1,87 @@
+
+!  This file is a script for the Xerox xfst interface.
+
+clear stack
+echo << THE DEFININTIONS >>
+
+echo << defining Vow >>
+
+define Vow [ а | е | ё | и | ӥ | о | ӧ | ы | э | ю | я 
+           | A | E | Ë | I | Ï | O | Ö | Y | Ê | Û | Â
+! like the cyrillic...               ö   bl  eab ju  ja
+           ];
+
+echo << defining Cns >>
+define Cns [ б | в | г | д | ж | ӝ | з | ӟ 
+           | B | V | G | D | ¥ | ¥¤ | Z | Z¤ 
+! like the cyr..             zh  zh"  z   z"
+           | й | к | л | м | н | п | р | с | т | ф | х | ц 
+           | J | K | L | M | N | P | R | S | T | F | H | C 
+           | ч | ӵ | ш | щ | ъ | ь 
+           | ч | ӵ | ß | ß¤ 
+! like cyr   ch  ch"  sh  shch hrd sft
+           ];
+
+define Syll [ (Cns) (Cns) Vow (Cns) (Cns) ] ; 
+
+echo << defining Boundary >>
+define Boundary %> ;
+
+
+
+
+
+! Consonant alternations in certain pos
+! -------------------------------------
+
+
+
+! Vowel shifts
+! ------------
+
+echo << defining the rules >>
+
+define ijaDeletion [я -> 0, е -> 0 || Syll Syll _ Boundary ];
+
+define PalatalisedSuffixes э -> е, ё -> o || Vow Boundary (ъ) _ ;
+
+define PalatalMarkDeletion ь -> 0 || _ Boundary e ;
+
+define HardMarkDeletion ъ -> 0 || Vow Boundary _ ;
+
+define Syncope ӧ2 (->) 0, е2 (->) 0, о2 (->) 0 || _ Cns %> (ъ) Vow ;
+
+define ParagogicCns к2 -> к, м2 -> м, т2 -> т || _ %> Vow ;
+
+echo << defining cleanup rules >>
+
+define Cleanup ӧ2 -> ӧ, е2 -> е, о2 -> о ;
+
+define BoundaryDeletion [ %> -> 0 ] ;
+
+define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0 ;
+!                %^@ -> 0,  ;
+
+echo << composing different parts >>
+
+read regex [ 
+ijaDeletion
+.o.
+PalatalisedSuffixes
+.o.
+PalatalMarkDeletion
+.o.
+HardMarkDeletion
+.o.
+Syncope
+.o.
+ParagogicCns
+.o.
+Cleanup
+.o.
+BoundaryDeletion
+.o.
+Deletion 
+] ;
+
+
