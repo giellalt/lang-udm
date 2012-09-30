@@ -1,0 +1,64 @@
+!! Verb inflection
+!! --------------------
+!! Udmurt (Votyak) adjectives compare.
+
+LEXICON MONO
++V+Ind+Prs:%> OPRS ;
++V+Ind+Fut:%>о FUTPAST ;
++V+Ind+PstI:%>и FUTPAST ;
++V+Ind+PstII:%>еме FUTPASTSG ;
++V+Ind+PstII:%>ем FUTPASTPL ;
++V+Cond:%>сал COND ;
+
+LEXICON UZA
++V+Ind+Prs:%> APRS ;
++V+Ind+Fut:%>ло FUTPAST ;
++V+Ind+PstI:%> FUTPAST ;
++V+Ind+PstII:%>ме FUTPASTSG ;
++V+Ind+PstII:%>м FUTPASTPL ;
++V+Cond:%>сал COND ;
+
+
+LEXICON OPRS
++Sg1:сько K ;
++Sg2:ськод K ;
++Sg3:е K ;
++Pl1:ськом K ;
++Pl1:ськомы K ;
++Pl2:ськоды K ;
++Pl3:о K ;
+
+LEXICON APRS
++Sg1:сько K ;
++Sg2:ськод K ;
++Sg3: K ;
++Pl1:ськом K ;
++Pl1:ськомы K ;
++Pl2:ськоды K ;
++Pl3:ло K ;
+
+LEXICON FUTPAST
+FUTPASTSG ;
+FUTPASTPL ;
+FUTPASTPLSHORT ;
+
+LEXICON FUTPASTSG 
++Sg1:%>^@ K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
+
+LEXICON FUTPASTPL 
++Pl1:%>мы K ;
++Pl2:%>ды K ;
++Pl3:%>зы K ;
+
+LEXICON FUTPASTPLSHORT 
++Pl1:%>м K ;
+
+LEXICON COND
+K ;
+
+
+
+! vim: set ft=xfst-lexc:
+
