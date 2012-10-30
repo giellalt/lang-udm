@@ -3,12 +3,15 @@
 !! Udmurt (Votyak) adjectives compare.
 
 LEXICON NOUNSUF
-+N+Sg: CASESUF ;
-+N+Pl:%>ъёс CASESUF ;
-+N+Sg: PREPX ;
-+N+Sg: POSTPX ;
-+N+Pl:%>ъёс PREPX ;
-+N+Pl:%>ъёс POSTPX ;
++N: NOUNSUF_01 ;
+
+LEXICON NOUNSUF_01
++Sg: CASESUF ;
++Pl:%>ъёс CASESUF ;
++Sg: PREPX ;
++Sg: POSTPX ;
++Pl:%>ъёс PREPX ;
++Pl:%>ъёс POSTPX ;
 
 LEXICON CASESUF
 +Nom:%> K; 

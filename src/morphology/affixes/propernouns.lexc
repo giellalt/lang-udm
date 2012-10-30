@@ -1,0 +1,15 @@
+!! Proper noun inflection
+!! --------------------
+!! Udmurt (Votyak) .
+
+LEXICON PropTag
++N+Prop: NOUNSUF_01 ;
+
+
+
+
+
+
+
+! vim: set ft=xfst-lexc:
+
