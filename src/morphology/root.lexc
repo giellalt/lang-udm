@@ -110,15 +110,15 @@ Multichar_Symbols
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   adjectives  ;
-0   adverbs  ;
-0   interjections	;
-0   adverbs  ;
-0   nouns   ;
-0   pronouns    ;
-0   propernouns    ;
-0   quantifiers    ;
-0   subjuntors	;
-0   verbs   ;
+   adjectives  ;
+   adverbs  ;
+   interjections	;
+   adverbs  ;
+   nouns   ;
+   pronouns    ;
+   propernouns    ;
+   quantifiers    ;
+   subjuntors	;
+   verbs   ;
 
 ! vim: set ft=xfst-lexc:
