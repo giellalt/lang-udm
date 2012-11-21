@@ -35,7 +35,6 @@ GENERATED_LEXC_SRCS=\
 			 stems/adverbs.lexc \
 			 stems/conjunctors.lexc \
 			 stems/subjunctors.lexc \
-			 stems/determiners.lexc \
 			 stems/interjections.lexc \
 			 stems/nouns.lexc \
 			 stems/quantifiers.lexc \
@@ -51,7 +50,6 @@ GT_XML_SRCS=\
 			 stems/adverbs.xml \
 			 stems/conjunctors.xml \
 			 stems/subjunctors.xml \
-			 stems/determiners.xml \
 			 stems/interjections.xml \
 			 stems/nouns.xml \
 			 stems/quantifiers.xml \

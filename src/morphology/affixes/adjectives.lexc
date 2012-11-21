@@ -2,6 +2,12 @@
 !! --------------------
 !! Udmurt (Votyak) adjectives compare.
 
+LEXICON no/adTag
+ NOUNSUF ;
+
+!! words with this contlex have not been examined
+LEXICON AdjTag
++Adj: K ;
 
 
 ! vim: set ft=xfst-lexc:
