@@ -2,6 +2,10 @@
 !! --------------------
 !! Udmurt (Votyak) adjectives compare.
 
+!! Words with this lexicon have not been evaluated yet
+LEXICON NTag
++N: # ;
+
 LEXICON NOUNSUF
 +N: NOUNSUF_01 ;
 

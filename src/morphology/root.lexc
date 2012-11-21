@@ -69,7 +69,7 @@ Multichar_Symbols
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
+ +Mal +Fem +Sur +Patr
  +Plc 
  +Org
  +Obj
@@ -120,5 +120,34 @@ LEXICON Root
    quantifiers    ;
    subjuntors	;
    verbs   ;
+
+!!! Undeveloped contlexes
+
+LEXICON DescrTag
++Descr: # ;
+
+LEXICON InterjTag
++Interj: # ;
+
+LEXICON PcleTag
++Pcle: # ;
+
+LEXICON PrcTag
++Prc: # ;
+
+LEXICON PoTag
++Po: # ;
+
+LEXICON PronTag
++Pron: # ;
+
+LEXICON NumTag
++Num: # ;
+
+LEXICON ConjTag
++Conj: # ;
+
+LEXICON K
+ # ;
 
 ! vim: set ft=xfst-lexc:

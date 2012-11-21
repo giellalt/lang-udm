@@ -2,4 +2,39 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+<e><lg><l>﻿а</l><stg><st Contlex="co/pa-CONTLEX">﻿а</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>агар</l><stg><st Contlex="ConjTag">агар</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>айкась</l><stg><st Contlex="ConjTag">айкась</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>али</l><stg><st Contlex="av/pa/co-CONTLEX">али</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>аль</l><stg><st Contlex="av/pa/co-CONTLEX">аль</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>бере</l><stg><st Contlex="po/co-CONTLEX">бере</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>будьто</l><stg><st Contlex="co/pa-CONTLEX">будьто</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>гинэ</l><stg><st Contlex="pa/co-CONTLEX">гинэ</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>да</l><stg><st Contlex="pa/co-CONTLEX">да</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>дыръя</l><stg><st Contlex="po/co-CONTLEX">дыръя</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>если</l><stg><st Contlex="ConjTag">если</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>ито</l><stg><st Contlex="ConjTag">ито</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>ке</l><stg><st Contlex="co/pa-CONTLEX">ке</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>кудъёс</l><stg><st Contlex="pr/co-CONTLEX">кудъёс</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>либо</l><stg><st Contlex="ConjTag">либо</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>макем</l><stg><st Contlex="av/co-CONTLEX">макем</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>маркем</l><stg><st Contlex="av/co-CONTLEX">маркем</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>не</l><stg><st Contlex="ConjTag">не</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>но</l><stg><st Contlex="co/in/pa-CONTLEX">но</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>ной</l><stg><st Contlex="ConjTag">ной</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>нош</l><stg><st Contlex="co/pa-CONTLEX">нош</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>однако</l><stg><st Contlex="ConjTag">однако</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>однако-однако</l><stg><st Contlex="in/co-CONTLEX">однако-однако</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>оло</l><stg><st Contlex="pa/co-CONTLEX">оло</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>понна</l><stg><st Contlex="po/co-CONTLEX">понна</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>раз</l><stg><st Contlex="ConjTag">раз</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>сокутэк</l><stg><st Contlex="ConjTag">сокутэк</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>только</l><stg><st Contlex="pa/co-CONTLEX">только</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>уго</l><stg><st Contlex="pa/co-CONTLEX">уго</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>шуыса</l><stg><st Contlex="ge/co-CONTLEX">шуыса</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>эсьма</l><stg><st Contlex="pa/co-CONTLEX">эсьма</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>эсьмаса</l><stg><st Contlex="pa/co-CONTLEX">эсьмаса</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>я</l><stg><st Contlex="pa/in/co-CONTLEX">я</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
+<e><lg><l>яке</l><stg><st Contlex="co/pa-CONTLEX">яке</st></stg></lg><pos>N</pos><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e>
 </r>
