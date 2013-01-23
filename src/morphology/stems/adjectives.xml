@@ -1287,7 +1287,7 @@
       <lg>
          <l>азинэс</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азинэс</st>
+            <st Contlex="av/adTag">азинэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1434,7 +1434,7 @@
       <lg>
          <l>азьвыл</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьвыл</st>
+            <st Contlex="av/adTag">азьвыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1476,7 +1476,7 @@
       <lg>
          <l>азьвылаз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">азьвылаз</st>
+            <st Contlex="ad/avTag">азьвылаз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1560,7 +1560,7 @@
       <lg>
          <l>азьла</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьла</st>
+            <st Contlex="av/adTag">азьла</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1581,7 +1581,7 @@
       <lg>
          <l>азьланес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьланес</st>
+            <st Contlex="av/adTag">азьланес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1602,7 +1602,7 @@
       <lg>
          <l>азьло</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьло</st>
+            <st Contlex="av/adTag">азьло</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1623,7 +1623,7 @@
       <lg>
          <l>азьло-берло</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьло-берло</st>
+            <st Contlex="av/adTag">азьло-берло</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1665,7 +1665,7 @@
       <lg>
          <l>азьлось</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">азьлось</st>
+            <st Contlex="ad/avTag">азьлось</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1686,7 +1686,7 @@
       <lg>
          <l>азьлояз</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьлояз</st>
+            <st Contlex="av/adTag">азьлояз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1707,7 +1707,7 @@
       <lg>
          <l>азь_ныр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">азь_ныр</st>
+            <st Contlex="ad/noTag">азь_ныр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1728,7 +1728,7 @@
       <lg>
          <l>азьпал</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">азьпал</st>
+            <st Contlex="ad/noTag">азьпал</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1749,7 +1749,7 @@
       <lg>
          <l>азьтэм</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">азьтэм</st>
+            <st Contlex="no/ad/avTag">азьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1770,7 +1770,7 @@
       <lg>
          <l>азьтэм-бертэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">азьтэм-бертэм</st>
+            <st Contlex="av/adTag">азьтэм-бертэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1812,7 +1812,7 @@
       <lg>
          <l>айбат</l>
          <stg>
-            <st Contlex="ad/av/pa-CONTLEX">айбат</st>
+            <st Contlex="ad/av/paTag">айбат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -1959,7 +1959,7 @@
       <lg>
          <l>акар</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">акар</st>
+            <st Contlex="ad/noTag">акар</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2085,7 +2085,7 @@
       <lg>
          <l>аклес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">аклес</st>
+            <st Contlex="ad/avTag">аклес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2127,7 +2127,7 @@
       <lg>
          <l>аксыз</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">аксыз</st>
+            <st Contlex="ad/noTag">аксыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2148,7 +2148,7 @@
       <lg>
          <l>аксым</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">аксым</st>
+            <st Contlex="ad/avTag">аксым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2274,7 +2274,7 @@
       <lg>
          <l>актык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">актык</st>
+            <st Contlex="ad/avTag">актык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2295,7 +2295,7 @@
       <lg>
          <l>актэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">актэм</st>
+            <st Contlex="ad/noTag">актэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2337,7 +2337,7 @@
       <lg>
          <l>акылес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">акылес</st>
+            <st Contlex="ad/avTag">акылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2358,7 +2358,7 @@
       <lg>
          <l>акыр</l>
          <stg>
-            <st Contlex="pa/ad-CONTLEX">акыр</st>
+            <st Contlex="pa/adTag">акыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2421,7 +2421,7 @@
       <lg>
          <l>алама</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">алама</st>
+            <st Contlex="ad/avTag">алама</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2505,7 +2505,7 @@
       <lg>
          <l>алдэто</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">алдэто</st>
+            <st Contlex="ad/avTag">алдэто</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2526,7 +2526,7 @@
       <lg>
          <l>алдэ-юлдэ</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">алдэ-юлдэ</st>
+            <st Contlex="ad/avTag">алдэ-юлдэ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2547,7 +2547,7 @@
       <lg>
          <l>алекчи</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">алекчи</st>
+            <st Contlex="ad/noTag">алекчи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2610,7 +2610,7 @@
       <lg>
          <l>аллак</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">аллак</st>
+            <st Contlex="av/adTag">аллак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2757,7 +2757,7 @@
       <lg>
          <l>аляк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">аляк</st>
+            <st Contlex="ad/avTag">аляк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2799,7 +2799,7 @@
       <lg>
          <l>амалак</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">амалак</st>
+            <st Contlex="av/adTag">амалак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2862,7 +2862,7 @@
       <lg>
          <l>амалтэмгес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">амалтэмгес</st>
+            <st Contlex="av/adTag">амалтэмгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -2946,7 +2946,7 @@
       <lg>
          <l>амсыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">амсыр</st>
+            <st Contlex="ad/avTag">амсыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -3639,7 +3639,7 @@
       <lg>
          <l>арвак-ерем</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">арвак-ерем</st>
+            <st Contlex="ad/noTag">арвак-ерем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -3954,7 +3954,7 @@
       <lg>
          <l>армем</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">армем</st>
+            <st Contlex="ad/noTag">армем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -3996,7 +3996,7 @@
       <lg>
          <l>арсыз</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">арсыз</st>
+            <st Contlex="ad/noTag">арсыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4122,7 +4122,7 @@
       <lg>
          <l>артык</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">артык</st>
+            <st Contlex="ad/noTag">артык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4143,7 +4143,7 @@
       <lg>
          <l>артысь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">артысь</st>
+            <st Contlex="ad/avTag">артысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4395,7 +4395,7 @@
       <lg>
          <l>аску</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">аску</st>
+            <st Contlex="av/adTag">аску</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4479,7 +4479,7 @@
       <lg>
          <l>аспӧртэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">аспӧртэм</st>
+            <st Contlex="ad/avTag">аспӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4815,7 +4815,7 @@
       <lg>
          <l>аулак</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">аулак</st>
+            <st Contlex="ad/avTag">аулак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4857,7 +4857,7 @@
       <lg>
          <l>ашакы</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ашакы</st>
+            <st Contlex="av/adTag">ашакы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4878,7 +4878,7 @@
       <lg>
          <l>ашо</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ашо</st>
+            <st Contlex="ad/noTag">ашо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -4899,7 +4899,7 @@
       <lg>
          <l>аштэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">аштэм</st>
+            <st Contlex="av/adTag">аштэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -5088,7 +5088,7 @@
       <lg>
          <l>бадӟым</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бадӟым</st>
+            <st Contlex="ad/avTag">бадӟым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -5151,7 +5151,7 @@
       <lg>
          <l>бадӟын</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бадӟын</st>
+            <st Contlex="ad/avTag">бадӟын</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6054,7 +6054,7 @@
       <lg>
          <l>басыл</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">басыл</st>
+            <st Contlex="av/adTag">басыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6117,7 +6117,7 @@
       <lg>
          <l>батыр</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">батыр</st>
+            <st Contlex="no/ad/avTag">батыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6453,7 +6453,7 @@
       <lg>
          <l>безработной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">безработной</st>
+            <st Contlex="ad/noTag">безработной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6516,7 +6516,7 @@
       <lg>
          <l>безэг</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">безэг</st>
+            <st Contlex="ad/noTag">безэг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6558,7 +6558,7 @@
       <lg>
          <l>бекрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бекрес</st>
+            <st Contlex="ad/avTag">бекрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6600,7 +6600,7 @@
       <lg>
          <l>бекырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бекырес</st>
+            <st Contlex="ad/avTag">бекырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6726,7 +6726,7 @@
       <lg>
          <l>бельтэк</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">бельтэк</st>
+            <st Contlex="no/ad/avTag">бельтэк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6789,7 +6789,7 @@
       <lg>
          <l>бервылтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бервылтэм</st>
+            <st Contlex="ad/avTag">бервылтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6810,7 +6810,7 @@
       <lg>
          <l>берекето</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">берекето</st>
+            <st Contlex="ad/avTag">берекето</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6852,7 +6852,7 @@
       <lg>
          <l>беренэс</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">беренэс</st>
+            <st Contlex="ad/av/noTag">беренэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6936,7 +6936,7 @@
       <lg>
          <l>беркес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">беркес</st>
+            <st Contlex="ad/avTag">беркес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6978,7 +6978,7 @@
       <lg>
          <l>берланес</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">берланес</st>
+            <st Contlex="ad/av/noTag">берланес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -6999,7 +6999,7 @@
       <lg>
          <l>берло</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">берло</st>
+            <st Contlex="av/adTag">берло</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7020,7 +7020,7 @@
       <lg>
          <l>берло-азьло</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">берло-азьло</st>
+            <st Contlex="av/adTag">берло-азьло</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7104,7 +7104,7 @@
       <lg>
          <l>берлось</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">берлось</st>
+            <st Contlex="ad/avTag">берлось</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7188,7 +7188,7 @@
       <lg>
          <l>бертэм-азьтэм</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">бертэм-азьтэм</st>
+            <st Contlex="av/ad/noTag">бертэм-азьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7272,7 +7272,7 @@
       <lg>
          <l>беспӧртэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">беспӧртэм</st>
+            <st Contlex="av/adTag">беспӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7524,7 +7524,7 @@
       <lg>
          <l>бидырко</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">бидырко</st>
+            <st Contlex="ad/noTag">бидырко</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7692,7 +7692,7 @@
       <lg>
          <l>бичура</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">бичура</st>
+            <st Contlex="ad/av/noTag">бичура</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7797,7 +7797,7 @@
       <lg>
          <l>блама</l>
          <stg>
-            <st Contlex="ad/no/av-CONTLEX">блама</st>
+            <st Contlex="ad/no/avTag">блама</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -7902,7 +7902,7 @@
       <lg>
          <l>бозгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бозгес</st>
+            <st Contlex="ad/avTag">бозгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8007,7 +8007,7 @@
       <lg>
          <l>больничной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">больничной</st>
+            <st Contlex="ad/noTag">больничной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8553,7 +8553,7 @@
       <lg>
          <l>будӟым</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">будӟым</st>
+            <st Contlex="ad/avTag">будӟым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8700,7 +8700,7 @@
       <lg>
          <l>букос</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">букос</st>
+            <st Contlex="ad/noTag">букос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8763,7 +8763,7 @@
       <lg>
          <l>бултанчи</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">бултанчи</st>
+            <st Contlex="ad/noTag">бултанчи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8826,7 +8826,7 @@
       <lg>
          <l>бур</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">бур</st>
+            <st Contlex="ad/av/noTag">бур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8847,7 +8847,7 @@
       <lg>
          <l>бурдо</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">бурдо</st>
+            <st Contlex="ad/noTag">бурдо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8931,7 +8931,7 @@
       <lg>
          <l>буржык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">буржык</st>
+            <st Contlex="ad/avTag">буржык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -8994,7 +8994,7 @@
       <lg>
          <l>бурпал</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">бурпал</st>
+            <st Contlex="ad/noTag">бурпал</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9183,7 +9183,7 @@
       <lg>
          <l>бусмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">бусмыт</st>
+            <st Contlex="ad/avTag">бусмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9456,7 +9456,7 @@
       <lg>
          <l>быдӟи</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">быдӟи</st>
+            <st Contlex="ad/avTag">быдӟи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9477,7 +9477,7 @@
       <lg>
          <l>быдӟым</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">быдӟым</st>
+            <st Contlex="ad/avTag">быдӟым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9498,7 +9498,7 @@
       <lg>
          <l>быдыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">быдыр</st>
+            <st Contlex="ad/noTag">быдыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9603,7 +9603,7 @@
       <lg>
          <l>бызыкай</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">бызыкай</st>
+            <st Contlex="ad/noTag">бызыкай</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9666,7 +9666,7 @@
       <lg>
          <l>бык</l>
          <stg>
-            <st Contlex="no/ad/pa-CONTLEX">бык</st>
+            <st Contlex="no/ad/paTag">бык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -9687,7 +9687,7 @@
       <lg>
          <l>былама</l>
          <stg>
-            <st Contlex="ad/no/av-CONTLEX">былама</st>
+            <st Contlex="ad/no/avTag">былама</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10023,7 +10023,7 @@
       <lg>
          <l>вазь</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">вазь</st>
+            <st Contlex="av/ad/noTag">вазь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10044,7 +10044,7 @@
       <lg>
          <l>вайгес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">вайгес</st>
+            <st Contlex="ad/noTag">вайгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10128,7 +10128,7 @@
       <lg>
          <l>вакчигес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вакчигес</st>
+            <st Contlex="ad/avTag">вакчигес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10212,7 +10212,7 @@
       <lg>
          <l>валег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">валег</st>
+            <st Contlex="ad/avTag">валег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10296,7 +10296,7 @@
       <lg>
          <l>валлё</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">валлё</st>
+            <st Contlex="ad/avTag">валлё</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10317,7 +10317,7 @@
       <lg>
          <l>валля</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">валля</st>
+            <st Contlex="ad/avTag">валля</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10359,7 +10359,7 @@
       <lg>
          <l>валлян</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">валлян</st>
+            <st Contlex="av/adTag">валлян</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10443,7 +10443,7 @@
       <lg>
          <l>валтэм</l>
          <stg>
-            <st Contlex="ad/pc/no-CONTLEX">валтэм</st>
+            <st Contlex="ad/pc/noTag">валтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10527,7 +10527,7 @@
       <lg>
          <l>вамат</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вамат</st>
+            <st Contlex="ad/avTag">вамат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10758,7 +10758,7 @@
       <lg>
          <l>варгас</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">варгас</st>
+            <st Contlex="ad/noTag">варгас</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -10989,7 +10989,7 @@
       <lg>
          <l>везег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">везег</st>
+            <st Contlex="ad/avTag">везег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11031,7 +11031,7 @@
       <lg>
          <l>векчигес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">векчигес</st>
+            <st Contlex="ad/avTag">векчигес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11388,7 +11388,7 @@
       <lg>
          <l>весь_весь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">весь_весь</st>
+            <st Contlex="ad/avTag">весь_весь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11409,7 +11409,7 @@
       <lg>
          <l>веськрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">веськрес</st>
+            <st Contlex="ad/avTag">веськрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11430,7 +11430,7 @@
       <lg>
          <l>веськырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">веськырес</st>
+            <st Contlex="ad/avTag">веськырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11451,7 +11451,7 @@
       <lg>
          <l>веськыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">веськыт</st>
+            <st Contlex="ad/avTag">веськыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11661,7 +11661,7 @@
       <lg>
          <l>визьнодтэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">визьнодтэм</st>
+            <st Contlex="ad/noTag">визьнодтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11682,7 +11682,7 @@
       <lg>
          <l>визьтэм</l>
          <stg>
-            <st Contlex="ad/no/av-CONTLEX">визьтэм</st>
+            <st Contlex="ad/no/avTag">визьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11829,7 +11829,7 @@
       <lg>
          <l>виноват</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">виноват</st>
+            <st Contlex="ad/noTag">виноват</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11934,7 +11934,7 @@
       <lg>
          <l>виро</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">виро</st>
+            <st Contlex="ad/noTag">виро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -11955,7 +11955,7 @@
       <lg>
          <l>вирсэрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вирсэрес</st>
+            <st Contlex="ad/avTag">вирсэрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12123,7 +12123,7 @@
       <lg>
          <l>вистэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">вистэм</st>
+            <st Contlex="av/adTag">вистэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12543,7 +12543,7 @@
       <lg>
          <l>вог</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">вог</st>
+            <st Contlex="ad/noTag">вог</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12564,7 +12564,7 @@
       <lg>
          <l>воггес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">воггес</st>
+            <st Contlex="ad/avTag">воггес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12732,7 +12732,7 @@
       <lg>
          <l>военнообязанной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">военнообязанной</st>
+            <st Contlex="ad/noTag">военнообязанной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12774,7 +12774,7 @@
       <lg>
          <l>вож</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">вож</st>
+            <st Contlex="ad/noTag">вож</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -12795,7 +12795,7 @@
       <lg>
          <l>вожак</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">вожак</st>
+            <st Contlex="av/adTag">вожак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -13320,7 +13320,7 @@
       <lg>
          <l>волег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">волег</st>
+            <st Contlex="ad/avTag">волег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -13425,7 +13425,7 @@
       <lg>
          <l>вольыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вольыт</st>
+            <st Contlex="ad/avTag">вольыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -13530,7 +13530,7 @@
       <lg>
          <l>ворезьтэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ворезьтэм</st>
+            <st Contlex="ad/noTag">ворезьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -13614,7 +13614,7 @@
       <lg>
          <l>вормостэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">вормостэм</st>
+            <st Contlex="pc/adTag">вормостэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -13992,7 +13992,7 @@
       <lg>
          <l>вӧл</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вӧл</st>
+            <st Contlex="ad/avTag">вӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14013,7 +14013,7 @@
       <lg>
          <l>вӧл-вӧл</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вӧл-вӧл</st>
+            <st Contlex="ad/avTag">вӧл-вӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14076,7 +14076,7 @@
       <lg>
          <l>вӧлмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вӧлмыт</st>
+            <st Contlex="ad/avTag">вӧлмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14097,7 +14097,7 @@
       <lg>
          <l>вӧлыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вӧлыт</st>
+            <st Contlex="ad/avTag">вӧлыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14118,7 +14118,7 @@
       <lg>
          <l>вӧт-вӧт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">вӧт-вӧт</st>
+            <st Contlex="av/adTag">вӧт-вӧт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14412,7 +14412,7 @@
       <lg>
          <l>вуж</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">вуж</st>
+            <st Contlex="ad/noTag">вуж</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14643,7 +14643,7 @@
       <lg>
          <l>вунэт</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">вунэт</st>
+            <st Contlex="ad/noTag">вунэт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14916,7 +14916,7 @@
       <lg>
          <l>вылӥ</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">вылӥ</st>
+            <st Contlex="ad/avTag">вылӥ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -15042,7 +15042,7 @@
       <lg>
          <l>вылӥысь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">вылӥысь</st>
+            <st Contlex="av/adTag">вылӥысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -15084,7 +15084,7 @@
       <lg>
          <l>выль</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">выль</st>
+            <st Contlex="ad/noTag">выль</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -16659,7 +16659,7 @@
       <lg>
          <l>гиӟо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гиӟо</st>
+            <st Contlex="ad/avTag">гиӟо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -16680,7 +16680,7 @@
       <lg>
          <l>гиӟырес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">гиӟырес</st>
+            <st Contlex="av/adTag">гиӟырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -16974,7 +16974,7 @@
       <lg>
          <l>голькыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">голькыт</st>
+            <st Contlex="ad/avTag">голькыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -16995,7 +16995,7 @@
       <lg>
          <l>гольтрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гольтрес</st>
+            <st Contlex="ad/avTag">гольтрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17016,7 +17016,7 @@
       <lg>
          <l>гольтырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гольтырес</st>
+            <st Contlex="ad/avTag">гольтырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17037,7 +17037,7 @@
       <lg>
          <l>гольык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гольык</st>
+            <st Contlex="ad/avTag">гольык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17058,7 +17058,7 @@
       <lg>
          <l>гольык_йыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гольык_йыр</st>
+            <st Contlex="ad/avTag">гольык_йыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17079,7 +17079,7 @@
       <lg>
          <l>гольык_пыд</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">гольык_пыд</st>
+            <st Contlex="av/adTag">гольык_пыд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17163,7 +17163,7 @@
       <lg>
          <l>гонӟыро</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">гонӟыро</st>
+            <st Contlex="av/adTag">гонӟыро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -17415,7 +17415,7 @@
       <lg>
          <l>гордань</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">гордань</st>
+            <st Contlex="ad/noTag">гордань</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18360,7 +18360,7 @@
       <lg>
          <l>губырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">губырес</st>
+            <st Contlex="ad/avTag">губырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18444,7 +18444,7 @@
       <lg>
          <l>гужем</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">гужем</st>
+            <st Contlex="av/ad/noTag">гужем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18570,7 +18570,7 @@
       <lg>
          <l>гумырлы</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гумырлы</st>
+            <st Contlex="ad/avTag">гумырлы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18591,7 +18591,7 @@
       <lg>
          <l>гунгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гунгес</st>
+            <st Contlex="ad/avTag">гунгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18612,7 +18612,7 @@
       <lg>
          <l>гуньгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гуньгес</st>
+            <st Contlex="ad/avTag">гуньгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18654,7 +18654,7 @@
       <lg>
          <l>гургес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гургес</st>
+            <st Contlex="ad/avTag">гургес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18927,7 +18927,7 @@
       <lg>
          <l>гызмылес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">гызмылес</st>
+            <st Contlex="ad/noTag">гызмылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18948,7 +18948,7 @@
       <lg>
          <l>гызы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">гызы</st>
+            <st Contlex="ad/noTag">гызы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18969,7 +18969,7 @@
       <lg>
          <l>гызылес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">гызылес</st>
+            <st Contlex="ad/noTag">гызылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -18990,7 +18990,7 @@
       <lg>
          <l>гылак</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гылак</st>
+            <st Contlex="ad/avTag">гылак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -19032,7 +19032,7 @@
       <lg>
          <l>гылыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">гылыт</st>
+            <st Contlex="ad/avTag">гылыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -19053,7 +19053,7 @@
       <lg>
          <l>гыль</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">гыль</st>
+            <st Contlex="no/ad/avTag">гыль</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -19095,7 +19095,7 @@
       <lg>
          <l>гынйыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">гынйыр</st>
+            <st Contlex="ad/noTag">гынйыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -19410,7 +19410,7 @@
       <lg>
          <l>дари</l>
          <stg>
-            <st Contlex="no/ad/pa-CONTLEX">дари</st>
+            <st Contlex="no/ad/paTag">дари</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -19515,7 +19515,7 @@
       <lg>
          <l>дась</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">дась</st>
+            <st Contlex="av/adTag">дась</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20334,7 +20334,7 @@
       <lg>
          <l>дипломной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">дипломной</st>
+            <st Contlex="ad/noTag">дипломной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20397,7 +20397,7 @@
       <lg>
          <l>диспетчерской</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">диспетчерской</st>
+            <st Contlex="ad/noTag">диспетчерской</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20544,7 +20544,7 @@
       <lg>
          <l>дӥргес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дӥргес</st>
+            <st Contlex="ad/avTag">дӥргес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20796,7 +20796,7 @@
       <lg>
          <l>дозорной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">дозорной</st>
+            <st Contlex="ad/noTag">дозорной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20859,7 +20859,7 @@
       <lg>
          <l>дол</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дол</st>
+            <st Contlex="ad/avTag">дол</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20880,7 +20880,7 @@
       <lg>
          <l>дол-дол</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дол-дол</st>
+            <st Contlex="ad/avTag">дол-дол</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -20943,7 +20943,7 @@
       <lg>
          <l>долыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">долыт</st>
+            <st Contlex="ad/avTag">долыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21384,7 +21384,7 @@
       <lg>
          <l>дунгыс</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">дунгыс</st>
+            <st Contlex="ad/noTag">дунгыс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21405,7 +21405,7 @@
       <lg>
          <l>дун-дун</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">дун-дун</st>
+            <st Contlex="av/adTag">дун-дун</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21426,7 +21426,7 @@
       <lg>
          <l>дуно</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дуно</st>
+            <st Contlex="ad/avTag">дуно</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21489,7 +21489,7 @@
       <lg>
          <l>дунтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дунтэм</st>
+            <st Contlex="ad/avTag">дунтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21720,7 +21720,7 @@
       <lg>
          <l>дурыс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дурыс</st>
+            <st Contlex="ad/avTag">дурыс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21867,7 +21867,7 @@
       <lg>
          <l>дыг</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">дыг</st>
+            <st Contlex="av/adTag">дыг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -21888,7 +21888,7 @@
       <lg>
          <l>дыго-мого</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дыго-мого</st>
+            <st Contlex="ad/avTag">дыго-мого</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22014,7 +22014,7 @@
       <lg>
          <l>дымак_шонер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дымак_шонер</st>
+            <st Contlex="ad/avTag">дымак_шонер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22098,7 +22098,7 @@
       <lg>
          <l>дынгырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">дынгырес</st>
+            <st Contlex="ad/avTag">дынгырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22140,7 +22140,7 @@
       <lg>
          <l>дышмем</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">дышмем</st>
+            <st Contlex="pc/adTag">дышмем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22224,7 +22224,7 @@
       <lg>
          <l>дэймыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">дэймыт</st>
+            <st Contlex="av/adTag">дэймыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22245,7 +22245,7 @@
       <lg>
          <l>дэлетлы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">дэлетлы</st>
+            <st Contlex="ad/noTag">дэлетлы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22287,7 +22287,7 @@
       <lg>
          <l>дэмен</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">дэмен</st>
+            <st Contlex="av/adTag">дэмен</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22497,7 +22497,7 @@
       <lg>
          <l>егит</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">егит</st>
+            <st Contlex="ad/noTag">егит</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -22770,7 +22770,7 @@
       <lg>
          <l>етӥз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">етӥз</st>
+            <st Contlex="ad/avTag">етӥз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23043,7 +23043,7 @@
       <lg>
          <l>ёрег</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">ёрег</st>
+            <st Contlex="av/ad/noTag">ёрег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23064,7 +23064,7 @@
       <lg>
          <l>ёркыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ёркыт</st>
+            <st Contlex="av/adTag">ёркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23148,7 +23148,7 @@
       <lg>
          <l>ёрыг</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ёрыг</st>
+            <st Contlex="av/adTag">ёрыг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23316,7 +23316,7 @@
       <lg>
          <l>жалем</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">жалем</st>
+            <st Contlex="pc/adTag">жалем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23337,7 +23337,7 @@
       <lg>
          <l>жаль</l>
          <stg>
-            <st Contlex="av/ad/no/de-CONTLEX">жаль</st>
+            <st Contlex="av/ad/no/deTag">жаль</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23568,7 +23568,7 @@
       <lg>
          <l>животной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">животной</st>
+            <st Contlex="ad/noTag">животной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23673,7 +23673,7 @@
       <lg>
          <l>жингрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">жингрес</st>
+            <st Contlex="ad/avTag">жингрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23694,7 +23694,7 @@
       <lg>
          <l>жингырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">жингырес</st>
+            <st Contlex="ad/avTag">жингырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23736,7 +23736,7 @@
       <lg>
          <l>жоб</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">жоб</st>
+            <st Contlex="ad/av/noTag">жоб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23904,7 +23904,7 @@
       <lg>
          <l>жӧл</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">жӧл</st>
+            <st Contlex="ad/avTag">жӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -23925,7 +23925,7 @@
       <lg>
          <l>жӧл-жӧл</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">жӧл-жӧл</st>
+            <st Contlex="ad/avTag">жӧл-жӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24072,7 +24072,7 @@
       <lg>
          <l>жыгыляк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">жыгыляк</st>
+            <st Contlex="ad/avTag">жыгыляк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24135,7 +24135,7 @@
       <lg>
          <l>ӝабрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝабрес</st>
+            <st Contlex="ad/avTag">ӝабрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24156,7 +24156,7 @@
       <lg>
          <l>ӝабырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝабырес</st>
+            <st Contlex="ad/avTag">ӝабырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24198,7 +24198,7 @@
       <lg>
          <l>ӝакыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝакыт</st>
+            <st Contlex="ad/avTag">ӝакыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24219,7 +24219,7 @@
       <lg>
          <l>ӝамрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝамрес</st>
+            <st Contlex="ad/avTag">ӝамрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24240,7 +24240,7 @@
       <lg>
          <l>ӝамырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝамырес</st>
+            <st Contlex="ad/avTag">ӝамырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24261,7 +24261,7 @@
       <lg>
          <l>ӝег</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӝег</st>
+            <st Contlex="av/adTag">ӝег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24282,7 +24282,7 @@
       <lg>
          <l>ӝегыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝегыт</st>
+            <st Contlex="ad/avTag">ӝегыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24303,7 +24303,7 @@
       <lg>
          <l>ӝикыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝикыт</st>
+            <st Contlex="ad/avTag">ӝикыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24345,7 +24345,7 @@
       <lg>
          <l>ӝип-ӝип</l>
          <stg>
-            <st Contlex="de/ad-CONTLEX">ӝип-ӝип</st>
+            <st Contlex="de/adTag">ӝип-ӝип</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24534,7 +24534,7 @@
       <lg>
          <l>ӝокыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">ӝокыт</st>
+            <st Contlex="ad/av/noTag">ӝокыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24576,7 +24576,7 @@
       <lg>
          <l>ӝомыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">ӝомыт</st>
+            <st Contlex="ad/av/noTag">ӝомыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24660,7 +24660,7 @@
       <lg>
          <l>ӝубис</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ӝубис</st>
+            <st Contlex="ad/noTag">ӝубис</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24681,7 +24681,7 @@
       <lg>
          <l>ӝуё</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ӝуё</st>
+            <st Contlex="ad/noTag">ӝуё</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24702,7 +24702,7 @@
       <lg>
          <l>ӝужыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝужыт</st>
+            <st Contlex="ad/avTag">ӝужыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24828,7 +24828,7 @@
       <lg>
          <l>ӝукырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӝукырес</st>
+            <st Contlex="ad/avTag">ӝукырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -24912,7 +24912,7 @@
       <lg>
          <l>ӝушмекей</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ӝушмекей</st>
+            <st Contlex="ad/noTag">ӝушмекей</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -25101,7 +25101,7 @@
       <lg>
          <l>ӝыт</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">ӝыт</st>
+            <st Contlex="no/ad/avTag">ӝыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -25122,7 +25122,7 @@
       <lg>
          <l>ӝытазе</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӝытазе</st>
+            <st Contlex="av/adTag">ӝытазе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -25290,7 +25290,7 @@
       <lg>
          <l>задор</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">задор</st>
+            <st Contlex="ad/avTag">задор</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -25605,7 +25605,7 @@
       <lg>
          <l>зангари</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">зангари</st>
+            <st Contlex="ad/noTag">зангари</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26004,7 +26004,7 @@
       <lg>
          <l>звеньевой</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">звеньевой</st>
+            <st Contlex="ad/noTag">звеньевой</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26151,7 +26151,7 @@
       <lg>
          <l>зӥб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зӥб</st>
+            <st Contlex="ad/avTag">зӥб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26172,7 +26172,7 @@
       <lg>
          <l>зӥб-зӥб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зӥб-зӥб</st>
+            <st Contlex="ad/avTag">зӥб-зӥб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26193,7 +26193,7 @@
       <lg>
          <l>зӥбыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зӥбыт</st>
+            <st Contlex="ad/avTag">зӥбыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26361,7 +26361,7 @@
       <lg>
          <l>зол</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зол</st>
+            <st Contlex="ad/avTag">зол</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26382,7 +26382,7 @@
       <lg>
          <l>зол-зол</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зол-зол</st>
+            <st Contlex="ad/avTag">зол-зол</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26571,7 +26571,7 @@
       <lg>
          <l>зӧк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зӧк</st>
+            <st Contlex="ad/avTag">зӧк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26739,7 +26739,7 @@
       <lg>
          <l>зубрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зубрес</st>
+            <st Contlex="ad/avTag">зубрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26760,7 +26760,7 @@
       <lg>
          <l>зубыр</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">зубыр</st>
+            <st Contlex="av/adTag">зубыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26823,7 +26823,7 @@
       <lg>
          <l>зугрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зугрес</st>
+            <st Contlex="ad/avTag">зугрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26844,7 +26844,7 @@
       <lg>
          <l>зугырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зугырес</st>
+            <st Contlex="ad/avTag">зугырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -26991,7 +26991,7 @@
       <lg>
          <l>зын</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">зын</st>
+            <st Contlex="no/ad/avTag">зын</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27096,7 +27096,7 @@
       <lg>
          <l>зэм</l>
          <stg>
-            <st Contlex="no/ad/av/pa-CONTLEX">зэм</st>
+            <st Contlex="no/ad/av/paTag">зэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27138,7 +27138,7 @@
       <lg>
          <l>зэмос</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">зэмос</st>
+            <st Contlex="ad/avTag">зэмос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27579,7 +27579,7 @@
       <lg>
          <l>ӟеч</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟеч</st>
+            <st Contlex="ad/avTag">ӟеч</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27600,7 +27600,7 @@
       <lg>
          <l>ӟечгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟечгес</st>
+            <st Contlex="ad/avTag">ӟечгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27621,7 +27621,7 @@
       <lg>
          <l>ӟечесь</l>
          <stg>
-            <st Contlex="pa/ad-CONTLEX">ӟечесь</st>
+            <st Contlex="pa/adTag">ӟечесь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27705,7 +27705,7 @@
       <lg>
          <l>ӟечо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟечо</st>
+            <st Contlex="ad/avTag">ӟечо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27726,7 +27726,7 @@
       <lg>
          <l>ӟиг</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟиг</st>
+            <st Contlex="ad/avTag">ӟиг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27810,7 +27810,7 @@
       <lg>
          <l>ӟиго</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟиго</st>
+            <st Contlex="ad/avTag">ӟиго</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27831,7 +27831,7 @@
       <lg>
          <l>ӟиго-ӟиго</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟиго-ӟиго</st>
+            <st Contlex="ad/avTag">ӟиго-ӟиго</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27873,7 +27873,7 @@
       <lg>
          <l>ӟимырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟимырес</st>
+            <st Contlex="ad/avTag">ӟимырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27894,7 +27894,7 @@
       <lg>
          <l>ӟиркыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟиркыт</st>
+            <st Contlex="ad/avTag">ӟиркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27978,7 +27978,7 @@
       <lg>
          <l>ӟос</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟос</st>
+            <st Contlex="ad/avTag">ӟос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -27999,7 +27999,7 @@
       <lg>
          <l>ӟосгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟосгес</st>
+            <st Contlex="ad/avTag">ӟосгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28020,7 +28020,7 @@
       <lg>
          <l>ӟос-ӟос</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟос-ӟос</st>
+            <st Contlex="ad/avTag">ӟос-ӟос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28041,7 +28041,7 @@
       <lg>
          <l>ӟоскыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟоскыт</st>
+            <st Contlex="ad/avTag">ӟоскыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28062,7 +28062,7 @@
       <lg>
          <l>ӟубис</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ӟубис</st>
+            <st Contlex="ad/noTag">ӟубис</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28335,7 +28335,7 @@
       <lg>
          <l>ӟырдыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟырдыт</st>
+            <st Contlex="ad/avTag">ӟырдыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28356,7 +28356,7 @@
       <lg>
          <l>ӟырт-ӟырт_кезьыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӟырт-ӟырт_кезьыт</st>
+            <st Contlex="ad/avTag">ӟырт-ӟырт_кезьыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29217,7 +29217,7 @@
       <lg>
          <l>инок</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">инок</st>
+            <st Contlex="ad/avTag">инок</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29511,7 +29511,7 @@
       <lg>
          <l>исамес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">исамес</st>
+            <st Contlex="av/adTag">исамес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29532,7 +29532,7 @@
       <lg>
          <l>исамес-серемес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">исамес-серемес</st>
+            <st Contlex="av/adTag">исамес-серемес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29742,7 +29742,7 @@
       <lg>
          <l>исьмег</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">исьмег</st>
+            <st Contlex="ad/noTag">исьмег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29889,7 +29889,7 @@
       <lg>
          <l>ичигес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ичигес</st>
+            <st Contlex="ad/avTag">ичигес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -29910,7 +29910,7 @@
       <lg>
          <l>ишкал-машкал</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ишкал-машкал</st>
+            <st Contlex="av/adTag">ишкал-машкал</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30225,7 +30225,7 @@
       <lg>
          <l>йӧн</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">йӧн</st>
+            <st Contlex="no/ad/avTag">йӧн</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30246,7 +30246,7 @@
       <lg>
          <l>йӧнлы</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">йӧнлы</st>
+            <st Contlex="ad/avTag">йӧнлы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30351,7 +30351,7 @@
       <lg>
          <l>йӧнтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">йӧнтэм</st>
+            <st Contlex="ad/avTag">йӧнтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30372,7 +30372,7 @@
       <lg>
          <l>йӧс</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">йӧс</st>
+            <st Contlex="ad/noTag">йӧс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30393,7 +30393,7 @@
       <lg>
          <l>йӧскадь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">йӧскадь</st>
+            <st Contlex="av/adTag">йӧскадь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30435,7 +30435,7 @@
       <lg>
          <l>йӧспӧртэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">йӧспӧртэм</st>
+            <st Contlex="av/adTag">йӧспӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30498,7 +30498,7 @@
       <lg>
          <l>йыгмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">йыгмыт</st>
+            <st Contlex="ad/avTag">йыгмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30750,7 +30750,7 @@
       <lg>
          <l>йырвизьтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">йырвизьтэм</st>
+            <st Contlex="ad/avTag">йырвизьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30834,7 +30834,7 @@
       <lg>
          <l>йырголик</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">йырголик</st>
+            <st Contlex="av/adTag">йырголик</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -30918,7 +30918,7 @@
       <lg>
          <l>йырполэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">йырполэс</st>
+            <st Contlex="ad/avTag">йырполэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -31464,7 +31464,7 @@
       <lg>
          <l>кайла</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кайла</st>
+            <st Contlex="ad/noTag">кайла</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -31695,7 +31695,7 @@
       <lg>
          <l>калгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">калгес</st>
+            <st Contlex="ad/avTag">калгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32157,7 +32157,7 @@
       <lg>
          <l>каньыл</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">каньыл</st>
+            <st Contlex="av/adTag">каньыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32178,7 +32178,7 @@
       <lg>
          <l>каньылгем</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">каньылгем</st>
+            <st Contlex="ad/avTag">каньылгем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32199,7 +32199,7 @@
       <lg>
          <l>каньылгес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">каньылгес</st>
+            <st Contlex="av/adTag">каньылгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32220,7 +32220,7 @@
       <lg>
          <l>каньылмем</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">каньылмем</st>
+            <st Contlex="pc/adTag">каньылмем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32241,7 +32241,7 @@
       <lg>
          <l>каньылмытэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">каньылмытэм</st>
+            <st Contlex="pc/adTag">каньылмытэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32346,7 +32346,7 @@
       <lg>
          <l>капчи</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">капчи</st>
+            <st Contlex="ad/avTag">капчи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -32388,7 +32388,7 @@
       <lg>
          <l>капчигес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">капчигес</st>
+            <st Contlex="ad/avTag">капчигес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33375,7 +33375,7 @@
       <lg>
          <l>катар</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">катар</st>
+            <st Contlex="ad/noTag">катар</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33480,7 +33480,7 @@
       <lg>
          <l>катьвитэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">катьвитэм</st>
+            <st Contlex="ad/noTag">катьвитэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33522,7 +33522,7 @@
       <lg>
          <l>катьтэм-витэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">катьтэм-витэм</st>
+            <st Contlex="ad/noTag">катьтэм-витэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33543,7 +33543,7 @@
       <lg>
          <l>катэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">катэм</st>
+            <st Contlex="pc/adTag">катэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33879,7 +33879,7 @@
       <lg>
          <l>кежег</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">кежег</st>
+            <st Contlex="ad/av/noTag">кежег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33921,7 +33921,7 @@
       <lg>
          <l>кезьыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">кезьыт</st>
+            <st Contlex="ad/av/noTag">кезьыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -33942,7 +33942,7 @@
       <lg>
          <l>кезьытгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кезьытгес</st>
+            <st Contlex="ad/avTag">кезьытгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34026,7 +34026,7 @@
       <lg>
          <l>кекыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кекыт</st>
+            <st Contlex="ad/avTag">кекыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34215,7 +34215,7 @@
       <lg>
          <l>кемтэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кемтэм</st>
+            <st Contlex="av/adTag">кемтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34236,7 +34236,7 @@
       <lg>
          <l>кемтэм_зӧк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кемтэм_зӧк</st>
+            <st Contlex="ad/avTag">кемтэм_зӧк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34257,7 +34257,7 @@
       <lg>
          <l>кемыз</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кемыз</st>
+            <st Contlex="av/adTag">кемыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34572,7 +34572,7 @@
       <lg>
          <l>кепырйыл</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кепырйыл</st>
+            <st Contlex="av/adTag">кепырйыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34614,7 +34614,7 @@
       <lg>
          <l>керек</l>
          <stg>
-            <st Contlex="pa/ad-CONTLEX">керек</st>
+            <st Contlex="pa/adTag">керек</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34656,7 +34656,7 @@
       <lg>
          <l>керет</l>
          <stg>
-            <st Contlex="pa/ad-CONTLEX">керет</st>
+            <st Contlex="pa/adTag">керет</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34719,7 +34719,7 @@
       <lg>
          <l>керы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">керы</st>
+            <st Contlex="ad/noTag">керы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34740,7 +34740,7 @@
       <lg>
          <l>кеска</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кеска</st>
+            <st Contlex="ad/noTag">кеска</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34782,7 +34782,7 @@
       <lg>
          <l>кескич</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">кескич</st>
+            <st Contlex="ad/av/noTag">кескич</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34824,7 +34824,7 @@
       <lg>
          <l>кесэго</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кесэго</st>
+            <st Contlex="ad/avTag">кесэго</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34845,7 +34845,7 @@
       <lg>
          <l>кесэго-кесэго</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кесэго-кесэго</st>
+            <st Contlex="ad/avTag">кесэго-кесэго</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34908,7 +34908,7 @@
       <lg>
          <l>кечат</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кечат</st>
+            <st Contlex="av/adTag">кечат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34929,7 +34929,7 @@
       <lg>
          <l>кечат-вамат</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кечат-вамат</st>
+            <st Contlex="ad/avTag">кечат-вамат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34950,7 +34950,7 @@
       <lg>
          <l>кечат-кечат</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кечат-кечат</st>
+            <st Contlex="av/adTag">кечат-кечат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -35034,7 +35034,7 @@
       <lg>
          <l>кечето-кечето</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кечето-кечето</st>
+            <st Contlex="ad/avTag">кечето-кечето</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -35244,7 +35244,7 @@
       <lg>
          <l>кизер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кизер</st>
+            <st Contlex="ad/avTag">кизер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -35643,7 +35643,7 @@
       <lg>
          <l>кипырмес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кипырмес</st>
+            <st Contlex="ad/avTag">кипырмес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -36168,7 +36168,7 @@
       <lg>
          <l>классной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">классной</st>
+            <st Contlex="ad/noTag">классной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -36882,7 +36882,7 @@
       <lg>
          <l>командировочной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">командировочной</st>
+            <st Contlex="ad/noTag">командировочной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -37680,7 +37680,7 @@
       <lg>
          <l>контрольной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">контрольной</st>
+            <st Contlex="ad/noTag">контрольной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -37722,7 +37722,7 @@
       <lg>
          <l>контуженной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">контуженной</st>
+            <st Contlex="ad/noTag">контуженной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38121,7 +38121,7 @@
       <lg>
          <l>корел</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">корел</st>
+            <st Contlex="ad/av/noTag">корел</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38163,7 +38163,7 @@
       <lg>
          <l>корер</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">корер</st>
+            <st Contlex="no/ad/avTag">корер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38415,7 +38415,7 @@
       <lg>
          <l>кот</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">кот</st>
+            <st Contlex="ad/av/noTag">кот</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38562,7 +38562,7 @@
       <lg>
          <l>котькуд</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">котькуд</st>
+            <st Contlex="pr/adTag">котькуд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38583,7 +38583,7 @@
       <lg>
          <l>котькытыӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">котькытыӵе</st>
+            <st Contlex="pr/adTag">котькытыӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38604,7 +38604,7 @@
       <lg>
          <l>котьма_пӧртэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">котьма_пӧртэм</st>
+            <st Contlex="ad/noTag">котьма_пӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38667,7 +38667,7 @@
       <lg>
          <l>кӧгер</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кӧгер</st>
+            <st Contlex="ad/noTag">кӧгер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38814,7 +38814,7 @@
       <lg>
          <l>кӧй</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">кӧй</st>
+            <st Contlex="no/ad/avTag">кӧй</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -38898,7 +38898,7 @@
       <lg>
          <l>кӧс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кӧс</st>
+            <st Contlex="ad/avTag">кӧс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39276,7 +39276,7 @@
       <lg>
          <l>кӧшкемыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">кӧшкемыт</st>
+            <st Contlex="av/adTag">кӧшкемыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39528,7 +39528,7 @@
       <lg>
          <l>крепостной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">крепостной</st>
+            <st Contlex="ad/noTag">крепостной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39738,7 +39738,7 @@
       <lg>
          <l>ку</l>
          <stg>
-            <st Contlex="pr/no/ad/av-CONTLEX">ку</st>
+            <st Contlex="pr/no/ad/avTag">ку</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39759,7 +39759,7 @@
       <lg>
          <l>куажгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">куажгес</st>
+            <st Contlex="ad/avTag">куажгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39906,7 +39906,7 @@
       <lg>
          <l>куальтра</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">куальтра</st>
+            <st Contlex="av/ad/noTag">куальтра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39927,7 +39927,7 @@
       <lg>
          <l>куальтрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">куальтрес</st>
+            <st Contlex="ad/avTag">куальтрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39948,7 +39948,7 @@
       <lg>
          <l>куальтыра</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">куальтыра</st>
+            <st Contlex="ad/avTag">куальтыра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39969,7 +39969,7 @@
       <lg>
          <l>куальтырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">куальтырес</st>
+            <st Contlex="ad/avTag">куальтырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -39990,7 +39990,7 @@
       <lg>
          <l>куаляча</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">куаляча</st>
+            <st Contlex="ad/noTag">куаляча</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40011,7 +40011,7 @@
       <lg>
          <l>куанер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">куанер</st>
+            <st Contlex="ad/avTag">куанер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40074,7 +40074,7 @@
       <lg>
          <l>куаратэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">куаратэм</st>
+            <st Contlex="ad/noTag">куаратэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40137,7 +40137,7 @@
       <lg>
          <l>куасег</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">куасег</st>
+            <st Contlex="av/adTag">куасег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40158,7 +40158,7 @@
       <lg>
          <l>куаси</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">куаси</st>
+            <st Contlex="no/ad/avTag">куаси</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40200,7 +40200,7 @@
       <lg>
          <l>куата</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">куата</st>
+            <st Contlex="ad/noTag">куата</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40368,7 +40368,7 @@
       <lg>
          <l>куд</l>
          <stg>
-            <st Contlex="pr/no/ad-CONTLEX">куд</st>
+            <st Contlex="pr/no/adTag">куд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40389,7 +40389,7 @@
       <lg>
          <l>кудбыдӟа</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">кудбыдӟа</st>
+            <st Contlex="pr/adTag">кудбыдӟа</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40431,7 +40431,7 @@
       <lg>
          <l>куд-ог</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">куд-ог</st>
+            <st Contlex="pr/adTag">куд-ог</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40830,7 +40830,7 @@
       <lg>
          <l>кузьгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кузьгес</st>
+            <st Contlex="ad/avTag">кузьгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40872,7 +40872,7 @@
       <lg>
          <l>кузь-кузь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кузь-кузь</st>
+            <st Contlex="ad/avTag">кузь-кузь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40977,7 +40977,7 @@
       <lg>
          <l>кузьыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кузьыт</st>
+            <st Contlex="ad/avTag">кузьыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -40998,7 +40998,7 @@
       <lg>
          <l>кузьыталэс-чырс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кузьыталэс-чырс</st>
+            <st Contlex="ad/avTag">кузьыталэс-чырс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -41103,7 +41103,7 @@
       <lg>
          <l>кузятэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кузятэм</st>
+            <st Contlex="ad/noTag">кузятэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -41166,7 +41166,7 @@
       <lg>
          <l>куймыр</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">куймыр</st>
+            <st Contlex="ad/av/noTag">куймыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -41775,7 +41775,7 @@
       <lg>
          <l>кумочау</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кумочау</st>
+            <st Contlex="ad/noTag">кумочау</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -41817,7 +41817,7 @@
       <lg>
          <l>кумырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кумырес</st>
+            <st Contlex="ad/avTag">кумырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -42174,7 +42174,7 @@
       <lg>
          <l>курдыт</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">курдыт</st>
+            <st Contlex="av/ad/noTag">курдыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -42615,7 +42615,7 @@
       <lg>
          <l>курыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">курыт</st>
+            <st Contlex="ad/av/noTag">курыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43119,7 +43119,7 @@
       <lg>
          <l>кызь</l>
          <stg>
-            <st Contlex="nm/no/ad/av-CONTLEX">кызь</st>
+            <st Contlex="nm/no/ad/avTag">кызь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43329,7 +43329,7 @@
       <lg>
          <l>кыкполэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">кыкполэс</st>
+            <st Contlex="ad/avTag">кыкполэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43497,7 +43497,7 @@
       <lg>
          <l>кыллёстэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кыллёстэм</st>
+            <st Contlex="ad/noTag">кыллёстэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43518,7 +43518,7 @@
       <lg>
          <l>кыллы_бырем</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кыллы_бырем</st>
+            <st Contlex="ad/noTag">кыллы_бырем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43833,7 +43833,7 @@
       <lg>
          <l>кылыктэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кылыктэм</st>
+            <st Contlex="ad/noTag">кылыктэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -43938,7 +43938,7 @@
       <lg>
          <l>кын</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кын</st>
+            <st Contlex="ad/noTag">кын</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44253,7 +44253,7 @@
       <lg>
          <l>кырсь</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">кырсь</st>
+            <st Contlex="ad/noTag">кырсь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44295,7 +44295,7 @@
       <lg>
          <l>кырыж</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">кырыж</st>
+            <st Contlex="ad/av/noTag">кырыж</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44421,7 +44421,7 @@
       <lg>
          <l>кыӵезэ-сыӵезэ</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">кыӵезэ-сыӵезэ</st>
+            <st Contlex="pr/adTag">кыӵезэ-сыӵезэ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44442,7 +44442,7 @@
       <lg>
          <l>кыӵе-сыӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">кыӵе-сыӵе</st>
+            <st Contlex="pr/adTag">кыӵе-сыӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44463,7 +44463,7 @@
       <lg>
          <l>кышкыт</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">кышкыт</st>
+            <st Contlex="av/ad/noTag">кышкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44778,7 +44778,7 @@
       <lg>
          <l>ладлы</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ладлы</st>
+            <st Contlex="ad/avTag">ладлы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44820,7 +44820,7 @@
       <lg>
          <l>лазег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лазег</st>
+            <st Contlex="ad/avTag">лазег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -44904,7 +44904,7 @@
       <lg>
          <l>лаймыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лаймыт</st>
+            <st Contlex="ad/avTag">лаймыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45135,7 +45135,7 @@
       <lg>
          <l>лап</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">лап</st>
+            <st Contlex="av/adTag">лап</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45177,7 +45177,7 @@
       <lg>
          <l>лапег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лапег</st>
+            <st Contlex="ad/avTag">лапег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45324,7 +45324,7 @@
       <lg>
          <l>лараси</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лараси</st>
+            <st Contlex="ad/noTag">лараси</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45492,7 +45492,7 @@
       <lg>
          <l>лачег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лачег</st>
+            <st Contlex="ad/avTag">лачег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45513,7 +45513,7 @@
       <lg>
          <l>лачмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лачмыт</st>
+            <st Contlex="ad/avTag">лачмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45786,7 +45786,7 @@
       <lg>
          <l>лек</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лек</st>
+            <st Contlex="ad/avTag">лек</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -45933,7 +45933,7 @@
       <lg>
          <l>леленчи</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">леленчи</st>
+            <st Contlex="ad/avTag">леленчи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -46521,7 +46521,7 @@
       <lg>
          <l>либыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">либыт</st>
+            <st Contlex="ad/avTag">либыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47046,7 +47046,7 @@
       <lg>
          <l>лоб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лоб</st>
+            <st Contlex="ad/avTag">лоб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47172,7 +47172,7 @@
       <lg>
          <l>лоптро</l>
          <stg>
-            <st Contlex="ad/av/de-CONTLEX">лоптро</st>
+            <st Contlex="ad/av/deTag">лоптро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47277,7 +47277,7 @@
       <lg>
          <l>лӧб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧб</st>
+            <st Contlex="ad/avTag">лӧб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47298,7 +47298,7 @@
       <lg>
          <l>лӧб-лӧб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧб-лӧб</st>
+            <st Contlex="ad/avTag">лӧб-лӧб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47319,7 +47319,7 @@
       <lg>
          <l>лӧбрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧбрес</st>
+            <st Contlex="ad/avTag">лӧбрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47340,7 +47340,7 @@
       <lg>
          <l>лӧбырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧбырес</st>
+            <st Contlex="ad/avTag">лӧбырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47382,7 +47382,7 @@
       <lg>
          <l>лӧскыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧскыт</st>
+            <st Contlex="ad/avTag">лӧскыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47403,7 +47403,7 @@
       <lg>
          <l>лӧс-лӧс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лӧс-лӧс</st>
+            <st Contlex="ad/avTag">лӧс-лӧс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47550,7 +47550,7 @@
       <lg>
          <l>лулпыжет</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лулпыжет</st>
+            <st Contlex="ad/noTag">лулпыжет</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47697,7 +47697,7 @@
       <lg>
          <l>луп</l>
          <stg>
-            <st Contlex="de/no/ad-CONTLEX">луп</st>
+            <st Contlex="de/no/adTag">луп</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47739,7 +47739,7 @@
       <lg>
          <l>лусьтро</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лусьтро</st>
+            <st Contlex="ad/noTag">лусьтро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47781,7 +47781,7 @@
       <lg>
          <l>лусьтыро</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лусьтыро</st>
+            <st Contlex="ad/noTag">лусьтыро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47844,7 +47844,7 @@
       <lg>
          <l>лушкем</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">лушкем</st>
+            <st Contlex="av/adTag">лушкем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -47865,7 +47865,7 @@
       <lg>
          <l>лушкес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лушкес</st>
+            <st Contlex="ad/noTag">лушкес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -48894,7 +48894,7 @@
       <lg>
          <l>лэчыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лэчыт</st>
+            <st Contlex="ad/avTag">лэчыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49104,7 +49104,7 @@
       <lg>
          <l>люкыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">люкыт</st>
+            <st Contlex="av/adTag">люкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49146,7 +49146,7 @@
       <lg>
          <l>ляб</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ляб</st>
+            <st Contlex="ad/avTag">ляб</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49167,7 +49167,7 @@
       <lg>
          <l>лябыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лябыт</st>
+            <st Contlex="ad/avTag">лябыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49230,7 +49230,7 @@
       <lg>
          <l>лякыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">лякыт</st>
+            <st Contlex="ad/avTag">лякыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49251,7 +49251,7 @@
       <lg>
          <l>лякыттэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">лякыттэм</st>
+            <st Contlex="ad/noTag">лякыттэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49482,7 +49482,7 @@
       <lg>
          <l>майбыр</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">майбыр</st>
+            <st Contlex="av/adTag">майбыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49671,7 +49671,7 @@
       <lg>
          <l>макня_йыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">макня_йыр</st>
+            <st Contlex="ad/noTag">макня_йыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -49797,7 +49797,7 @@
       <lg>
          <l>мальдыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мальдыт</st>
+            <st Contlex="ad/avTag">мальдыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -50406,7 +50406,7 @@
       <lg>
          <l>маскара</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">маскара</st>
+            <st Contlex="ad/avTag">маскара</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -50679,7 +50679,7 @@
       <lg>
          <l>матысь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">матысь</st>
+            <st Contlex="av/adTag">матысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -51372,7 +51372,7 @@
       <lg>
          <l>мерыж</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">мерыж</st>
+            <st Contlex="av/adTag">мерыж</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -51645,7 +51645,7 @@
       <lg>
          <l>меӵ</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">меӵ</st>
+            <st Contlex="ad/av/noTag">меӵ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -51666,7 +51666,7 @@
       <lg>
          <l>меӵгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">меӵгес</st>
+            <st Contlex="ad/avTag">меӵгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -51708,7 +51708,7 @@
       <lg>
          <l>меӵег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">меӵег</st>
+            <st Contlex="ad/avTag">меӵег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -51729,7 +51729,7 @@
       <lg>
          <l>меӵ-меӵ</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">меӵ-меӵ</st>
+            <st Contlex="av/adTag">меӵ-меӵ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -52191,7 +52191,7 @@
       <lg>
          <l>мискинь</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">мискинь</st>
+            <st Contlex="ad/noTag">мискинь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -52380,7 +52380,7 @@
       <lg>
          <l>могыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">могыт</st>
+            <st Contlex="ad/avTag">могыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -52464,7 +52464,7 @@
       <lg>
          <l>моклок</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">моклок</st>
+            <st Contlex="ad/noTag">моклок</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53094,7 +53094,7 @@
       <lg>
          <l>мӧзмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мӧзмыт</st>
+            <st Contlex="ad/avTag">мӧзмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53115,7 +53115,7 @@
       <lg>
          <l>мӧй</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">мӧй</st>
+            <st Contlex="ad/noTag">мӧй</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53136,7 +53136,7 @@
       <lg>
          <l>мӧйы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">мӧйы</st>
+            <st Contlex="ad/noTag">мӧйы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53514,7 +53514,7 @@
       <lg>
          <l>музон</l>
          <stg>
-            <st Contlex="ad/pr-CONTLEX">музон</st>
+            <st Contlex="ad/prTag">музон</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53682,7 +53682,7 @@
       <lg>
          <l>мукет</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">мукет</st>
+            <st Contlex="pr/adTag">мукет</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53745,7 +53745,7 @@
       <lg>
          <l>мултэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мултэс</st>
+            <st Contlex="ad/avTag">мултэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53913,7 +53913,7 @@
       <lg>
          <l>мур</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мур</st>
+            <st Contlex="ad/avTag">мур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -53976,7 +53976,7 @@
       <lg>
          <l>муры</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">муры</st>
+            <st Contlex="ad/noTag">муры</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54039,7 +54039,7 @@
       <lg>
          <l>мускыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">мускыт</st>
+            <st Contlex="ad/av/noTag">мускыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54207,7 +54207,7 @@
       <lg>
          <l>мыдланес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мыдланес</st>
+            <st Contlex="ad/avTag">мыдланес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54228,7 +54228,7 @@
       <lg>
          <l>мыд-мыд</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мыд-мыд</st>
+            <st Contlex="ad/avTag">мыд-мыд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54354,7 +54354,7 @@
       <lg>
          <l>мыкрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мыкрес</st>
+            <st Contlex="ad/avTag">мыкрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54375,7 +54375,7 @@
       <lg>
          <l>мыкырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мыкырес</st>
+            <st Contlex="ad/avTag">мыкырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54585,7 +54585,7 @@
       <lg>
          <l>мылысь-кыдысь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">мылысь-кыдысь</st>
+            <st Contlex="av/adTag">мылысь-кыдысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54648,7 +54648,7 @@
       <lg>
          <l>мынь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мынь</st>
+            <st Contlex="ad/avTag">мынь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54669,7 +54669,7 @@
       <lg>
          <l>мынь-мынь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мынь-мынь</st>
+            <st Contlex="ad/avTag">мынь-мынь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54690,7 +54690,7 @@
       <lg>
          <l>мыньырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">мыньырес</st>
+            <st Contlex="ad/avTag">мыньырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54753,7 +54753,7 @@
       <lg>
          <l>мырт</l>
          <stg>
-            <st Contlex="de/ad-CONTLEX">мырт</st>
+            <st Contlex="de/adTag">мырт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54984,7 +54984,7 @@
       <lg>
          <l>нагыль-нагыль_гольык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нагыль-нагыль_гольык</st>
+            <st Contlex="ad/avTag">нагыль-нагыль_гольык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -55215,7 +55215,7 @@
       <lg>
          <l>нап</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нап</st>
+            <st Contlex="ad/avTag">нап</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -55383,7 +55383,7 @@
       <lg>
          <l>наплям</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">наплям</st>
+            <st Contlex="ad/noTag">наплям</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -55404,7 +55404,7 @@
       <lg>
          <l>напсӥ</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">напсӥ</st>
+            <st Contlex="ad/noTag">напсӥ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56055,7 +56055,7 @@
       <lg>
          <l>начар</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">начар</st>
+            <st Contlex="ad/av/noTag">начар</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56076,7 +56076,7 @@
       <lg>
          <l>наӵ</l>
          <stg>
-            <st Contlex="av/ad/de-CONTLEX">наӵ</st>
+            <st Contlex="av/ad/deTag">наӵ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56097,7 +56097,7 @@
       <lg>
          <l>наӵак</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">наӵак</st>
+            <st Contlex="av/adTag">наӵак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56118,7 +56118,7 @@
       <lg>
          <l>наӵкыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">наӵкыт</st>
+            <st Contlex="ad/avTag">наӵкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56139,7 +56139,7 @@
       <lg>
          <l>наӵ-наӵ</l>
          <stg>
-            <st Contlex="ad/av/de-CONTLEX">наӵ-наӵ</st>
+            <st Contlex="ad/av/deTag">наӵ-наӵ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56202,7 +56202,7 @@
       <lg>
          <l>небыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">небыт</st>
+            <st Contlex="ad/avTag">небыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56538,7 +56538,7 @@
       <lg>
          <l>ненокуд</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">ненокуд</st>
+            <st Contlex="pr/adTag">ненокуд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56832,7 +56832,7 @@
       <lg>
          <l>нёпо</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">нёпо</st>
+            <st Contlex="no/ad/avTag">нёпо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56916,7 +56916,7 @@
       <lg>
          <l>ниег</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ниег</st>
+            <st Contlex="ad/noTag">ниег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -56958,7 +56958,7 @@
       <lg>
          <l>нижырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нижырес</st>
+            <st Contlex="ad/avTag">нижырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57000,7 +57000,7 @@
       <lg>
          <l>нимаз</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">нимаз</st>
+            <st Contlex="av/adTag">нимаз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57168,7 +57168,7 @@
       <lg>
          <l>нимысьтыз</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">нимысьтыз</st>
+            <st Contlex="av/adTag">нимысьтыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57273,7 +57273,7 @@
       <lg>
          <l>ноголё</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ноголё</st>
+            <st Contlex="ad/noTag">ноголё</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57294,7 +57294,7 @@
       <lg>
          <l>ноголёк</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ноголёк</st>
+            <st Contlex="ad/noTag">ноголёк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57336,7 +57336,7 @@
       <lg>
          <l>нод-нод</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нод-нод</st>
+            <st Contlex="ad/avTag">нод-нод</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57483,7 +57483,7 @@
       <lg>
          <l>нодэс</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">нодэс</st>
+            <st Contlex="ad/noTag">нодэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57525,7 +57525,7 @@
       <lg>
          <l>нокуд</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">нокуд</st>
+            <st Contlex="pr/adTag">нокуд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57777,7 +57777,7 @@
       <lg>
          <l>нӧд</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">нӧд</st>
+            <st Contlex="no/ad/avTag">нӧд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57861,7 +57861,7 @@
       <lg>
          <l>нугылес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">нугылес</st>
+            <st Contlex="ad/noTag">нугылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -57924,7 +57924,7 @@
       <lg>
          <l>нуназе</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">нуназе</st>
+            <st Contlex="av/adTag">нуназе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58008,7 +58008,7 @@
       <lg>
          <l>нур</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нур</st>
+            <st Contlex="ad/avTag">нур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58134,7 +58134,7 @@
       <lg>
          <l>ныгыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ныгыт</st>
+            <st Contlex="ad/avTag">ныгыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58512,7 +58512,7 @@
       <lg>
          <l>нырко</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">нырко</st>
+            <st Contlex="ad/noTag">нырко</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58638,7 +58638,7 @@
       <lg>
          <l>ныртэм_ныр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ныртэм_ныр</st>
+            <st Contlex="ad/noTag">ныртэм_ныр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58659,7 +58659,7 @@
       <lg>
          <l>нычкыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нычкыт</st>
+            <st Contlex="ad/avTag">нычкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58785,7 +58785,7 @@
       <lg>
          <l>ньыльвыртно</l>
          <stg>
-            <st Contlex="nm/ad-CONTLEX">ньыльвыртно</st>
+            <st Contlex="nm/adTag">ньыльвыртно</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58806,7 +58806,7 @@
       <lg>
          <l>ньыльполэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ньыльполэс</st>
+            <st Contlex="ad/avTag">ньыльполэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58974,7 +58974,7 @@
       <lg>
          <l>нюжрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нюжрес</st>
+            <st Contlex="ad/avTag">нюжрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -58995,7 +58995,7 @@
       <lg>
          <l>нюжырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нюжырес</st>
+            <st Contlex="ad/avTag">нюжырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59184,7 +59184,7 @@
       <lg>
          <l>нюньык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нюньык</st>
+            <st Contlex="ad/avTag">нюньык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59247,7 +59247,7 @@
       <lg>
          <l>нюр</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">нюр</st>
+            <st Contlex="no/ad/avTag">нюр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59289,7 +59289,7 @@
       <lg>
          <l>нюр-кот</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">нюр-кот</st>
+            <st Contlex="no/ad/avTag">нюр-кот</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59310,7 +59310,7 @@
       <lg>
          <l>нюркыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">нюркыт</st>
+            <st Contlex="ad/avTag">нюркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59352,7 +59352,7 @@
       <lg>
          <l>някырес</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">някырес</st>
+            <st Contlex="ad/av/noTag">някырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59394,7 +59394,7 @@
       <lg>
          <l>нялтас</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">нялтас</st>
+            <st Contlex="av/adTag">нялтас</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59499,7 +59499,7 @@
       <lg>
          <l>няр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">няр</st>
+            <st Contlex="ad/noTag">няр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59562,7 +59562,7 @@
       <lg>
          <l>няськам</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">няськам</st>
+            <st Contlex="pc/adTag">няськам</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -59583,7 +59583,7 @@
       <lg>
          <l>няськатэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">няськатэм</st>
+            <st Contlex="pc/adTag">няськатэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60465,7 +60465,7 @@
       <lg>
          <l>обыляк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">обыляк</st>
+            <st Contlex="ad/avTag">обыляк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60528,7 +60528,7 @@
       <lg>
          <l>огарес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">огарес</st>
+            <st Contlex="ad/noTag">огарес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60591,7 +60591,7 @@
       <lg>
          <l>огбыдӟа</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огбыдӟа</st>
+            <st Contlex="ad/avTag">огбыдӟа</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60675,7 +60675,7 @@
       <lg>
          <l>огвыллем</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огвыллем</st>
+            <st Contlex="ad/avTag">огвыллем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60696,7 +60696,7 @@
       <lg>
          <l>огдышем</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">огдышем</st>
+            <st Contlex="pc/adTag">огдышем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60717,7 +60717,7 @@
       <lg>
          <l>огӝужда</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огӝужда</st>
+            <st Contlex="ad/avTag">огӝужда</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60738,7 +60738,7 @@
       <lg>
          <l>огзӧкта</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огзӧкта</st>
+            <st Contlex="ad/avTag">огзӧкта</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -60801,7 +60801,7 @@
       <lg>
          <l>огкузьда</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огкузьда</st>
+            <st Contlex="ad/avTag">огкузьда</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61053,7 +61053,7 @@
       <lg>
          <l>огпасьта</l>
          <stg>
-            <st Contlex="nm/ad/av-CONTLEX">огпасьта</st>
+            <st Contlex="nm/ad/avTag">огпасьта</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61074,7 +61074,7 @@
       <lg>
          <l>огпасьтана</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огпасьтана</st>
+            <st Contlex="ad/avTag">огпасьтана</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61095,7 +61095,7 @@
       <lg>
          <l>огпӧртэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огпӧртэм</st>
+            <st Contlex="ad/avTag">огпӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61158,7 +61158,7 @@
       <lg>
          <l>огсыр</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">огсыр</st>
+            <st Contlex="av/adTag">огсыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61221,7 +61221,7 @@
       <lg>
          <l>огшаплы</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огшаплы</st>
+            <st Contlex="ad/avTag">огшаплы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61242,7 +61242,7 @@
       <lg>
          <l>огшоры</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">огшоры</st>
+            <st Contlex="ad/avTag">огшоры</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61263,7 +61263,7 @@
       <lg>
          <l>огъёрос</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">огъёрос</st>
+            <st Contlex="av/adTag">огъёрос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61641,7 +61641,7 @@
       <lg>
          <l>окмостэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">окмостэм</st>
+            <st Contlex="pc/adTag">окмостэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61746,7 +61746,7 @@
       <lg>
          <l>окыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">окыт</st>
+            <st Contlex="ad/av/noTag">окыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -61809,7 +61809,7 @@
       <lg>
          <l>олокуд</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">олокуд</st>
+            <st Contlex="pr/adTag">олокуд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -63027,7 +63027,7 @@
       <lg>
          <l>отпускной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">отпускной</st>
+            <st Contlex="ad/noTag">отпускной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -63594,7 +63594,7 @@
       <lg>
          <l>падантэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">падантэм</st>
+            <st Contlex="av/adTag">падантэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -63825,7 +63825,7 @@
       <lg>
          <l>пайдалыктэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пайдалыктэм</st>
+            <st Contlex="ad/avTag">пайдалыктэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -63846,7 +63846,7 @@
       <lg>
          <l>пайдатэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пайдатэм</st>
+            <st Contlex="ad/avTag">пайдатэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -63972,7 +63972,7 @@
       <lg>
          <l>палдурес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">палдурес</st>
+            <st Contlex="ad/avTag">палдурес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -64119,7 +64119,7 @@
       <lg>
          <l>паллян</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">паллян</st>
+            <st Contlex="ad/noTag">паллян</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -64203,7 +64203,7 @@
       <lg>
          <l>палпыд</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">палпыд</st>
+            <st Contlex="ad/noTag">палпыд</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -64245,7 +64245,7 @@
       <lg>
          <l>пальтыра</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пальтыра</st>
+            <st Contlex="ad/noTag">пальтыра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -64413,7 +64413,7 @@
       <lg>
          <l>паньгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">паньгес</st>
+            <st Contlex="ad/avTag">паньгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -64623,7 +64623,7 @@
       <lg>
          <l>парикмахерской</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">парикмахерской</st>
+            <st Contlex="ad/noTag">парикмахерской</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -65043,7 +65043,7 @@
       <lg>
          <l>паськыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">паськыт</st>
+            <st Contlex="ad/avTag">паськыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -65253,7 +65253,7 @@
       <lg>
          <l>пачкес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пачкес</st>
+            <st Contlex="ad/avTag">пачкес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -65421,7 +65421,7 @@
       <lg>
          <l>пеймыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">пеймыт</st>
+            <st Contlex="ad/av/noTag">пеймыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -65610,7 +65610,7 @@
       <lg>
          <l>пельтэм</l>
          <stg>
-            <st Contlex="ad/pc/no-CONTLEX">пельтэм</st>
+            <st Contlex="ad/pc/noTag">пельтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -65694,7 +65694,7 @@
       <lg>
          <l>пенӟег</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пенӟег</st>
+            <st Contlex="ad/noTag">пенӟег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -66135,7 +66135,7 @@
       <lg>
          <l>пересь</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пересь</st>
+            <st Contlex="ad/noTag">пересь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -66744,7 +66744,7 @@
       <lg>
          <l>пилеш</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пилеш</st>
+            <st Contlex="ad/avTag">пилеш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -67017,7 +67017,7 @@
       <lg>
          <l>пинь_тыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пинь_тыр</st>
+            <st Contlex="ad/avTag">пинь_тыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -67206,7 +67206,7 @@
       <lg>
          <l>пиртэш</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пиртэш</st>
+            <st Contlex="ad/noTag">пиртэш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -67227,7 +67227,7 @@
       <lg>
          <l>пиртэшо</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пиртэшо</st>
+            <st Contlex="ad/noTag">пиртэшо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -67668,7 +67668,7 @@
       <lg>
          <l>пленной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пленной</st>
+            <st Contlex="ad/noTag">пленной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -67941,7 +67941,7 @@
       <lg>
          <l>подданной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">подданной</st>
+            <st Contlex="ad/noTag">подданной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -68214,7 +68214,7 @@
       <lg>
          <l>подъёмной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">подъёмной</st>
+            <st Contlex="ad/noTag">подъёмной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -68235,7 +68235,7 @@
       <lg>
          <l>пож</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пож</st>
+            <st Contlex="ad/noTag">пож</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69348,7 +69348,7 @@
       <lg>
          <l>потеш</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">потеш</st>
+            <st Contlex="ad/avTag">потеш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69579,7 +69579,7 @@
       <lg>
          <l>пӧзьтэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">пӧзьтэм</st>
+            <st Contlex="pc/adTag">пӧзьтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69705,7 +69705,7 @@
       <lg>
          <l>пӧртэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пӧртэм</st>
+            <st Contlex="ad/avTag">пӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69747,7 +69747,7 @@
       <lg>
          <l>пӧртэм-пӧртэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пӧртэм-пӧртэм</st>
+            <st Contlex="ad/avTag">пӧртэм-пӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69789,7 +69789,7 @@
       <lg>
          <l>пӧсь</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">пӧсь</st>
+            <st Contlex="ad/av/noTag">пӧсь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -69810,7 +69810,7 @@
       <lg>
          <l>пӧськӧльы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пӧськӧльы</st>
+            <st Contlex="ad/noTag">пӧськӧльы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -70440,7 +70440,7 @@
       <lg>
          <l>приёмной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">приёмной</st>
+            <st Contlex="ad/noTag">приёмной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -70524,7 +70524,7 @@
       <lg>
          <l>прилагательной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">прилагательной</st>
+            <st Contlex="ad/noTag">прилагательной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -71007,7 +71007,7 @@
       <lg>
          <l>проездной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">проездной</st>
+            <st Contlex="ad/noTag">проездной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -72246,7 +72246,7 @@
       <lg>
          <l>пумтэм-йылтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пумтэм-йылтэм</st>
+            <st Contlex="ad/avTag">пумтэм-йылтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -72960,7 +72960,7 @@
       <lg>
          <l>пыдйыл</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">пыдйыл</st>
+            <st Contlex="ad/noTag">пыдйыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -73401,7 +73401,7 @@
       <lg>
          <l>пырес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">пырес</st>
+            <st Contlex="av/adTag">пырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -73464,7 +73464,7 @@
       <lg>
          <l>пырултэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">пырултэм</st>
+            <st Contlex="ad/avTag">пырултэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75396,7 +75396,7 @@
       <lg>
          <l>ротной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ротной</st>
+            <st Contlex="ad/noTag">ротной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75564,7 +75564,7 @@
       <lg>
          <l>рядовой</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">рядовой</st>
+            <st Contlex="ad/noTag">рядовой</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75900,7 +75900,7 @@
       <lg>
          <l>сайк-сайк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сайк-сайк</st>
+            <st Contlex="ad/avTag">сайк-сайк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75921,7 +75921,7 @@
       <lg>
          <l>сайкыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сайкыт</st>
+            <st Contlex="ad/avTag">сайкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75963,7 +75963,7 @@
       <lg>
          <l>сак</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сак</st>
+            <st Contlex="ad/avTag">сак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -75984,7 +75984,7 @@
       <lg>
          <l>сакес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сакес</st>
+            <st Contlex="ad/avTag">сакес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76131,7 +76131,7 @@
       <lg>
          <l>салкым</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">салкым</st>
+            <st Contlex="no/ad/avTag">салкым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76593,7 +76593,7 @@
       <lg>
          <l>сапрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сапрес</st>
+            <st Contlex="ad/avTag">сапрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76614,7 +76614,7 @@
       <lg>
          <l>сапырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сапырес</st>
+            <st Contlex="ad/avTag">сапырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76656,7 +76656,7 @@
       <lg>
          <l>саргес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">саргес</st>
+            <st Contlex="ad/avTag">саргес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76677,7 +76677,7 @@
       <lg>
          <l>сари</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">сари</st>
+            <st Contlex="ad/noTag">сари</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -76803,7 +76803,7 @@
       <lg>
          <l>сачыра</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">сачыра</st>
+            <st Contlex="no/ad/avTag">сачыра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77160,7 +77160,7 @@
       <lg>
          <l>секыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">секыт</st>
+            <st Contlex="ad/av/noTag">секыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77454,7 +77454,7 @@
       <lg>
          <l>серемес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">серемес</st>
+            <st Contlex="av/adTag">серемес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77685,7 +77685,7 @@
       <lg>
          <l>сизьымо</l>
          <stg>
-            <st Contlex="ad/nm-CONTLEX">сизьымо</st>
+            <st Contlex="ad/nmTag">сизьымо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77706,7 +77706,7 @@
       <lg>
          <l>сизьым_полэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сизьым_полэс</st>
+            <st Contlex="ad/avTag">сизьым_полэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77748,7 +77748,7 @@
       <lg>
          <l>силё-сюрно</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">силё-сюрно</st>
+            <st Contlex="ad/noTag">силё-сюрно</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -77895,7 +77895,7 @@
       <lg>
          <l>синазькыль</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">синазькыль</st>
+            <st Contlex="ad/avTag">синазькыль</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -78084,7 +78084,7 @@
       <lg>
          <l>синтэм_сукыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">синтэм_сукыр</st>
+            <st Contlex="ad/noTag">синтэм_сукыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -78399,7 +78399,7 @@
       <lg>
          <l>сӥзьыл</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">сӥзьыл</st>
+            <st Contlex="no/ad/avTag">сӥзьыл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -78819,7 +78819,7 @@
       <lg>
          <l>слабительной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">слабительной</st>
+            <st Contlex="ad/noTag">слабительной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -79764,7 +79764,7 @@
       <lg>
          <l>сояз</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">сояз</st>
+            <st Contlex="pr/adTag">сояз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -79806,7 +79806,7 @@
       <lg>
          <l>сӧл</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">сӧл</st>
+            <st Contlex="av/adTag">сӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -79848,7 +79848,7 @@
       <lg>
          <l>сӧрег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сӧрег</st>
+            <st Contlex="ad/avTag">сӧрег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -79974,7 +79974,7 @@
       <lg>
          <l>справочной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">справочной</st>
+            <st Contlex="ad/noTag">справочной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -80226,7 +80226,7 @@
       <lg>
          <l>стехиометриятэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">стехиометриятэм</st>
+            <st Contlex="ad/noTag">стехиометриятэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -80604,7 +80604,7 @@
       <lg>
          <l>сузытэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сузытэм</st>
+            <st Contlex="ad/avTag">сузытэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -80625,7 +80625,7 @@
       <lg>
          <l>сузяк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сузяк</st>
+            <st Contlex="ad/avTag">сузяк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -80688,7 +80688,7 @@
       <lg>
          <l>сук</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">сук</st>
+            <st Contlex="no/ad/avTag">сук</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -80982,7 +80982,7 @@
       <lg>
          <l>суредлыко</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">суредлыко</st>
+            <st Contlex="ad/avTag">суредлыко</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81108,7 +81108,7 @@
       <lg>
          <l>сурым</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">сурым</st>
+            <st Contlex="no/ad/avTag">сурым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81234,7 +81234,7 @@
       <lg>
          <l>сынэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">сынэм</st>
+            <st Contlex="ad/noTag">сынэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81255,7 +81255,7 @@
       <lg>
          <l>сырк</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">сырк</st>
+            <st Contlex="no/ad/avTag">сырк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81276,7 +81276,7 @@
       <lg>
          <l>сыӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">сыӵе</st>
+            <st Contlex="pr/adTag">сыӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81297,7 +81297,7 @@
       <lg>
          <l>сыӵе-сыӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">сыӵе-сыӵе</st>
+            <st Contlex="pr/adTag">сыӵе-сыӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81318,7 +81318,7 @@
       <lg>
          <l>сыӵе-таӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">сыӵе-таӵе</st>
+            <st Contlex="pr/adTag">сыӵе-таӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81654,7 +81654,7 @@
       <lg>
          <l>сьӧдэн</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">сьӧдэн</st>
+            <st Contlex="ad/noTag">сьӧдэн</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81885,7 +81885,7 @@
       <lg>
          <l>сэзь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сэзь</st>
+            <st Contlex="ad/avTag">сэзь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -81990,7 +81990,7 @@
       <lg>
          <l>сэрыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">сэрыт</st>
+            <st Contlex="av/adTag">сэрыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82032,7 +82032,7 @@
       <lg>
          <l>сэсо-кабо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сэсо-кабо</st>
+            <st Contlex="ad/avTag">сэсо-кабо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82074,7 +82074,7 @@
       <lg>
          <l>сюбег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сюбег</st>
+            <st Contlex="ad/avTag">сюбег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82284,7 +82284,7 @@
       <lg>
          <l>сюполэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сюполэс</st>
+            <st Contlex="ad/avTag">сюполэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82410,7 +82410,7 @@
       <lg>
          <l>сюрс_полэс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">сюрс_полэс</st>
+            <st Contlex="ad/avTag">сюрс_полэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82515,7 +82515,7 @@
       <lg>
          <l>сюты</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">сюты</st>
+            <st Contlex="ad/noTag">сюты</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82662,7 +82662,7 @@
       <lg>
          <l>таза</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">таза</st>
+            <st Contlex="ad/avTag">таза</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82830,7 +82830,7 @@
       <lg>
          <l>такынозь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">такынозь</st>
+            <st Contlex="av/adTag">такынозь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82851,7 +82851,7 @@
       <lg>
          <l>такыр</l>
          <stg>
-            <st Contlex="de/ad/no-CONTLEX">такыр</st>
+            <st Contlex="de/ad/noTag">такыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -82977,7 +82977,7 @@
       <lg>
          <l>тамаша</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">тамаша</st>
+            <st Contlex="ad/av/noTag">тамаша</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83124,7 +83124,7 @@
       <lg>
          <l>тату</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">тату</st>
+            <st Contlex="av/adTag">тату</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83145,7 +83145,7 @@
       <lg>
          <l>татысь</l>
          <stg>
-            <st Contlex="av/ad/pr-CONTLEX">татысь</st>
+            <st Contlex="av/ad/prTag">татысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83166,7 +83166,7 @@
       <lg>
          <l>тачкес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тачкес</st>
+            <st Contlex="ad/avTag">тачкес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83187,7 +83187,7 @@
       <lg>
          <l>таӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">таӵе</st>
+            <st Contlex="pr/adTag">таӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83460,7 +83460,7 @@
       <lg>
          <l>теплес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">теплес</st>
+            <st Contlex="ad/avTag">теплес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83502,7 +83502,7 @@
       <lg>
          <l>тепылес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тепылес</st>
+            <st Contlex="ad/avTag">тепылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -83754,7 +83754,7 @@
       <lg>
          <l>тём-тём</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тём-тём</st>
+            <st Contlex="ad/avTag">тём-тём</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84216,7 +84216,7 @@
       <lg>
          <l>тол</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">тол</st>
+            <st Contlex="no/ad/avTag">тол</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84489,7 +84489,7 @@
       <lg>
          <l>том-том</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">том-том</st>
+            <st Contlex="ad/avTag">том-том</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84531,7 +84531,7 @@
       <lg>
          <l>тонгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тонгес</st>
+            <st Contlex="ad/avTag">тонгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84741,7 +84741,7 @@
       <lg>
          <l>торккес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">торккес</st>
+            <st Contlex="ad/avTag">торккес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84783,7 +84783,7 @@
       <lg>
          <l>тотобыля</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">тотобыля</st>
+            <st Contlex="no/ad/avTag">тотобыля</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -84930,7 +84930,7 @@
       <lg>
          <l>тӧдьыгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тӧдьыгес</st>
+            <st Contlex="ad/avTag">тӧдьыгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85203,7 +85203,7 @@
       <lg>
          <l>тӧл-тӧл</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тӧл-тӧл</st>
+            <st Contlex="ad/avTag">тӧл-тӧл</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85245,7 +85245,7 @@
       <lg>
          <l>тӧрег</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тӧрег</st>
+            <st Contlex="ad/avTag">тӧрег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85644,7 +85644,7 @@
       <lg>
          <l>тросэз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тросэз</st>
+            <st Contlex="ad/avTag">тросэз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85875,7 +85875,7 @@
       <lg>
          <l>туж_уно</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">туж_уно</st>
+            <st Contlex="ad/avTag">туж_уно</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85896,7 +85896,7 @@
       <lg>
          <l>тузӥ</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тузӥ</st>
+            <st Contlex="ad/avTag">тузӥ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -85980,7 +85980,7 @@
       <lg>
          <l>тулег</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">тулег</st>
+            <st Contlex="ad/av/noTag">тулег</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86022,7 +86022,7 @@
       <lg>
          <l>тулыс</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">тулыс</st>
+            <st Contlex="no/ad/avTag">тулыс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86064,7 +86064,7 @@
       <lg>
          <l>тульк</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">тульк</st>
+            <st Contlex="ad/av/noTag">тульк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86127,7 +86127,7 @@
       <lg>
          <l>тумошо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тумошо</st>
+            <st Contlex="ad/avTag">тумошо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86253,7 +86253,7 @@
       <lg>
          <l>туныт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">туныт</st>
+            <st Contlex="ad/avTag">туныт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86295,7 +86295,7 @@
       <lg>
          <l>тупыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">тупыт</st>
+            <st Contlex="av/adTag">тупыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86316,7 +86316,7 @@
       <lg>
          <l>тупыттэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">тупыттэм</st>
+            <st Contlex="av/adTag">тупыттэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86337,7 +86337,7 @@
       <lg>
          <l>тур</l>
          <stg>
-            <st Contlex="no/ad/de-CONTLEX">тур</st>
+            <st Contlex="no/ad/deTag">тур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86904,7 +86904,7 @@
       <lg>
          <l>тыгыз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тыгыз</st>
+            <st Contlex="ad/avTag">тыгыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86925,7 +86925,7 @@
       <lg>
          <l>тыгыли</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">тыгыли</st>
+            <st Contlex="ad/noTag">тыгыли</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -86967,7 +86967,7 @@
       <lg>
          <l>тыло</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">тыло</st>
+            <st Contlex="ad/noTag">тыло</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87177,7 +87177,7 @@
       <lg>
          <l>тыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тыр</st>
+            <st Contlex="ad/avTag">тыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87261,7 +87261,7 @@
       <lg>
          <l>тырмыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">тырмыт</st>
+            <st Contlex="av/adTag">тырмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87303,7 +87303,7 @@
       <lg>
          <l>тыро-быдо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тыро-быдо</st>
+            <st Contlex="ad/avTag">тыро-быдо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87366,7 +87366,7 @@
       <lg>
          <l>тыросэз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тыросэз</st>
+            <st Contlex="ad/avTag">тыросэз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87408,7 +87408,7 @@
       <lg>
          <l>тырттэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">тырттэм</st>
+            <st Contlex="ad/noTag">тырттэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87429,7 +87429,7 @@
       <lg>
          <l>тыр-тыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тыр-тыр</st>
+            <st Contlex="ad/avTag">тыр-тыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87618,7 +87618,7 @@
       <lg>
          <l>тэгыз</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тэгыз</st>
+            <st Contlex="ad/avTag">тэгыз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -87912,7 +87912,7 @@
       <lg>
          <l>тяпылес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">тяпылес</st>
+            <st Contlex="ad/avTag">тяпылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88248,7 +88248,7 @@
       <lg>
          <l>ужтэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ужтэм</st>
+            <st Contlex="ad/noTag">ужтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88353,7 +88353,7 @@
       <lg>
          <l>узкыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">узкыт</st>
+            <st Contlex="ad/avTag">узкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88458,7 +88458,7 @@
       <lg>
          <l>узыр</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">узыр</st>
+            <st Contlex="ad/av/noTag">узыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88521,7 +88521,7 @@
       <lg>
          <l>узыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">узыт</st>
+            <st Contlex="ad/avTag">узыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88815,7 +88815,7 @@
       <lg>
          <l>укылтэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">укылтэм</st>
+            <st Contlex="ad/noTag">укылтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -88878,7 +88878,7 @@
       <lg>
          <l>улӥ</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">улӥ</st>
+            <st Contlex="ad/avTag">улӥ</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89004,7 +89004,7 @@
       <lg>
          <l>улӥысь</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">улӥысь</st>
+            <st Contlex="av/adTag">улӥысь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89025,7 +89025,7 @@
       <lg>
          <l>улланес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">улланес</st>
+            <st Contlex="ad/avTag">улланес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89214,7 +89214,7 @@
       <lg>
          <l>улыг</l>
          <stg>
-            <st Contlex="no/av/ad-CONTLEX">улыг</st>
+            <st Contlex="no/av/adTag">улыг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89298,7 +89298,7 @@
       <lg>
          <l>улэг</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">улэг</st>
+            <st Contlex="ad/av/noTag">улэг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89445,7 +89445,7 @@
       <lg>
          <l>умой</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">умой</st>
+            <st Contlex="ad/avTag">умой</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89466,7 +89466,7 @@
       <lg>
          <l>умойгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">умойгес</st>
+            <st Contlex="ad/avTag">умойгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89487,7 +89487,7 @@
       <lg>
          <l>умойтэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">умойтэм</st>
+            <st Contlex="av/adTag">умойтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89508,7 +89508,7 @@
       <lg>
          <l>умой-умой</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">умой-умой</st>
+            <st Contlex="ad/avTag">умой-умой</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89718,7 +89718,7 @@
       <lg>
          <l>урдэс</l>
          <stg>
-            <st Contlex="no/ad/po-CONTLEX">урдэс</st>
+            <st Contlex="no/ad/poTag">урдэс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89802,7 +89802,7 @@
       <lg>
          <l>уробоен-валэн</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">уробоен-валэн</st>
+            <st Contlex="av/adTag">уробоен-валэн</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -89823,7 +89823,7 @@
       <lg>
          <l>уродгем</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">уродгем</st>
+            <st Contlex="ad/avTag">уродгем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -90012,7 +90012,7 @@
       <lg>
          <l>утыр</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">утыр</st>
+            <st Contlex="av/adTag">утыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -90138,7 +90138,7 @@
       <lg>
          <l>учительской</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">учительской</st>
+            <st Contlex="ad/noTag">учительской</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -90201,7 +90201,7 @@
       <lg>
          <l>уш</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">уш</st>
+            <st Contlex="av/adTag">уш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -92091,7 +92091,7 @@
       <lg>
          <l>характеро</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">характеро</st>
+            <st Contlex="ad/avTag">характеро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93099,7 +93099,7 @@
       <lg>
          <l>чагыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">чагыр</st>
+            <st Contlex="ad/noTag">чагыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93330,7 +93330,7 @@
       <lg>
          <l>чал</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">чал</st>
+            <st Contlex="av/ad/noTag">чал</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93351,7 +93351,7 @@
       <lg>
          <l>чалмыт</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">чалмыт</st>
+            <st Contlex="av/ad/noTag">чалмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93393,7 +93393,7 @@
       <lg>
          <l>чал-чал</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">чал-чал</st>
+            <st Contlex="av/ad/noTag">чал-чал</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93414,7 +93414,7 @@
       <lg>
          <l>чалыш</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">чалыш</st>
+            <st Contlex="ad/noTag">чалыш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93435,7 +93435,7 @@
       <lg>
          <l>чангес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чангес</st>
+            <st Contlex="ad/avTag">чангес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93540,7 +93540,7 @@
       <lg>
          <l>чарк</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">чарк</st>
+            <st Contlex="no/ad/avTag">чарк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93603,7 +93603,7 @@
       <lg>
          <l>часовой</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">часовой</st>
+            <st Contlex="ad/noTag">часовой</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93666,7 +93666,7 @@
       <lg>
          <l>чатрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чатрес</st>
+            <st Contlex="ad/avTag">чатрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93708,7 +93708,7 @@
       <lg>
          <l>чатыр</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">чатыр</st>
+            <st Contlex="ad/noTag">чатыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93729,7 +93729,7 @@
       <lg>
          <l>чатырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чатырес</st>
+            <st Contlex="ad/avTag">чатырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -93750,7 +93750,7 @@
       <lg>
          <l>чебер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чебер</st>
+            <st Contlex="ad/avTag">чебер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94128,7 +94128,7 @@
       <lg>
          <l>черчы</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">черчы</st>
+            <st Contlex="ad/noTag">черчы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94149,7 +94149,7 @@
       <lg>
          <l>ческыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">ческыт</st>
+            <st Contlex="ad/av/noTag">ческыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94170,7 +94170,7 @@
       <lg>
          <l>ческытгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ческытгес</st>
+            <st Contlex="ad/avTag">ческытгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94359,7 +94359,7 @@
       <lg>
          <l>чечым</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чечым</st>
+            <st Contlex="ad/avTag">чечым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94422,7 +94422,7 @@
       <lg>
          <l>чибори</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">чибори</st>
+            <st Contlex="ad/av/noTag">чибори</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -94653,7 +94653,7 @@
       <lg>
          <l>чильтро</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">чильтро</st>
+            <st Contlex="ad/noTag">чильтро</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95052,7 +95052,7 @@
       <lg>
          <l>чоньыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чоньыт</st>
+            <st Contlex="ad/avTag">чоньыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95241,7 +95241,7 @@
       <lg>
          <l>чукгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чукгес</st>
+            <st Contlex="ad/avTag">чукгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95367,7 +95367,7 @@
       <lg>
          <l>чупрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чупрес</st>
+            <st Contlex="ad/avTag">чупрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95388,7 +95388,7 @@
       <lg>
          <l>чупырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чупырес</st>
+            <st Contlex="ad/avTag">чупырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95451,7 +95451,7 @@
       <lg>
          <l>чурыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чурыт</st>
+            <st Contlex="ad/avTag">чурыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95472,7 +95472,7 @@
       <lg>
          <l>чурытгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чурытгес</st>
+            <st Contlex="ad/avTag">чурытгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95493,7 +95493,7 @@
       <lg>
          <l>чурыт_кымес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">чурыт_кымес</st>
+            <st Contlex="ad/noTag">чурыт_кымес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95514,7 +95514,7 @@
       <lg>
          <l>чус</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">чус</st>
+            <st Contlex="ad/av/noTag">чус</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95556,7 +95556,7 @@
       <lg>
          <l>чут</l>
          <stg>
-            <st Contlex="de/ad/av-CONTLEX">чут</st>
+            <st Contlex="de/ad/avTag">чут</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95577,7 +95577,7 @@
       <lg>
          <l>чутрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чутрес</st>
+            <st Contlex="ad/avTag">чутрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95598,7 +95598,7 @@
       <lg>
          <l>чутырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чутырес</st>
+            <st Contlex="ad/avTag">чутырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95640,7 +95640,7 @@
       <lg>
          <l>чылк-чылк</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чылк-чылк</st>
+            <st Contlex="ad/avTag">чылк-чылк</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95661,7 +95661,7 @@
       <lg>
          <l>чылкыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">чылкыт</st>
+            <st Contlex="ad/av/noTag">чылкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95703,7 +95703,7 @@
       <lg>
          <l>чырс</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">чырс</st>
+            <st Contlex="ad/avTag">чырс</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95766,7 +95766,7 @@
       <lg>
          <l>ӵаккес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӵаккес</st>
+            <st Contlex="ad/avTag">ӵаккес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95787,7 +95787,7 @@
       <lg>
          <l>ӵакмыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӵакмыт</st>
+            <st Contlex="ad/avTag">ӵакмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95808,7 +95808,7 @@
       <lg>
          <l>ӵак-ӵак</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӵак-ӵак</st>
+            <st Contlex="ad/avTag">ӵак-ӵак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95829,7 +95829,7 @@
       <lg>
          <l>ӵакыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ӵакыт</st>
+            <st Contlex="ad/avTag">ӵакыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95892,7 +95892,7 @@
       <lg>
          <l>ӵем</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӵем</st>
+            <st Contlex="av/adTag">ӵем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -95913,7 +95913,7 @@
       <lg>
          <l>ӵем-ӵем</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӵем-ӵем</st>
+            <st Contlex="av/adTag">ӵем-ӵем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96081,7 +96081,7 @@
       <lg>
          <l>ӵошкинь</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">ӵошкинь</st>
+            <st Contlex="ad/noTag">ӵошкинь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96102,7 +96102,7 @@
       <lg>
          <l>ӵошкыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">ӵошкыт</st>
+            <st Contlex="ad/av/noTag">ӵошкыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96522,7 +96522,7 @@
       <lg>
          <l>ӵук</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">ӵук</st>
+            <st Contlex="no/ad/avTag">ӵук</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96543,7 +96543,7 @@
       <lg>
          <l>ӵуказе</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӵуказе</st>
+            <st Contlex="av/adTag">ӵуказе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96564,7 +96564,7 @@
       <lg>
          <l>ӵукна</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">ӵукна</st>
+            <st Contlex="av/ad/noTag">ӵукна</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96606,7 +96606,7 @@
       <lg>
          <l>ӵушмырес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ӵушмырес</st>
+            <st Contlex="av/adTag">ӵушмырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96711,7 +96711,7 @@
       <lg>
          <l>ӵыж</l>
          <stg>
-            <st Contlex="av/ad/de-CONTLEX">ӵыж</st>
+            <st Contlex="av/ad/deTag">ӵыж</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96921,7 +96921,7 @@
       <lg>
          <l>шадра</l>
          <stg>
-            <st Contlex="ad/no/av-CONTLEX">шадра</st>
+            <st Contlex="ad/no/avTag">шадра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -96963,7 +96963,7 @@
       <lg>
          <l>шадыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шадыр</st>
+            <st Contlex="ad/avTag">шадыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97152,7 +97152,7 @@
       <lg>
          <l>шаконь</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шаконь</st>
+            <st Contlex="ad/avTag">шаконь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97320,7 +97320,7 @@
       <lg>
          <l>шальтра</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">шальтра</st>
+            <st Contlex="av/ad/noTag">шальтра</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97446,7 +97446,7 @@
       <lg>
          <l>шаплы</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шаплы</st>
+            <st Contlex="ad/avTag">шаплы</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97845,7 +97845,7 @@
       <lg>
          <l>шенглес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шенглес</st>
+            <st Contlex="ad/avTag">шенглес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97866,7 +97866,7 @@
       <lg>
          <l>шенгылес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шенгылес</st>
+            <st Contlex="ad/avTag">шенгылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97929,7 +97929,7 @@
       <lg>
          <l>шер-тур</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шер-тур</st>
+            <st Contlex="ad/avTag">шер-тур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -97950,7 +97950,7 @@
       <lg>
          <l>шертэм</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шертэм</st>
+            <st Contlex="ad/noTag">шертэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98055,7 +98055,7 @@
       <lg>
          <l>шимес</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">шимес</st>
+            <st Contlex="ad/av/noTag">шимес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98076,7 +98076,7 @@
       <lg>
          <l>шим-шим</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шим-шим</st>
+            <st Contlex="av/adTag">шим-шим</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98223,7 +98223,7 @@
       <lg>
          <l>шоккес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шоккес</st>
+            <st Contlex="ad/noTag">шоккес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98244,7 +98244,7 @@
       <lg>
          <l>шоко</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шоко</st>
+            <st Contlex="ad/noTag">шоко</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98265,7 +98265,7 @@
       <lg>
          <l>шонер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шонер</st>
+            <st Contlex="ad/avTag">шонер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98580,7 +98580,7 @@
       <lg>
          <l>шор-шонер</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шор-шонер</st>
+            <st Contlex="ad/avTag">шор-шонер</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98601,7 +98601,7 @@
       <lg>
          <l>шӧг</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шӧг</st>
+            <st Contlex="ad/avTag">шӧг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98685,7 +98685,7 @@
       <lg>
          <l>шӧлгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шӧлгес</st>
+            <st Contlex="ad/avTag">шӧлгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98790,7 +98790,7 @@
       <lg>
          <l>шӧртчи</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шӧртчи</st>
+            <st Contlex="ad/avTag">шӧртчи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98811,7 +98811,7 @@
       <lg>
          <l>шӧтэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шӧтэм</st>
+            <st Contlex="ad/avTag">шӧтэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98916,7 +98916,7 @@
       <lg>
          <l>штрафной</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">штрафной</st>
+            <st Contlex="ad/noTag">штрафной</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -98979,7 +98979,7 @@
       <lg>
          <l>шуг</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шуг</st>
+            <st Contlex="ad/avTag">шуг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99000,7 +99000,7 @@
       <lg>
          <l>шугадӟем</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">шугадӟем</st>
+            <st Contlex="pc/adTag">шугадӟем</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99063,7 +99063,7 @@
       <lg>
          <l>шудо</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шудо</st>
+            <st Contlex="ad/avTag">шудо</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99147,7 +99147,7 @@
       <lg>
          <l>шузи</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">шузи</st>
+            <st Contlex="ad/av/noTag">шузи</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99168,7 +99168,7 @@
       <lg>
          <l>шузи-лек</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шузи-лек</st>
+            <st Contlex="ad/noTag">шузи-лек</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99210,7 +99210,7 @@
       <lg>
          <l>шукрес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шукрес</st>
+            <st Contlex="ad/avTag">шукрес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99273,7 +99273,7 @@
       <lg>
          <l>шукырес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шукырес</st>
+            <st Contlex="ad/avTag">шукырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99336,7 +99336,7 @@
       <lg>
          <l>шулдыр</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">шулдыр</st>
+            <st Contlex="ad/av/noTag">шулдыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99462,7 +99462,7 @@
       <lg>
          <l>шумприч</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">шумприч</st>
+            <st Contlex="ad/av/noTag">шумприч</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99483,7 +99483,7 @@
       <lg>
          <l>шундан-мендан</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шундан-мендан</st>
+            <st Contlex="av/adTag">шундан-мендан</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99546,7 +99546,7 @@
       <lg>
          <l>шуни</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шуни</st>
+            <st Contlex="ad/noTag">шуни</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99567,7 +99567,7 @@
       <lg>
          <l>шуныт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">шуныт</st>
+            <st Contlex="ad/av/noTag">шуныт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99588,7 +99588,7 @@
       <lg>
          <l>шунытгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шунытгес</st>
+            <st Contlex="ad/avTag">шунытгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99651,7 +99651,7 @@
       <lg>
          <l>шур</l>
          <stg>
-            <st Contlex="no/ad/de-CONTLEX">шур</st>
+            <st Contlex="no/ad/deTag">шур</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99672,7 +99672,7 @@
       <lg>
          <l>шурдыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шурдыт</st>
+            <st Contlex="av/adTag">шурдыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99756,7 +99756,7 @@
       <lg>
          <l>шуш</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шуш</st>
+            <st Contlex="ad/avTag">шуш</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99819,7 +99819,7 @@
       <lg>
          <l>шуял</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">шуял</st>
+            <st Contlex="ad/noTag">шуял</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99924,7 +99924,7 @@
       <lg>
          <l>шыпык</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шыпык</st>
+            <st Contlex="av/adTag">шыпык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99945,7 +99945,7 @@
       <lg>
          <l>шыпыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шыпыт</st>
+            <st Contlex="av/adTag">шыпыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99966,7 +99966,7 @@
       <lg>
          <l>шыр</l>
          <stg>
-            <st Contlex="no/ad/de-CONTLEX">шыр</st>
+            <st Contlex="no/ad/deTag">шыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -99987,7 +99987,7 @@
       <lg>
          <l>шыр_гольык</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">шыр_гольык</st>
+            <st Contlex="ad/avTag">шыр_гольык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100050,7 +100050,7 @@
       <lg>
          <l>шырмыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">шырмыт</st>
+            <st Contlex="av/adTag">шырмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100092,7 +100092,7 @@
       <lg>
          <l>шырыт</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">шырыт</st>
+            <st Contlex="no/ad/avTag">шырыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100239,7 +100239,7 @@
       <lg>
          <l>ыль</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ыль</st>
+            <st Contlex="ad/avTag">ыль</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100260,7 +100260,7 @@
       <lg>
          <l>ыль-кот</l>
          <stg>
-            <st Contlex="no/av/ad-CONTLEX">ыль-кот</st>
+            <st Contlex="no/av/adTag">ыль-кот</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100428,7 +100428,7 @@
       <lg>
          <l>ымтыр</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">ымтыр</st>
+            <st Contlex="ad/av/noTag">ымтыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100449,7 +100449,7 @@
       <lg>
          <l>ымтырос</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ымтырос</st>
+            <st Contlex="ad/avTag">ымтырос</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100533,7 +100533,7 @@
       <lg>
          <l>ымыр</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ымыр</st>
+            <st Contlex="ad/avTag">ымыр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100617,7 +100617,7 @@
       <lg>
          <l>ыркыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ыркыт</st>
+            <st Contlex="ad/avTag">ыркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100638,7 +100638,7 @@
       <lg>
          <l>ыӵе</l>
          <stg>
-            <st Contlex="pr/ad-CONTLEX">ыӵе</st>
+            <st Contlex="pr/adTag">ыӵе</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100659,7 +100659,7 @@
       <lg>
          <l>ышыг</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">ышыг</st>
+            <st Contlex="av/ad/noTag">ышыг</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100680,7 +100680,7 @@
       <lg>
          <l>ышык</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">ышык</st>
+            <st Contlex="no/ad/avTag">ышык</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100701,7 +100701,7 @@
       <lg>
          <l>эблес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">эблес</st>
+            <st Contlex="ad/noTag">эблес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -100743,7 +100743,7 @@
       <lg>
          <l>эбылес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">эбылес</st>
+            <st Contlex="ad/noTag">эбылес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -101037,7 +101037,7 @@
       <lg>
          <l>эдэр-бедэр</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">эдэр-бедэр</st>
+            <st Contlex="no/ad/avTag">эдэр-бедэр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -101058,7 +101058,7 @@
       <lg>
          <l>эзгиё</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">эзгиё</st>
+            <st Contlex="ad/avTag">эзгиё</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -101121,7 +101121,7 @@
       <lg>
          <l>эзэр-безэр</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">эзэр-безэр</st>
+            <st Contlex="no/ad/avTag">эзэр-безэр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -101772,7 +101772,7 @@
       <lg>
          <l>элес</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">элес</st>
+            <st Contlex="ad/noTag">элес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -102276,7 +102276,7 @@
       <lg>
          <l>эриктэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">эриктэм</st>
+            <st Contlex="ad/avTag">эриктэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -102297,7 +102297,7 @@
       <lg>
          <l>эрке</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">эрке</st>
+            <st Contlex="ad/av/noTag">эрке</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -102318,7 +102318,7 @@
       <lg>
          <l>эркын</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">эркын</st>
+            <st Contlex="av/ad/noTag">эркын</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -102339,7 +102339,7 @@
       <lg>
          <l>эркыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">эркыт</st>
+            <st Contlex="ad/avTag">эркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103053,7 +103053,7 @@
       <lg>
          <l>югыт</l>
          <stg>
-            <st Contlex="av/ad/no-CONTLEX">югыт</st>
+            <st Contlex="av/ad/noTag">югыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103137,7 +103137,7 @@
       <lg>
          <l>юз</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">юз</st>
+            <st Contlex="no/ad/avTag">юз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103158,7 +103158,7 @@
       <lg>
          <l>юзгес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">юзгес</st>
+            <st Contlex="av/adTag">юзгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103179,7 +103179,7 @@
       <lg>
          <l>юзмыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">юзмыт</st>
+            <st Contlex="av/adTag">юзмыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103200,7 +103200,7 @@
       <lg>
          <l>юзырес</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">юзырес</st>
+            <st Contlex="av/adTag">юзырес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103221,7 +103221,7 @@
       <lg>
          <l>юзыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">юзыт</st>
+            <st Contlex="av/adTag">юзыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103242,7 +103242,7 @@
       <lg>
          <l>юз-юз</l>
          <stg>
-            <st Contlex="no/ad/av-CONTLEX">юз-юз</st>
+            <st Contlex="no/ad/avTag">юз-юз</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103368,7 +103368,7 @@
       <lg>
          <l>юмат</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">юмат</st>
+            <st Contlex="ad/avTag">юмат</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103410,7 +103410,7 @@
       <lg>
          <l>юнгес</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">юнгес</st>
+            <st Contlex="ad/avTag">юнгес</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103494,7 +103494,7 @@
       <lg>
          <l>юр</l>
          <stg>
-            <st Contlex="no/ad/de-CONTLEX">юр</st>
+            <st Contlex="no/ad/deTag">юр</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103557,7 +103557,7 @@
       <lg>
          <l>юрдыт</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">юрдыт</st>
+            <st Contlex="ad/av/noTag">юрдыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103578,7 +103578,7 @@
       <lg>
          <l>юрӟым</l>
          <stg>
-            <st Contlex="ad/av/no-CONTLEX">юрӟым</st>
+            <st Contlex="ad/av/noTag">юрӟым</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -103746,7 +103746,7 @@
       <lg>
          <l>юскыт</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">юскыт</st>
+            <st Contlex="av/adTag">юскыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104166,7 +104166,7 @@
       <lg>
          <l>ялан</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">ялан</st>
+            <st Contlex="av/adTag">ялан</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104397,7 +104397,7 @@
       <lg>
          <l>янгар</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">янгар</st>
+            <st Contlex="ad/noTag">янгар</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104439,7 +104439,7 @@
       <lg>
          <l>янгышатэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">янгышатэм</st>
+            <st Contlex="pc/adTag">янгышатэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104460,7 +104460,7 @@
       <lg>
          <l>янгыше_уськытэм</l>
          <stg>
-            <st Contlex="pc/ad-CONTLEX">янгыше_уськытэм</st>
+            <st Contlex="pc/adTag">янгыше_уськытэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104502,7 +104502,7 @@
       <lg>
          <l>янгыштэм</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">янгыштэм</st>
+            <st Contlex="av/adTag">янгыштэм</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104565,7 +104565,7 @@
       <lg>
          <l>яплак</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">яплак</st>
+            <st Contlex="ad/avTag">яплак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104628,7 +104628,7 @@
       <lg>
          <l>японь</l>
          <stg>
-            <st Contlex="ad/no-CONTLEX">японь</st>
+            <st Contlex="ad/noTag">японь</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104649,7 +104649,7 @@
       <lg>
          <l>япылак</l>
          <stg>
-            <st Contlex="av/ad-CONTLEX">япылак</st>
+            <st Contlex="av/adTag">япылак</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104733,7 +104733,7 @@
       <lg>
          <l>яркыт</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">яркыт</st>
+            <st Contlex="ad/avTag">яркыт</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -104901,7 +104901,7 @@
       <lg>
          <l>ятыр-пӧртэм</l>
          <stg>
-            <st Contlex="ad/av-CONTLEX">ятыр-пӧртэм</st>
+            <st Contlex="ad/avTag">ятыр-пӧртэм</st>
          </stg>
       </lg>
       <pos>A</pos>
