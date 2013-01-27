@@ -1,0 +1,19 @@
+
+
+
+!!! Dynamic documentation
+
+* [Links to generated source file documentation|Links.html]
+* Source files: [stems|https://victorio.uit.no/langtech/trunk/langs/udm/src/morphology/stems/]   
+  / [affixes|https://victorio.uit.no/langtech/trunk/langs/udm/src/morphology/affixes/] 
+  / [twolc|https://victorio.uit.no/langtech/trunk/langs/udm/src/phonology/udm-phon.twolc]   
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/udm/test/src/morphology/]
+* Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-udm.eng.html]
+  / [text|http://giellatekno.uit.no/cgi/d-udm.eng.html]
+
+!!! Grammatical issues
+
+* [The tags that are in use|https://victorio.uit.no/langtech/trunk/langs/udm/src/morphology/root.lexc]   
+* [A list of morphological tags|../common/MorphologicalTags.html]
+
+
