@@ -163,6 +163,11 @@ LEXICON ad/avTag
  AdjTag ;
  AdvTag ;
 
+LEXICON ad/av/deTag
+ AdjTag ;
+ AdvTag ;
+ DescrTag ;
+
 LEXICON ad/av/paTag
  AdjTag ;
  AdvTag ;
@@ -176,9 +181,29 @@ LEXICON ad/noTag
  AdjTag ;
  NTag ;
 
+LEXICON ad/no/avTag
+ AdjTag ;
+ NTag ;
+ AdvTag ;
+
+LEXICON ad/pc/noTag
+ AdjTag ;
+ PrcTag ;
+ NTag ;
+
 LEXICON av/adTag
  AdvTag ;
  AdjTag ;
+
+LEXICON av/ad/noTag
+ AdvTag ;
+ AdjTag ;
+ NTag ;
+
+LEXICON av/ad/prTag
+ AdvTag ;
+ AdjTag ;
+ PronTag ;
 
 LEXICON av/noTag
  AdvTag ;
@@ -202,6 +227,10 @@ LEXICON av/pr/nmTag
  PronTag ;
  NumTag ;
 
+LEXICON de/adTag
+ DescrTag ;
+ AdjTag ;
+
 LEXICON de/av/noTag
  DescrTag ;
  AdvTag ;
@@ -210,6 +239,11 @@ LEXICON de/av/noTag
 LEXICON de/noTag
  DescrTag ;
  NTag ;
+
+LEXICON de/no/adTag
+ DescrTag ;
+ NTag ;
+ AdjTag ;
 
 LEXICON ge/coTag
  GerTag ;
@@ -222,6 +256,11 @@ LEXICON ge/poTag
 LEXICON nm/adTag
  AdjTag ;
  NumTag ;
+
+LEXICON no/ad/paTag
+ NTag ;
+ AdjTag ;
+ PcleTag ;
 
 LEXICON no/avTag
  NTag ;
@@ -261,6 +300,10 @@ LEXICON no/vb/prTag
  NTag ;
  VTag ;
  PronTag ;
+
+LEXICON pa/adTag
+ PcleTag ;
+ AdjTag ;
 
 LEXICON po/avTag
  AdvTag ;
