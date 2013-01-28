@@ -1830,24 +1830,6 @@
    </e>
    <e>
       <lg>
-         <l>вутскыны: ваче йырси вутскыны</l>
-         <stg>
-            <st Contlex="MONO">вутскыны: ваче йырси вутскы</st>
-         </stg>
-      </lg>
-      <pos>V</pos>
-      <phonet>вутскыны: ваче йырси вутскыны</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>tarttua hiuksista</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l>вуттыны</l>
          <stg>
             <st Contlex="MONO">вутты</st>
