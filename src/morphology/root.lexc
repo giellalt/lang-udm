@@ -118,6 +118,7 @@ LEXICON Root
    pronouns    ;
    propernouns    ;
    quantifiers    ;
+   conjunctors ;
 !   subjuntors	; ! not yet.
    verbs   ;
 
@@ -149,9 +150,6 @@ LEXICON PronTag
 
 LEXICON NumTag
 +Num: # ;
-
-LEXICON ConjTag
-+Conj: # ;
 
 LEXICON VTag
 +V: # ;
