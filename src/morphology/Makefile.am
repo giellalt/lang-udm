@@ -25,6 +25,7 @@ GT_LEXC_SRCS=\
 			 stems/punct.lexc \
 			 affixes/adjectives.lexc \
 			 affixes/adjectives.lexc \
+			 affixes/conjunctors.lexc \
 			 affixes/nouns.lexc \
 			 affixes/propernouns.lexc \
 			 affixes/verbs.lexc

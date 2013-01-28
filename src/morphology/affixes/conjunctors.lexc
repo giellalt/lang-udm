@@ -1,0 +1,21 @@
+
+LEXICON ConjTag
++Conj: # ;
+LEXICON av/coTag
++Conj: # ;
+LEXICON av/pa/coTag
++Conj: # ;
+LEXICON co/in/paTag
++Conj: # ;
+LEXICON co/paTag
++Conj: # ;
+LEXICON in/coTag
++Conj: # ;
+LEXICON pa/coTag
++Conj: # ;
+LEXICON pa/in/coTag
++Conj: # ;
+LEXICON po/coTag
++Conj: # ;
+LEXICON pr/coTag
++Conj: # ;
