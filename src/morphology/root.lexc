@@ -118,7 +118,7 @@ LEXICON Root
    pronouns    ;
    propernouns    ;
    quantifiers    ;
-   subjuntors	;
+!   subjuntors	; ! not yet.
    verbs   ;
 
 !!! Undeveloped contlexes
