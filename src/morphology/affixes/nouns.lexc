@@ -3,7 +3,7 @@
 !! Udmurt (Votyak) adjectives compare.
 
 !! Words with this lexicon have not been evaluated yet
-LEXICON NTag
+LEXICON N_
 +N: # ;
 
 LEXICON NOUNSUF
@@ -78,6 +78,11 @@ LEXICON CXPXPL
 +PxPl3:%>зы K;
 
 
+LEXICON ACRONDELIMITER
+    PROP_ ;
+:%: PROP_ ;
+:%- PROP_ ;
+:%' PROP_ ;
 
 
 

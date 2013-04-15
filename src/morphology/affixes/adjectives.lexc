@@ -2,11 +2,8 @@
 !! --------------------
 !! Udmurt (Votyak) adjectives compare.
 
-LEXICON no/adTag
- NOUNSUF ;
-
 !! words with this contlex have not been examined
-LEXICON AdjTag
+LEXICON A_
 +Adj: K ;
 
 
