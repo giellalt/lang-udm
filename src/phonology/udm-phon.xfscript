@@ -7,18 +7,18 @@ echo << THE DEFININTIONS >>
 echo << defining Vow >>
 
 define Vow [ а | е | ё | и | ӥ | о | ӧ | ы | э | ю | я 
-           | A | E | Ë | I | Ï | O | Ö | Y | Ê | Û | Â
+           | А | Е | Ё | И | Ӥ | О | Ӧ | Ы | Э | Ю | Я 
 ! like the cyrillic...               ö   bl  eab ju  ja
            ];
 
 echo << defining Cns >>
 define Cns [ б | в | г | д | ж | ӝ | з | ӟ 
-           | B | V | G | D | ¥ | ¥¤ | Z | Z¤ 
+           | Б | В | Г | Д | Ж | Ӝ | З | Ӟ 
 ! like the cyr..             zh  zh"  z   z"
            | й | к | л | м | н | п | р | с | т | ф | х | ц 
-           | J | K | L | M | N | P | R | S | T | F | H | C 
+           | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
            | ч | ӵ | ш | щ | ъ | ь 
-           | ч | ӵ | ß | ß¤ 
+           | Ч | Ӵ | Ш | Щ | Ъ | Ь 
 ! like cyr   ch  ch"  sh  shch hrd sft
            ];
 

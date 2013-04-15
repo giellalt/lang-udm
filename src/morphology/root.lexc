@@ -112,9 +112,13 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
    adjectives  ;
    adverbs  ;
+   descriptives	;
+   gerunds	;
    interjections	;
-   adverbs  ;
    nouns   ;
+   participles	;
+   particles	;
+   postpositions  ;
    pronouns    ;
    propernouns    ;
    quantifiers    ;
@@ -124,211 +128,211 @@ LEXICON Root
 
 !!! Undeveloped contlexes
 
-LEXICON AdvTag
+LEXICON ADV_
 +Adv: # ;
 
-LEXICON DescrTag
+LEXICON DESCR_
 +Descr: # ;
 
-LEXICON GerTag
+LEXICON GER_
 +Ger: # ;
 
-LEXICON InterjTag
+LEXICON INTERJ_
 +Interj: # ;
 
-LEXICON PcleTag
+LEXICON PCLE_
 +Pcle: # ;
 
-LEXICON PrcTag
+LEXICON PRC_
 +Prc: # ;
 
-LEXICON PoTag
+LEXICON PO_
 +Po: # ;
 
-LEXICON PronTag
+LEXICON PRON_
 +Pron: # ;
 
-LEXICON NumTag
+LEXICON NUM_
 +Num: # ;
 
-LEXICON VTag
+LEXICON V_
 +V: # ;
 
 LEXICON K
  # ;
 
 !2013-01-23
-!These are for dealing with multi word classes
-LEXICON ad/avTag
- AdjTag ;
- AdvTag ;
-
-LEXICON ad/av/deTag
- AdjTag ;
- AdvTag ;
- DescrTag ;
-
-LEXICON ad/av/paTag
- AdjTag ;
- AdvTag ;
- PcleTag ;
-
-LEXICON ad/nmTag
- AdjTag ;
- NumTag ;
-
-LEXICON ad/noTag
- AdjTag ;
- NTag ;
-
-LEXICON ad/no/avTag
- AdjTag ;
- NTag ;
- AdvTag ;
-
-LEXICON ad/pc/noTag
- AdjTag ;
- PrcTag ;
- NTag ;
-
-LEXICON av/adTag
- AdvTag ;
- AdjTag ;
-
-LEXICON av/ad/noTag
- AdvTag ;
- AdjTag ;
- NTag ;
-
-LEXICON av/ad/prTag
- AdvTag ;
- AdjTag ;
- PronTag ;
-
-LEXICON av/noTag
- AdvTag ;
- NTag ;
-
-LEXICON av/no/poTag
- AdvTag ;
- NTag ;
- PoTag ;
-
-LEXICON av/poTag
- AdvTag ;
- PoTag ;
-
-LEXICON av/prTag
- AdvTag ;
- PronTag ;
-
-LEXICON av/pr/nmTag
- AdvTag ;
- PronTag ;
- NumTag ;
-
-LEXICON de/adTag
- DescrTag ;
- AdjTag ;
-
-LEXICON de/av/noTag
- DescrTag ;
- AdvTag ;
- NTag ;
-
-LEXICON de/noTag
- DescrTag ;
- NTag ;
-
-LEXICON de/no/adTag
- DescrTag ;
- NTag ;
- AdjTag ;
-
-LEXICON ge/coTag
- GerTag ;
- ConjTag ;
-
-LEXICON ge/poTag
- GerTag ;
- PoTag ;
-
-LEXICON nm/adTag
- AdjTag ;
- NumTag ;
-
-LEXICON no/ad/paTag
- NTag ;
- AdjTag ;
- PcleTag ;
-
-LEXICON no/avTag
- NTag ;
- AdvTag ;
-
-LEXICON no/av/deTag
- NTag ;
- AdvTag ;
- DescrTag ;
-
-LEXICON no/deTag
- NTag ;
- DescrTag ;
-
-LEXICON no/nmTag
- NTag ;
- NumTag ;
-
-LEXICON no/pc/paTag
- NTag ;
- PrcTag ;
- PcleTag ;
-
-LEXICON no/paTag
- NTag ;
- PcleTag ;
-
-LEXICON no/poTag
- NTag ;
- PoTag ;
-
-LEXICON no/vbTag
- NTag ;
- VTag ;
-
-LEXICON no/vb/prTag
- NTag ;
- VTag ;
- PronTag ;
-
-LEXICON pa/adTag
- PcleTag ;
- AdjTag ;
-
-LEXICON po/avTag
- AdvTag ;
- PoTag ;
-
-LEXICON po/paTag
- PcleTag ;
- PoTag ;
-
-LEXICON pr/avTag
- AdvTag ;
- PronTag ;
-
-LEXICON pr/nmTag
- PronTag ;
- NumTag ;
-
-LEXICON pr/nm/avTag
- PronTag ;
- NumTag ;
- AdvTag ;
-
-LEXICON pr/paTag
- PronTag ;
- PcleTag ;
+!!!These are for dealing with multi word classes
+!!LEXICON ad/avTag
+!! AdjTag ;
+!! AdvTag ;
+!!
+!!LEXICON ad/av/deTag
+!! AdjTag ;
+!! AdvTag ;
+!! DescrTag ;
+!!
+!!LEXICON ad/av/paTag
+!! AdjTag ;
+!! AdvTag ;
+!! PcleTag ;
+!!
+!!LEXICON ad/nmTag
+!! AdjTag ;
+!! NumTag ;
+!!
+!!LEXICON ad/noTag
+!! AdjTag ;
+!! NTag ;
+!!
+!!LEXICON ad/no/avTag
+!! AdjTag ;
+!! NTag ;
+!! AdvTag ;
+!!
+!!LEXICON ad/pc/noTag
+!! AdjTag ;
+!! PrcTag ;
+!! NTag ;
+!!
+!!LEXICON av/adTag
+!! AdvTag ;
+!! AdjTag ;
+!!
+!!LEXICON av/ad/noTag
+!! AdvTag ;
+!! AdjTag ;
+!! NTag ;
+!!
+!!LEXICON av/ad/prTag
+!! AdvTag ;
+!! AdjTag ;
+!! PronTag ;
+!!
+!!LEXICON av/noTag
+!! AdvTag ;
+!! NTag ;
+!!
+!!LEXICON av/no/poTag
+!! AdvTag ;
+!! NTag ;
+!! PoTag ;
+!!
+!!LEXICON av/poTag
+!! AdvTag ;
+!! PoTag ;
+!!
+!!LEXICON av/prTag
+!! AdvTag ;
+!! PronTag ;
+!!
+!!LEXICON av/pr/nmTag
+!! AdvTag ;
+!! PronTag ;
+!! NumTag ;
+!!
+!!LEXICON de/adTag
+!! DescrTag ;
+!! AdjTag ;
+!!
+!!LEXICON de/av/noTag
+!! DescrTag ;
+!! AdvTag ;
+!! NTag ;
+!!
+!!LEXICON de/noTag
+!! DescrTag ;
+!! NTag ;
+!!
+!!LEXICON de/no/adTag
+!! DescrTag ;
+!! NTag ;
+!! AdjTag ;
+!!
+!!LEXICON ge/coTag
+!! GerTag ;
+!! ConjTag ;
+!!
+!!LEXICON ge/poTag
+!! GerTag ;
+!! PoTag ;
+!!
+!!LEXICON nm/adTag
+!! AdjTag ;
+!! NumTag ;
+!!
+!!LEXICON no/ad/paTag
+!! NTag ;
+!! AdjTag ;
+!! PcleTag ;
+!!
+!!LEXICON no/avTag
+!! NTag ;
+!! AdvTag ;
+!!
+!!LEXICON no/av/deTag
+!! NTag ;
+!! AdvTag ;
+!! DescrTag ;
+!!
+!!LEXICON no/deTag
+!! NTag ;
+!! DescrTag ;
+!!
+!!LEXICON no/nmTag
+!! NTag ;
+!! NumTag ;
+!!
+!!LEXICON no/pc/paTag
+!! NTag ;
+!! PrcTag ;
+!! PcleTag ;
+!!
+!!LEXICON no/paTag
+!! NTag ;
+!! PcleTag ;
+!!
+!!LEXICON no/poTag
+!! NTag ;
+!! PoTag ;
+!!
+!!LEXICON no/vbTag
+!! NTag ;
+!! VTag ;
+!!
+!!LEXICON no/vb/prTag
+!! NTag ;
+!! VTag ;
+!! PronTag ;
+!!
+!!LEXICON pa/adTag
+!! PcleTag ;
+!! AdjTag ;
+!!
+!!LEXICON po/avTag
+!! AdvTag ;
+!! PoTag ;
+!!
+!!LEXICON po/paTag
+!! PcleTag ;
+!! PoTag ;
+!!
+!!LEXICON pr/avTag
+!! AdvTag ;
+!! PronTag ;
+!!
+!!LEXICON pr/nmTag
+!! PronTag ;
+!! NumTag ;
+!!
+!!LEXICON pr/nm/avTag
+!! PronTag ;
+!! NumTag ;
+!! AdvTag ;
+!!
+!!LEXICON pr/paTag
+!! PronTag ;
+!! PcleTag ;
 
 
 ! vim: set ft=xfst-lexc:

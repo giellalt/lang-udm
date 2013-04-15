@@ -1,75 +1,1810 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e><lg><l>Австрия</l><stg><st Contlex="PropTag">Австрия</st></stg></lg><pos>PROP</pos><phonet>А́встрия</phonet><mg><m><head></head></m><tg lang="fin"><t>Itävalta</t></tg> </mg></e>
-<e><lg><l>Азербайджан</l><stg><st Contlex="PropTag">Азербайджан</st></stg></lg><pos>PROP</pos><phonet>Азербайджа́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Azerbaidžan</t></tg> </mg></e>
-<e><lg><l>Азия</l><stg><st Contlex="PropTag">Азия</st></stg></lg><pos>PROP</pos><phonet>А́зия</phonet><mg><m><head></head></m><tg lang="fin"><t>Aasia</t></tg> </mg></e>
-<e><lg><l>Америка</l><stg><st Contlex="PropTag">Америка</st></stg></lg><pos>PROP</pos><phonet>Аме́рика</phonet><mg><m><head></head></m><tg lang="fin"><t>Amerikka</t></tg> </mg></e>
-<e><lg><l>Армения</l><stg><st Contlex="PropTag">Армения</st></stg></lg><pos>PROP</pos><phonet>Арме́ния</phonet><mg><m><head></head></m><tg lang="fin"><t>Armenia</t></tg> </mg></e>
-<e><lg><l>Африка</l><stg><st Contlex="PropTag">Африка</st></stg></lg><pos></pos><phonet>А́фрика</phonet><mg><m><head></head></m><tg lang="fin"><t>Afrikka</t></tg> </mg></e>
-<e><lg><l>Башкортостан</l><stg><st Contlex="PropTag">Башкортостан</st></stg></lg><pos></pos><phonet>Башкортоста́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Baškortostan</t></tg> </mg></e>
-<e><lg><l>Белоруссия</l><stg><st Contlex="PropTag">Белоруссия</st></stg></lg><pos></pos><phonet>Белору́ссия</phonet><mg><m><head></head></m><tg lang="fin"><t>Valko-Venäjä</t></tg> </mg></e>
-<e><lg><l>Блумингтон</l><stg><st Contlex="PropTag">Блумингтон</st></stg></lg><pos></pos><phonet>Блу́мингтон</phonet><mg><m><head></head></m><tg lang="fin"><t>Bloomington</t></tg> </mg></e>
-<e><lg><l>Вало</l><stg><st Contlex="PropTag">Вало</st></stg></lg><pos></pos><phonet>Вало</phonet><mg><m><head></head></m><tg lang="fin"><t>Valo, Vala</t></tg><tg lang="rus"><t>Вала́</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Ватка</l><stg><st Contlex="PropTag">Ватка</st></stg></lg><pos></pos><phonet>Ватка</phonet><mg><m><head></head></m> I <span class="FINregular" style="font-family:times new roman"> Vatka, Vjatka</span><tg lang="rus"><t>Вя́тка</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Ватка</l><stg><st Contlex="PropTag">Ватка</st></stg></lg><pos></pos><phonet>Ватка</phonet><mg><m><head></head></m> II <tg lang="fin"><t>Vatka</t></tg> (pohjoisudmurttilaisen heimon nimi) </mg></e>
-<e><lg><l>Венгрия</l><stg><st Contlex="PropTag">Венгрия</st></stg></lg><pos></pos><phonet>Ве́нгрия</phonet><mg><m><head></head></m><tg lang="fin"><t>Unkari</t></tg> </mg></e>
-<e><lg><l>Вожой</l><stg><st Contlex="PropTag">Вожой</st></stg></lg><pos></pos><phonet>Вожой</phonet><mg><m><head></head></m><tg lang="fin"><t>Vožoj, Vožojka</t></tg><tg lang="rus"><t>Вожо́йка</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Воткакар</l><stg><st Contlex="PropTag">Воткакар</st></stg></lg><pos></pos><phonet>Воткакар</phonet><mg><m><head></head></m><tg lang="fin"><t>Votkinsk</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Галилея</l><stg><st Contlex="PropTag">Галилея</st></stg></lg><pos></pos><phonet>Галиле́я</phonet><mg><m><head></head></m><tg lang="fin"><t>Galilea</t></tg> </mg></e>
-<e><lg><l>Германия</l><stg><st Contlex="PropTag">Германия</st></stg></lg><pos></pos><phonet>Герма́ния</phonet><mg><m><head></head></m><tg lang="fin"><t>Saksa</t></tg> </mg></e>
-<e><lg><l>Глазкар</l><stg><st Contlex="PropTag">Глазкар</st></stg></lg><pos></pos><phonet>Глазкар</phonet><mg><m><head></head></m><tg lang="fin"><t>Glazkar, Glazov</t></tg><tg lang="rus"><t>Гла́зов</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Грузия</l><stg><st Contlex="PropTag">Грузия</st></stg></lg><pos></pos><phonet>Гру́зия</phonet><mg><m><head></head></m><tg lang="fin"><t>Georgia</t></tg> </mg></e>
-<e><lg><l>Европа</l><stg><st Contlex="PropTag">Европа</st></stg></lg><pos></pos><phonet>Евро́па</phonet><mg><m><head></head></m><tg lang="fin"><t>Eurooppa</t></tg> </mg></e>
-<e><lg><l>Ижкар</l><stg><st Contlex="PropTag">Ижкар</st></stg></lg><pos></pos><phonet>Ижкар</phonet><mg><m><head></head></m><tg lang="fin"><t>Iževsk</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Инмар</l><stg><st Contlex="PropTag">Инмар</st></stg></lg><pos></pos><phonet>Инмар</phonet><mg><m><head></head></m><tg lang="fin"><t>udmurttien pääjumala, Inmar</t></tg> </mg></e>
-<e><lg><l>Италия</l><stg><st Contlex="PropTag">Италия</st></stg></lg><pos></pos><phonet>Ита́лия</phonet><mg><m><head></head></m><tg lang="fin"><t>Italia</t></tg> </mg></e>
-<e><lg><l>Кадрек</l><stg><st Contlex="PropTag">Кадрек</st></stg></lg><pos></pos><phonet>Кадрек</phonet><mg><m><head></head></m><tg lang="fin"><t>Kadrek</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Казахстан</l><stg><st Contlex="PropTag">Казахстан</st></stg></lg><pos></pos><phonet>Казахста́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Kazakstan</t></tg> </mg></e>
-<e><lg><l>Калмез</l><stg><st Contlex="PropTag">Калмез</st></stg></lg><pos></pos><phonet>Калмез</phonet><mg><m><head></head></m><tg lang="fin"><t>Kalmez, Kil'mez'</t></tg><tg lang="rus"><t>Кильме́зь</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Кам</l><stg><st Contlex="PropTag">Кам</st></stg></lg><pos></pos><phonet>Кам</phonet><mg><m><head></head></m><tg lang="fin"><t>Kama, </t></tg><tg lang="rus"><t>Ка́ма</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Канада</l><stg><st Contlex="PropTag">Канада</st></stg></lg><pos></pos><phonet>Кана́да</phonet><mg><m><head></head></m><tg lang="fin"><t>Kanada</t></tg> </mg></e>
-<e><lg><l>Карпушата</l><stg><st Contlex="PropTag">Карпушата</st></stg></lg><pos></pos><phonet>Карпуша́та</phonet><mg><m><head></head></m><tg lang="fin"><t>Karpušata</t></tg> (kylän nimi) </mg></e>
-<e><lg><l>Кез</l><stg><st Contlex="PropTag">Кез</st></stg></lg><pos></pos><phonet>Кез</phonet><mg><m><head></head></m><tg lang="fin"><t>Kez</t></tg> (piirin nimi) </mg></e>
-<e><lg><l>Киев</l><stg><st Contlex="PropTag">Киев</st></stg></lg><pos></pos><phonet>Ки́ев</phonet><mg><m><head></head></m><tg lang="fin"><t>Kiova</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Киргизия</l><stg><st Contlex="PropTag">Киргизия</st></stg></lg><pos></pos><phonet>Кирги́зия</phonet><mg><m><head></head></m><tg lang="fin"><t>Kirgisia, Kirgisistan</t></tg> </mg></e>
-<e><lg><l>Китай</l><stg><st Contlex="PropTag">Китай</st></stg></lg><pos></pos><phonet>Кита́й</phonet><mg><m><head></head></m><tg lang="fin"><t>Kiina</t></tg> </mg></e>
-<e><lg><l>Куба</l><stg><st Contlex="PropTag">Куба</st></stg></lg><pos></pos><phonet>Ку́ба</phonet><mg><m><head></head></m><tg lang="fin"><t>Kuuba</t></tg> </mg></e>
-<e><lg><l>Кузон</l><stg><st Contlex="PropTag">Кузон</st></stg></lg><pos></pos><phonet>Кузон</phonet><mg><m><head></head></m><tg lang="fin"><t>Kasaani, Kazan</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Курег</l><stg><st Contlex="PropTag">Курег</st></stg></lg><pos></pos><phonet>Курег</phonet><mg><m><head></head></m> II <span class="FINregular" style="font-family:times new roman"> Kureg, Kuregovo</span><tg lang="rus"><t>Курегово</t></tg> (kylän nimi) </mg></e>
-<e><lg><l>Кырыкмас</l><stg><st Contlex="PropTag">Кырыкмас</st></stg></lg><pos></pos><phonet>Кырыкмас</phonet><mg><m><head></head></m><tg lang="fin"><t>Kyrykmas</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Латвия</l><stg><st Contlex="PropTag">Латвия</st></stg></lg><pos></pos><phonet>Ла́твия</phonet><mg><m><head></head></m><tg lang="fin"><t>Latvia</t></tg> </mg></e>
-<e><lg><l>Литва</l><stg><st Contlex="PropTag">Литва</st></stg></lg><pos></pos><phonet>Литва́</phonet><mg><m><head></head></m><tg lang="fin"><t>Liettua</t></tg> </mg></e>
-<e><lg><l>Марий Эл</l><stg><st Contlex="PropTag">Марий Эл</st></stg></lg><pos></pos><phonet>Марий Эл</phonet><mg><m><head></head></m><tg lang="fin"><t>Mari El, Marinmaa</t></tg> </mg></e>
-<e><lg><l>Молдавия</l><stg><st Contlex="PropTag">Молдавия</st></stg></lg><pos></pos><phonet>Молда́вия</phonet><mg><m><head></head></m><tg lang="fin"><t>Moldavia</t></tg> </mg></e>
-<e><lg><l>Монголия</l><stg><st Contlex="PropTag">Монголия</st></stg></lg><pos></pos><phonet>Монго́лия</phonet><mg><m><head></head></m><tg lang="fin"><t>Mongolia</t></tg> </mg></e>
-<e><lg><l>Оӵ</l><stg><st Contlex="PropTag">Оӵ</st></stg></lg><pos></pos><phonet>Оӵ</phonet><mg><m><head></head></m><tg lang="fin"><t>Otš, Iž</t></tg><tg lang="rus"><t>Иж</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Пермь</l><stg><st Contlex="PropTag">Пермь</st></stg></lg><pos></pos><phonet>Пермь</phonet><mg><m><head></head></m><tg lang="fin"><t>Perm</t></tg> (kaupungin ja alueen nimi) </mg></e>
-<e><lg><l>Позюм</l><stg><st Contlex="PropTag">Позюм</st></stg></lg><pos></pos><phonet>Позюм</phonet><mg><m><head></head></m><tg lang="fin"><t>Poźum, Pozim</t></tg><tg lang="rus"><t>По́зимь</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Посьтол</l><stg><st Contlex="PropTag">Посьтол</st></stg></lg><pos></pos><phonet>Посьтол</phonet><mg><m><head></head></m><tg lang="fin"><t>Postol</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Пӧжман</l><stg><st Contlex="PropTag">Пӧжман</st></stg></lg><pos></pos><phonet>Пӧжман</phonet><mg><m><head></head></m><tg lang="fin"><t>Pöžman</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Пурга</l><stg><st Contlex="PropTag">Пурга</st></stg></lg><pos></pos><phonet>Пурга</phonet><mg><m><head></head></m><tg lang="fin"><t>Purga</t></tg> (kylän nimi) </mg></e>
-<e><lg><l>Россия</l><stg><st Contlex="PropTag">Россия</st></stg></lg><pos></pos><phonet>Росси́я</phonet><mg><m><head></head></m><tg lang="fin"><t>Venäjä</t></tg> </mg></e>
-<e><lg><l>Самария</l><stg><st Contlex="PropTag">Самария</st></stg></lg><pos></pos><phonet>Сама́рия</phonet><mg><m><head></head></m><tg lang="fin"><t>Samaria</t></tg> (raamatullinen paikannimi) </mg></e>
-<e><lg><l>Санкт Петербург</l><stg><st Contlex="PropTag">Санкт Петербург</st></stg></lg><pos></pos><phonet>Санкт Петербу́рг</phonet><mg><m><head></head></m><tg lang="fin"><t>Pietari</t></tg> </mg></e>
-<e><lg><l>Сарапул</l><stg><st Contlex="PropTag">Сарапул</st></stg></lg><pos></pos><phonet>Сара́пул</phonet><mg><m><head></head></m><tg lang="fin"><t>Sarapul</t></tg> (kaupungin nimi) </mg></e>
-<e><lg><l>Сепыч</l><stg><st Contlex="PropTag">Сепыч</st></stg></lg><pos></pos><phonet>Сепыч</phonet><mg><m><head></head></m><tg lang="fin"><t>Sepytš</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Сива</l><stg><st Contlex="PropTag">Сива</st></stg></lg><pos></pos><phonet>Сива́</phonet><mg><m><head></head></m><tg lang="fin"><t>Siva, </t></tg><tg lang="rus"><t>Си́ва</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Сизьгурт</l><stg><st Contlex="PropTag">Сизьгурт</st></stg></lg><pos></pos><phonet>Сизьгурт</phonet><mg><m><head></head></m><tg lang="fin"><t>Sizgurt, Djatlevo</t></tg><tg lang="rus"><t>Дя́тлево</t></tg> (kylän nimi) </mg></e>
-<e><lg><l>Сове́тской Союз</l><stg><st Contlex="PropTag">Сове́тской Союз</st></stg></lg><pos></pos><phonet>Сове́тской Сою́з</phonet><mg><m><head></head></m><tg lang="fin"><t>Neuvostoliitto</t></tg> </mg></e>
-<e><lg><l>Сылӥӟ</l><stg><st Contlex="PropTag">Сылӥӟ</st></stg></lg><pos></pos><phonet>Сылӥӟ</phonet><mg><m><head></head></m><tg lang="fin"><t>Sylydž, Sjelytška</t></tg><tg lang="rus"><t>Селы́чка</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Таджикистан</l><stg><st Contlex="PropTag">Таджикистан</st></stg></lg><pos></pos><phonet>Таджикиста́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Tadžikistan</t></tg> </mg></e>
-<e><lg><l>Татарстан</l><stg><st Contlex="PropTag">Татарстан</st></stg></lg><pos></pos><phonet>Татарста́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Tatarstan</t></tg> </mg></e>
-<e><lg><l>Туймы</l><stg><st Contlex="PropTag">Туймы</st></stg></lg><pos></pos><phonet>Туймы</phonet><mg><m><head></head></m><tg lang="fin"><t>Tujmi̮, Tojma</t></tg><tg lang="rus"><t>То́йма</t></tg> (joen nimi)</mg></e>
-<e><lg><l>Туркмения</l><stg><st Contlex="PropTag">Туркмения</st></stg></lg><pos></pos><phonet>Туркме́ния</phonet><mg><m><head></head></m><tg lang="fin"><t>Turkmenia</t></tg> </mg></e>
-<e><lg><l>Удмуртия</l><stg><st Contlex="PropTag">Удмуртия</st></stg></lg><pos></pos><phonet>Удму́ртия</phonet><mg><m><head></head></m><tg lang="fin"><t>Udmurtia</t></tg> </mg></e>
-<e><lg><l>Узбекистан</l><stg><st Contlex="PropTag">Узбекистан</st></stg></lg><pos></pos><phonet>Узбекиста́н</phonet><mg><m><head></head></m><tg lang="fin"><t>Uzbekistan</t></tg> </mg></e>
-<e><lg><l>Украина</l><stg><st Contlex="PropTag">Украина</st></stg></lg><pos></pos><phonet>Украи́на</phonet><mg><m><head></head></m><tg lang="fin"><t>Ukraina</t></tg> </mg></e>
-<e><lg><l>Урал</l><stg><st Contlex="PropTag">Урал</st></stg></lg><pos></pos><phonet>Ура́л</phonet><mg><m><head></head></m><tg lang="fin"><t>Ural</t></tg> (vuoriston nimi) </mg></e>
-<e><lg><l>Финляндия</l><stg><st Contlex="PropTag">Финляндия</st></stg></lg><pos></pos><phonet>Финля́ндия</phonet><mg><m><head></head></m><tg lang="fin"><t>Suomi</t></tg> </mg></e>
-<e><lg><l>Чупчи</l><stg><st Contlex="PropTag">Чупчи</st></stg></lg><pos></pos><phonet>Чупчи</phonet><mg><m><head></head></m><tg lang="fin"><t>Tšuptši, Tšeptsa</t></tg><tg lang="rus"><t>Чепца́</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Чур</l><stg><st Contlex="PropTag">Чур</st></stg></lg><pos></pos><phonet>Чур</phonet><mg><m><head></head></m><tg lang="fin"><t>Tšur</t></tg> (joen nimi) </mg></e>
-<e><lg><l>Эстония</l><stg><st Contlex="PropTag">Эстония</st></stg></lg><pos></pos><phonet>Эсто́ния</phonet><mg><m><head></head></m><tg lang="fin"><t>Viro</t></tg> </mg></e>
-<e><lg><l>Яр</l><stg><st Contlex="PropTag">Яр</st></stg></lg><pos>PROP</pos><phonet>Яр</phonet><mg><m><head></head></m><tg lang="fin"><t>Jar</t></tg> (kylän ja piirin nimi) </mg></e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l>Австрия</l>
+
+      <stg>
+        <st Contlex="PROP_">Австрия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>А́встрия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Itävalta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Азербайджан</l>
+
+      <stg>
+        <st Contlex="PROP_">Азербайджан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Азербайджа́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Azerbaidžan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Азия</l>
+
+      <stg>
+        <st Contlex="PROP_">Азия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>А́зия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Aasia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Америка</l>
+
+      <stg>
+        <st Contlex="PROP_">Америка</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Аме́рика</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Amerikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Армения</l>
+
+      <stg>
+        <st Contlex="PROP_">Армения</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Арме́ния</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Armenia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Африка</l>
+
+      <stg>
+        <st Contlex="PROP_">Африка</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>А́фрика</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Afrikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Башкортостан</l>
+
+      <stg>
+        <st Contlex="PROP_">Башкортостан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Башкортоста́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Baškortostan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Белоруссия</l>
+
+      <stg>
+        <st Contlex="PROP_">Белоруссия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Белору́ссия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Valko-Venäjä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Блумингтон</l>
+
+      <stg>
+        <st Contlex="PROP_">Блумингтон</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Блу́мингтон</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Bloomington</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Вало</l>
+
+      <stg>
+        <st Contlex="PROP_">Вало</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Вало</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Valo, Vala</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Вала́</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Ватка</l>
+
+      <stg>
+        <st Contlex="PROP_">Ватка</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ватка</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <span class="FINregular" style="font-family:times new roman">Vatka,
+      Vjatka</span>
+
+      <tg xml:lang="rus">
+        <t>Вя́тка</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Ватка</l>
+
+      <stg>
+        <st Contlex="PROP_">Ватка</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ватка</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      II
+
+      <tg xml:lang="fin">
+        <t>Vatka</t>
+      </tg>
+
+      (pohjoisudmurttilaisen heimon nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Венгрия</l>
+
+      <stg>
+        <st Contlex="PROP_">Венгрия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ве́нгрия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Unkari</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Вожой</l>
+
+      <stg>
+        <st Contlex="PROP_">Вожой</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Вожой</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Vožoj, Vožojka</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Вожо́йка</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Воткакар</l>
+
+      <stg>
+        <st Contlex="PROP_">Воткакар</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Воткакар</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Votkinsk</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Галилея</l>
+
+      <stg>
+        <st Contlex="PROP_">Галилея</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Галиле́я</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Galilea</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Германия</l>
+
+      <stg>
+        <st Contlex="PROP_">Германия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Герма́ния</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Saksa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Глазкар</l>
+
+      <stg>
+        <st Contlex="PROP_">Глазкар</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Глазкар</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Glazkar, Glazov</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Гла́зов</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Грузия</l>
+
+      <stg>
+        <st Contlex="PROP_">Грузия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Гру́зия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Georgia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Европа</l>
+
+      <stg>
+        <st Contlex="PROP_">Европа</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Евро́па</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Eurooppa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Ижкар</l>
+
+      <stg>
+        <st Contlex="PROP_">Ижкар</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ижкар</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Iževsk</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Инмар</l>
+
+      <stg>
+        <st Contlex="PROP_">Инмар</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Инмар</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>udmurttien pääjumala, Inmar</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Италия</l>
+
+      <stg>
+        <st Contlex="PROP_">Италия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ита́лия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Italia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Кадрек</l>
+
+      <stg>
+        <st Contlex="PROP_">Кадрек</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кадрек</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kadrek</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Казахстан</l>
+
+      <stg>
+        <st Contlex="PROP_">Казахстан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Казахста́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kazakstan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Калмез</l>
+
+      <stg>
+        <st Contlex="PROP_">Калмез</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Калмез</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kalmez, Kil'mez'</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Кильме́зь</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Кам</l>
+
+      <stg>
+        <st Contlex="PROP_">Кам</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кам</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kama,</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Ка́ма</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Канада</l>
+
+      <stg>
+        <st Contlex="PROP_">Канада</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кана́да</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kanada</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Карпушата</l>
+
+      <stg>
+        <st Contlex="PROP_">Карпушата</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Карпуша́та</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Karpušata</t>
+      </tg>
+
+      (kylän nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Кез</l>
+
+      <stg>
+        <st Contlex="PROP_">Кез</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кез</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kez</t>
+      </tg>
+
+      (piirin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Киев</l>
+
+      <stg>
+        <st Contlex="PROP_">Киев</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ки́ев</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kiova</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Киргизия</l>
+
+      <stg>
+        <st Contlex="PROP_">Киргизия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кирги́зия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kirgisia, Kirgisistan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Китай</l>
+
+      <stg>
+        <st Contlex="PROP_">Китай</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кита́й</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kiina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Куба</l>
+
+      <stg>
+        <st Contlex="PROP_">Куба</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ку́ба</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kuuba</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Кузон</l>
+
+      <stg>
+        <st Contlex="PROP_">Кузон</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кузон</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kasaani, Kazan</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Курег</l>
+
+      <stg>
+        <st Contlex="PROP_">Курег</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Курег</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      II
+
+      <span class="FINregular" style="font-family:times new roman">Kureg,
+      Kuregovo</span>
+
+      <tg xml:lang="rus">
+        <t>Курегово</t>
+      </tg>
+
+      (kylän nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Кырыкмас</l>
+
+      <stg>
+        <st Contlex="PROP_">Кырыкмас</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Кырыкмас</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Kyrykmas</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Латвия</l>
+
+      <stg>
+        <st Contlex="PROP_">Латвия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ла́твия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Latvia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Литва</l>
+
+      <stg>
+        <st Contlex="PROP_">Литва</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Литва́</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Liettua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Марий Эл</l>
+
+      <stg>
+        <st Contlex="PROP_">Марий Эл</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Марий Эл</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Mari El, Marinmaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Молдавия</l>
+
+      <stg>
+        <st Contlex="PROP_">Молдавия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Молда́вия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Moldavia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Монголия</l>
+
+      <stg>
+        <st Contlex="PROP_">Монголия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Монго́лия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Mongolia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Оӵ</l>
+
+      <stg>
+        <st Contlex="PROP_">Оӵ</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Оӵ</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Otš, Iž</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Иж</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Пермь</l>
+
+      <stg>
+        <st Contlex="PROP_">Пермь</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Пермь</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Perm</t>
+      </tg>
+
+      (kaupungin ja alueen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Позюм</l>
+
+      <stg>
+        <st Contlex="PROP_">Позюм</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Позюм</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Poźum, Pozim</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>По́зимь</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Посьтол</l>
+
+      <stg>
+        <st Contlex="PROP_">Посьтол</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Посьтол</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Postol</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Пурга</l>
+
+      <stg>
+        <st Contlex="PROP_">Пурга</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Пурга</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Purga</t>
+      </tg>
+
+      (kylän nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Пӧжман</l>
+
+      <stg>
+        <st Contlex="PROP_">Пӧжман</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Пӧжман</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Pöžman</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Россия</l>
+
+      <stg>
+        <st Contlex="PROP_">Россия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Росси́я</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Venäjä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Самария</l>
+
+      <stg>
+        <st Contlex="PROP_">Самария</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сама́рия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Samaria</t>
+      </tg>
+
+      (raamatullinen paikannimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Санкт Петербург</l>
+
+      <stg>
+        <st Contlex="PROP_">Санкт Петербург</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Санкт Петербу́рг</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Pietari</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сарапул</l>
+
+      <stg>
+        <st Contlex="PROP_">Сарапул</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сара́пул</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Sarapul</t>
+      </tg>
+
+      (kaupungin nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сепыч</l>
+
+      <stg>
+        <st Contlex="PROP_">Сепыч</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сепыч</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Sepytš</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сива</l>
+
+      <stg>
+        <st Contlex="PROP_">Сива</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сива́</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Siva,</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Си́ва</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сизьгурт</l>
+
+      <stg>
+        <st Contlex="PROP_">Сизьгурт</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сизьгурт</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Sizgurt, Djatlevo</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Дя́тлево</t>
+      </tg>
+
+      (kylän nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сове́тской Союз</l>
+
+      <stg>
+        <st Contlex="PROP_">Сове́тской Союз</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сове́тской Сою́з</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Neuvostoliitto</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сылӥӟ</l>
+
+      <stg>
+        <st Contlex="PROP_">Сылӥӟ</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Сылӥӟ</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Sylydž, Sjelytška</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Селы́чка</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Таджикистан</l>
+
+      <stg>
+        <st Contlex="PROP_">Таджикистан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Таджикиста́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Tadžikistan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Татарстан</l>
+
+      <stg>
+        <st Contlex="PROP_">Татарстан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Татарста́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Tatarstan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Туймы</l>
+
+      <stg>
+        <st Contlex="PROP_">Туймы</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Туймы</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Tujmi̮, Tojma</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>То́йма</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Туркмения</l>
+
+      <stg>
+        <st Contlex="PROP_">Туркмения</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Туркме́ния</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Turkmenia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Удмуртия</l>
+
+      <stg>
+        <st Contlex="PROP_">Удмуртия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Удму́ртия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Udmurtia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Узбекистан</l>
+
+      <stg>
+        <st Contlex="PROP_">Узбекистан</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Узбекиста́н</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Uzbekistan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Украина</l>
+
+      <stg>
+        <st Contlex="PROP_">Украина</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Украи́на</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Ukraina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Урал</l>
+
+      <stg>
+        <st Contlex="PROP_">Урал</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Ура́л</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Ural</t>
+      </tg>
+
+      (vuoriston nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Финляндия</l>
+
+      <stg>
+        <st Contlex="PROP_">Финляндия</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Финля́ндия</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Suomi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Чупчи</l>
+
+      <stg>
+        <st Contlex="PROP_">Чупчи</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Чупчи</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Tšuptši, Tšeptsa</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t>Чепца́</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Чур</l>
+
+      <stg>
+        <st Contlex="PROP_">Чур</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Чур</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Tšur</t>
+      </tg>
+
+      (joen nimi)
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Эстония</l>
+
+      <stg>
+        <st Contlex="PROP_">Эстония</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Эсто́ния</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Viro</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Яр</l>
+
+      <stg>
+        <st Contlex="PROP_">Яр</st>
+      </stg>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <phonet>Яр</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>Jar</t>
+      </tg>
+
+      (kylän ja piirin nimi)
+    </mg>
+  </e>
 </r>

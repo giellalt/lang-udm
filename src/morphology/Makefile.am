@@ -35,12 +35,16 @@ GENERATED_LEXC_SRCS=\
 			 stems/adjectives.lexc \
 			 stems/adverbs.lexc \
 			 stems/conjunctors.lexc \
+			 stems/descriptives.lexc \
+			 stems/gerunds.lexc \
 			 stems/interjections.lexc \
 			 stems/nouns.lexc \
-			 stems/quantifiers.lexc \
+			 stems/participles.lexc \
+			 stems/particles.lexc \
 			 stems/postpositions.lexc \
 			 stems/pronouns.lexc \
 			 stems/propernouns.lexc \
+			 stems/quantifiers.lexc \
 			 stems/verbs.lexc
 
 
@@ -49,8 +53,12 @@ GT_XML_SRCS=\
 			 stems/adjectives.xml \
 			 stems/adverbs.xml \
 			 stems/conjunctors.xml \
+			 stems/descriptives.xml \
+			 stems/gerunds.xml \
 			 stems/interjections.xml \
 			 stems/nouns.xml \
+			 stems/participles.xml \
+			 stems/particles.xml \
 			 stems/quantifiers.xml \
 			 stems/postpositions.xml \
 			 stems/pronouns.xml \
