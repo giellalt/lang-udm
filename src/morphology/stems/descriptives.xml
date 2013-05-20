@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l>гыб-гыб</l>
+
+      <stg>
+        <st Contlex="DESCR_">гыб-гыб</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>гыж</l>
+
+      <stg>
+        <st Contlex="DESCR_">гыж</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дымбыр</l>
+
+      <stg>
+        <st Contlex="DESCR_">дымбыр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жаль</l>
+
+      <stg>
+        <st Contlex="DESCR_">жаль</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жин</l>
+
+      <stg>
+        <st Contlex="DESCR_">жин</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жин-жин</l>
+
+      <stg>
+        <st Contlex="DESCR_">жин-жин</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жир</l>
+
+      <stg>
+        <st Contlex="DESCR_">жир</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>зыб-зыб</l>
+
+      <stg>
+        <st Contlex="DESCR_">зыб-зыб</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>йырчукин</l>
+
+      <stg>
+        <st Contlex="DESCR_">йырчукин</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>кеж</l>
+
+      <stg>
+        <st Contlex="DESCR_">кеж</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>кичи-вачи</l>
+
+      <stg>
+        <st Contlex="DESCR_">кичи-вачи</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>лоптро</l>
+
+      <stg>
+        <st Contlex="DESCR_">лоптро</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>луп</l>
+
+      <stg>
+        <st Contlex="DESCR_">луп</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мырт</l>
+
+      <stg>
+        <st Contlex="DESCR_">мырт</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>наӵ</l>
+
+      <stg>
+        <st Contlex="DESCR_">наӵ</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>наӵ-наӵ</l>
+
+      <stg>
+        <st Contlex="DESCR_">наӵ-наӵ</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пик</l>
+
+      <stg>
+        <st Contlex="DESCR_">пик</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пуж</l>
+
+      <stg>
+        <st Contlex="DESCR_">пуж</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>такыр</l>
+
+      <stg>
+        <st Contlex="DESCR_">такыр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тарак</l>
+
+      <stg>
+        <st Contlex="DESCR_">тарак</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тур</l>
+
+      <stg>
+        <st Contlex="DESCR_">тур</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>уа</l>
+
+      <stg>
+        <st Contlex="DESCR_">уа</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ур</l>
+
+      <stg>
+        <st Contlex="DESCR_">ур</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>урбар</l>
+
+      <stg>
+        <st Contlex="DESCR_">урбар</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>учыр</l>
+
+      <stg>
+        <st Contlex="DESCR_">учыр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>чукин</l>
+
+      <stg>
+        <st Contlex="DESCR_">чукин</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>чуп</l>
+
+      <stg>
+        <st Contlex="DESCR_">чуп</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>чут</l>
+
+      <stg>
+        <st Contlex="DESCR_">чут</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шар</l>
+
+      <stg>
+        <st Contlex="DESCR_">шар</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>штыр</l>
+
+      <stg>
+        <st Contlex="DESCR_">штыр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шур</l>
+
+      <stg>
+        <st Contlex="DESCR_">шур</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шуташ-шеташ</l>
+
+      <stg>
+        <st Contlex="DESCR_">шуташ-шеташ</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шып</l>
+
+      <stg>
+        <st Contlex="DESCR_">шып</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шып-шып</l>
+
+      <stg>
+        <st Contlex="DESCR_">шып-шып</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шыр</l>
+
+      <stg>
+        <st Contlex="DESCR_">шыр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шышы-пышы</l>
+
+      <stg>
+        <st Contlex="DESCR_">шышы-пышы</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>юр</l>
+
+      <stg>
+        <st Contlex="DESCR_">юр</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ӝип-ӝип</l>
+
+      <stg>
+        <st Contlex="DESCR_">ӝип-ӝип</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ӵаж</l>
+
+      <stg>
+        <st Contlex="DESCR_">ӵаж</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ӵыж</l>
+
+      <stg>
+        <st Contlex="DESCR_">ӵыж</st>
+      </stg>
+    </lg>
+
+    <pos>Descr</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+</r>

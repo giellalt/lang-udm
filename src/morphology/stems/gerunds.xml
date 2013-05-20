@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l>быгатыса</l>
+
+      <stg>
+        <st Contlex="GER_">быгатыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>бызьыса</l>
+
+      <stg>
+        <st Contlex="GER_">бызьыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ваменскыса</l>
+
+      <stg>
+        <st Contlex="GER_">ваменскыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вамышъяса</l>
+
+      <stg>
+        <st Contlex="GER_">вамышъяса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>визаськыса</l>
+
+      <stg>
+        <st Contlex="GER_">визаськыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вожпотыса</l>
+
+      <stg>
+        <st Contlex="GER_">вожпотыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>выжыятъяса</l>
+
+      <stg>
+        <st Contlex="GER_">выжыятъяса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дыртыса</l>
+
+      <stg>
+        <st Contlex="GER_">дыртыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дӥсьтыса</l>
+
+      <stg>
+        <st Contlex="GER_">дӥсьтыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>куспатыса</l>
+
+      <stg>
+        <st Contlex="GER_">куспатыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>луыса</l>
+
+      <stg>
+        <st Contlex="GER_">луыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>малпаса</l>
+
+      <stg>
+        <st Contlex="GER_">малпаса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>медъяськыса</l>
+
+      <stg>
+        <st Contlex="GER_">медъяськыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>медыса</l>
+
+      <stg>
+        <st Contlex="GER_">медыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пазяса</l>
+
+      <stg>
+        <st Contlex="GER_">пазяса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пӧртэмъяськыса</l>
+
+      <stg>
+        <st Contlex="GER_">пӧртэмъяськыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пӧяса</l>
+
+      <stg>
+        <st Contlex="GER_">пӧяса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тодыса</l>
+
+      <stg>
+        <st Contlex="GER_">тодыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тупаса</l>
+
+      <stg>
+        <st Contlex="GER_">тупаса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тыршыса</l>
+
+      <stg>
+        <st Contlex="GER_">тыршыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тэтчаса</l>
+
+      <stg>
+        <st Contlex="GER_">тэтчаса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тяпайтыса</l>
+
+      <stg>
+        <st Contlex="GER_">тяпайтыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>улыса</l>
+
+      <stg>
+        <st Contlex="GER_">улыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>улыса-улыса</l>
+
+      <stg>
+        <st Contlex="GER_">улыса-улыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шуыса</l>
+
+      <stg>
+        <st Contlex="GER_">шуыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ыбыса</l>
+
+      <stg>
+        <st Contlex="GER_">ыбыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эктыса</l>
+
+      <stg>
+        <st Contlex="GER_">эктыса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эриктэмаса</l>
+
+      <stg>
+        <st Contlex="GER_">эриктэмаса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ӝожаса</l>
+
+      <stg>
+        <st Contlex="GER_">ӝожаса</st>
+      </stg>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+    </mg>
+  </e>
+</r>
