@@ -77,43 +77,98 @@ Undeveloped contlexes
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+AdjTag ;
+AdvTag ;
+AdjTag ;
+AdvTag ;
+DescrTag ;
+AdjTag ;
+AdvTag ;
+PcleTag ;
+AdjTag ;
+NumTag ;
+AdjTag ;
+NTag ;
+AdjTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+PrcTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+AdvTag ;
+AdjTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+PronTag ;
+AdvTag ;
+NTag ;
+AdvTag ;
+NTag ;
+PoTag ;
+AdvTag ;
+PoTag ;
+AdvTag ;
+PronTag ;
+AdvTag ;
+PronTag ;
+NumTag ;
+DescrTag ;
+AdjTag ;
+DescrTag ;
+AdvTag ;
+NTag ;
+DescrTag ;
+NTag ;
+DescrTag ;
+NTag ;
+AdjTag ;
+GerTag ;
+ConjTag ;
+GerTag ;
+PoTag ;
+AdjTag ;
+NumTag ;
+NTag ;
+AdjTag ;
+PcleTag ;
+NTag ;
+AdvTag ;
+NTag ;
+AdvTag ;
+DescrTag ;
+NTag ;
+DescrTag ;
+NTag ;
+NumTag ;
+NTag ;
+PrcTag ;
+PcleTag ;
+NTag ;
+PcleTag ;
+NTag ;
+PoTag ;
+NTag ;
+VTag ;
+NTag ;
+VTag ;
+PronTag ;
+PcleTag ;
+AdjTag ;
+AdvTag ;
+PoTag ;
+PcleTag ;
+PoTag ;
+AdvTag ;
+PronTag ;
+PronTag ;
+NumTag ;
+PronTag ;
+NumTag ;
+AdvTag ;
+PronTag ;
+PcleTag ;
 
 
