@@ -1,9 +1,10 @@
-!! Verb inflection
-!! --------------------
-!! Udmurt (Votyak) adjectives compare.
+!! !!!Udmurt verb inflection
+
+
 
 LEXICON MONO
-+V+Ind+Prs:%> OPRS ;
+!! Lexicon ''@LEXNAME@''
++V+Ind+Prs: OPRS ;
 +V+Ind+Fut:%>о FUTPAST ;
 +V+Ind+PstI:%>и FUTPAST ;
 +V+Ind+PstII:%>еме FUTPASTSG ;
@@ -11,51 +12,59 @@ LEXICON MONO
 +V+Cond:%>сал COND ;
 
 LEXICON UZA
-+V+Ind+Prs:%> APRS ;
+!! Lexicon ''@LEXNAME@''
++V+Ind+Prs: APRS ;
 +V+Ind+Fut:%>ло FUTPAST ;
-+V+Ind+PstI:%> FUTPAST ;
++V+Ind+PstI: FUTPAST ;
 +V+Ind+PstII:%>ме FUTPASTSG ;
 +V+Ind+PstII:%>м FUTPASTPL ;
 +V+Cond:%>сал COND ;
 
 
 LEXICON OPRS
-+Sg1:сько K ;
-+Sg2:ськод K ;
-+Sg3:е K ;
-+Pl1:ськом K ;
-+Pl1:ськомы K ;
-+Pl2:ськоды K ;
-+Pl3:о K ;
+!! Lexicon ''@LEXNAME@''
++Sg1:%>сько K ;
++Sg2:%>ськод K ;
++Sg3:%>е K ;
++Pl1:%>ськом K ;
++Pl1:%>ськомы K ;
++Pl2:%>ськоды K ;
++Pl3:%>о K ;
 
 LEXICON APRS
-+Sg1:сько K ;
-+Sg2:ськод K ;
+!! Lexicon ''@LEXNAME@''
++Sg1:%>сько K ;
++Sg2:%>ськод K ;
 +Sg3: K ;
-+Pl1:ськом K ;
-+Pl1:ськомы K ;
-+Pl2:ськоды K ;
-+Pl3:ло K ;
++Pl1:%>ськом K ;
++Pl1:%>ськомы K ;
++Pl2:%>ськоды K ;
++Pl3:%>ло K ;
 
 LEXICON FUTPAST
+!! Lexicon ''@LEXNAME@''
 FUTPASTSG ;
 FUTPASTPL ;
 FUTPASTPLSHORT ;
 
 LEXICON FUTPASTSG 
+!! Lexicon ''@LEXNAME@''
 +Sg1:%>^@ K ;
 +Sg2:%>д K ;
 +Sg3:%>з K ;
 
 LEXICON FUTPASTPL 
+!! Lexicon ''@LEXNAME@''
 +Pl1:%>мы K ;
 +Pl2:%>ды K ;
 +Pl3:%>зы K ;
 
 LEXICON FUTPASTPLSHORT 
+!! Lexicon ''@LEXNAME@''
 +Pl1:%>м K ;
 
 LEXICON COND
+!! Lexicon ''@LEXNAME@''
 K ;
 
 

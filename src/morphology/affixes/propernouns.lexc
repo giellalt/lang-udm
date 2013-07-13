@@ -1,13 +1,11 @@
-!! Proper noun inflection
-!! --------------------
-!! Udmurt (Votyak) .
+!! !!!Udmurt Proper noun inflection
+
+!! This is a dummy pexicon that just gives __+N+Prop__,
+!! and then redirect to ''NOUNSUF_01''
 
 LEXICON PROP_
 +N+Prop: NOUNSUF_01 ;
 
 
 
-
-
-! vim: set ft=xfst-lexc:
 
