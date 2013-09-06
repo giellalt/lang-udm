@@ -19,3 +19,7 @@
 * [A list of morphological tags|../common/MorphologicalTags.html]
 
 
+!!!Using the analysers
+
+* In the terminal: analyse words by writing ''uyrk'', generate with ''dyrk''
+* For more info, see [How to use the morphological parsers|../../tools/docu-sme-manual.html]
