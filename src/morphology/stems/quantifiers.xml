@@ -1,3765 +1,1974 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e>
-    <lg>
-      <l>биллион</l>
-
-      <stg>
-        <st Contlex="NUM_">биллион</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витен-витен</l>
-
-      <stg>
-        <st Contlex="NUM_">витен-витен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">витетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">витетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>вить</l>
-
-      <stg>
-        <st Contlex="NUM_">вить</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>вить-куать</l>
-
-      <stg>
-        <st Contlex="NUM_">вить-куать</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>вить_сю</l>
-
-      <stg>
-        <st Contlex="NUM_">вить_сю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьдас</l>
-
-      <stg>
-        <st Contlex="NUM_">витьдас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьмос</l>
-
-      <stg>
-        <st Contlex="NUM_">витьмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьнады</l>
-
-      <stg>
-        <st Contlex="NUM_">витьнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьназы</l>
-
-      <stg>
-        <st Contlex="NUM_">витьназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">витьнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьтон</l>
-
-      <stg>
-        <st Contlex="NUM_">витьтон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>витьтонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">витьтонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>восьмой</l>
-
-      <stg>
-        <st Contlex="NUM_">восьмой</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дас</l>
-
-      <stg>
-        <st Contlex="NUM_">дас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дас-кызь</l>
-
-      <stg>
-        <st Contlex="NUM_">дас-кызь</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасмос</l>
-
-      <stg>
-        <st Contlex="NUM_">дасмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>даснады</l>
-
-      <stg>
-        <st Contlex="NUM_">даснады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасназы</l>
-
-      <stg>
-        <st Contlex="NUM_">дасназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>даснамы</l>
-
-      <stg>
-        <st Contlex="NUM_">даснамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасо</l>
-
-      <stg>
-        <st Contlex="NUM_">дасо</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасо-кызё</l>
-
-      <stg>
-        <st Contlex="NUM_">дасо-кызё</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>даспуй</l>
-
-      <stg>
-        <st Contlex="NUM_">даспуй</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасэн</l>
-
-      <stg>
-        <st Contlex="NUM_">дасэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасэн-дасэн</l>
-
-      <stg>
-        <st Contlex="NUM_">дасэн-дасэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">дасэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>дасэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">дасэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>киямыс</l>
-
-      <stg>
-        <st Contlex="NUM_">киямыс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>киямыстас</l>
-
-      <stg>
-        <st Contlex="NUM_">киямыстас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куамын</l>
-
-      <stg>
-        <st Contlex="NUM_">куамын</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куамынэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">куамынэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куамынэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">куамынэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатен-куатен</l>
-
-      <stg>
-        <st Contlex="NUM_">куатен-куатен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">куатетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">куатетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куать</l>
-
-      <stg>
-        <st Contlex="NUM_">куать</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьмос</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьнады</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьназы</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьтон</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьтон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьтонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьтонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куатьтонэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">куатьтонэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куинен-куинен</l>
-
-      <stg>
-        <st Contlex="NUM_">куинен-куинен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куинетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">куинетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куинетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">куинетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куинь</l>
-
-      <stg>
-        <st Contlex="NUM_">куинь</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куинь-ньыль</l>
-
-      <stg>
-        <st Contlex="NUM_">куинь-ньыль</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньметӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньметӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньметӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньметӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньмос</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньнады</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньназы</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>куиньнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">куиньнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кызетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">кызетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кызетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">кызетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кызь</l>
-
-      <stg>
-        <st Contlex="NUM_">кызь</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кызё</l>
-
-      <stg>
-        <st Contlex="NUM_">кызё</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кык</l>
-
-      <stg>
-        <st Contlex="NUM_">кык</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кык-куинь</l>
-
-      <stg>
-        <st Contlex="NUM_">кык-куинь</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкен</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкен-кыкен</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкен-кыкен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкмос</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкнады</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкназы</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыксю</l>
-
-      <stg>
-        <st Contlex="NUM_">кыксю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыктос</l>
-
-      <stg>
-        <st Contlex="NUM_">кыктос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыктэн</l>
-
-      <stg>
-        <st Contlex="NUM_">кыктэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыктэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">кыктэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыктэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">кыктэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкъямыс</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкъямыс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>кыкъямыстон</l>
-
-      <stg>
-        <st Contlex="NUM_">кыкъямыстон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>миллион</l>
-
-      <stg>
-        <st Contlex="NUM_">миллион</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>нокудды</l>
-
-      <stg>
-        <st Contlex="NUM_">нокудды</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ноль</l>
-
-      <stg>
-        <st Contlex="NUM_">ноль</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>нырысетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">нырысетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>нырысетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">нырысетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньылетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">ньылетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньылетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">ньылетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыль</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыль</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыль-вить</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыль-вить</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльвыртно</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльвыртно</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльдас</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльдас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльдон</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльдон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльдонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльдонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльмос</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльнады</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльназы</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньыльсю</l>
-
-      <stg>
-        <st Contlex="NUM_">ньыльсю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ньылё</l>
-
-      <stg>
-        <st Contlex="NUM_">ньылё</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ог</l>
-
-      <stg>
-        <st Contlex="NUM_">ог</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ог-кык</l>
-
-      <stg>
-        <st Contlex="NUM_">ог-кык</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ог-огды</l>
-
-      <stg>
-        <st Contlex="NUM_">ог-огды</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ог-огзы</l>
-
-      <stg>
-        <st Contlex="NUM_">ог-огзы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огды-огды</l>
-
-      <stg>
-        <st Contlex="NUM_">огды-огды</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огдылы-огды</l>
-
-      <stg>
-        <st Contlex="NUM_">огдылы-огды</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огез-но</l>
-
-      <stg>
-        <st Contlex="NUM_">огез-но</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>оген</l>
-
-      <stg>
-        <st Contlex="NUM_">оген</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>оген-кыкен</l>
-
-      <stg>
-        <st Contlex="NUM_">оген-кыкен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>оген-оген</l>
-
-      <stg>
-        <st Contlex="NUM_">оген-оген</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огзы</l>
-
-      <stg>
-        <st Contlex="NUM_">огзы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огзы-огзы</l>
-
-      <stg>
-        <st Contlex="NUM_">огзы-огзы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огнад</l>
-
-      <stg>
-        <st Contlex="NUM_">огнад</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огнады</l>
-
-      <stg>
-        <st Contlex="NUM_">огнады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огназы</l>
-
-      <stg>
-        <st Contlex="NUM_">огназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огнам</l>
-
-      <stg>
-        <st Contlex="NUM_">огнам</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огнамы</l>
-
-      <stg>
-        <st Contlex="NUM_">огнамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>ого-кыкто</l>
-
-      <stg>
-        <st Contlex="NUM_">ого-кыкто</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>огпасьта</l>
-
-      <stg>
-        <st Contlex="NUM_">огпасьта</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥг</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥг</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥг-кык</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥг-кык</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥг-одӥг</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥг-одӥг</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгез</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥген</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥген</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥген-кыкен</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥген-кыкен</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥген-одӥген</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥген-одӥген</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгетӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгетӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгетӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгетӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгнад</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгнад</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгназ</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгназ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгнам</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгнам</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥго</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥго</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>одӥгысь-одӥг</l>
-
-      <stg>
-        <st Contlex="NUM_">одӥгысь-одӥг</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>первоез</l>
-
-      <stg>
-        <st Contlex="NUM_">первоез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьым</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьым</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьым_сю</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьым_сю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьымдас</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьымдас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьымдон</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьымдон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьымдонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьымдонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьымдонэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьымдонэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьыметӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьыметӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьыметӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьыметӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьыммос</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьыммос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сизьымо</l>
-
-      <stg>
-        <st Contlex="NUM_">сизьымо</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сю</l>
-
-      <stg>
-        <st Contlex="NUM_">сю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сю_сюрс</l>
-
-      <stg>
-        <st Contlex="NUM_">сю_сюрс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюмос</l>
-
-      <stg>
-        <st Contlex="NUM_">сюмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрс</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрс_сю</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрс_сю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрсмос</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрсмос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрсо</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрсо</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрсэн-сюрсэн</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрсэн-сюрсэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрсэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрсэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюрсэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">сюрсэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюэн</l>
-
-      <stg>
-        <st Contlex="NUM_">сюэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюэн-сюрсэн</l>
-
-      <stg>
-        <st Contlex="NUM_">сюэн-сюрсэн</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">сюэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>сюэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">сюэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>триллион</l>
-
-      <stg>
-        <st Contlex="NUM_">триллион</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>трос</l>
-
-      <stg>
-        <st Contlex="NUM_">трос</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыс</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыс_сю</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыс_сю</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыс_сюрс</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыс_сюрс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыснады</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыснады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямысназы</l>
-
-      <stg>
-        <st Contlex="NUM_">тямысназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыснамы</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыснамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямысо</l>
-
-      <stg>
-        <st Contlex="NUM_">тямысо</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыстон</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыстон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыстонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыстонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямыстонэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">тямыстонэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямысэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">тямысэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>тямысэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">тямысэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>уик</l>
-
-      <stg>
-        <st Contlex="NUM_">уик</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыс</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыс</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмысдас</l>
-
-      <stg>
-        <st Contlex="NUM_">укмысдас</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыснады</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыснады</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмысназы</l>
-
-      <stg>
-        <st Contlex="NUM_">укмысназы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыснамы</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыснамы</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмысо</l>
-
-      <stg>
-        <st Contlex="NUM_">укмысо</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыстон</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыстон</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыстонэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыстонэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмыстонэтӥез</l>
-
-      <stg>
-        <st Contlex="NUM_">укмыстонэтӥез</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>укмысэтӥ</l>
-
-      <stg>
-        <st Contlex="NUM_">укмысэтӥ</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>уно</l>
-
-      <stg>
-        <st Contlex="NUM_">уно</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-    </mg>
-  </e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Qnt">биллион</l>
+         <stg>
+            <st Contlex="NUM_">биллион</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витен-витен</l>
+         <stg>
+            <st Contlex="NUM_">витен-витен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витетӥ</l>
+         <stg>
+            <st Contlex="NUM_">витетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витетӥез</l>
+         <stg>
+            <st Contlex="NUM_">витетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">вить</l>
+         <stg>
+            <st Contlex="NUM_">вить</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">вить-куать</l>
+         <stg>
+            <st Contlex="NUM_">вить-куать</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">вить_сю</l>
+         <stg>
+            <st Contlex="NUM_">вить_сю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьдас</l>
+         <stg>
+            <st Contlex="NUM_">витьдас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьмос</l>
+         <stg>
+            <st Contlex="NUM_">витьмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьнады</l>
+         <stg>
+            <st Contlex="NUM_">витьнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьназы</l>
+         <stg>
+            <st Contlex="NUM_">витьназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьнамы</l>
+         <stg>
+            <st Contlex="NUM_">витьнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьтон</l>
+         <stg>
+            <st Contlex="NUM_">витьтон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">витьтонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">витьтонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">восьмой</l>
+         <stg>
+            <st Contlex="NUM_">восьмой</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дас</l>
+         <stg>
+            <st Contlex="NUM_">дас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дас-кызь</l>
+         <stg>
+            <st Contlex="NUM_">дас-кызь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасмос</l>
+         <stg>
+            <st Contlex="NUM_">дасмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">даснады</l>
+         <stg>
+            <st Contlex="NUM_">даснады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасназы</l>
+         <stg>
+            <st Contlex="NUM_">дасназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">даснамы</l>
+         <stg>
+            <st Contlex="NUM_">даснамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасо</l>
+         <stg>
+            <st Contlex="NUM_">дасо</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасо-кызё</l>
+         <stg>
+            <st Contlex="NUM_">дасо-кызё</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">даспуй</l>
+         <stg>
+            <st Contlex="NUM_">даспуй</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасэн</l>
+         <stg>
+            <st Contlex="NUM_">дасэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасэн-дасэн</l>
+         <stg>
+            <st Contlex="NUM_">дасэн-дасэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">дасэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">дасэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">дасэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">киямыс</l>
+         <stg>
+            <st Contlex="NUM_">киямыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">киямыстас</l>
+         <stg>
+            <st Contlex="NUM_">киямыстас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куамын</l>
+         <stg>
+            <st Contlex="NUM_">куамын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куамынэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">куамынэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куамынэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">куамынэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатен-куатен</l>
+         <stg>
+            <st Contlex="NUM_">куатен-куатен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатетӥ</l>
+         <stg>
+            <st Contlex="NUM_">куатетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатетӥез</l>
+         <stg>
+            <st Contlex="NUM_">куатетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куать</l>
+         <stg>
+            <st Contlex="NUM_">куать</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьмос</l>
+         <stg>
+            <st Contlex="NUM_">куатьмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьнады</l>
+         <stg>
+            <st Contlex="NUM_">куатьнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьназы</l>
+         <stg>
+            <st Contlex="NUM_">куатьназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьнамы</l>
+         <stg>
+            <st Contlex="NUM_">куатьнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьтон</l>
+         <stg>
+            <st Contlex="NUM_">куатьтон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьтонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">куатьтонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куатьтонэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">куатьтонэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куинен-куинен</l>
+         <stg>
+            <st Contlex="NUM_">куинен-куинен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куинетӥ</l>
+         <stg>
+            <st Contlex="NUM_">куинетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куинетӥез</l>
+         <stg>
+            <st Contlex="NUM_">куинетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куинь</l>
+         <stg>
+            <st Contlex="NUM_">куинь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куинь-ньыль</l>
+         <stg>
+            <st Contlex="NUM_">куинь-ньыль</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньметӥ</l>
+         <stg>
+            <st Contlex="NUM_">куиньметӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньметӥез</l>
+         <stg>
+            <st Contlex="NUM_">куиньметӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньмос</l>
+         <stg>
+            <st Contlex="NUM_">куиньмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньнады</l>
+         <stg>
+            <st Contlex="NUM_">куиньнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньназы</l>
+         <stg>
+            <st Contlex="NUM_">куиньназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">куиньнамы</l>
+         <stg>
+            <st Contlex="NUM_">куиньнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кызетӥ</l>
+         <stg>
+            <st Contlex="NUM_">кызетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кызетӥез</l>
+         <stg>
+            <st Contlex="NUM_">кызетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кызь</l>
+         <stg>
+            <st Contlex="NUM_">кызь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кызё</l>
+         <stg>
+            <st Contlex="NUM_">кызё</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кык</l>
+         <stg>
+            <st Contlex="NUM_">кык</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кык-куинь</l>
+         <stg>
+            <st Contlex="NUM_">кык-куинь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкен</l>
+         <stg>
+            <st Contlex="NUM_">кыкен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкен-кыкен</l>
+         <stg>
+            <st Contlex="NUM_">кыкен-кыкен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкетӥ</l>
+         <stg>
+            <st Contlex="NUM_">кыкетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкетӥез</l>
+         <stg>
+            <st Contlex="NUM_">кыкетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкмос</l>
+         <stg>
+            <st Contlex="NUM_">кыкмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкнады</l>
+         <stg>
+            <st Contlex="NUM_">кыкнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкназы</l>
+         <stg>
+            <st Contlex="NUM_">кыкназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкнамы</l>
+         <stg>
+            <st Contlex="NUM_">кыкнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыксю</l>
+         <stg>
+            <st Contlex="NUM_">кыксю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыктос</l>
+         <stg>
+            <st Contlex="NUM_">кыктос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыктэн</l>
+         <stg>
+            <st Contlex="NUM_">кыктэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыктэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">кыктэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыктэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">кыктэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкъямыс</l>
+         <stg>
+            <st Contlex="NUM_">кыкъямыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">кыкъямыстон</l>
+         <stg>
+            <st Contlex="NUM_">кыкъямыстон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">миллион</l>
+         <stg>
+            <st Contlex="NUM_">миллион</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">нокудды</l>
+         <stg>
+            <st Contlex="NUM_">нокудды</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ноль</l>
+         <stg>
+            <st Contlex="NUM_">ноль</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">нырысетӥ</l>
+         <stg>
+            <st Contlex="NUM_">нырысетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">нырысетӥез</l>
+         <stg>
+            <st Contlex="NUM_">нырысетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньылетӥ</l>
+         <stg>
+            <st Contlex="NUM_">ньылетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньылетӥез</l>
+         <stg>
+            <st Contlex="NUM_">ньылетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыль</l>
+         <stg>
+            <st Contlex="NUM_">ньыль</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыль-вить</l>
+         <stg>
+            <st Contlex="NUM_">ньыль-вить</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльвыртно</l>
+         <stg>
+            <st Contlex="NUM_">ньыльвыртно</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльдас</l>
+         <stg>
+            <st Contlex="NUM_">ньыльдас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльдон</l>
+         <stg>
+            <st Contlex="NUM_">ньыльдон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльдонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">ньыльдонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльмос</l>
+         <stg>
+            <st Contlex="NUM_">ньыльмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльнады</l>
+         <stg>
+            <st Contlex="NUM_">ньыльнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльназы</l>
+         <stg>
+            <st Contlex="NUM_">ньыльназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльнамы</l>
+         <stg>
+            <st Contlex="NUM_">ньыльнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньыльсю</l>
+         <stg>
+            <st Contlex="NUM_">ньыльсю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ньылё</l>
+         <stg>
+            <st Contlex="NUM_">ньылё</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ог</l>
+         <stg>
+            <st Contlex="NUM_">ог</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ог-кык</l>
+         <stg>
+            <st Contlex="NUM_">ог-кык</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ог-огды</l>
+         <stg>
+            <st Contlex="NUM_">ог-огды</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ог-огзы</l>
+         <stg>
+            <st Contlex="NUM_">ог-огзы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огды-огды</l>
+         <stg>
+            <st Contlex="NUM_">огды-огды</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огдылы-огды</l>
+         <stg>
+            <st Contlex="NUM_">огдылы-огды</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огез-но</l>
+         <stg>
+            <st Contlex="NUM_">огез-но</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">оген</l>
+         <stg>
+            <st Contlex="NUM_">оген</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">оген-кыкен</l>
+         <stg>
+            <st Contlex="NUM_">оген-кыкен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">оген-оген</l>
+         <stg>
+            <st Contlex="NUM_">оген-оген</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огзы</l>
+         <stg>
+            <st Contlex="NUM_">огзы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огзы-огзы</l>
+         <stg>
+            <st Contlex="NUM_">огзы-огзы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огнад</l>
+         <stg>
+            <st Contlex="NUM_">огнад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огнады</l>
+         <stg>
+            <st Contlex="NUM_">огнады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огназы</l>
+         <stg>
+            <st Contlex="NUM_">огназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огнам</l>
+         <stg>
+            <st Contlex="NUM_">огнам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огнамы</l>
+         <stg>
+            <st Contlex="NUM_">огнамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">ого-кыкто</l>
+         <stg>
+            <st Contlex="NUM_">ого-кыкто</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">огпасьта</l>
+         <stg>
+            <st Contlex="NUM_">огпасьта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥг</l>
+         <stg>
+            <st Contlex="NUM_">одӥг</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥг-кык</l>
+         <stg>
+            <st Contlex="NUM_">одӥг-кык</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥг-одӥг</l>
+         <stg>
+            <st Contlex="NUM_">одӥг-одӥг</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгез</l>
+         <stg>
+            <st Contlex="NUM_">одӥгез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥген</l>
+         <stg>
+            <st Contlex="NUM_">одӥген</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥген-кыкен</l>
+         <stg>
+            <st Contlex="NUM_">одӥген-кыкен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥген-одӥген</l>
+         <stg>
+            <st Contlex="NUM_">одӥген-одӥген</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгетӥ</l>
+         <stg>
+            <st Contlex="NUM_">одӥгетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгетӥез</l>
+         <stg>
+            <st Contlex="NUM_">одӥгетӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгнад</l>
+         <stg>
+            <st Contlex="NUM_">одӥгнад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгназ</l>
+         <stg>
+            <st Contlex="NUM_">одӥгназ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгнам</l>
+         <stg>
+            <st Contlex="NUM_">одӥгнам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥго</l>
+         <stg>
+            <st Contlex="NUM_">одӥго</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">одӥгысь-одӥг</l>
+         <stg>
+            <st Contlex="NUM_">одӥгысь-одӥг</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">первоез</l>
+         <stg>
+            <st Contlex="NUM_">первоез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьым</l>
+         <stg>
+            <st Contlex="NUM_">сизьым</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьым_сю</l>
+         <stg>
+            <st Contlex="NUM_">сизьым_сю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьымдас</l>
+         <stg>
+            <st Contlex="NUM_">сизьымдас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьымдон</l>
+         <stg>
+            <st Contlex="NUM_">сизьымдон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьымдонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">сизьымдонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьымдонэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">сизьымдонэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьыметӥ</l>
+         <stg>
+            <st Contlex="NUM_">сизьыметӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьыметӥез</l>
+         <stg>
+            <st Contlex="NUM_">сизьыметӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьыммос</l>
+         <stg>
+            <st Contlex="NUM_">сизьыммос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сизьымо</l>
+         <stg>
+            <st Contlex="NUM_">сизьымо</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сю</l>
+         <stg>
+            <st Contlex="NUM_">сю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сю_сюрс</l>
+         <stg>
+            <st Contlex="NUM_">сю_сюрс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюмос</l>
+         <stg>
+            <st Contlex="NUM_">сюмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрс</l>
+         <stg>
+            <st Contlex="NUM_">сюрс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрс_сю</l>
+         <stg>
+            <st Contlex="NUM_">сюрс_сю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрсмос</l>
+         <stg>
+            <st Contlex="NUM_">сюрсмос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрсо</l>
+         <stg>
+            <st Contlex="NUM_">сюрсо</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрсэн-сюрсэн</l>
+         <stg>
+            <st Contlex="NUM_">сюрсэн-сюрсэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрсэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">сюрсэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюрсэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">сюрсэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюэн</l>
+         <stg>
+            <st Contlex="NUM_">сюэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюэн-сюрсэн</l>
+         <stg>
+            <st Contlex="NUM_">сюэн-сюрсэн</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">сюэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">сюэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">сюэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">триллион</l>
+         <stg>
+            <st Contlex="NUM_">триллион</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">трос</l>
+         <stg>
+            <st Contlex="NUM_">трос</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыс</l>
+         <stg>
+            <st Contlex="NUM_">тямыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыс_сю</l>
+         <stg>
+            <st Contlex="NUM_">тямыс_сю</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыс_сюрс</l>
+         <stg>
+            <st Contlex="NUM_">тямыс_сюрс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыснады</l>
+         <stg>
+            <st Contlex="NUM_">тямыснады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямысназы</l>
+         <stg>
+            <st Contlex="NUM_">тямысназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыснамы</l>
+         <stg>
+            <st Contlex="NUM_">тямыснамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямысо</l>
+         <stg>
+            <st Contlex="NUM_">тямысо</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыстон</l>
+         <stg>
+            <st Contlex="NUM_">тямыстон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыстонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">тямыстонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямыстонэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">тямыстонэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямысэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">тямысэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">тямысэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">тямысэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">уик</l>
+         <stg>
+            <st Contlex="NUM_">уик</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыс</l>
+         <stg>
+            <st Contlex="NUM_">укмыс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмысдас</l>
+         <stg>
+            <st Contlex="NUM_">укмысдас</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыснады</l>
+         <stg>
+            <st Contlex="NUM_">укмыснады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмысназы</l>
+         <stg>
+            <st Contlex="NUM_">укмысназы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыснамы</l>
+         <stg>
+            <st Contlex="NUM_">укмыснамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмысо</l>
+         <stg>
+            <st Contlex="NUM_">укмысо</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыстон</l>
+         <stg>
+            <st Contlex="NUM_">укмыстон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыстонэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">укмыстонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">укмыстонэтӥез</l>
+         <stg>
+            <st Contlex="NUM_">укмыстонэтӥез</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">укмысэтӥ</l>
+         <stg>
+            <st Contlex="NUM_">укмысэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Qnt">уно</l>
+         <stg>
+            <st Contlex="NUM_">уно</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
 </r>
