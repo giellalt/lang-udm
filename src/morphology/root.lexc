@@ -128,9 +128,6 @@ LEXICON Root
 
 !!! Undeveloped contlexes
 
-LEXICON ADV_
-+Adv: # ;
-
 LEXICON DESCR_
 +Descr: # ;
 
