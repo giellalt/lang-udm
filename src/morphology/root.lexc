@@ -20,10 +20,10 @@
 Multichar_Symbols
 !! Analysis symbols
 !! ----------------
-!! The morphological analyses of wordforms of UNDEFINED language are presented
+!! The morphological analyses of wordforms of UDMURT language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-
++WORK
 !! The parts-of-speech are:
  +N +A +Adv +V
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
@@ -151,9 +151,6 @@ LEXICON PRON_
 
 LEXICON NUM_
 +Num: # ;
-
-LEXICON V_
-+V: # ;
 
 LEXICON K
  # ;

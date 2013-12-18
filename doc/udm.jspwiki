@@ -17,10 +17,9 @@ INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
 Analysis symbols
 ----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+The morphological analyses of wordforms of UDMURT language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
-
 The parts-of-speech are:
 
 The parts of speech are further split up into:
@@ -65,7 +64,6 @@ The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 Undeveloped contlexes
-
 
 
 

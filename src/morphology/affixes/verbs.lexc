@@ -1,8 +1,9 @@
 !! !!!Udmurt verb inflection
 
+LEXICON V_ !!= @CODE@ Verb type is still to be determined.
++WORK+V: #;
 
-
-LEXICON MONO
+LEXICON V_MONO
 !! Lexicon ''@LEXNAME@''
 +V+Ind+Prs: OPRS ;
 +V+Ind+Fut:%>о FUTPAST ;
@@ -11,7 +12,7 @@ LEXICON MONO
 +V+Ind+PstII:%>ем FUTPASTPL ;
 +V+Cond:%>сал COND ;
 
-LEXICON UZA
+LEXICON V_UZA
 !! Lexicon ''@LEXNAME@''
 +V+Ind+Prs: APRS ;
 +V+Ind+Fut:%>ло FUTPAST ;

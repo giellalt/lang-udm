@@ -38,9 +38,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Descr">ак_но_бак</l>
+         <l pos="Descr">ак но бак</l>
          <stg>
-            <st Contlex="DESCR_">ак_но_бак</st>
+            <st Contlex="DESCR_">ак но бак</st>
          </stg>
       </lg>
       <mg>
@@ -55,9 +55,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Descr">ак_но_бак_но</l>
+         <l pos="Descr">ак но бак но</l>
          <stg>
-            <st Contlex="DESCR_">ак_но_бак_но</st>
+            <st Contlex="DESCR_">ак но бак но</st>
          </stg>
       </lg>
       <mg>
@@ -6821,9 +6821,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Descr">карс-карс_</l>
+         <l pos="Descr">карс-карс </l>
          <stg>
-            <st Contlex="DESCR_">карс-карс_</st>
+            <st Contlex="DESCR_">карс-карс </st>
          </stg>
       </lg>
       <mg>
@@ -8674,9 +8674,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Descr">кучым_кучым</l>
+         <l pos="Descr">кучым кучым</l>
          <stg>
-            <st Contlex="DESCR_">кучым_кучым</st>
+            <st Contlex="DESCR_">кучым кучым</st>
          </stg>
       </lg>
       <mg>
