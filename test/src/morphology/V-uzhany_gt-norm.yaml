@@ -41,35 +41,35 @@ Tests:
      ужаны+V+Ind+Fut+ConNeg+Sg: ужа
      ужаны+V+Ind+Fut+ConNeg+Pl: ужалэ
 
-     ужаны+V+Ind+PstI+Sg1: ужай
-     ужаны+V+Ind+PstI+Sg2: ужад
-     ужаны+V+Ind+PstI+Sg3: ужаз
-     ужаны+V+Ind+PstI+Pl1: [ужамы, ужам]
-     ужаны+V+Ind+PstI+Pl2: ужады
-     ужаны+V+Ind+PstI+Pl3: ужазы
-     ужаны+V+Ind+PstI+ConNeg+Sg: ужа
-     ужаны+V+Ind+PstI+ConNeg+Pl: ужалэ
+     ужаны+V+Ind+PrtI+Sg1: ужай
+     ужаны+V+Ind+PrtI+Sg2: ужад
+     ужаны+V+Ind+PrtI+Sg3: ужаз
+     ужаны+V+Ind+PrtI+Pl1: [ужамы, ужам]
+     ужаны+V+Ind+PrtI+Pl2: ужады
+     ужаны+V+Ind+PrtI+Pl3: ужазы
+     ужаны+V+Ind+PrtI+ConNeg+Sg: ужа
+     ужаны+V+Ind+PrtI+ConNeg+Pl: ужалэ
 
-     ужаны+V+Ind+PstII+Sg1: ужаськем
-     ужаны+V+Ind+PstII+Sg2: ужамед
-     ужаны+V+Ind+PstII+Sg3: ужам
-     ужаны+V+Ind+PstII+Pl1: ужаськеммы
-     ужаны+V+Ind+PstII+Pl2: ужаллямды
-     ужаны+V+Ind+PstII+Pl3: [ужаллямзы, ужаллям]
+     ужаны+V+Ind+PrtII+Sg1: ужаськем
+     ужаны+V+Ind+PrtII+Sg2: ужамед
+     ужаны+V+Ind+PrtII+Sg3: ужам
+     ужаны+V+Ind+PrtII+Pl1: ужаськеммы
+     ужаны+V+Ind+PrtII+Pl2: ужаллямды
+     ужаны+V+Ind+PrtII+Pl3: [ужаллямзы, ужаллям]
 
-     ужаны+V+Ind+PstII+ConNeg+Sg1: ужаськем
-     ужаны+V+Ind+PstII+ConNeg+Sg2: ужамед
-     ужаны+V+Ind+PstII+ConNeg+Sg3: ужам
-     ужаны+V+Ind+PstII+ConNeg+Pl1: ужаськеммы
-     ужаны+V+Ind+PstII+ConNeg+Pl2: ужаллямды
-     ужаны+V+Ind+PstII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+     ужаны+V+Ind+PrtII+ConNeg+Sg1: ужаськем
+     ужаны+V+Ind+PrtII+ConNeg+Sg2: ужамед
+     ужаны+V+Ind+PrtII+ConNeg+Sg3: ужам
+     ужаны+V+Ind+PrtII+ConNeg+Pl1: ужаськеммы
+     ужаны+V+Ind+PrtII+ConNeg+Pl2: ужаллямды
+     ужаны+V+Ind+PrtII+ConNeg+Pl3: [ужаллямзы, ужаллям]
 
-     ужаны+V+Ind+PstII+Neg+Sg1: ужаськымтэе
-     ужаны+V+Ind+PstII+Neg+Sg2: ужамтэед
-     ужаны+V+Ind+PstII+Neg+Sg3: ужамтэ
-     ужаны+V+Ind+PstII+Neg+Pl1: ужаськымтэмы
-     ужаны+V+Ind+PstII+Neg+Pl2: ужамтэды
-     ужаны+V+Ind+PstII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+     ужаны+V+Ind+PrtII+Neg+Sg1: ужаськымтэе
+     ужаны+V+Ind+PrtII+Neg+Sg2: ужамтэед
+     ужаны+V+Ind+PrtII+Neg+Sg3: ужамтэ
+     ужаны+V+Ind+PrtII+Neg+Pl1: ужаськымтэмы
+     ужаны+V+Ind+PrtII+Neg+Pl2: ужамтэды
+     ужаны+V+Ind+PrtII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
 
      ужаны+V+Imprt+Sg2: ужа
      ужаны+V+Imprt+Pl2: ужалэ

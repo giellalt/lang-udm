@@ -47,7 +47,17 @@ Multichar_Symbols
  +Attr +Card
  +Ord 
 !! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt
+ +Cond	!!= @CODE@ Conditional
+ +Imprt	!!= @CODE@ Imperative
+ +Ind	!!= @CODE@ Indicative
+ +Opt	!!= @CODE@ Optional
+
+!! Verb tenses are:
+ +Fut !!= @CODE@ Future
+ +Prs !!= @CODE@ Present
+ +PrtI !!= @CODE@ Preterite One
+ +PrtII !!= @CODE@ Preterite Two
+
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
@@ -108,6 +118,7 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
+ %{ИӤЙ%}   !!= @CODE@ 
 
 !! And following triggers to control variation
  {front} {back}
