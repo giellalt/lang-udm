@@ -34,6 +34,13 @@ Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
 Other verb forms are
+  +PrcPrsPos	
+  +PrcPrfAdn	
+  +PrcPrfPred	 
+  +PrcPrfNeg	
+  +GerPos	
+  +GerNeg	
+
 
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
