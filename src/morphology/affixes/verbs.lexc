@@ -5,22 +5,30 @@ LEXICON V_ !!= @CODE@ Verb type is still to be determined.
 
 LEXICON V_MONO
 !! Lexicon ''@LEXNAME@''
+!! * Yaml: ____
 +V+Ind+Prs: OPRS ;
 +V+Ind+Fut:%>о FUTPAST ;
-+V+Ind+PstI:%>и FUTPAST ;
-+V+Ind+PstII:%>еме FUTPASTSG ;
-+V+Ind+PstII:%>ем FUTPASTPL ;
++V+Ind+PrtI:%>и FUTPAST ;
++V+Ind+PrtII:%>еме FUTPASTSG ;
++V+Ind+PrtII:%>ем FUTPASTPL ;
 +V+Cond:%>сал COND ;
++V+Opt:%>о OPT ;
 
 LEXICON V_UZA
 !! Lexicon ''@LEXNAME@''
+!! * Yaml: __uzhany__
 +V+Ind+Prs: APRS ;
-+V+Ind+Fut:%>ло FUTPAST ;
-+V+Ind+PstI: FUTPAST ;
-+V+Ind+PstII:%>ме FUTPASTSG ;
-+V+Ind+PstII:%>м FUTPASTPL ;
++V+Ind+Fut:%>ло FUT-PERSON ;
++V+Ind+Fut+ConNeg+Sg: K ;
++V+Ind+Fut+ConNeg+Pl:%>лэ K ;
++V+Ind+PrtI:  PRTI-PERSON ;
++V+Ind+PrtI+ConNeg+Sg: K ;
++V+Ind+PrtI+ConNeg+Pl:%>лэ K ;
++V+Ind+PrtII: PRTII-PERSON ;
 +V+Cond:%>сал COND ;
-
++V+Imprt: IMPRT ;
++V+Opt: OPT ;
++V: NONFINITES ;
 
 LEXICON OPRS
 !! Lexicon ''@LEXNAME@''
@@ -41,6 +49,12 @@ LEXICON APRS
 +Pl1:%>ськомы K ;
 +Pl2:%>ськоды K ;
 +Pl3:%>ло K ;
++ConNeg+Sg1:%>ськы K ;
++ConNeg+Sg2:%>ськы K ;
++ConNeg+Sg3: K ;
++ConNeg+Pl1:%>ське K ;
++ConNeg+Pl2:%>ське K ;
++ConNeg+Pl3:%>ло K ;
 
 LEXICON FUTPAST
 !! Lexicon ''@LEXNAME@''
@@ -50,7 +64,7 @@ FUTPASTPLSHORT ;
 
 LEXICON FUTPASTSG 
 !! Lexicon ''@LEXNAME@''
-+Sg1:%>^@ K ;
++Sg1:%>%^@ K ;
 +Sg2:%>д K ;
 +Sg3:%>з K ;
 
@@ -64,11 +78,103 @@ LEXICON FUTPASTPLSHORT
 !! Lexicon ''@LEXNAME@''
 +Pl1:%>м K ;
 
+LEXICON FUT-PERSON
+!! Lexicon ''@LEXNAME@''
++Sg1: K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
++Pl1:%>м K ;
++Pl2:%>ды K ;
++Pl3:%>зы K ;
+
+LEXICON PRTI-PERSON
+!! Lexicon ''@LEXNAME@''
++Sg1:%>й K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
++Pl1:%>мы K ;
++Pl1:%>м K ;
++Pl2:%>ды K ;
++Pl3:%>зы K ;
+
+LEXICON PRTII-PERSON
+!! Lexicon ''@LEXNAME@''
++Sg1:%>ськем K ;
++Sg2:%>мед K ;
++Sg3:%>м K ;
++Pl1:%>ськеммы K ;
++Pl2:%>ллямды K ;
++Pl3:%>ллямзы K ;
++Pl3:%>ллям K ;
++ConNeg+Sg1:%>ськем K ;
++ConNeg+Sg2:%>мед K ;
++ConNeg+Sg3:%>м K ;
++ConNeg+Pl1:%>ськеммы K ;
++ConNeg+Pl2:%>ллямды K ;
++ConNeg+Pl3:%>ллямзы K ;
++ConNeg+Pl3:%>ллям K ;
+
++Neg+Sg1:%>ськымтэе K ;
++Neg+Sg2:%>мтэед K ;
++Neg+Sg3:%>мтэ K ;
++Neg+Pl1:%>ськымтэмы K ;
++Neg+Pl2:%>мтэды K ;
++Neg+Pl3:%>ллямтэзы K ;
++Neg+Pl3:%>ллямтэ K ;
+
+
 LEXICON COND
 !! Lexicon ''@LEXNAME@''
-K ;
++Sg1:          K ;
++Sg2:          K ;
++Sg2:ыд        K ;
++Sg3:          K ;
++Sg3:ыз       K ;
++Pl1:мы        K ;
++Pl2:ды        K ;
++Pl3:зы        K ;
++ConNeg+Sg1:   K ;
++ConNeg+Sg2:   K ;
++ConNeg+Sg2:ыд K ;
++ConNeg+Sg3:   K ;
++ConNeg+Sg3:ыз K ;
++ConNeg+Pl1:мы K ;
++ConNeg+Pl2:ды K ;
++ConNeg+Pl3:зы K ;
 
+LEXICON IMPRT
+!! Lexicon ''@LEXNAME@''
++Sg2: K	   ;
++Sg3:%>лоз K	;
++Pl2:%>лэ K	;
++Pl3:%>лозы K	;
++ConNeg+Sg2: K	;
++ConNeg+Sg3: K	;
++ConNeg+Pl2:%>лэ K	;
++ConNeg+Pl3:%>лэ K	;
 
+LEXICON OPT
+!! Lexicon ''@LEXNAME@''
++Sg1:%>м K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
++Pl1:%>мы K	;
++Pl2:%>ды K	;
++Pl3:%>зы K	;
++ConNeg+Sg: K ;
++ConNeg+Pl: K ;
++ConNeg+Pl:%>лэ K	;
+
+LEXICON NONFINITES
+!! Lexicon ''@LEXNAME@''
++Inf:%>ны  K	;
++GerPos:%>са  K	;
++GerNeg:%>тэк  K	;
++PrcPrsNeg:%>сьтэм K ;
++PrcPrsPos:%>сь K ;
++PrcPrfNeg:%>мтэ K ;
++PrcPrfAdn:%>м K ;
++PrcPrfPred:%>мын K ;
 
 ! vim: set ft=xfst-lexc:
 

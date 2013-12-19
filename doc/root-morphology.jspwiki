@@ -21,6 +21,17 @@ The possession is marked as such:
 The comparative forms are:
 Numerals are classified under:
 Verb moods are:
+  +Cond	 Conditional
+  +Imprt	 Imperative
+  +Ind	 Indicative
+  +Opt	 Optional
+
+Verb tenses are:
+  +Fut  Future
+  +Prs  Present
+  +PrtI  Preterite One
+  +PrtII  Preterite Two
+
 Verb personal forms are:
 Other verb forms are
   +PrcPrsPos	
@@ -50,6 +61,7 @@ Morphophonology
 ---------------
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
+  %{ИӤЙ%}    
 
 And following triggers to control variation
 
