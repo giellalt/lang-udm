@@ -1,0 +1,117 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - ужаны: # Verb UZA ужаны 'eng /udm /fin' - full paradigm
+     ужаны+V+Inf: ужаны
+     ужаны+V+Ind+Prs+Sg1: ужасько
+     ужаны+V+Ind+Prs+Sg2: ужаськод
+     ужаны+V+Ind+Prs+Sg3: ужа
+     ужаны+V+Ind+Prs+Pl1: [ужаськом, ужаськомы]
+     ужаны+V+Ind+Prs+Pl2: ужаськоды
+     ужаны+V+Ind+Prs+Pl3: ужало
+
+     ужаны+V+Ind+Prs+ConNeg+Sg1: ужаськы
+     ужаны+V+Ind+Prs+ConNeg+Sg2: ужаськы
+     ужаны+V+Ind+Prs+ConNeg+Sg3: ужа
+     ужаны+V+Ind+Prs+ConNeg+Pl1: ужаське
+     ужаны+V+Ind+Prs+ConNeg+Pl2: ужаське
+     ужаны+V+Ind+Prs+ConNeg+Pl3: ужало
+
+     ужаны+V+Ind+Fut+Sg1: ужало
+     ужаны+V+Ind+Fut+Sg2: ужалод
+     ужаны+V+Ind+Fut+Sg3: ужалоз
+     ужаны+V+Ind+Fut+Pl1: ужалом
+     ужаны+V+Ind+Fut+Pl2: ужалоды
+     ужаны+V+Ind+Fut+Pl3: ужалозы
+     ужаны+V+Ind+Fut+ConNeg+Sg: ужа
+     ужаны+V+Ind+Fut+ConNeg+Pl: ужалэ
+
+     ужаны+V+Ind+PstI+Sg1: ужай
+     ужаны+V+Ind+PstI+Sg2: ужад
+     ужаны+V+Ind+PstI+Sg3: ужаз
+     ужаны+V+Ind+PstI+Pl1: [ужамы, ужам]
+     ужаны+V+Ind+PstI+Pl2: ужады
+     ужаны+V+Ind+PstI+Pl3: ужазы
+     ужаны+V+Ind+PstI+ConNeg+Sg: ужа
+     ужаны+V+Ind+PstI+ConNeg+Pl: ужалэ
+
+     ужаны+V+Ind+PstII+Sg1: ужаськем
+     ужаны+V+Ind+PstII+Sg2: ужамед
+     ужаны+V+Ind+PstII+Sg3: ужам
+     ужаны+V+Ind+PstII+Pl1: ужаськеммы
+     ужаны+V+Ind+PstII+Pl2: ужаллямды
+     ужаны+V+Ind+PstII+Pl3: [ужаллямзы, ужаллям]
+
+     ужаны+V+Ind+PstII+ConNeg+Sg1: ужаськем
+     ужаны+V+Ind+PstII+ConNeg+Sg2: ужамед
+     ужаны+V+Ind+PstII+ConNeg+Sg3: ужам
+     ужаны+V+Ind+PstII+ConNeg+Pl1: ужаськеммы
+     ужаны+V+Ind+PstII+ConNeg+Pl2: ужаллямды
+     ужаны+V+Ind+PstII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+
+     ужаны+V+Ind+PstII+Neg+Sg1: ужаськымтэе
+     ужаны+V+Ind+PstII+Neg+Sg2: ужамтэед
+     ужаны+V+Ind+PstII+Neg+Sg3: ужамтэ
+     ужаны+V+Ind+PstII+Neg+Pl1: ужаськымтэмы
+     ужаны+V+Ind+PstII+Neg+Pl2: ужамтэды
+     ужаны+V+Ind+PstII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+
+     ужаны+V+Imprt+Sg2: ужа
+     ужаны+V+Imprt+Pl2: ужалэ
+     ужаны+V+Imprt+ConNeg+Sg2: ужа
+     ужаны+V+Imprt+ConNeg+Pl2: ужалэ
+
+     ужаны+V+Imprt+Sg3: ужалоз
+     ужаны+V+Imprt+Pl3: ужалозы
+     ужаны+V+Imprt+ConNeg+Sg3: ужа
+     ужаны+V+Imprt+ConNeg+Pl3: ужалэ
+
+     ужаны+V+Opt+Sg1: ужам
+     ужаны+V+Opt+Sg2: ужад
+     ужаны+V+Opt+Sg3: ужаз
+     ужаны+V+Opt+Pl1: ужамы
+     ужаны+V+Opt+Pl2: ужады
+     ужаны+V+Opt+Pl3: ужазы
+     ужаны+V+Opt+ConNeg+Sg: ужа
+     ужаны+V+Opt+ConNeg+Pl: [ужалэ, ужа]
+
+     ужаны+V+Cond+Sg1: ужасал
+     ужаны+V+Cond+Sg2: [ужасал, ужасалыд]
+     ужаны+V+Cond+Sg3: [ужасал, ужасалыз]
+     ужаны+V+Cond+Pl1: ужасалмы
+     ужаны+V+Cond+Pl2: ужасалды
+     ужаны+V+Cond+Pl3: ужасалзы
+
+     ужаны+V+Cond+ConNeg+Sg1: ужасал
+     ужаны+V+Cond+ConNeg+Sg2: [ужасал, ужасалыд]
+     ужаны+V+Cond+ConNeg+Sg3: [ужасал, ужасалыз]
+     ужаны+V+Cond+ConNeg+Pl1: ужасалмы
+     ужаны+V+Cond+ConNeg+Pl2: ужасалды
+     ужаны+V+Cond+ConNeg+Pl3: ужасалзы
+
+     ужаны+V+PrcPrfAdn: ужам
+     ужаны+V+PrcPrfNeg: ужамтэ
+     ужаны+V+PrcPrfPred: ужамын
+
+     ужаны+V+PrcPrsPos: ужась
+     ужаны+V+PrcPrsNeg: ужасьтэм
+
+     ужаны+V+GerPos: ужаса
+     ужаны+V+GerNeg: ужатэк
+
+

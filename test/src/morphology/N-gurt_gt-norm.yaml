@@ -1,0 +1,53 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Noun - гурт: # Noun  гурт 'eng /udm /fin' - full paradigm
+     гурт+N+Sg+Nom: гурт
+     гурт+N+Sg+Acc: гуртэз
+     гурт+N+Sg+Gen: гуртлэн
+     гурт+N+Sg+Abl: гуртлэсь
+     гурт+N+Sg+Dat: гуртлы
+     гурт+N+Sg+Ins: гуртэн
+     гурт+N+Sg+Abe: гурттэк
+     гурт+N+Sg+Advl: гуртъя
+     гурт+N+Sg+Ine: гуртын
+     гурт+N+Sg+Ill: гуртэ
+     гурт+N+Sg+Ela: гуртысь
+     гурт+N+Sg+Egr: гуртысен
+     гурт+N+Sg+Ter: гуртозь
+     гурт+N+Sg+Prl: гуртэтӥ
+     гурт+N+Sg+Apr: гуртлань
+
+     гурт+N+Pl+Nom: гуртъёс
+     гурт+N+Pl+Acc: гуртъёсыз
+     гурт+N+Pl+Gen: гуртъёслэн
+     гурт+N+Pl+Abl: гуртъёслэсь
+     гурт+N+Pl+Dat: гуртъёслы
+     гурт+N+Pl+Ins: гуртъёсэн
+     гурт+N+Pl+Abe: гуртъёстэк
+     гурт+N+Pl+Advl: гуртъёсъя
+     гурт+N+Pl+Ine: гуртъёсын
+     гурт+N+Pl+Ill: гуртъёсы
+     гурт+N+Pl+Ela: гуртъёсысь
+     гурт+N+Pl+Egr: гуртъёсысен
+     гурт+N+Pl+Ter: гуртъёсозь
+     гурт+N+Pl+Prl: гуртъёсэтӥ
+     гурт+N+Pl+Apr: гуртъёслань
+
+
+
