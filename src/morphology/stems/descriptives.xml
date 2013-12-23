@@ -3506,23 +3506,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">дымбыр</l>
-         <stg>
-            <st Contlex="N_">дымбыр</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">дымбыр</l>
          <stg>
             <st Contlex="ADV_">дымбыр</st>
@@ -19112,23 +19095,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">ӵаж</l>
-         <stg>
-            <st Contlex="N_">ӵаж</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Descr">ӵажак</l>
          <stg>
             <st Contlex="DESCR_">ӵажак</st>
@@ -19489,40 +19455,6 @@
          <l pos="Descr">ӵыж</l>
          <stg>
             <st Contlex="DESCR_">ӵыж</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">ӵыж</l>
-         <stg>
-            <st Contlex="A_">ӵыж</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ӵыж</l>
-         <stg>
-            <st Contlex="ADV_">ӵыж</st>
          </stg>
       </lg>
       <mg>
