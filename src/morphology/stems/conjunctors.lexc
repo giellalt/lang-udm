@@ -1,8 +1,8 @@
 
 LEXICON conjunctors
 
-а:а CONJ_  "" ;
-агар:агар CONJ_  "" ;
+а:а CC_  "" ;
+агар:агар CS_  "" ;
 айкась:айкась CONJ_  "" ;
 али:али CONJ_  "" ;
 аль:аль CONJ_  "" ;
