@@ -3,7 +3,8 @@
 
 LEXICON N_
 !! Words from lexicon ''@LEXNAME@'' have not been evaluated yet
-+N: # ;
+!+N: # ; 
+ NOUNSUF ; !!  2014-01-24 _If they are not against us, they are for us_
 
 LEXICON NOUNSUF
 +N: NOUNSUF_01 ;
