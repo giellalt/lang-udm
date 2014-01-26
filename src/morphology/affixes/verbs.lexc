@@ -5,7 +5,7 @@ LEXICON V_ !!= @CODE@ Verb type is still to be determined.
 
 LEXICON V_MONO
 !! Lexicon ''@LEXNAME@''
-!! * Yaml: ____
+!! * Yaml: __mynyny__
 +V+Ind+Prs: OPRS ;
 +V+Ind+Fut:%>о FUTPAST ;
 +V+Ind+PrtI:%>и FUTPAST ;
@@ -13,6 +13,7 @@ LEXICON V_MONO
 +V+Ind+PrtII:%>ем FUTPASTPL ;
 +V+Cond:%>сал COND ;
 +V+Opt:%>о OPT ;
++V: NONFINITES ;
 
 LEXICON V_UZA
 !! Lexicon ''@LEXNAME@''
@@ -166,7 +167,7 @@ LEXICON OPT
 +ConNeg+Pl:%>лэ K	;
 
 LEXICON NONFINITES
-!! Lexicon ''@LEXNAME@''
+    !! Lexicon ''@LEXNAME@''
 +Inf:%>ны  K	;
 +GerPos:%>са  K	;
 +GerNeg:%>тэк  K	;
