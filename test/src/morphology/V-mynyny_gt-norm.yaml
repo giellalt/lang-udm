@@ -32,16 +32,16 @@ Tests:
      мыныны+V+Ind+Prs+ConNeg+Pl2: мынӥське
      мыныны+V+Ind+Prs+ConNeg+Pl3: мыно
 
-     # TODO:
-     # мыныны+V+Ind+Fut+Sg1: ужало
-     # мыныны+V+Ind+Fut+Sg2: ужалод
-     # мыныны+V+Ind+Fut+Sg3: ужалоз
-     # мыныны+V+Ind+Fut+Pl1: ужалом
-     # мыныны+V+Ind+Fut+Pl2: ужалоды
-     # мыныны+V+Ind+Fut+Pl3: ужалозы
-     # мыныны+V+Ind+Fut+ConNeg+Sg: ужа
-     # мыныны+V+Ind+Fut+ConNeg+Pl: ужалэ
+     мыныны+V+Ind+Fut+Sg1: мыно
+     мыныны+V+Ind+Fut+Sg2: мынод
+     мыныны+V+Ind+Fut+Sg3: мыноз
+     мыныны+V+Ind+Fut+Pl1: [мыном, мыномы]
+     мыныны+V+Ind+Fut+Pl2: мыноды
+     мыныны+V+Ind+Fut+Pl3: мынозы
+     мыныны+V+Ind+Fut+ConNeg+Sg: мыны
+     мыныны+V+Ind+Fut+ConNeg+Pl: [мынэ, мынэлэ]
 
+     # TODO:
      # мыныны+V+Ind+PrtI+Sg1: ужай
      # мыныны+V+Ind+PrtI+Sg2: ужад
      # мыныны+V+Ind+PrtI+Sg3: ужаз

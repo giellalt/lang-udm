@@ -46,7 +46,6 @@ LEXICON V_MONO
 :ы V_MONO_LONG ; 
 
 LEXICON V_MONO_LONG
-+V+Ind+Fut:%>о FUTPAST ;
 +V+Ind+PrtI:%>и FUTPAST ;
 +V+Ind+PrtII:%>еме FUTPASTSG ;
 +V+Ind+PrtII:%>ем FUTPASTPL ;
@@ -56,6 +55,8 @@ LEXICON V_MONO_LONG
 
 LEXICON V_MONO_SHORT
 +V+Ind+Prs: OPRS ;
++V+Ind+Prs+ConNeg: OPRS_CONNEG ;
++V+Ind+Fut:%>о FUTPAST ;
 
 LEXICON V_UZA
 !! Lexicon ''@LEXNAME@''
@@ -91,11 +92,21 @@ LEXICON OPRS
 +Sg1:%>ӥсько K ;
 +Sg2:%>ӥськод K ;
 +Sg3:%>э K ;
+! Unsure what motivates this variation
 +Pl1:%>ӥськом K ;
 +Pl1:%>ӥськомы K ;
 +Pl2:%>ӥськоды K ;
 +Pl3:%>о K ;
 
+LEXICON OPRS_CONNEG
++Sg1:%>ӥськы K ;
++Sg2:%>ӥськы K ;
+! Unsure what motivates this variation
++Sg3:%>ы K ;
++Sg3:%>0 K ;
++Pl1:%>ӥське K ;
++Pl2:%>ӥське K ;
++Pl3:%>о K ;
 
 LEXICON APRS
 !! Lexicon ''@LEXNAME@''
