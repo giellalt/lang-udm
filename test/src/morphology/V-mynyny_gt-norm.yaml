@@ -16,7 +16,7 @@ Tests:
 # Then: run analyser, then correct.
 
 
-  Verb - ужаны: # Verb UZA ужаны 'eng /udm /fin' - full paradigm
+  Verb - мыныны: # Verb MONO мыныны 'eng /udm /fin' - full paradigm
      мыныны+V+Inf: мыныны
      мыныны+V+Ind+Prs+Sg1: мынӥсько
      мыныны+V+Ind+Prs+Sg2: мынӥськод

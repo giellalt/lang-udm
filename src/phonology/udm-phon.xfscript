@@ -11,6 +11,10 @@ define Vow [ а | е | ё | и | ӥ | о | ӧ | ы | э | ю | я
 ! like the cyrillic...               ö   bl  eab ju  ja
            ];
 
+define PalVow [ е | ё | и | ю | я 
+              | Е | Ё | И | Ю | Я 
+              ];
+
 echo << defining Cns >>
 define Cns [ б | в | г | д | ж | ӝ | з | ӟ 
            | Б | В | Г | Д | Ж | Ӝ | З | Ӟ 
@@ -45,12 +49,11 @@ define ijaDeletion [я -> 0, е -> 0 || Syll Syll _ Boundary ];
 
 define PalatalisedSuffixes э -> е, o -> ё  || Vow Boundary ъ _ ;
 
-! TODO: и ё ?
 define PalatalVowelShift э -> e, о -> ё, ӥ -> и || ь Boundary _ ;
 
 define PalatalIRemoval ӥ -> и || Vow Boundary _ ;
 
-define PalatalMarkDeletion ь -> 0 || _ Boundary e ;
+define PalatalMarkDeletion ь -> 0 || _ Boundary PalVow ;
 
 define HardMarkDeletion ъ -> 0 || Vow Boundary _ ;
 

@@ -1,0 +1,119 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - возьыны: # Verb MONO возьыны 'eng /udm /fin' - full paradigm
+     возьыны+V+Inf: возьыны
+     возьыны+V+Ind+Prs+Sg1: возисько
+     возьыны+V+Ind+Prs+Sg2: возиськод
+     возьыны+V+Ind+Prs+Sg3: возе
+     возьыны+V+Ind+Prs+Pl1: [возиськом, возиськомы]
+     возьыны+V+Ind+Prs+Pl2: возиськоды
+     возьыны+V+Ind+Prs+Pl3: возё
+
+     мыныны+V+Ind+Prs+ConNeg+Sg1: возиськы
+     мыныны+V+Ind+Prs+ConNeg+Sg2: возиськы
+     мыныны+V+Ind+Prs+ConNeg+Sg3: возы
+     мыныны+V+Ind+Prs+ConNeg+Pl1: возиське
+     мыныны+V+Ind+Prs+ConNeg+Pl2: возиське
+     мыныны+V+Ind+Prs+ConNeg+Pl3: возё
+
+     мыныны+V+Ind+Fut+Sg1: возё
+     мыныны+V+Ind+Fut+Sg2: возёд
+     мыныны+V+Ind+Fut+Sg3: возёз
+     мыныны+V+Ind+Fut+Pl1: [возём, возёмы]
+     мыныны+V+Ind+Fut+Pl2: возёды
+     мыныны+V+Ind+Fut+Pl3: возёзы
+     возыны+V+Ind+Fut+ConNeg+Sg: возы
+     возыны+V+Ind+Fut+ConNeg+Pl: [возе, возелэ]
+
+     # TODO:
+     # возьыны+V+Ind+PrtI+Sg1: ужай
+     # возьыны+V+Ind+PrtI+Sg2: ужад
+     # возьыны+V+Ind+PrtI+Sg3: ужаз
+     # возьыны+V+Ind+PrtI+Pl1: [ужамы, ужам]
+     # возьыны+V+Ind+PrtI+Pl2: ужады
+     # возьыны+V+Ind+PrtI+Pl3: ужазы
+     # возьыны+V+Ind+PrtI+ConNeg+Sg: ужа
+     # возьыны+V+Ind+PrtI+ConNeg+Pl: ужалэ
+
+     # возьыны+V+Ind+PrtII+Sg1: ужаськем
+     # возьыны+V+Ind+PrtII+Sg2: ужамед
+     # возьыны+V+Ind+PrtII+Sg3: ужам
+     # возьыны+V+Ind+PrtII+Pl1: ужаськеммы
+     # возьыны+V+Ind+PrtII+Pl2: ужаллямды
+     # возьыны+V+Ind+PrtII+Pl3: [ужаллямзы, ужаллям]
+
+     # возьыны+V+Ind+PrtII+ConNeg+Sg1: ужаськем
+     # возьыны+V+Ind+PrtII+ConNeg+Sg2: ужамед
+     # возьыны+V+Ind+PrtII+ConNeg+Sg3: ужам
+     # возьыны+V+Ind+PrtII+ConNeg+Pl1: ужаськеммы
+     # возьыны+V+Ind+PrtII+ConNeg+Pl2: ужаллямды
+     # возьыны+V+Ind+PrtII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+
+     # возьыны+V+Ind+PrtII+Neg+Sg1: ужаськымтэе
+     # возьыны+V+Ind+PrtII+Neg+Sg2: ужамтэед
+     # возьыны+V+Ind+PrtII+Neg+Sg3: ужамтэ
+     # возьыны+V+Ind+PrtII+Neg+Pl1: ужаськымтэмы
+     # возьыны+V+Ind+PrtII+Neg+Pl2: ужамтэды
+     # возьыны+V+Ind+PrtII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+
+     # возьыны+V+Imprt+Sg2: ужа
+     # возьыны+V+Imprt+Pl2: ужалэ
+     # возьыны+V+Imprt+ConNeg+Sg2: ужа
+     # возьыны+V+Imprt+ConNeg+Pl2: ужалэ
+
+     # возьыны+V+Imprt+Sg3: ужалоз
+     # возьыны+V+Imprt+Pl3: ужалозы
+     # возьыны+V+Imprt+ConNeg+Sg3: ужа
+     # возьыны+V+Imprt+ConNeg+Pl3: ужалэ
+
+     # возьыны+V+Opt+Sg1: ужам
+     # возьыны+V+Opt+Sg2: ужад
+     # возьыны+V+Opt+Sg3: ужаз
+     # возьыны+V+Opt+Pl1: ужамы
+     # возьыны+V+Opt+Pl2: ужады
+     # возьыны+V+Opt+Pl3: ужазы
+     # возьыны+V+Opt+ConNeg+Sg: ужа
+     # возьыны+V+Opt+ConNeg+Pl: [ужалэ, ужа]
+
+     # возьыны+V+Cond+Sg1: ужасал
+     # возьыны+V+Cond+Sg2: [ужасал, ужасалыд]
+     # возьыны+V+Cond+Sg3: [ужасал, ужасалыз]
+     # возьыны+V+Cond+Pl1: ужасалмы
+     # возьыны+V+Cond+Pl2: ужасалды
+     # возьыны+V+Cond+Pl3: ужасалзы
+
+     # возьыны+V+Cond+ConNeg+Sg1: ужасал
+     # возьыны+V+Cond+ConNeg+Sg2: [ужасал, ужасалыд]
+     # возьыны+V+Cond+ConNeg+Sg3: [ужасал, ужасалыз]
+     # возьыны+V+Cond+ConNeg+Pl1: ужасалмы
+     # возьыны+V+Cond+ConNeg+Pl2: ужасалды
+     # возьыны+V+Cond+ConNeg+Pl3: ужасалзы
+
+     # возьыны+V+PrcPrfAdn: ужам
+     # возьыны+V+PrcPrfNeg: ужамтэ
+     # возьыны+V+PrcPrfPred: ужамын
+
+     # возьыны+V+PrcPrsPos: ужась
+     # возьыны+V+PrcPrsNeg: ужасьтэм
+
+     # возьыны+V+GerPos: ужаса
+     # возьыны+V+GerNeg: ужатэк
+
+
+
