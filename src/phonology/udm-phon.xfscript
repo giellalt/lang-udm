@@ -43,7 +43,12 @@ echo << defining the rules >>
 
 define ijaDeletion [я -> 0, е -> 0 || Syll Syll _ Boundary ];
 
-define PalatalisedSuffixes э -> е, ё -> o || Vow Boundary (ъ) _ ;
+define PalatalisedSuffixes э -> е, o -> ё  || Vow Boundary ъ _ ;
+
+! TODO: и ё ?
+define PalatalVowelShift э -> e, о -> ё, ӥ -> и || ь Boundary _ ;
+
+define PalatalIRemoval ӥ -> и || Vow Boundary _ ;
 
 define PalatalMarkDeletion ь -> 0 || _ Boundary e ;
 
@@ -59,8 +64,8 @@ define Cleanup ӧ2 -> ӧ, е2 -> е, о2 -> о ;
 
 define BoundaryDeletion [ %> -> 0 ] ;
 
-define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0 ;
-!                %^@ -> 0,  ;
+define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0, %^VSHORT -> 0 ;
+!                %^@ -> 0 ;
 
 echo << composing different parts >>
 
@@ -68,6 +73,10 @@ read regex [
 ijaDeletion
 .o.
 PalatalisedSuffixes
+.o.
+PalatalIRemoval
+.o.
+PalatalVowelShift
 .o.
 PalatalMarkDeletion
 .o.
