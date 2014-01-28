@@ -1,0 +1,118 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - ужаны: # Verb UZA ужаны 'eng /udm /fin' - full paradigm
+     мыныны+V+Inf: мыныны
+     мыныны+V+Ind+Prs+Sg1: мынӥсько
+     мыныны+V+Ind+Prs+Sg2: мынӥськод
+     мыныны+V+Ind+Prs+Sg3: мынэ
+     мыныны+V+Ind+Prs+Pl1: [мынӥськом, мынӥськомы]
+     мыныны+V+Ind+Prs+Pl2: мынӥськоды
+     мыныны+V+Ind+Prs+Pl3: мыно
+
+     мыныны+V+Ind+Prs+ConNeg+Sg1: мынӥськы
+     мыныны+V+Ind+Prs+ConNeg+Sg2: мынӥськы
+     мыныны+V+Ind+Prs+ConNeg+Sg3: мыны
+     мыныны+V+Ind+Prs+ConNeg+Pl1: мынӥське
+     мыныны+V+Ind+Prs+ConNeg+Pl2: мынӥське
+     мыныны+V+Ind+Prs+ConNeg+Pl3: мыно
+
+     # TODO:
+     # мыныны+V+Ind+Fut+Sg1: ужало
+     # мыныны+V+Ind+Fut+Sg2: ужалод
+     # мыныны+V+Ind+Fut+Sg3: ужалоз
+     # мыныны+V+Ind+Fut+Pl1: ужалом
+     # мыныны+V+Ind+Fut+Pl2: ужалоды
+     # мыныны+V+Ind+Fut+Pl3: ужалозы
+     # мыныны+V+Ind+Fut+ConNeg+Sg: ужа
+     # мыныны+V+Ind+Fut+ConNeg+Pl: ужалэ
+
+     # мыныны+V+Ind+PrtI+Sg1: ужай
+     # мыныны+V+Ind+PrtI+Sg2: ужад
+     # мыныны+V+Ind+PrtI+Sg3: ужаз
+     # мыныны+V+Ind+PrtI+Pl1: [ужамы, ужам]
+     # мыныны+V+Ind+PrtI+Pl2: ужады
+     # мыныны+V+Ind+PrtI+Pl3: ужазы
+     # мыныны+V+Ind+PrtI+ConNeg+Sg: ужа
+     # мыныны+V+Ind+PrtI+ConNeg+Pl: ужалэ
+
+     # мыныны+V+Ind+PrtII+Sg1: ужаськем
+     # мыныны+V+Ind+PrtII+Sg2: ужамед
+     # мыныны+V+Ind+PrtII+Sg3: ужам
+     # мыныны+V+Ind+PrtII+Pl1: ужаськеммы
+     # мыныны+V+Ind+PrtII+Pl2: ужаллямды
+     # мыныны+V+Ind+PrtII+Pl3: [ужаллямзы, ужаллям]
+
+     # мыныны+V+Ind+PrtII+ConNeg+Sg1: ужаськем
+     # мыныны+V+Ind+PrtII+ConNeg+Sg2: ужамед
+     # мыныны+V+Ind+PrtII+ConNeg+Sg3: ужам
+     # мыныны+V+Ind+PrtII+ConNeg+Pl1: ужаськеммы
+     # мыныны+V+Ind+PrtII+ConNeg+Pl2: ужаллямды
+     # мыныны+V+Ind+PrtII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+
+     # мыныны+V+Ind+PrtII+Neg+Sg1: ужаськымтэе
+     # мыныны+V+Ind+PrtII+Neg+Sg2: ужамтэед
+     # мыныны+V+Ind+PrtII+Neg+Sg3: ужамтэ
+     # мыныны+V+Ind+PrtII+Neg+Pl1: ужаськымтэмы
+     # мыныны+V+Ind+PrtII+Neg+Pl2: ужамтэды
+     # мыныны+V+Ind+PrtII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+
+     # мыныны+V+Imprt+Sg2: ужа
+     # мыныны+V+Imprt+Pl2: ужалэ
+     # мыныны+V+Imprt+ConNeg+Sg2: ужа
+     # мыныны+V+Imprt+ConNeg+Pl2: ужалэ
+
+     # мыныны+V+Imprt+Sg3: ужалоз
+     # мыныны+V+Imprt+Pl3: ужалозы
+     # мыныны+V+Imprt+ConNeg+Sg3: ужа
+     # мыныны+V+Imprt+ConNeg+Pl3: ужалэ
+
+     # мыныны+V+Opt+Sg1: ужам
+     # мыныны+V+Opt+Sg2: ужад
+     # мыныны+V+Opt+Sg3: ужаз
+     # мыныны+V+Opt+Pl1: ужамы
+     # мыныны+V+Opt+Pl2: ужады
+     # мыныны+V+Opt+Pl3: ужазы
+     # мыныны+V+Opt+ConNeg+Sg: ужа
+     # мыныны+V+Opt+ConNeg+Pl: [ужалэ, ужа]
+
+     # мыныны+V+Cond+Sg1: ужасал
+     # мыныны+V+Cond+Sg2: [ужасал, ужасалыд]
+     # мыныны+V+Cond+Sg3: [ужасал, ужасалыз]
+     # мыныны+V+Cond+Pl1: ужасалмы
+     # мыныны+V+Cond+Pl2: ужасалды
+     # мыныны+V+Cond+Pl3: ужасалзы
+
+     # мыныны+V+Cond+ConNeg+Sg1: ужасал
+     # мыныны+V+Cond+ConNeg+Sg2: [ужасал, ужасалыд]
+     # мыныны+V+Cond+ConNeg+Sg3: [ужасал, ужасалыз]
+     # мыныны+V+Cond+ConNeg+Pl1: ужасалмы
+     # мыныны+V+Cond+ConNeg+Pl2: ужасалды
+     # мыныны+V+Cond+ConNeg+Pl3: ужасалзы
+
+     # мыныны+V+PrcPrfAdn: ужам
+     # мыныны+V+PrcPrfNeg: ужамтэ
+     # мыныны+V+PrcPrfPred: ужамын
+
+     # мыныны+V+PrcPrsPos: ужась
+     # мыныны+V+PrcPrsNeg: ужасьтэм
+
+     # мыныны+V+GerPos: ужаса
+     # мыныны+V+GerNeg: ужатэк
+
+
