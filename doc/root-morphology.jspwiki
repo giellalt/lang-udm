@@ -62,6 +62,7 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
   %{ИӤЙ%}    
+  %^VSHORT   Trigger for short stem
 
 And following triggers to control variation
 
