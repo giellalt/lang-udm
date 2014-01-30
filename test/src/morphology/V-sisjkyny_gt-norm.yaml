@@ -1,0 +1,120 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Verb - сиськыны: # Verb MONO сиськыны 'eng /udm /fin' - full paradigm
+     сиськыны+V+Inf: сиськыны
+     сиськыны+V+Ind+Prs+Sg1: сиськисько
+     сиськыны+V+Ind+Prs+Sg2: сиськиськод
+     сиськыны+V+Ind+Prs+Sg3: сиське
+     сиськыны+V+Ind+Prs+Pl1: [сиськиськом, сиськиськомы]
+     сиськыны+V+Ind+Prs+Pl2: сиськиськоды
+     сиськыны+V+Ind+Prs+Pl3: сисько
+
+     сиськыны+V+Ind+Prs+ConNeg+Sg1: сиськиськы
+     сиськыны+V+Ind+Prs+ConNeg+Sg2: сиськиськы
+     сиськыны+V+Ind+Prs+ConNeg+Sg3: сиськы
+     сиськыны+V+Ind+Prs+ConNeg+Pl1: сиськиське
+     сиськыны+V+Ind+Prs+ConNeg+Pl2: сиськиське
+     сиськыны+V+Ind+Prs+ConNeg+Pl3: сисько
+
+     сиськыны+V+Ind+Fut+Sg1: сисько
+     сиськыны+V+Ind+Fut+Sg2: сиськод
+     сиськыны+V+Ind+Fut+Sg3: сиськоз
+     сиськыны+V+Ind+Fut+Pl1: [сиськом, сиськомы]
+     сиськыны+V+Ind+Fut+Pl2: сиськоды
+     сиськыны+V+Ind+Fut+Pl3: сиськозы
+     сиськыны+V+Ind+Fut+ConNeg+Sg: сиськы
+     сиськыны+V+Ind+Fut+ConNeg+Pl: сиське
+
+     # TODO:
+     # сиськыны+V+Ind+PrtI+Sg1: ужай
+     # сиськыны+V+Ind+PrtI+Sg2: ужад
+     # сиськыны+V+Ind+PrtI+Sg3: ужаз
+     # сиськыны+V+Ind+PrtI+Pl1: [ужамы, ужам]
+     # сиськыны+V+Ind+PrtI+Pl2: ужады
+     # сиськыны+V+Ind+PrtI+Pl3: ужазы
+     # сиськыны+V+Ind+PrtI+ConNeg+Sg: ужа
+     # сиськыны+V+Ind+PrtI+ConNeg+Pl: ужалэ
+
+     # сиськыны+V+Ind+PrtII+Sg1: ужаськем
+     # сиськыны+V+Ind+PrtII+Sg2: ужамед
+     # сиськыны+V+Ind+PrtII+Sg3: ужам
+     # сиськыны+V+Ind+PrtII+Pl1: ужаськеммы
+     # сиськыны+V+Ind+PrtII+Pl2: ужаллямды
+     # сиськыны+V+Ind+PrtII+Pl3: [ужаллямзы, ужаллям]
+
+     # сиськыны+V+Ind+PrtII+ConNeg+Sg1: ужаськем
+     # сиськыны+V+Ind+PrtII+ConNeg+Sg2: ужамед
+     # сиськыны+V+Ind+PrtII+ConNeg+Sg3: ужам
+     # сиськыны+V+Ind+PrtII+ConNeg+Pl1: ужаськеммы
+     # сиськыны+V+Ind+PrtII+ConNeg+Pl2: ужаллямды
+     # сиськыны+V+Ind+PrtII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+
+     # сиськыны+V+Ind+PrtII+Neg+Sg1: ужаськымтэе
+     # сиськыны+V+Ind+PrtII+Neg+Sg2: ужамтэед
+     # сиськыны+V+Ind+PrtII+Neg+Sg3: ужамтэ
+     # сиськыны+V+Ind+PrtII+Neg+Pl1: ужаськымтэмы
+     # сиськыны+V+Ind+PrtII+Neg+Pl2: ужамтэды
+     # сиськыны+V+Ind+PrtII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+
+     # сиськыны+V+Imprt+Sg2: ужа
+     # сиськыны+V+Imprt+Pl2: ужалэ
+     # сиськыны+V+Imprt+ConNeg+Sg2: ужа
+     # сиськыны+V+Imprt+ConNeg+Pl2: ужалэ
+
+     # сиськыны+V+Imprt+Sg3: ужалоз
+     # сиськыны+V+Imprt+Pl3: ужалозы
+     # сиськыны+V+Imprt+ConNeg+Sg3: ужа
+     # сиськыны+V+Imprt+ConNeg+Pl3: ужалэ
+
+     # сиськыны+V+Opt+Sg1: ужам
+     # сиськыны+V+Opt+Sg2: ужад
+     # сиськыны+V+Opt+Sg3: ужаз
+     # сиськыны+V+Opt+Pl1: ужамы
+     # сиськыны+V+Opt+Pl2: ужады
+     # сиськыны+V+Opt+Pl3: ужазы
+     # сиськыны+V+Opt+ConNeg+Sg: ужа
+     # сиськыны+V+Opt+ConNeg+Pl: [ужалэ, ужа]
+
+     # сиськыны+V+Cond+Sg1: ужасал
+     # сиськыны+V+Cond+Sg2: [ужасал, ужасалыд]
+     # сиськыны+V+Cond+Sg3: [ужасал, ужасалыз]
+     # сиськыны+V+Cond+Pl1: ужасалмы
+     # сиськыны+V+Cond+Pl2: ужасалды
+     # сиськыны+V+Cond+Pl3: ужасалзы
+
+     # сиськыны+V+Cond+ConNeg+Sg1: ужасал
+     # сиськыны+V+Cond+ConNeg+Sg2: [ужасал, ужасалыд]
+     # сиськыны+V+Cond+ConNeg+Sg3: [ужасал, ужасалыз]
+     # сиськыны+V+Cond+ConNeg+Pl1: ужасалмы
+     # сиськыны+V+Cond+ConNeg+Pl2: ужасалды
+     # сиськыны+V+Cond+ConNeg+Pl3: ужасалзы
+
+     # сиськыны+V+PrcPrfAdn: ужам
+     # сиськыны+V+PrcPrfNeg: ужамтэ
+     # сиськыны+V+PrcPrfPred: ужамын
+
+     # сиськыны+V+PrcPrsPos: ужась
+     # сиськыны+V+PrcPrsNeg: ужасьтэм
+
+     # сиськыны+V+GerPos: ужаса
+     # сиськыны+V+GerNeg: ужатэк
+
+
+
+

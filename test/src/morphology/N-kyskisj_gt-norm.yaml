@@ -1,0 +1,24 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Noun - кыскись: # Noun  кыскись 'eng /udm /fin' - full paradigm
+     кыскись+N+Sg+Nom: кыскись
+     кыскись+N+Sg+Ine: кыскисьын
+     кыскись+N+Sg+Ine: кыскисьын
+
+     кыскись+N+Pl+Nom: кыскисьёс
+
