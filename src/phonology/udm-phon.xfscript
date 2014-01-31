@@ -62,13 +62,12 @@ define PalatalisedSuffixes э -> е, o -> ё  || Vow Boundary ъ _ ;
 
 define PalatalVowelShift э -> e, о -> ё, ӥ -> и || [ NonPalatalCons | ь ] Boundary _ ;
 
-! TODO: after palatizing consonants, not after e.g., /k m g/, etc.
 define PalatalIRemoval ӥ -> и || [ Vow | NonPalatalCons ] Boundary _ ;
 
 ! TODO: for some reason not working here: возьe
-define PalatalMarkDeletion ь -> 0 || _ Boundary PalVow ;
+define PalatalMarkDeletion ь -> 0 || _ Boundary [ PalVow | э ] ;
 
-define HardMarkDeletion ъ -> 0 || Vow Boundary _ ;
+define HardMarkDeletion ъ -> 0 || [ ь | Vow] Boundary _ ;
 
 define Syncope ӧ2 (->) 0, е2 (->) 0, о2 (->) 0 || _ Cns %> (ъ) Vow ;
 
@@ -80,7 +79,7 @@ define Cleanup ӧ2 -> ӧ, е2 -> е, о2 -> о ;
 
 define BoundaryDeletion [ %> -> 0 ] ;
 
-define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0, %^VSHORT -> 0 ;
+define Deletion к2 -> 0, м2 -> 0, т2 -> 0, %@ -> 0;
 !                %^@ -> 0 ;
 
 echo << composing different parts >>
