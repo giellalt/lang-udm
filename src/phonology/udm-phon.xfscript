@@ -26,6 +26,14 @@ define Cns [ б | в | г | д | ж | ӝ | з | ӟ
 ! like cyr   ch  ch"  sh  shch hrd sft
            ];
 
+define NonPalatalCons [ б | в | г | д | ж | ӝ  
+                      | Б | В | Г | Д | Ж | Ӝ  
+                          | к     | м     | п | р         | ф | х     
+                          | К     | М     | П | Р         | Ф | Х     
+                              | ш | щ | ъ     
+                              | Ш | Щ | Ъ     
+                      ];
+
 define Syll [ (Cns) (Cns) Vow (Cns) (Cns) ] ; 
 
 echo << defining Boundary >>
@@ -49,10 +57,15 @@ define ijaDeletion [я -> 0, е -> 0 || Syll Syll _ Boundary ];
 
 define PalatalisedSuffixes э -> е, o -> ё  || Vow Boundary ъ _ ;
 
-define PalatalVowelShift э -> e, о -> ё, ӥ -> и || ь Boundary _ ;
+! Either shift to the palatal series after an actual palatal sound, or the
+! consonants that cannot be palatized
 
-define PalatalIRemoval ӥ -> и || Vow Boundary _ ;
+define PalatalVowelShift э -> e, о -> ё, ӥ -> и || [ NonPalatalCons | ь ] Boundary _ ;
 
+! TODO: after palatizing consonants, not after e.g., /k m g/, etc.
+define PalatalIRemoval ӥ -> и || [ Vow | NonPalatalCons ] Boundary _ ;
+
+! TODO: for some reason not working here: возьe
 define PalatalMarkDeletion ь -> 0 || _ Boundary PalVow ;
 
 define HardMarkDeletion ъ -> 0 || Vow Boundary _ ;
