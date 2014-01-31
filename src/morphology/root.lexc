@@ -119,7 +119,6 @@ Multichar_Symbols
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
  %{ИӤЙ%}   !!= @CODE@ 
- %^VSHORT  !!= @CODE@ Trigger for short stem
 
 !! And following triggers to control variation
  {front} {back}
