@@ -79,6 +79,32 @@
 
 !!  * Non-russian words ending in -я (Loans from Tatar): чия ''kirsikka'' - чия–лы
 
+!! !! Place names based on names of old tribes
+
+!! These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+!! cases, they take an infix which is optional.
+
+!! The following may be exhaustive, but unsure yet.
+
+!! * Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
+!! * Можга, Пурга, Дурга, Нылга, Эбга, Коньга
+!! * Поска
+!! * Бигра, Эгра
+!! * Чола
+
+!! Infix is optional in some cases
+
+!! || Iness.     |  Салья-ла-н    |  Салья-ын
+!! || Illat.     |  Салья-ла      |  Салья-е
+!! || Elat.      |  Салья-ла-сь   |  Салья-ысь
+!! || Egress.    |  Салья-ла-сен  |  Салья-ысен
+
+! The following cases do not have the infix at all
+
+!  || Terminat.  |  Салья-озь
+!  || Prol.      |  Салья-тӥ
+!  || Appr.      |  Салья-лань
+
 
 !! !! "Old" Finno-ugric stems
 
@@ -169,26 +195,6 @@
 !!       maybe also mark in lexicon that they're special?
 
 ! why do the palatal ones need overt marking with <ь>?
-
-! Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
-
-! Можга, Пурга, Дурга, Нылга, Эбга, Коньга
-
-! Поска
-
-! Бигра, Эгра
-
-! Чола
-
-! Infix is optional
-
-!       Iness.       Салья-ла-н    Салья-ын
-!       Illat.       Салья-ла      Салья-е
-!       Elat.        Салья-ла-сь   Салья-ысь
-!       Egress.      Салья-ла-сен  Салья-ысен
-!     [ Terminat.    Салья-озь
-!       Prol.        Салья-тӥ
-!       Appr.        Салья-лань ]
 
 LEXICON N_
 !! Words from lexicon ''@LEXNAME@'' have not been evaluated yet
