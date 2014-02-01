@@ -201,6 +201,58 @@ LEXICON N_
 !+N: # ; 
  NOUNSUF ; !!  2014-01-24 _If they are not against us, they are for us_
 
+LEXICON N_RUS_JA
+!! Words from Russian in ''@LEXNAME@'' sometimes have the original Russian stem
+!! for certain cases, and in others they do not.
++N+Sg: CASESUF_JA ;
++N+Pl:%>ос CASESUF ;
+!! TODO: possessives
+
+LEXICON N_RUS_JE
+!! Words from Russian in ''@LEXNAME@'' sometimes have the original Russian stem
+!! for certain cases, and in others they do not.
++N+Sg: CASESUF_JE ;
++N+Pl:%>ос CASESUF ;
+!! TODO: possessives
+
+LEXICON CASESUF_JE
++Nom:%>е%>0 K;
++Acc:%>эз K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>эн K;
++Abe:%>тэк K;
++Advl:%>е%>я K;
++Ine:%>ын K;
++Ill:%>э K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
++Apr:%>лань K;
+
+LEXICON CASESUF_JA
++Nom:%>я%>0 K;
++Acc:%>эз K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>эн K;
++Abe:%>тэк K;
++Advl:%>я%>я K;
++Ine:%>ын K;
++Ill:%>э K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
++Apr:%>лань K;
+
+LEXICON N_TAT
+!! Words from Tatar in ''@LEXNAME@'' preserve the original stem я
+NOUNSUF ;
+
 LEXICON NOUNSUF
 +N: NOUNSUF_01 ;
 
@@ -220,7 +272,7 @@ LEXICON CASESUF
 +Dat:%>лы K;
 +Ins:%>эн K;
 +Abe:%>тэк K;
-+Adc:%>ъя K;
++Advl:%>ъя K;
 +Ine:%>ын K;
 +Ill:%>э K;
 +Ela:%>ысь K;
@@ -243,7 +295,7 @@ LEXICON POSTCX
 +Abl:%>лэсь K;
 +Dat:%>лы K;
 +Abe:%>тэк K;
-+Adc:%>ъя K;
++Advl:%>ъя K;
 +Apr:%>лань K;
 +Prl:%>озь K;
 
