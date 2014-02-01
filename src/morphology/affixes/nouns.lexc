@@ -222,11 +222,11 @@ LEXICON N_RUS_JE
 
 LEXICON CASESUF_JE
 +Nom:%>е%>0 K;
-+Acc:%>эз K;
++Acc:%>ез K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
-+Ins:%>эн K;
++Ins:%>ен K;
 +Abe:%>тэк K;
 +Advl:%>е%>я K;
 +Ine:%>ын K;
@@ -235,16 +235,16 @@ LEXICON CASESUF_JE
 +Ela:%>ысь K;
 +Egr:%>ысен K;
 +Ter:%>озь K;
-+Prl:%>этӥ K;
++Prl:%>етӥ K;
 +Apr:%>лань K;
 
 LEXICON CASESUF_JA
 +Nom:%>я%>0 K;
-+Acc:%>эз K;
++Acc:%>ез K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
-+Ins:%>эн K;
++Ins:%>ен K;
 +Abe:%>тэк K;
 +Advl:%>я%>я K;
 +Ine:%>ын K;
@@ -253,7 +253,7 @@ LEXICON CASESUF_JA
 +Ela:%>ысь K;
 +Egr:%>ысен K;
 +Ter:%>озь K;
-+Prl:%>этӥ K;
++Prl:%>етӥ K;
 +Apr:%>лань K;
 
 LEXICON N_TAT
