@@ -89,6 +89,7 @@ LEXICON V_UZA
 
 LEXICON OPRS
 !! Lexicon ''@LEXNAME@''
+!! NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
 +Sg1:%>ӥсько K ;
 +Sg2:%>ӥськод K ;
 +Sg3:%>э K ;
