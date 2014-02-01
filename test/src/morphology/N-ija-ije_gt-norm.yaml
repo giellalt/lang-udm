@@ -16,6 +16,7 @@ Tests:
 
   Noun - конференция: # Noun  конференция 'eng /udm /fin' - full paradigm
      конференция+N+Sg+Nom: конференция 
+     конференция+N+Sg+Dat: конференцие
      конференция+N+Pl+Nom: конференциос
      конференция+N+Sg+Ine: конференциын
      конференция+N+Sg+Gen: конференцилэн
@@ -31,6 +32,7 @@ Tests:
   Noun - чия: # Noun чия 'eng /udm /fin' - full paradigm
      чия+N+Sg+Nom:  чия 
      чия+N+Sg+Dat:  чиялы
+     чия+N+Sg+Ill:  чияе
      чия+N+Pl+Nom:  чияос
      чия+N+Sg+Ine:  чияын
      чия+N+Sg+Gen:  чиялэн

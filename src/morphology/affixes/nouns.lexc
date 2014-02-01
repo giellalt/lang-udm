@@ -230,7 +230,8 @@ LEXICON CASESUF_JE
 +Abe:%>тэк K;
 +Advl:%>е%>я K;
 +Ine:%>ын K;
-+Ill:%>э K;
+! TODO: confirm this
++Ill:%>е K;
 +Ela:%>ысь K;
 +Egr:%>ысен K;
 +Ter:%>озь K;
@@ -247,7 +248,8 @@ LEXICON CASESUF_JA
 +Abe:%>тэк K;
 +Advl:%>я%>я K;
 +Ine:%>ын K;
-+Ill:%>э K;
+! TODO: confirm this
++Ill:%>е K;
 +Ela:%>ысь K;
 +Egr:%>ысен K;
 +Ter:%>озь K;
