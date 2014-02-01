@@ -28,6 +28,14 @@ Tests:
      собрание+N+Sg+Gen:  собранилэн
      собрание+N+Sg+Advl: собраниея
 
+  Noun - чия: # Noun чия 'eng /udm /fin' - full paradigm
+     чия+N+Sg+Nom:  чия 
+     чия+N+Sg+Dat:  чиялы
+     чия+N+Pl+Nom:  чияос
+     чия+N+Sg+Ine:  чияын
+     чия+N+Sg+Gen:  чиялэн
+     чия+N+Sg+Advl: чияя
+
   Noun - Эстония: # Noun Эстония 'eng /udm /fin' - full paradigm
      Эстония+N+Prop+Sg+Nom:  Эстония
      Эстония+N+Prop+Pl+Nom:  Эстониос
