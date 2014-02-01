@@ -1,0 +1,51 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+  Noun - конференция: # Noun  конференция 'eng /udm /fin' - full paradigm
+     конференция+N+Sg+Nom: конференция 
+     конференция+N+Pl+Nom: конференциос
+     конференция+N+Sg+Ine: конференциын
+     конференция+N+Sg+Gen: конференцилэн
+     конференция+N+Sg+Advl: конференцияя
+
+  Noun - собрание: # Noun  собрание 'eng /udm /fin' - full paradigm
+     собрание+N+Sg+Nom:  собрание
+     собрание+N+Pl+Nom:  собраниос
+     собрание+N+Sg+Ine:  собраниын
+     собрание+N+Sg+Gen:  собранилэн
+     собрание+N+Sg+Advl: собраниея
+
+  Noun - Эстония: # Noun Эстония 'eng /udm /fin' - full paradigm
+     Эстония+N+Prop+Sg+Nom:  Эстония
+     Эстония+N+Prop+Pl+Nom:  Эстониос
+     Эстония+N+Prop+Sg+Ine:  Эстониын
+     Эстония+N+Prop+Sg+Gen:  Эстонилэн
+     Эстония+N+Prop+Sg+Advl: Эстонияя
+
+  Noun - Самария: # Noun Самария 'eng /udm /fin' - full paradigm
+     Самария+N+Prop+Sg+Nom:  Самария
+     Самария+N+Prop+Pl+Nom:  Самарияос
+     Самария+N+Prop+Sg+Ine:  Самарияын
+     Самария+N+Prop+Sg+Gen:  Самариялэн
+     Самария+N+Prop+Sg+Advl: Самарияя
+
+  Noun - Евгения: # Noun Евгения 'eng /udm /fin' - full paradigm
+     Евгения+N+Prop+Sg+Nom:  Евгения
+     Евгения+N+Prop+Pl+Nom:  Евгенияос
+     Евгения+N+Prop+Sg+Ine:  Евгенияын
+     Евгения+N+Prop+Sg+Gen:  Евгениялэн
+     Евгения+N+Prop+Sg+Advl: Евгенияя
+
