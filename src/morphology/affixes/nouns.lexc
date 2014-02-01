@@ -1,5 +1,194 @@
 !! !!!UDMURT Noun inflection
 
+!! Udmurt inflects for case, number, and possession. Following are some notes
+!! for things that need to be done so far.
+
+!! Most Udmurt nouns (the vast majority) do not require changes to the stem
+!! as a result of inflection. These nouns however, for FST purposes, fall into
+!! some subcategories:
+
+!! * Vowel-final stems, which also take inflectional suffixes ending on
+!!   (non-yod) vowels (excepting the adverbial)
+!! * Consonant-final stems, which take endings beginning on a yodified vowel,
+!!   if one exists
+!! * Diphthongal stems, which also take the yodified vowels.
+
+!! Some inflectional endings thus may have two alternatives:
+
+!!  * Nominative plural - ос/ёс
+!!  * Accusative singular - эз/ез
+!!  * Instrumental singular - эн/ен
+!!  * Illative singular - э/е
+!!  * Prolative singular - этӥ/етӥ
+
+!! Note that depending on the palatal/nonpalatal status of the last segment,
+!! the yodified vowel series may be preceded by a <ъ>. According to references though,
+!! the palatal marker <ь> must remain even when followed by this series.
+
+!! Some examples:
+
+!! ! -V stems
+
+!! || NomSg   || NomPl      || IneSg      || GenSg       || Adv:li Sg
+!! | бачка    | бачкаос     | бакчаын     | бакчалэн     | бачкая
+!! | дунне    | дуннеос     | дуннеын     | дуннелэн     | дуннея
+!! | ты       | тыос        | тыын        | тылэн        | тыя
+
+!! ! -C stems
+
+!! || NomSg   || NomPl      || IneSg      || GenSg       || Adv:li Sg
+!! | гурт     | гуртъёс     | гуртын      | гуртлэн      | гуртъя
+!! | тэль     | тельёс      | тэлъын      | тэлълэн      | тэлья
+!! | вить     | витьёс      | витьын      | витьлэн      | витья
+
+!! ! Diphthongs
+
+!! || NomSg   || NomPl     || IneSg      || GenSg       || Adv:li Sg
+!! | уй       | уйёс       |  уйын       |  уйлэн       |  уйя
+
+!! !! Russian loans ending in -ия/-ие
+
+!! Russian loanwords ending on these segments delete the final yodified vowel
+!! in all cases, except for the singular adverbial and nominative singular.
+
+!! Examples:
+
+!! || Nominative Singular   |  конференци–0–я      |  собрани–0–е
+!! || Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
+!! || Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
+!! || Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
+!! || Adverbial Singular    |  конференци–я–я      |  собрани–е–я
+
+!! Note also that Russian stress is preserved in Nominative Singular, but
+!! Udmurt stress takes over for inflected forms, and shifts to the final vowel.
+
+!! This applies to all sorts of Russian words, also including placenames ending
+!! in -я, excepting biblical place names, and Russian personal names.
+
+!!  * Финляндия - Финляндиын
+!!  * Эстония   - Эстониын
+
+!! But:
+
+!!  * Самария   – Самарияын
+!!  * Евгения   – Евгения–лы
+!!  * Юлия      – Юлия–лы
+
+!! There are also some subtypes, where this deletion does not occur even though
+!! the word ends in -я:
+
+!!  * Non-russian words ending in -я (Loans from Tatar): чия ''kirsikka'' - чия–лы
+
+
+!! !! "Old" Finno-ugric stems
+
+!! Some particularly old words have since experienced some amount of deletion
+!! and simplification of clusters. Deleted segments reappear in some forms,
+!! but their appearance isn't completely regular, in that some variation
+!! exists, and sometimes the "short" stem without this segment appears where
+!! the "long" stem usually would.
+
+!! Usually, these will also be marked in dictionaries. ''син син(м)-''.
+
+!! The segments which participate in this alternation are: -м-, -г-, -т-.
+
+!! Examples:
+
+!! ! -м–
+
+!! | син        | син–тэм      | синм–ысь                | сынм–ы
+!! | ''silmä''  | ''sokea''    | [elat.]                 | [px. y. 1. p.]
+!! | визь       | визь–тэк     | визьм–о                 |
+!! | ''järki''  | [abess.]     | ''viisas''              |
+!! | куйнь      | куйнь–лэсь   | куйньм–ой               |
+!! | ''kolme''  | [abl.]       | ''3:n päivän kuluessa'' |
+!! |            | куйнь–етй    | ~ куйньм–етӥ            |
+!! |            | ''kolmas''   | ''kolmas''              |
+!! | ин         |              | инм–ын
+!! | ''taivas'' |              | [iness.]
+
+!! ! -м–
+
+!! | кус        |  кус–лы     |   куск–ын        |  куск–ы
+!! | ''lantio'' |  [dat.]     |   [iness.]       |  [Px Sg1]
+!! | ''vyötärö''|             |                  |
+!! | улеп       |  улеп–лы    |   улепк–ын       |
+!! | ''elävä''  |  [dat.]     |   [instr.]       |
+!! | nюлэс      | нюлэс–лы    |   нюлэск–ын      |
+!! | ''metsä''  |  [dat.]     |   [iness.]       |
+!! | вис        | вис–лы      |   виск–ын        |
+!! | ''tauko''  |  [dat.]     |   [iness.]       |
+!! | ''väli''   |
+
+!! ! -т–
+
+!! | кык        |  кык–намы      |   кыкт–о
+!! | ''kaksi''  |  ''me kaksin'' | ''kaksoset''
+!! |            |                | ''kaksospari''
+!! |            |  кык–етӥ       |  кыкт–ой
+!! |            |  ''toinen''    | ''kahden päivän kuluessa''
+!! |            |                |  кыкт–етӥ
+!! |            |                | ''toinen''
+
+!! !! Vowel deletion stems
+
+!! Some stems also delete vowels in specific cases, generally when the stem is
+!! attached to a vowel-initial suffix. Alternatively, the vowels may remain,
+!! but a epenthetic consonant may appear: -к-
+
+!! ! Optional deletion
+
+!! | сэрег      | серг–ын  |
+!! | ''nurkka'' | [iness.] |
+!! | ''kulma''  |          |
+!! | сюлэм      | сюлм–ыд  | сюлэм–ыд
+!! | ''sydän''  | [Px Sg2] | [Px Sg2]
+
+!! ! Deletion or epenthesis
+!! 
+!! | вадес               | вадьс-ын   |  вадеск–ын
+!! | ''aika, hetki''     | [iness.]   |  [iness.]
+!! | ''paikka, palsta''  |            |
+!! | пыдэс               | пыдс–ын    |  пидэск–ын
+!! | ''pohja''           | [iness.]   |  [iness.]
+!! | удрэс               | удрс–ын    |  удрэск–ын
+!! | ''vierus''          | [iness.]   |  [iness.]
+
+!! NB: palatal quality implied by the yodified vowel in the first example is
+!! preserved via a soft sign.
+
+
+!! TODO: palatal/non-palatal vowels happen here too, make sure that the
+!!       behavior is in line with verbs
+
+!! TODO: also consider a special character series for morphophonology, so it's more clear
+!!       that something's happening in phonology?
+!!              E2 -> <je> / <e>, etc.
+
+!! TODO: mark proper nouns which get a different stem in <la>
+!!       maybe also mark in lexicon that they're special?
+
+! why do the palatal ones need overt marking with <ь>?
+
+! Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
+
+! Можга, Пурга, Дурга, Нылга, Эбга, Коньга
+
+! Поска
+
+! Бигра, Эгра
+
+! Чола
+
+! Infix is optional
+
+!       Iness.       Салья-ла-н    Салья-ын
+!       Illat.       Салья-ла      Салья-е
+!       Elat.        Салья-ла-сь   Салья-ысь
+!       Egress.      Салья-ла-сен  Салья-ысен
+!     [ Terminat.    Салья-озь
+!       Prol.        Салья-тӥ
+!       Appr.        Салья-лань ]
 
 LEXICON N_
 !! Words from lexicon ''@LEXNAME@'' have not been evaluated yet
@@ -18,9 +207,9 @@ LEXICON NOUNSUF_01
 +Pl:%>ъёс POSTPX ;
 
 LEXICON CASESUF
-+Nom:%> K; 
++Nom:%> K;
 +Acc:%>эз K;
-+Gen:%>лэн K; 
++Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
 +Ins:%>эн K;
@@ -85,7 +274,4 @@ LEXICON ACRONDELIMITER
 :%' PROP_ ;
 
 
-
-
 ! vim: set ft=xfst-lexc:
-
