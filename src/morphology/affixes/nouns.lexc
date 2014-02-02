@@ -90,13 +90,12 @@
 !! cases, they take an infix which is optional. The optional infix causes
 !! short versions of case suffixes, otherwise the words take the long version.
 
-!! !! Misc special words kind of like tribe names
+!! !! корка / куала
 
 !! ''корка'', ''куала'' have some forms similar to the tribe/place names, and some
 !! cases behave differently: Inessive, Elative have the short consonant-only
 !! suffix, but unlike the tribe/place names, there is no -ла- infix.
 
-!! TODO: collect full paradigm
 !! TODO: write tests
 
 !! !! "Old" Finno-ugric stems
@@ -200,6 +199,14 @@ LEXICON N_
 !! class of nouns described in more depth above.
  NOUNSUF ; !!  2014-01-24 _If they are not against us, they are for us_
 
+LEXICON N_KORKA
+ +N+Sg: CASESUF_KORKA ;
+ +N+Pl:%>ос CASESUF ;
+ +Sg: PREPX ;
+ +Pl:%>ос PREPX ;
+ +Pl:%>ос POSTPX ;
+! TODO: +Sg: POSTPX ;
+
 LEXICON N_RUS_JA
 !! Words from Russian in ''@LEXNAME@'' end on –ия, but our lexicon entries
 !! set the stem as ending in –и, because the final -я appears only in some
@@ -252,6 +259,25 @@ LEXICON CASESUF_JA
 +Ill:%>е K;
 +Ela:%>ысь K;
 +Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>етӥ K;
++Apr:%>лань K;
+
+LEXICON CASESUF_KORKA
+!! ''@LEXNAME@'' controls the output of case suffixes in the корка/куала type
+!! which tends to take short case suffixes when they are available.
++Nom:%>0 K;
++Acc:%>ез K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>ен K;
++Abe:%>тэк K;
++Advl:%>я K;
++Ine:%>н K;
++Ill:%>е K;
++Ela:%>сь K;
++Egr:%>сен K;
 +Ter:%>озь K;
 +Prl:%>етӥ K;
 +Apr:%>лань K;
