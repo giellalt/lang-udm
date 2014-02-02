@@ -1319,7 +1319,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Салья</l>
+      <l pos="N" type="Prop" inflection="ла">Салья</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Салья</st>
       </stg>
@@ -1334,7 +1334,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Монья</l>
+      <l pos="N" type="Prop" inflection="ла">Монья</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Монья</st>
       </stg>
@@ -1349,7 +1349,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Кибъя</l>
+      <l pos="N" type="Prop" inflection="ла">Кибъя</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Кибъя</st>
       </stg>
@@ -1364,7 +1364,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Чабъя</l>
+      <l pos="N" type="Prop" inflection="ла">Чабъя</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Чабъя</st>
       </stg>
@@ -1379,7 +1379,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Ӟумъя</l>
+      <l pos="N" type="Prop" inflection="ла">Ӟумъя</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Ӟумъя</st>
       </stg>
@@ -1394,7 +1394,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Вамъя</l>
+      <l pos="N" type="Prop" inflection="ла">Вамъя</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Вамъя</st>
       </stg>
@@ -1409,7 +1409,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Можга</l>
+      <l pos="N" type="Prop" inflection="ла">Можга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Можга</st>
       </stg>
@@ -1424,7 +1424,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Пурга</l>
+      <l pos="N" type="Prop" inflection="ла">Пурга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Пурга</st>
       </stg>
@@ -1439,7 +1439,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Дурга</l>
+      <l pos="N" type="Prop" inflection="ла">Дурга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Дурга</st>
       </stg>
@@ -1454,7 +1454,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Нылга</l>
+      <l pos="N" type="Prop" inflection="ла">Нылга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Нылга</st>
       </stg>
@@ -1469,7 +1469,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Эбга</l>
+      <l pos="N" type="Prop" inflection="ла">Эбга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Эбга</st>
       </stg>
@@ -1484,7 +1484,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Коньга</l>
+      <l pos="N" type="Prop" inflection="ла">Коньга</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Коньга</st>
       </stg>
@@ -1499,7 +1499,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Поска</l>
+      <l pos="N" type="Prop" inflection="ла">Поска</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Поска</st>
       </stg>
@@ -1514,7 +1514,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Бигра</l>
+      <l pos="N" type="Prop" inflection="ла">Бигра</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Бигра</st>
       </stg>
@@ -1529,7 +1529,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Эгра</l>
+      <l pos="N" type="Prop" inflection="ла">Эгра</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Эгра</st>
       </stg>
@@ -1544,7 +1544,7 @@
   </e>
   <e order="2">
     <lg>
-      <l pos="N" type="Prop">Чола</l>
+      <l pos="N" type="Prop" inflection="ла">Чола</l>
       <stg>
         <st Contlex="PROP_HEIMONNIMET">Чола</st>
       </stg>

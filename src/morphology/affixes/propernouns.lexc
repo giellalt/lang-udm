@@ -35,8 +35,8 @@ LEXICON PROP_
 LEXICON PROP_HEIMONNIMET
 !! Words from lexicon ''@LEXNAME@'' are "old" tribe and place names, 
 !! which have an optional infix for some cases, while some do not.
-+N+Prop:%>ла HEIMO_SUFFIXES_LA ;
-+N+Prop:     HEIMO_SUFFIXES_NIL ;
++N+Prop+Sg:%>ла HEIMO_SUFFIXES_LA ;
++N+Prop+Sg:     HEIMO_SUFFIXES_NIL ;
 
 LEXICON HEIMO_SUFFIXES_LA
 !! In ''@LEXNAME@'', we append the cases with their post-ла realizations.
