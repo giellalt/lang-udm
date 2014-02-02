@@ -103,6 +103,9 @@
 !! TODO: add these to lexicon, and add morphology. Consider marking in morphology
 !!       in a way that NDS can present:  ''син син(м)-''
 !! TODO: write tests
+!! TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
+!!          <l>muohta</l>
+!!          <lc>muohttaga</lc>
 
 !! Some particularly old words have since experienced some amount of deletion
 !! and simplification of clusters. Deleted segments reappear in some forms,

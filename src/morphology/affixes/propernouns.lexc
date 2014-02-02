@@ -46,10 +46,11 @@ LEXICON HEIMO_SUFFIXES_LA
 !! || Elat.      |  Салья-ла-сь   |  Салья-ысь
 !! || Egress.    |  Салья-ла-сен  |  Салья-ысен
 !! Note also that the infix results in a 'short' case affix.
-+Ine:%>н K;
-+Ill:%>0 K;
-+Ela:%>сь K;
++Ine:%>н   K;
++Ill:%>0   K;
++Ela:%>сь  K;
 +Egr:%>сен K;
++Acc:%>з   K;
 
 LEXICON HEIMO_SUFFIXES_NIL
 !! In ''@LEXNAME@'', the word gets cases with no infix.
@@ -58,7 +59,7 @@ LEXICON HEIMO_SUFFIXES_NIL
 !!  || Appr.      |  Салья-лань
 ! These are the obligatorily non-infixing cases
 +Nom:%>0 K;
-+Prl:%>тӥ K;
++Prl:%>етӥ K;
 +Ter:%>озь K;
 +Apr:%>лань K;
 ! These are the ones that optionally also have no infix,
