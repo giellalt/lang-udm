@@ -1317,4 +1317,244 @@
       </tg>
     </mg>
   </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Салья</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Салья</st>
+      </stg>
+    </lg>
+    <phonet>Салья</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Монья</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Монья</st>
+      </stg>
+    </lg>
+    <phonet>Монья</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Кибъя</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Кибъя</st>
+      </stg>
+    </lg>
+    <phonet>Кибъя</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Чабъя</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Чабъя</st>
+      </stg>
+    </lg>
+    <phonet>Чабъя</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Ӟумъя</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Ӟумъя</st>
+      </stg>
+    </lg>
+    <phonet>Ӟумъя</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Вамъя</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Вамъя</st>
+      </stg>
+    </lg>
+    <phonet>Вамъя</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Можга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Можга</st>
+      </stg>
+    </lg>
+    <phonet>Можга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Пурга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Пурга</st>
+      </stg>
+    </lg>
+    <phonet>Пурга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Дурга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Дурга</st>
+      </stg>
+    </lg>
+    <phonet>Дурга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Нылга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Нылга</st>
+      </stg>
+    </lg>
+    <phonet>Нылга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Эбга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Эбга</st>
+      </stg>
+    </lg>
+    <phonet>Эбга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Коньга</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Коньга</st>
+      </stg>
+    </lg>
+    <phonet>Коньга</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Поска</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Поска</st>
+      </stg>
+    </lg>
+    <phonet>Поска</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Бигра</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Бигра</st>
+      </stg>
+    </lg>
+    <phonet>Бигра</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Эгра</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Эгра</st>
+      </stg>
+    </lg>
+    <phonet>Эгра</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Чола</l>
+      <stg>
+        <st Contlex="PROP_HEIMONNIMET">Чола</st>
+      </stg>
+    </lg>
+    <phonet>Чола</phonet>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
 </r>

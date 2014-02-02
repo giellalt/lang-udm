@@ -1,7 +1,8 @@
-!! !!!UDMURT Noun inflection
+!! !!! UDMURT Noun inflection
 
 !! Udmurt inflects for case, number, and possession. Following are some notes
-!! for things that need to be done so far.
+!! for things that need to be done so far, and also an overview of nominal
+!! inflection types.
 
 !! Most Udmurt nouns (the vast majority) do not require changes to the stem
 !! as a result of inflection. These nouns however, for FST purposes, fall into
@@ -83,33 +84,20 @@
 
 !! !! Place names based on names of old tribes
 
-!! These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-!! cases, they take an infix which is optional.
+!! See ''affixes/propernouns.lexc'', but quickly: 
 
-!! TODO: add these to lexicon, and add morphology
-!! TODO: tests
+!! these  typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+!! cases, they take an infix which is optional. The optional infix causes
+!! short versions of case suffixes, otherwise the words take the long version.
 
-!! The following may be exhaustive, but unsure yet.
+!! !! Misc special words kind of like tribe names
 
-!! * Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
-!! * Можга, Пурга, Дурга, Нылга, Эбга, Коньга
-!! * Поска
-!! * Бигра, Эгра
-!! * Чола
+!! ''Корка'', ''куала'' have some forms similar to the tribe/place names, and some
+!! cases behave differently: Inessive, Elative have the short consonant-only
+!! suffix, but unlike the tribe/place names, there is no -ла- infix.
 
-!! Infix is optional in some cases
-
-!! || Iness.     |  Салья-ла-н    |  Салья-ын
-!! || Illat.     |  Салья-ла      |  Салья-е
-!! || Elat.      |  Салья-ла-сь   |  Салья-ысь
-!! || Egress.    |  Салья-ла-сен  |  Салья-ысен
-
-! The following cases do not have the infix at all
-
-!  || Terminat.  |  Салья-озь
-!  || Prol.      |  Салья-тӥ
-!  || Appr.      |  Салья-лань
-
+!! TODO: collect full paradigm
+!! TODO: write tests
 
 !! !! "Old" Finno-ugric stems
 
@@ -195,32 +183,43 @@
 !! NB: palatal quality implied by the yodified vowel in the first example is
 !! preserved via a soft sign.
 
+
+
+
+
 !! TODO: also consider a special character series for morphophonology, so it's more clear
 !!       that something's happening in phonology?
 !!              E2 -> <je> / <e>, etc.
 
 ! why do the palatal ones need overt marking with <ь>?
 
+!! !! Noun Lexica
+
 LEXICON N_
-!! Words from lexicon ''@LEXNAME@'' have not been evaluated yet
-!+N: # ; 
+!! Words from lexicon ''@LEXNAME@'' are mostly covered. These are from the main
+!! class of nouns described in more depth above.
  NOUNSUF ; !!  2014-01-24 _If they are not against us, they are for us_
 
 LEXICON N_RUS_JA
-!! Words from Russian in ''@LEXNAME@'' sometimes have the original Russian stem
-!! for certain cases, and in others they do not.
+!! Words from Russian in ''@LEXNAME@'' end on –ия, but our lexicon entries
+!! set the stem as ending in –и, because the final -я appears only in some
+!! situations.
 +N+Sg: CASESUF_JA ;
 +N+Pl:%>ос CASESUF ;
 !! TODO: possessives
 
 LEXICON N_RUS_JE
-!! Words from Russian in ''@LEXNAME@'' sometimes have the original Russian stem
-!! for certain cases, and in others they do not.
+!! Words from Russian in ''@LEXNAME@'' end on –ие, but our lexicon entries
+!! set the stem as ending in –и, because the final -е appears only in some
+!! situations.
 +N+Sg: CASESUF_JE ;
 +N+Pl:%>ос CASESUF ;
 !! TODO: possessives
 
 LEXICON CASESUF_JE
+!! ''@LEXNAME@'' controls the occurrence of the original -е in the stem, which occurs
+!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+!! in their initial vowel use this yodified version.
 +Nom:%>е%>0 K;
 +Acc:%>ез K;
 +Gen:%>лэн K;
@@ -230,7 +229,6 @@ LEXICON CASESUF_JE
 +Abe:%>тэк K;
 +Advl:%>е%>я K;
 +Ine:%>ын K;
-! TODO: confirm this
 +Ill:%>е K;
 +Ela:%>ысь K;
 +Egr:%>ысен K;
@@ -239,6 +237,9 @@ LEXICON CASESUF_JE
 +Apr:%>лань K;
 
 LEXICON CASESUF_JA
+!! ''@LEXNAME@'' controls the occurrence of the original -я in the stem, which occurs
+!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+!! in their initial vowel use this yodified version.
 +Nom:%>я%>0 K;
 +Acc:%>ез K;
 +Gen:%>лэн K;
@@ -248,7 +249,6 @@ LEXICON CASESUF_JA
 +Abe:%>тэк K;
 +Advl:%>я%>я K;
 +Ine:%>ын K;
-! TODO: confirm this
 +Ill:%>е K;
 +Ela:%>ысь K;
 +Egr:%>ысен K;
@@ -257,7 +257,7 @@ LEXICON CASESUF_JA
 +Apr:%>лань K;
 
 LEXICON N_TAT
-!! Words from Tatar in ''@LEXNAME@'' preserve the original stem я
+!! Words from Tatar in ''@LEXNAME@'' preserve the original stem я in all cases.
 NOUNSUF ;
 
 LEXICON NOUNSUF
@@ -298,7 +298,7 @@ LEXICON PREPX
 
 LEXICON POSTCX
 +Acc:%>э K;
-+Gen:%>ляqэн K;
++Gen:%>ляэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
 +Abe:%>тэк K;

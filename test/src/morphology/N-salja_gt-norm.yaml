@@ -1,0 +1,54 @@
+﻿Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Proper Noun - Heimonnimet - Салья: # Noun  Салья 'eng /udm /fin' - full paradigm
+     Салья+N+Prop+Sg+Nom:
+       - Салья
+     Салья+N+Prop+Sg+Acc:
+       - "?"
+     Салья+N+Prop+Sg+Gen:
+       - "?"
+     Салья+N+Prop+Sg+Abl:
+       - "?"
+     Салья+N+Prop+Sg+Dat:
+       - "?"
+     Салья+N+Prop+Sg+Ins:
+       - "?"
+     Салья+N+Prop+Sg+Abe:
+       - "?"
+     Салья+N+Prop+Sg+Advl:
+       - "?"
+     Салья+N+Prop+Sg+Ine:
+       - Сальялан
+       – Сальяын
+     Салья+N+Prop+Sg+Ill:
+       – Сальяла
+       – Сальяе
+     Салья+N+Prop+Sg+Ela:
+       – Сальялась
+       – Сальяысь
+     Салья+N+Prop+Sg+Egr:
+       – Сальяласен
+       – Сальяысен
+     Салья+N+Prop+Sg+Ter:
+       – Сальяозь
+     Салья+N+Prop+Sg+Prl:
+       – Сальятӥ
+     Салья+N+Prop+Sg+Apr:
+       – Сальялань
+
