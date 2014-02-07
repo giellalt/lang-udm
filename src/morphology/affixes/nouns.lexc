@@ -120,6 +120,10 @@
 !! 
 !! The segments which participate in this alternation are: -м-, -г-, -т-.
 !! 
+!! When the possessive is applied to nominative versions of these forms,
+!! the possessive will have the vowel -ы- instead of -э- or -е-. Also,
+!! the 'old' segments appear.
+!! 
 !! Examples:
 !! 
 !! ! -м–
@@ -193,6 +197,63 @@
 !              E2 -> <je> / <e>, etc.
 
 ! why do the palatal ones need overt marking with <ь>?
+
+!! !! Suffix ordering with possessive construction
+!! 
+!! The possessive construction results in different case ordering:
+!! 
+!! ''N-Num-Poss-Case'':
+!! 
+!! * Genetive
+!! * Ablative
+!! * Dative
+!! * Abessive
+!! * Adverbial
+!! * Approximative
+!! * Terminative
+!! 
+!! ''N-Num-Case-Poss'':
+!! 
+!! * Inessive
+!! * Elative
+!! * Illative
+!! * Egressive
+!! * Prolative
+!! * Instrumental
+!! 
+!! Note that since the adjective 'determinative' is essentially the 3rd person
+!! singular possessive, the above ordering also follows for adjective inflection.
+!! Also note, some cases have atlernate forms for when tehy come before the possessive.
+!! 
+!! Cases with alternate forms:
+!! 
+!! * Accusative singular, plural
+!! * Inessive singular, plural
+!! * Illative singular, plural
+!! * Elative singular, plural
+!! 
+!! ''Examples'':
+!! 
+!! Genetive:
+!! 
+!! | Px 1pSg        | Px 2pSg         | Px 3pSg
+!! | бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
+!! | бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
+!! 
+!! Inessive:
+!! 
+!! | Px 1pSg      | Px 2pSg      | Px 3pSg
+!! | бакча-я-м    | бакча-я-д    | бакча-я-з
+!! | бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
+!! 
+!! Elative:
+!! 
+!! | Px 1pSg          | Px 2pSg          | Px 3pSg
+!! | бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
+!! | бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
+!! 
+!! TODO: write tests for these ordering situations
+!! TODO: implement these in lexc
 
 !
 !! !! Noun Lexica
