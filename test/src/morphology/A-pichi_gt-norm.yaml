@@ -1,0 +1,34 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+
+  Adjective - пичи: # Noun  пичи 'eng /udm /fin' - full paradigm
+     пичи+A+Abs: пичи
+
+     пичи+A+Sg+Nom+Det: пичиез
+     пичи+A+Pl+Nom+Det: пичиосыз
+
+     пичи+A+Sg+Ine+Det: пичияз
+     пичи+A+Pl+Ine+Det: пичиосаз
+
+     пичи+A+Sg+Ill+Det: пичияз
+     пичи+A+Pl+Ill+Det: пичиосаз
+
+     пичи+A+Sg+Ela+Det: пичиысьтыз
+     пичи+A+Pl+Ela+Det: пичиосысьтыз
+
+     пичи+A+Sg+Gen+Det: ""
+     пичи+A+Pl+Gen+Det: пичиосызлэн
