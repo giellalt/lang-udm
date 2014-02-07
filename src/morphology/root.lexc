@@ -38,6 +38,7 @@ Multichar_Symbols
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
  +Nom +Acc +Gen +Abl +Dat +Ins +Abe +Advl +Ine +Ill +Ela +Egr +Ter +Prl +Apr
+ +Abs +Det
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
