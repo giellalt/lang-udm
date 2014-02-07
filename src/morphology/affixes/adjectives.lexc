@@ -1,11 +1,109 @@
-!! Adjective inflection
-!! --------------------
-!! Udmurt (Votyak) adjectives compare.
+!! !! UDMURT Adjective inflection
+
+!! Udmurt adjectives inflect for:
+
+!! * Number
+!! * Case
+!! * Determinativity (Absolutive / Determinative)
+!! * Comparative (TODO: can comparative co-occur with other stuff?)
+
+!! ! Determinative notes
+
+!! When an adjective occurs in determinative, it must agree for number and case.
+!! However, when determinative co-occurs with certain cases, these cases
+!! have alternate forms.
+
+!! The cases with alternate forms are:
+
+!! * Accusative singular, plural
+!! * Inessive singular, plural
+!! * Illative singular, plural
+!! * Elative singular, plural
+
+!! Note that these alternative suffixes have palatal and non-palatal versions
+
+!! | Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+!! | Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+!! | Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+!! | Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+!! | Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+!! | Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+!! | Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+!! | Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+!! TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+!! {{{
+!!     бадӟым-ъёс-ысьты-з
+!!     ADJ - PL - CASE - DET
+!!            vs
+!!     бадӟым-ъёс-ыз-лэн
+!!     ADJ - PL - DET - CASE
+!! }}}
 
 !! words with this contlex have not been examined
-LEXICON A_
-+Adj: K ;
 
+LEXICON A_
+ ADJSUF ;
+
+LEXICON ADJSUF
+ +A:  ABSCOMP ;
+
+LEXICON ABSCOMP
+ ADJ_ABS ;
+ ADJ_DETERM ;
+ ADJ_COMP ;
+
+LEXICON ADJ_ABS
+ +Abs:  K ;
+
+LEXICON ADJ_DETERM
+ +Sg:      ADJ_SG_DETERM_CASE ;
+ +Pl:%>ос  ADJ_PL_DETERM_CASE ;
+
+LEXICON ADJ_SG_DETERM_CASE
+!! Cases here all lead to a determinative suffix
+! TODO: collect the rest of the cases
+ +Nom:%>0       ADJ_LONG_SG_DET ;
+ +Ine:%>а       ADJ_SHORT_DET ;
+ +Ill:%>а       ADJ_SHORT_DET ;
+ +Ela:%>ысьты   ADJ_SHORT_DET ;
+
+LEXICON ADJ_PL_DETERM_CASE
+!! Cases here all lead to a determinative suffix
+! TODO: collect the rest of the cases
+ +Nom:%>0       ADJ_LONG_PL_DET ;
+ +Ine:%>а       ADJ_SHORT_DET ;
+ +Ill:%>а       ADJ_SHORT_DET ;
+ +Ela:%>ысьты   ADJ_SHORT_DET ;
+
+ ! TODO: +Acc:%>эз K;
+ ! TODO: do these have alternate ordering?
+ ! +Gen:%>лэн K;
+ ! +Abl:%>лэсь K;
+ ! +Dat:%>лы K;
+ ! +Ins:%>эн K;
+ ! +Abe:%>тэк K;
+ ! +Advl:%>ъя K;
+ ! +Egr:%>ысен K;
+ ! +Ter:%>озь K;
+ ! +Prl:%>этӥ K;
+ ! +Apr:%>лань K;
+
+
+LEXICON ADJ_LONG_SG_DET
+ +Det:%>ез      K ;
+
+LEXICON ADJ_SHORT_DET
+ +Det:%>з      K ;
+
+LEXICON ADJ_LONG_PL_DET
+ +Det:%>ыз      K ;
+
+LEXICON ADJ_COMP
+! TODO:
+ K ;
 
 ! vim: set ft=xfst-lexc:
 
