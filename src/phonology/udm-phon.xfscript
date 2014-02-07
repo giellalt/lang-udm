@@ -60,7 +60,8 @@ define PalatalisedSuffixes э -> е, o -> ё  || Vow Boundary ъ _ ;
 ! Either shift to the palatal series after an actual palatal sound, or the
 ! consonants that cannot be palatized
 
-define PalatalVowelShift э -> e, о -> ё, ӥ -> и || [ NonPalatalCons | ь ] Boundary _ ;
+define PalatalVowelShift э -> e, о -> ё, ӥ -> и || [ NonPalatalCons | ь | и ] Boundary _ ;
+define PalatalYaShift    а -> я || [ NonPalatalCons | ь | и ] Boundary _ ;
 
 define PalatalIRemoval ӥ -> и || [ Vow | NonPalatalCons ] Boundary _ ;
 
@@ -92,6 +93,8 @@ PalatalisedSuffixes
 PalatalIRemoval
 .o.
 PalatalVowelShift
+.o.
+PalatalYaShift
 .o.
 PalatalMarkDeletion
 .o.
