@@ -42,6 +42,37 @@
 !!     ADJ - PL - DET - CASE
 !! }}}
 
+!! !! Plurality in Determinative
+!! Note that there are two options for how plural attributive adjectives may appear.
+!! One option is the aforementioned, another option is for plural to appear twice.
+!! 
+!! In this situation, one of the plurals has a different form:
+!! These examples are from Udmurtin kielioppi: 
+!! 
+!! ''Absolutive congruence''
+!! 
+!! | Case   | Yks.            | Mon.
+!! | Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+!! | Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+!! | Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+!! | Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
+
+!! ''Determinative Singular''
+!! | Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+!! | Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+!! | Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+!! | Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+!! TODO: what is the difference?
+
+!! ''Determinative Plural with congruence''
+!! 
+!! | Case   | Abs.                    | Det.
+!! | Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+!! | Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+!! | Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+!! | Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
+
 !! words with this contlex have not been examined
 
 LEXICON A_
