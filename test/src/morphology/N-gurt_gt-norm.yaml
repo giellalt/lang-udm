@@ -15,7 +15,6 @@ Tests:
 # Proofread the gold standard (below)
 # Then: run analyser, then correct.
 
-
   Noun - гурт: # Noun  гурт 'eng /udm /fin' - full paradigm
      гурт+N+Sg+Nom: гурт
      гурт+N+Sg+Acc: гуртэз
@@ -49,5 +48,216 @@ Tests:
      гурт+N+Pl+Prl: гуртъёсэтӥ
      гурт+N+Pl+Apr: гуртъёслань
 
+     # possessive, and Cx-Px / Px-Cx
+
+     гурт+N+Sg+Nom+PxSg1: гуртэ
+     гурт+N+Sg+Nom+PxSg2: гуртэд
+     гурт+N+Sg+Nom+PxSg3: гуртэз
+     гурт+N+Sg+Nom+PxPl1: гуртмы
+     гурт+N+Sg+Nom+PxPl2: гуртты
+     гурт+N+Sg+Nom+PxPl3: гуртсы
+
+     гурт+N+Pl+Nom+PxSg1: гуртъёсы
+     гурт+N+Pl+Nom+PxSg2: гуртъёсыд
+     гурт+N+Pl+Nom+PxSg3: гуртъёсыз
+     гурт+N+Pl+Nom+PxPl1: гуртъёсмы
+     гурт+N+Pl+Nom+PxPl2: гуртъёсты
+     гурт+N+Pl+Nom+PxPl3: гуртъёссы
+
+     гурт+N+Sg+Acc+PxSg1: гуртме
+     гурт+N+Sg+Acc+PxSg2: гурттэ
+     гурт+N+Sg+Acc+PxSg3: гуртсэ
+     гурт+N+Sg+Acc+PxPl1: гуртмес
+     гурт+N+Sg+Acc+PxPl2: гурттэс
+     гурт+N+Sg+Acc+PxPl3: гуртсэс
+
+     гурт+N+Pl+Acc+PxSg1: гуртъёсме
+     гурт+N+Pl+Acc+PxSg2: гуртъёстэ
+     гурт+N+Pl+Acc+PxSg3: гуртъёссэ
+     гурт+N+Pl+Acc+PxPl1: гуртъёсмес
+     гурт+N+Pl+Acc+PxPl2: гуртъёстэс
+     гурт+N+Pl+Acc+PxPl3: гуртъёссэс
+
+     гурт+N+Sg+Gen+PxSg1: гуртэлэн
+     гурт+N+Sg+Gen+PxSg2: гуртэдлэн
+     гурт+N+Sg+Gen+PxSg3: гуртэзлэн
+     гурт+N+Sg+Gen+PxPl1: гуртмылэн
+     гурт+N+Sg+Gen+PxPl2: гурттылэн
+     гурт+N+Sg+Gen+PxPl3: гуртсылэн
+
+     гурт+N+Pl+Gen+PxSg1: гуртъёсылэн
+     гурт+N+Pl+Gen+PxSg2: гуртъёсыдлэн
+     гурт+N+Pl+Gen+PxSg3: гуртъёсызлэн
+     гурт+N+Pl+Gen+PxPl1: гуртъёсмылэн
+     гурт+N+Pl+Gen+PxPl2: гуртъёстылэн
+     гурт+N+Pl+Gen+PxPl3: гуртъёссылэн
+
+     гурт+N+Sg+Abl+PxSg1: гуртэлэсь
+     гурт+N+Sg+Abl+PxSg2: гуртэдлэсь
+     гурт+N+Sg+Abl+PxSg3: гуртэзлэсь
+     гурт+N+Sg+Abl+PxPl1: гуртмылэсь
+     гурт+N+Sg+Abl+PxPl2: гурттылэсь
+     гурт+N+Sg+Abl+PxPl3: гуртсылэсь
+
+     гурт+N+Pl+Abl+PxSg1: гуртъёсылэсь
+     гурт+N+Pl+Abl+PxSg2: гуртъёсыдлэсь
+     гурт+N+Pl+Abl+PxSg3: гуртъёсызлэсь
+     гурт+N+Pl+Abl+PxPl1: гуртъёсмылэсь
+     гурт+N+Pl+Abl+PxPl2: гуртъёстылэсь
+     гурт+N+Pl+Abl+PxPl3: гуртъёссылэсь
+
+     гурт+N+Sg+Dat+PxSg1: гуртэлы
+     гурт+N+Sg+Dat+PxSg2: гуртэдлы
+     гурт+N+Sg+Dat+PxSg3: гуртэзлы
+     гурт+N+Sg+Dat+PxPl1: гуртмылы
+     гурт+N+Sg+Dat+PxPl2: гурттылы
+     гурт+N+Sg+Dat+PxPl3: гуртсылы
+
+     гурт+N+Pl+Dat+PxSg1: гуртъёсылы
+     гурт+N+Pl+Dat+PxSg2: гуртъёсыдлы
+     гурт+N+Pl+Dat+PxSg3: гуртъёсызлы
+     гурт+N+Pl+Dat+PxPl1: гуртъёсмылы
+     гурт+N+Pl+Dat+PxPl2: гуртъёстылы
+     гурт+N+Pl+Dat+PxPl3: гуртъёссылы
+
+     гурт+N+Sg+Ins+PxSg1: гуртэным
+     гурт+N+Sg+Ins+PxSg2: гуртэныд
+     гурт+N+Sg+Ins+PxSg3: гуртэныз
+     гурт+N+Sg+Ins+PxPl1: гуртэнымы
+     гурт+N+Sg+Ins+PxPl2: гуртэныды
+     гурт+N+Sg+Ins+PxPl3: гуртэнызы
+
+     гурт+N+Pl+Ins+PxSg1: гуртъёсыным
+     гурт+N+Pl+Ins+PxSg2: гуртъёсыныд
+     гурт+N+Pl+Ins+PxSg3: гуртъёсыныз
+     гурт+N+Pl+Ins+PxPl1: гуртъёсынымы
+     гурт+N+Pl+Ins+PxPl2: гуртъёсыныды
+     гурт+N+Pl+Ins+PxPl3: гуртъёсынызы
+
+     гурт+N+Sg+Abe+PxSg1: гуртэтек
+     гурт+N+Sg+Abe+PxSg2: гуртэдтек
+     гурт+N+Sg+Abe+PxSg3: гуртэзтек
+     гурт+N+Sg+Abe+PxPl1: гуртмытек
+     гурт+N+Sg+Abe+PxPl2: гурттытек
+     гурт+N+Sg+Abe+PxPl3: гуртсытек
+
+     гурт+N+Pl+Abe+PxSg1: гуртъёсытек
+     гурт+N+Pl+Abe+PxSg2: гуртъёсыдтек
+     гурт+N+Pl+Abe+PxSg3: гуртъёсызтек
+     гурт+N+Pl+Abe+PxPl1: гуртъёсмытэк
+     гурт+N+Pl+Abe+PxPl2: гуртъёстытэк
+     гурт+N+Pl+Abe+PxPl3: гуртъёссытэк
+
+     гурт+N+Sg+Advl+PxSg1: гуртэя
+     гурт+N+Sg+Advl+PxSg2: гуртэдъя
+     гурт+N+Sg+Advl+PxSg3: гуртэзъя
+     гурт+N+Sg+Advl+PxPl1: гуртмыя
+     гурт+N+Sg+Advl+PxPl2: гурттыя
+     гурт+N+Sg+Advl+PxPl3: гуртсыя
+
+     гурт+N+Pl+Advl+PxSg1: гуртъёсыя
+     гурт+N+Pl+Advl+PxSg2: гуртъёсыдъя
+     гурт+N+Pl+Advl+PxSg3: гуртъёсызъя
+     гурт+N+Pl+Advl+PxPl1: гуртъёсмыя
+     гурт+N+Pl+Advl+PxPl2: гуртъёстыя
+     гурт+N+Pl+Advl+PxPl3: гуртъёссыя
+
+     гурт+N+Sg+Ine+PxSg1: гуртам
+     гурт+N+Sg+Ine+PxSg2: гуртад
+     гурт+N+Sg+Ine+PxSg3: гуртаз
+     гурт+N+Sg+Ine+PxPl1: гуртамы
+     гурт+N+Sg+Ine+PxPl2: гуртады
+     гурт+N+Sg+Ine+PxPl3: гуртазы
+
+     гурт+N+Pl+Ine+PxSg1: гуртъёсам
+     гурт+N+Pl+Ine+PxSg2: гуртъёсад
+     гурт+N+Pl+Ine+PxSg3: гуртъёсаз
+     гурт+N+Pl+Ine+PxPl1: гуртъёсамы
+     гурт+N+Pl+Ine+PxPl2: гуртъёсады
+     гурт+N+Pl+Ine+PxPl3: гуртъёсазы
+
+     гурт+N+Sg+Ill+PxSg1: гуртам
+     гурт+N+Sg+Ill+PxSg2: гуртад
+     гурт+N+Sg+Ill+PxSg3: гуртаз
+     гурт+N+Sg+Ill+PxPl1: гуртамы
+     гурт+N+Sg+Ill+PxPl2: гуртады
+     гурт+N+Sg+Ill+PxPl3: гуртазы
+
+     гурт+N+Pl+Ill+PxSg1: гуртъёсам
+     гурт+N+Pl+Ill+PxSg2: гуртъёсад
+     гурт+N+Pl+Ill+PxSg3: гуртъёсаз
+     гурт+N+Pl+Ill+PxPl1: гуртъёсамы
+     гурт+N+Pl+Ill+PxPl2: гуртъёсады
+     гурт+N+Pl+Ill+PxPl3: гуртъёсазы
+
+     гурт+N+Sg+Ela+PxSg1: гуртысьтым
+     гурт+N+Sg+Ela+PxSg2: гуртысьтыд
+     гурт+N+Sg+Ela+PxSg3: гуртысьтыз
+     гурт+N+Sg+Ela+PxPl1: гуртысьтымы
+     гурт+N+Sg+Ela+PxPl2: гуртысьтыды
+     гурт+N+Sg+Ela+PxPl3: гуртысьтызы
+
+     гурт+N+Pl+Ela+PxSg1: гуртъёсысьтым
+     гурт+N+Pl+Ela+PxSg2: гуртъёсысьтыд
+     гурт+N+Pl+Ela+PxSg3: гуртъёсысьтыз
+     гурт+N+Pl+Ela+PxPl1: гуртъёсысьтымы
+     гурт+N+Pl+Ela+PxPl2: гуртъёсысьтыды
+     гурт+N+Pl+Ela+PxPl3: гуртъёсысьтызы
+
+     гурт+N+Sg+Ela+PxSg1: гуртысеным
+     гурт+N+Sg+Ela+PxSg2: гуртысеныд
+     гурт+N+Sg+Ela+PxSg3: гуртысеныз
+     гурт+N+Sg+Ela+PxPl1: гуртысенымы
+     гурт+N+Sg+Ela+PxPl2: гуртысеныды
+     гурт+N+Sg+Ela+PxPl3: гуртысенызы
+
+     гурт+N+Pl+Ela+PxSg1: гуртъёсысеным
+     гурт+N+Pl+Ela+PxSg2: гуртъёсысеныд
+     гурт+N+Pl+Ela+PxSg3: гуртъёсысеныз
+     гурт+N+Pl+Ela+PxPl1: гуртъёсысенымы
+     гурт+N+Pl+Ela+PxPl2: гуртъёсысеныды
+     гурт+N+Pl+Ela+PxPl3: гуртъёсысенызы
+
+     гурт+N+Pl+Ter+PxSg1: гуртозям
+     гурт+N+Pl+Ter+PxSg2: гуртозяд
+     гурт+N+Pl+Ter+PxSg3: гуртозяз
+     гурт+N+Pl+Ter+PxPl1: [гуртозямы, гуртмыозь]
+     гурт+N+Pl+Ter+PxPl2: [гуртозяды, гурттыозь]
+     гурт+N+Pl+Ter+PxPl3: [гуртозязы, гуртсыозь]
+
+     гурт+N+Pl+Ter+PxSg1: гуртъёсозям
+     гурт+N+Pl+Ter+PxSg2: гуртъёсозяд
+     гурт+N+Pl+Ter+PxSg3: гуртъёсозяз
+     гурт+N+Pl+Ter+PxPl1: гуртъёсмыозь
+     гурт+N+Pl+Ter+PxPl2: гуртъёстыозь
+     гурт+N+Pl+Ter+PxPl3: гуртъёссыозь
+
+     гурт+N+Pl+Prl+PxSg1: гуртэтӥм
+     гурт+N+Pl+Prl+PxSg2: гуртэтӥд
+     гурт+N+Pl+Prl+PxSg3: гуртэтӥз
+     гурт+N+Pl+Prl+PxPl1: гуртэтӥмы
+     гурт+N+Pl+Prl+PxPl2: гуртэтӥды
+     гурт+N+Pl+Prl+PxPl3: гуртэтӥзы
+
+     гурт+N+Pl+Prl+PxSg1: гуртъёсэтӥм
+     гурт+N+Pl+Prl+PxSg2: гуртъёсэтӥд
+     гурт+N+Pl+Prl+PxSg3: гуртъёсэтӥз
+     гурт+N+Pl+Prl+PxPl1: гуртъёсэтӥмы
+     гурт+N+Pl+Prl+PxPl2: гуртъёсэтӥды
+     гурт+N+Pl+Prl+PxPl3: гуртъёсэтӥзы
+
+     гурт+N+Pl+Apr+PxSg1: гуртэлань
+     гурт+N+Pl+Apr+PxSg2: гуртэдлань
+     гурт+N+Pl+Apr+PxSg3: гуртэзлань
+     гурт+N+Pl+Apr+PxPl1: гуртмылань
+     гурт+N+Pl+Apr+PxPl2: гурттылань
+     гурт+N+Pl+Apr+PxPl3: гуртсылань
+
+     гурт+N+Pl+Apr+PxSg1: гуртъёсэлань
+     гурт+N+Pl+Apr+PxSg2: гуртъёсэдлань
+     гурт+N+Pl+Apr+PxSg3: гуртъёсэзлань
+     гурт+N+Pl+Apr+PxPl1: гуртъёсмылань
+     гурт+N+Pl+Apr+PxPl2: гуртъёстылань
+     гурт+N+Pl+Apr+PxPl3: гуртъёссылань
 
 
