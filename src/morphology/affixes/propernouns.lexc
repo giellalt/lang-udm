@@ -15,20 +15,22 @@
 
 !! Infix is optional in some cases
 
-!! || Iness.     |  Салья-ла-н    |  Салья-ын
-!! || Illat.     |  Салья-ла      |  Салья-е
-!! || Elat.      |  Салья-ла-сь   |  Салья-ысь
-!! || Egress.    |  Салья-ла-сен  |  Салья-ысен
+!! || Case    ||  Infix || No infix
+!! | Iness.    |  Салья-ла-н   |  Салья-ын
+!! | Illat.     |  Салья-ла      |  Салья-е
+!! | Elat.      |  Салья-ла-сь   |  Салья-ысь
+!! | Egress.    |  Салья-ла-сен  |  Салья-ысен
 
 !! The following cases do not have the infix at all
 
-!!  || Terminat.  |  Салья-озь
-!!  || Prol.      |  Салья-тӥ
-!!  || Appr.      |  Салья-лань
+!! || Case    ||  No infix
+!!  | Terminat.  |  Салья-озь
+!!  | Prol.      |  Салья-тӥ
+!!  | Appr.      |  Салья-лань
 
 
 LEXICON PROP_
-!! So far ''@LEXNAME@'' is a dummy pexicon that just gives __+N+Prop__,
+!! So far the PROP (underline) lexicon is a dummy pexicon that just gives __+N+Prop__,
 !! and then redirects to ''NOUNSUF_01''.
 +N+Prop: NOUNSUF_01 ;
 
@@ -41,10 +43,12 @@ LEXICON PROP_HEIMONNIMET
 LEXICON HEIMO_SUFFIXES_LA
 !! In ''@LEXNAME@'', we append the cases with their post-ла realizations.
 !! Examples:
-!! || Iness.     |  Салья-ла-н    |  Салья-ын
-!! || Illat.     |  Салья-ла      |  Салья-е
-!! || Elat.      |  Салья-ла-сь   |  Салья-ысь
-!! || Egress.    |  Салья-ла-сен  |  Салья-ысен
+!! || Case    ||  Infix || No infix
+!! | Iness.     |  Салья-ла-н    |  Салья-ын
+!! | Illat.     |  Салья-ла      |  Салья-е
+!! | Elat.      |  Салья-ла-сь   |  Салья-ысь
+!! | Egress.    |  Салья-ла-сен  |  Салья-ысен
+
 !! Note also that the infix results in a 'short' case affix.
 +Ine:%>н   K;
 +Ill:%>0   K;
@@ -54,9 +58,11 @@ LEXICON HEIMO_SUFFIXES_LA
 
 LEXICON HEIMO_SUFFIXES_NIL
 !! In ''@LEXNAME@'', the word gets cases with no infix.
-!!  || Terminat.  |  Салья-озь
-!!  || Prol.      |  Салья-тӥ
-!!  || Appr.      |  Салья-лань
+
+!!  || Case  || wordform
+!!  | Terminat.  |  Салья-озь
+!!  | Prol.      |  Салья-тӥ
+!!  | Appr.      |  Салья-лань
 ! These are the obligatorily non-infixing cases
 +Nom:%>0 K;
 +Prl:%>етӥ K;
