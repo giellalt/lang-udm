@@ -12,6 +12,7 @@ if CAN_DOCC
 JSP_PAGES=root-morphology.jspwiki \
 		  nouns-affixes.jspwiki \
 		  adverbs-affixes.jspwiki \
+		  propernouns-affixes.jspwiki        \
 		  verbs-affixes.jspwiki 
 # clitics-morphology.jspwiki       \
 # compounding-morphology.jspwiki   \
@@ -26,13 +27,12 @@ JSP_PAGES=root-morphology.jspwiki \
 # numerals-stems.jspwiki           \
 # particles-stems.jspwiki          \
 # pronouns-stems.jspwiki           \
-# propernouns-stems.jspwiki        \
 # punctuation-stems.jspwiki        \
 # smi-propernouns-stems.jspwiki    \
 # subjunctions-stems.jspwiki       \
 # verbs-stems.jspwiki              \
 # adjectives-affixes.jspwiki       \
-# propernouns-affixes.jspwiki      \
+# propernouns-stems.jspwiki      \
 # udm-phon-phonology.jspwiki       \
 ALLINONE_JSP_PAGE=$(GTLANG).jspwiki
 
