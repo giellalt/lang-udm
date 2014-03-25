@@ -18,6 +18,7 @@ Tests:
   Noun - гурт: # Noun  гурт 'eng /udm /fin' - full paradigm
      гурт+N+Sg+Nom: гурт
      гурт+N+Sg+Acc: гуртэз
+     гурт+N+Sg+Acc+Dial/North: гуртты
      гурт+N+Sg+Gen: гуртлэн
      гурт+N+Sg+Abl: гуртлэсь
      гурт+N+Sg+Dat: гуртлы
@@ -32,7 +33,7 @@ Tests:
      гурт+N+Sg+Prl: гуртэтӥ
      гурт+N+Sg+Apr: гуртлань
 
-     гурт+N+Pl+Nom: гуртъёс 
+     гурт+N+Pl+Nom: гуртъёс
      гурт+N+Pl+Acc: гуртъёсыз
      гурт+N+Pl+Gen: гуртъёслэн
      гурт+N+Pl+Abl: гуртъёслэсь
