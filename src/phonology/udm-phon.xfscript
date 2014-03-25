@@ -26,12 +26,31 @@ define Cns [ б | в | г | д | ж | ӝ | з | ӟ
 ! like cyr   ch  ch"  sh  shch hrd sft
            ];
 
-define NonPalatalCons [ б | в | г | д | ж | ӝ  
-                      | Б | В | Г | Д | Ж | Ӝ  
-                          | к     | м     | п | р         | ф | х     
-                          | К     | М     | П | Р         | Ф | Х     
-                              | ш | щ | ъ     
-                              | Ш | Щ | Ъ     
+! These are only the non-palatal sounds that cannot be palatized,
+! and thus support the palatal vowel series but are not interpreted that way.
+
+! A consonant belongs here if it may precede a <е>, with a reading of /e/, not
+! /je/; or <и> with a reading of /i/ and not /ji/ or /´i/.
+
+! Examples:
+!
+!  * минӥсько  /miniśko/ (non-palatal <n>)
+!    возисько  /voźiśko/ (palatal <z>)
+!    сиськисько /siśkiśko/ (non-palatal <k>, palatal <k> impossible)
+!
+! Or нӥ   vs   ни
+!    зӥ   vs   зи
+!    ки   vs   ки
+!
+! Note with the last, there is no possible distinction, <ki> is unambiguously
+! /ki/.
+
+define NonPalatalCons [ б | в | г | д | ж | ӝ
+                      | Б | В | Г | Д | Ж | Ӝ
+                          | к     | м     | п | р         | ф | х
+                          | К     | М     | П | Р         | Ф | Х
+                              | ш | щ | ъ
+                              | Ш | Щ | Ъ
                       ];
 
 define Syll [ (Cns) (Cns) Vow (Cns) (Cns) ] ; 
@@ -40,13 +59,8 @@ echo << defining Boundary >>
 define Boundary %> ;
 
 
-
-
-
 ! Consonant alternations in certain pos
 ! -------------------------------------
-
-
 
 ! Vowel shifts
 ! ------------
@@ -110,5 +124,4 @@ BoundaryDeletion
 .o.
 Deletion 
 ] ;
-
 
