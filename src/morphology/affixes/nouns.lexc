@@ -1,7 +1,7 @@
-!! !!! UDMURT Noun inflection
+!! ! UDMURT Noun inflection
 !! 
-!! Udmurt inflects for case, number, and possession. Following are some notes
-!! for things that need to be done so far, and also an overview of nominal
+!! Nouns in Udmurt inflects for case, number, and possession. Following are some
+!! notes for things that need to be done so far, and also an overview of nominal
 !! inflection types.
 !! 
 !! Most Udmurt nouns (the vast majority) do not require changes to the stem
@@ -16,38 +16,48 @@
 !! 
 !! Some inflectional endings thus may have two alternatives:
 !! 
-!!  * Nominative plural - ос/ёс
-!!  * Accusative singular - эз/ез
-!!  * Instrumental singular - эн/ен
-!!  * Illative singular - э/е
-!!  * Prolative singular - этӥ/етӥ
+!! | Case                  | Non-yod      | Yod
+!! | Nominative plural     | ос           | ёс
+!! | Accusative singular   | эз           | ез
+!! | Instrumental singular | эн           | ен
+!! | Illative singular     | э            | е
+!! | Prolative singular    | этӥ          | етӥ
+!! 
+!! Other cases do not vary depending on these environments.
 !! 
 !! Note that depending on the palatal/nonpalatal status of the last segment,
 !! the yodified vowel series may be preceded by a <ъ>. According to references though,
 !! the palatal marker <ь> must remain even when followed by this series.
+!!
+!! Udmurt also has a unique way of handling hiatus relationships, where the non-yod
+!! series follows vowels, and the yod series follows consonants.
+!! 
+!! Also note that though stems may not change, orthographically, there may need to be
+!! a hard sign inserted to maintain the non-palatal pronunciation of certain
+!! consonant segments.
 !! 
 !! Some examples:
 !! 
-!! ! -V stems
+!! ''-V stems''
 !! 
-!! | NomSg    | NomPl       | IneSg       | GenSg        | Advl Sg
-!! | бачка    | бачкаос     | бакчаын     | бакчалэн     | бачкая
-!! | дунне    | дуннеос     | дуннеын     | дуннелэн     | дуннея
-!! | ты       | тыос        | тыын        | тылэн        | тыя
+!! | NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
+!! | бачка | бачкаос | бакчаын | бакчалэн | бачкая
+!! | дунне | дуннеос | дуннеын | дуннелэн | дуннея
+!! | ты    | тыос    | тыын    | тылэн    | тыя
 !! 
-!! ! -C stems
+!! ''-C stems''
 !! 
-!! | NomSg    | NomPl       | IneSg       | GenSg        | Advl Sg
-!! | гурт     | гуртъёс     | гуртын      | гуртлэн      | гуртъя
-!! | тэль     | тельёс      | тэлъын      | тэлълэн      | тэлья
-!! | вить     | витьёс      | витьын      | витьлэн      | витья
+!! | NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
+!! | гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
+!! | тэль  | тельёс  | тэлъын | тэлълэн | тэлья
+!! | вить  | витьёс  | витьын | витьлэн | витья
 !! 
-!! ! Diphthongs
+!! ''Diphthongs''
 !! 
-!! | NomSg    | NomPl      | IneSg       | GenSg        | Advl Sg
-!! | уй       | уйёс       |  уйын       |  уйлэн       |  уйя
+!! | NomSg | NomPl | IneSg | GenSg | Advl Sg
+!! | уй    | уйёс  | уйын  | уйлэн | уйя
 !! 
-!! !! Russian loans ending in -ия/-ие
+!! ! Russian loans ending in -ия/-ие
 !! 
 !! Russian loanwords ending on these segments delete the final yodified vowel
 !! in all cases, except for the singular adverbial and nominative singular.
@@ -82,7 +92,7 @@
 !! 
 !!  * Non-russian words ending in -я (Loans from Tatar): чия ''kirsikka'' - чия–лы
 !! 
-!! !! Place names based on names of old tribes
+!! ! Place names based on names of old tribes
 !! 
 !! See ''affixes/propernouns.lexc'', but quickly: 
 !! 
@@ -90,7 +100,7 @@
 !! cases, they take an infix which is optional. The optional infix causes
 !! short versions of case suffixes, otherwise the words take the long version.
 !! 
-!! !! корка / куала
+!! ! корка / куала
 !! 
 !! The words ''корка, куала'' have some forms similar to the tribe/place names, and some
 !! cases behave differently: Inessive, Elative have the short consonant-only
@@ -98,7 +108,7 @@
 !! 
 !! TODO: write tests
 !! 
-!! !! "Old" Finno-ugric stems
+!! ! "Old" Finno-ugric stems (-м-, -г-, -т-)
 !! 
 !! TODO: add these to lexicon, and add morphology. Consider marking in morphology
 !! in a way that NDS can present:  син син(м)-
@@ -111,14 +121,12 @@
 !! }}}
 !! 
 !! Some particularly old words have since experienced some amount of deletion
-!! and simplification of clusters. Deleted segments reappear in some forms,
+!! and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
 !! but their appearance isn't completely regular, in that some variation
 !! exists, and sometimes the "short" stem without this segment appears where
 !! the "long" stem usually would.
 !! 
 !! Usually, these will also be marked in dictionaries. син син(м)-.
-!! 
-!! The segments which participate in this alternation are: -м-, -г-, -т-.
 !! 
 !! When the possessive is applied to nominative versions of these forms,
 !! the possessive will have the vowel -ы- instead of -э- or -е-. Also,
@@ -126,20 +134,20 @@
 !! 
 !! Examples:
 !! 
-!! ! -м–
+!! !! -м–
 !! 
 !! | син        | син–тэм      | синм–ысь                | сынм–ы
 !! | ''silmä''  | ''sokea''    | (elat.)                 | (px. y. 1. p.)
-!! | визь       | визь–тэк     | визьм–о				  |  
-!! | ''järki''  | (abess.)     | ''viisas''				  |  
-!! | куйнь      | куйнь–лэсь   | куйньм–ой				  |  
-!! | ''kolme''  | (abl.)       | ''3:n päivän kuluessa''  |  
-!! |            | куйнь–етй    | ~ куйньм–етӥ			  |  
-!! |            | ''kolmas''   | ''kolmas''				  |  
-!! | ин         |               | инм–ын				  |  
-!! | ''taivas'' |               | (iness.)				  |  
+!! | визь       | визь–тэк     | визьм–о				 |  
+!! | ''järki''  | (abess.)     | ''viisas''				 |  
+!! | куйнь      | куйнь–лэсь   | куйньм–ой				 |  
+!! | ''kolme''  | (abl.)       | ''3:n päivän kuluessa'' |  
+!! |            | куйнь–етй    | ~ куйньм–етӥ			 |  
+!! |            | ''kolmas''   | ''kolmas''				 |  
+!! | ин         |               | инм–ын				 |  
+!! | ''taivas'' |               | (iness.)				 |  
 !! 
-!! ! -м–
+!! !! -к–
 !! 
 !! | кус        |  кус–лы     |   куск–ын        |  куск–ы
 !! | ''lantio'' |  (dat.)     |   (iness.)       |  (Px Sg1)
@@ -152,7 +160,7 @@
 !! | ''tauko''  |  (dat.)      |   (iness.)       |  
 !! | ''väli''   |	 	 |	 	         |  
 !! 
-!! ! -т–
+!! !! -т–
 !! 
 !! | кык        |  кык–намы      |   кыкт–о
 !! | ''kaksi''  |  ''me kaksin'' | ''kaksoset''
@@ -162,7 +170,7 @@
 !! |            |                |  кыкт–етӥ
 !! |            |                |   ''toinen''
 !! 
-!! !! Vowel deletion stems
+!! ! Vowel deletion stems
 !! 
 !! * TODO: add to lexicon, also need a morphophonological symbol for these
 !! * TODO: write tests
@@ -171,7 +179,7 @@
 !! attached to a vowel-initial suffix. Alternatively, the vowels may remain,
 !! but a epenthetic consonant may appear: -к-
 !! 
-!! ! Optional deletion
+!! !! Optional deletion
 !! 
 !! | сэрег      | серг–ын  | 
 !! | ''nurkka'' | (iness.) | 
@@ -179,7 +187,7 @@
 !! | сюлэм      | сюлм–ыд  | сюлэм–ыд
 !! | ''sydän''  | (Px Sg2) | (Px Sg2)
 !! 
-!! ! Deletion or epenthesis
+!! !! Deletion or epenthesis
 !! 
 !! | вадес               | вадьс-ын   |  вадеск–ын
 !! | ''aika, hetki''     | (iness.)   |  (iness.)
@@ -198,7 +206,7 @@
 
 ! why do the palatal ones need overt marking with <ь>?
 
-!! !! Suffix ordering with possessive construction
+!! ! Suffix ordering with possessive construction
 !! 
 !! The possessive construction results in different case ordering:
 !! 
@@ -255,9 +263,7 @@
 !! * TODO: write tests for these ordering situations
 !! * TODO: implement these in lexc
 
-!
 !! !! Noun Lexica
-!
 
 LEXICON N_
 !! Words from lexicon @LEXNAME@ are mostly covered. These are from the main
@@ -294,6 +300,7 @@ LEXICON CASESUF_JE
 !! in their initial vowel use this yodified version.
 +Nom:%>е%>0 K;
 +Acc:%>ез K;
++Acc+Dial/North:%>ты K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
@@ -314,6 +321,7 @@ LEXICON CASESUF_JA
 !! in their initial vowel use this yodified version.
 +Nom:%>я%>0 K;
 +Acc:%>ез K;
++Acc+Dial/North:%>ты K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
@@ -333,6 +341,7 @@ LEXICON CASESUF_KORKA
 !! which tends to take short case suffixes when they are available.
 +Nom:%>0 K;
 +Acc:%>ез K;
++Acc+Dial/North:%>ты K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
@@ -365,6 +374,7 @@ LEXICON NOUNSUF_01
 LEXICON CASESUF
 +Nom:%> K;
 +Acc:%>эз K;
++Acc+Dial/North:%>ты K;
 +Gen:%>лэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
@@ -389,6 +399,7 @@ LEXICON PREPX
 
 LEXICON POSTCX
 +Acc:%>э K;
++Acc+Dial/North:%>ты K;
 +Gen:%>ляэн K;
 +Abl:%>лэсь K;
 +Dat:%>лы K;
