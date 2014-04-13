@@ -10,7 +10,7 @@
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/udm/src/morphology/affixes/] 
   / [syntax|https://victorio.uit.no/langtech/trunk/langs/udm/src/syntax] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/udm/src/phonology/udm-phon.twolc]   
-  / [yaml|https://victorio.uit.no/langtech/trunk/langs/udm/test/src/morphology/]
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/udm/test/src/gt-norm-yamls/]
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-udm.eng.html]
   / [text|http://giellatekno.uit.no/cgi/d-udm.eng.html]
 
