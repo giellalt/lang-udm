@@ -4,7 +4,7 @@
     <lg>
       <l pos="Prop">Австрия</l>
       <stg>
-        <st Contlex="PROP_">Австрия</st>
+        <st Contlex="PROP_RUS_JA">Австрия</st>
       </stg>
     </lg>
     <phonet>А́встрия</phonet>
@@ -40,7 +40,7 @@
     <lg>
       <l pos="Prop">Азия</l>
       <stg>
-        <st Contlex="PROP_">Азия</st>
+        <st Contlex="PROP_RUS_JA">Азия</st>
       </stg>
     </lg>
     <phonet>А́зия</phonet>
@@ -76,7 +76,7 @@
     <lg>
       <l pos="Prop">Армения</l>
       <stg>
-        <st Contlex="PROP_">Армения</st>
+        <st Contlex="PROP_RUS_JA">Армения</st>
       </stg>
     </lg>
     <phonet>Арме́ния</phonet>
@@ -130,7 +130,7 @@
     <lg>
       <l pos="Prop">Белоруссия</l>
       <stg>
-        <st Contlex="PROP_">Белоруссия</st>
+        <st Contlex="PROP_RUS_JA">Белоруссия</st>
       </stg>
     </lg>
     <phonet>Белору́ссия</phonet>
@@ -232,7 +232,7 @@
     <lg>
       <l pos="Prop">Венгрия</l>
       <stg>
-        <st Contlex="PROP_">Венгрия</st>
+        <st Contlex="PROP_RUS_JA">Венгрия</st>
       </stg>
     </lg>
     <phonet>Ве́нгрия</phonet>
@@ -304,7 +304,7 @@
     <lg>
       <l pos="Prop">Германия</l>
       <stg>
-        <st Contlex="PROP_">Германия</st>
+        <st Contlex="PROP_RUS_JA">Германия</st>
       </stg>
     </lg>
     <phonet>Герма́ния</phonet>
@@ -346,7 +346,7 @@
     <lg>
       <l pos="Prop">Грузия</l>
       <stg>
-        <st Contlex="PROP_">Грузия</st>
+        <st Contlex="PROP_RUS_JA">Грузия</st>
       </stg>
     </lg>
     <phonet>Гру́зия</phonet>
@@ -421,7 +421,7 @@
     <lg>
       <l pos="Prop">Италия</l>
       <stg>
-        <st Contlex="PROP_">Италия</st>
+        <st Contlex="PROP_RUS_JA">Италия</st>
       </stg>
     </lg>
     <phonet>Ита́лия</phonet>
@@ -601,7 +601,7 @@
     <lg>
       <l pos="Prop">Киргизия</l>
       <stg>
-        <st Contlex="PROP_">Киргизия</st>
+        <st Contlex="PROP_RUS_JA">Киргизия</st>
       </stg>
     </lg>
     <phonet>Кирги́зия</phonet>
@@ -721,7 +721,7 @@
     <lg>
       <l pos="Prop">Латвия</l>
       <stg>
-        <st Contlex="PROP_">Латвия</st>
+        <st Contlex="PROP_RUS_JA">Латвия</st>
       </stg>
     </lg>
     <phonet>Ла́твия</phonet>
@@ -775,7 +775,7 @@
     <lg>
       <l pos="Prop">Молдавия</l>
       <stg>
-        <st Contlex="PROP_">Молдавия</st>
+        <st Contlex="PROP_RUS_JA">Молдавия</st>
       </stg>
     </lg>
     <phonet>Молда́вия</phonet>
@@ -793,7 +793,7 @@
     <lg>
       <l pos="Prop">Монголия</l>
       <stg>
-        <st Contlex="PROP_">Монголия</st>
+        <st Contlex="PROP_RUS_JA">Монголия</st>
       </stg>
     </lg>
     <phonet>Монго́лия</phonet>
@@ -925,7 +925,7 @@
     <lg>
       <l pos="Prop">Россия</l>
       <stg>
-        <st Contlex="PROP_">Россия</st>
+        <st Contlex="PROP_RUS_JA">Россия</st>
       </stg>
     </lg>
     <phonet>Росси́я</phonet>
@@ -1138,7 +1138,7 @@
     <lg>
       <l pos="Prop">Туркмения</l>
       <stg>
-        <st Contlex="PROP_">Туркмения</st>
+        <st Contlex="PROP_RUS_JA">Туркмения</st>
       </stg>
     </lg>
     <phonet>Туркме́ния</phonet>
@@ -1156,7 +1156,7 @@
     <lg>
       <l pos="Prop">Удмуртия</l>
       <stg>
-        <st Contlex="PROP_">Удмуртия</st>
+        <st Contlex="PROP_RUS_JA">Удмуртия</st>
       </stg>
     </lg>
     <phonet>Удму́ртия</phonet>
@@ -1231,7 +1231,7 @@
     <lg>
       <l pos="Prop">Финляндия</l>
       <stg>
-        <st Contlex="PROP_">Финляндия</st>
+        <st Contlex="PROP_RUS_JA">Финляндия</st>
       </stg>
     </lg>
     <phonet>Финля́ндия</phonet>
@@ -1288,7 +1288,7 @@
     <lg>
       <l pos="Prop">Эстония</l>
       <stg>
-        <st Contlex="PROP_">Эстония</st>
+        <st Contlex="PROP_RUS_JA">Эстония</st>
       </stg>
     </lg>
     <phonet>Эсто́ния</phonet>

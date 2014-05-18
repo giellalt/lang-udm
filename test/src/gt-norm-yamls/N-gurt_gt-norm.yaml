@@ -18,7 +18,7 @@ Tests:
   Noun - гурт: # Noun  гурт 'eng /udm /fin' - full paradigm
      гурт+N+Sg+Nom: гурт
      гурт+N+Sg+Acc: гуртэз
-     гурт+N+Sg+Acc+Dial/North: гуртты
+#     гурт+N+Sg+Acc+Dial/North: гуртты
      гурт+N+Sg+Gen: гуртлэн
      гурт+N+Sg+Abl: гуртлэсь
      гурт+N+Sg+Dat: гуртлы
@@ -135,16 +135,16 @@ Tests:
      гурт+N+Pl+Ins+PxPl2: гуртъёсыныды
      гурт+N+Pl+Ins+PxPl3: гуртъёсынызы
 
-     гурт+N+Sg+Abe+PxSg1: гуртэтек
-     гурт+N+Sg+Abe+PxSg2: гуртэдтек
-     гурт+N+Sg+Abe+PxSg3: гуртэзтек
-     гурт+N+Sg+Abe+PxPl1: гуртмытек
-     гурт+N+Sg+Abe+PxPl2: гурттытек
-     гурт+N+Sg+Abe+PxPl3: гуртсытек
+     гурт+N+Sg+Abe+PxSg1: гуртэтэк
+     гурт+N+Sg+Abe+PxSg2: гуртэдтэк
+     гурт+N+Sg+Abe+PxSg3: гуртэзтэк
+     гурт+N+Sg+Abe+PxPl1: гуртмытэк
+     гурт+N+Sg+Abe+PxPl2: гурттытэк
+     гурт+N+Sg+Abe+PxPl3: гуртсытэк
 
-     гурт+N+Pl+Abe+PxSg1: гуртъёсытек
-     гурт+N+Pl+Abe+PxSg2: гуртъёсыдтек
-     гурт+N+Pl+Abe+PxSg3: гуртъёсызтек
+     гурт+N+Pl+Abe+PxSg1: гуртъёсытэк
+     гурт+N+Pl+Abe+PxSg2: гуртъёсыдтэк
+     гурт+N+Pl+Abe+PxSg3: гуртъёсызтэк
      гурт+N+Pl+Abe+PxPl1: гуртъёсмытэк
      гурт+N+Pl+Abe+PxPl2: гуртъёстытэк
      гурт+N+Pl+Abe+PxPl3: гуртъёссытэк

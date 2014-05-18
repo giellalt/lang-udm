@@ -1,0 +1,264 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+  Noun - бакча: # Noun  бакча 'eng /udm /fin' - full paradigm
+     бакча+N+Sg+Nom: бакча
+     бакча+N+Sg+Acc: бакчаэз
+#     бакча+N+Sg+Acc+Dial/North: бакчаты
+     бакча+N+Sg+Gen: бакчалэн
+     бакча+N+Sg+Abl: бакчалэсь
+     бакча+N+Sg+Dat: бакчалы
+     бакча+N+Sg+Ins: бакчаэн
+     бакча+N+Sg+Abe: бакчатэк
+     бакча+N+Sg+Advl: бакчая
+     бакча+N+Sg+Ine: бакчаын
+     бакча+N+Sg+Ill: бакчае
+     бакча+N+Sg+Ela: бакчаысь
+     бакча+N+Sg+Egr: бакчаысен
+     бакча+N+Sg+Ter: бакчаозь
+     бакча+N+Sg+Prl: бакчаэтӥ
+     бакча+N+Sg+Apr: бакчалань
+
+     бакча+N+Pl+Nom: бакчаос
+     бакча+N+Pl+Acc: бакчаосыз
+     бакча+N+Pl+Gen: бакчаослэн
+     бакча+N+Pl+Abl: бакчаослэсь
+     бакча+N+Pl+Dat: бакчаослы
+     бакча+N+Pl+Ins: бакчаосэн
+     бакча+N+Pl+Abe: бакчаостэк
+     бакча+N+Pl+Advl: бакчаосъя
+     бакча+N+Pl+Ine: бакчаосын
+     бакча+N+Pl+Ill: бакчаосы
+     бакча+N+Pl+Ela: бакчаосысь
+     бакча+N+Pl+Egr: бакчаосысен
+     бакча+N+Pl+Ter: бакчаосозь
+     бакча+N+Pl+Prl: бакчаосэтӥ
+     бакча+N+Pl+Apr: бакчаослань
+
+     # possessive, and Cx-Px / Px-Cx
+
+     бакча+N+Sg+Nom+PxSg1: бакчае
+     бакча+N+Sg+Nom+PxSg2: бакчаед
+     бакча+N+Sg+Nom+PxSg3: бакчаез
+     бакча+N+Sg+Nom+PxPl1: бакчамы
+     бакча+N+Sg+Nom+PxPl2: бакчады
+     бакча+N+Sg+Nom+PxPl3: бакчазы
+
+     бакча+N+Pl+Nom+PxSg1: бакчаосы
+     бакча+N+Pl+Nom+PxSg2: бакчаосыд
+     бакча+N+Pl+Nom+PxSg3: бакчаосыз
+     бакча+N+Pl+Nom+PxPl1: бакчаосмы
+     бакча+N+Pl+Nom+PxPl2: бакчаосты
+     бакча+N+Pl+Nom+PxPl3: бакчаоссы
+
+     бакча+N+Sg+Acc+PxSg1: бакчаме
+     бакча+N+Sg+Acc+PxSg2: бакчатэ
+     бакча+N+Sg+Acc+PxSg3: бакчасэ
+     бакча+N+Sg+Acc+PxPl1: бакчамес
+     бакча+N+Sg+Acc+PxPl2: бакчатэс
+     бакча+N+Sg+Acc+PxPl3: бакчасэс
+
+     бакча+N+Pl+Acc+PxSg1: бакчаосме
+     бакча+N+Pl+Acc+PxSg2: бакчаостэ
+     бакча+N+Pl+Acc+PxSg3: бакчаоссэ
+     бакча+N+Pl+Acc+PxPl1: бакчаосмес
+     бакча+N+Pl+Acc+PxPl2: бакчаостэс
+     бакча+N+Pl+Acc+PxPl3: бакчаоссэс
+
+     бакча+N+Sg+Gen+PxSg1: бакчаелэн
+     бакча+N+Sg+Gen+PxSg2: бакчаедлэн
+     бакча+N+Sg+Gen+PxSg3: бакчаезлэн
+     бакча+N+Sg+Gen+PxPl1: бакчамылэн
+     бакча+N+Sg+Gen+PxPl2: бакчатылэн
+     бакча+N+Sg+Gen+PxPl3: бакчасылэн
+
+     бакча+N+Pl+Gen+PxSg1: бакчаосылэн
+     бакча+N+Pl+Gen+PxSg2: бакчаосыдлэн
+     бакча+N+Pl+Gen+PxSg3: бакчаосызлэн
+     бакча+N+Pl+Gen+PxPl1: бакчаосмылэн
+     бакча+N+Pl+Gen+PxPl2: бакчаостылэн
+     бакча+N+Pl+Gen+PxPl3: бакчаоссылэн
+
+     бакча+N+Sg+Abl+PxSg1: бакчаелэсь
+     бакча+N+Sg+Abl+PxSg2: бакчаедлэсь
+     бакча+N+Sg+Abl+PxSg3: бакчаезлэсь
+     бакча+N+Sg+Abl+PxPl1: бакчамылэсь
+     бакча+N+Sg+Abl+PxPl2: бакчатылэсь
+     бакча+N+Sg+Abl+PxPl3: бакчасылэсь
+
+     бакча+N+Pl+Abl+PxSg1: бакчаосылэсь
+     бакча+N+Pl+Abl+PxSg2: бакчаосыдлэсь
+     бакча+N+Pl+Abl+PxSg3: бакчаосызлэсь
+     бакча+N+Pl+Abl+PxPl1: бакчаосмылэсь
+     бакча+N+Pl+Abl+PxPl2: бакчаостылэсь
+     бакча+N+Pl+Abl+PxPl3: бакчаоссылэсь
+
+     бакча+N+Sg+Dat+PxSg1: бакчаелы
+     бакча+N+Sg+Dat+PxSg2: бакчаедлы
+     бакча+N+Sg+Dat+PxSg3: бакчаезлы
+     бакча+N+Sg+Dat+PxPl1: бакчамылы
+     бакча+N+Sg+Dat+PxPl2: бакчатылы
+     бакча+N+Sg+Dat+PxPl3: бакчасылы
+
+     бакча+N+Pl+Dat+PxSg1: бакчаосылы
+     бакча+N+Pl+Dat+PxSg2: бакчаосыдлы
+     бакча+N+Pl+Dat+PxSg3: бакчаосызлы
+     бакча+N+Pl+Dat+PxPl1: бакчаосмылы
+     бакча+N+Pl+Dat+PxPl2: бакчаостылы
+     бакча+N+Pl+Dat+PxPl3: бакчаоссылы
+
+     бакча+N+Sg+Ins+PxSg1: бакчаеным
+     бакча+N+Sg+Ins+PxSg2: бакчаеныд
+     бакча+N+Sg+Ins+PxSg3: бакчаеныз
+     бакча+N+Sg+Ins+PxPl1: бакчаенымы
+     бакча+N+Sg+Ins+PxPl2: бакчаеныды
+     бакча+N+Sg+Ins+PxPl3: бакчаенызы
+
+     бакча+N+Pl+Ins+PxSg1: бакчаосыным
+     бакча+N+Pl+Ins+PxSg2: бакчаосыныд
+     бакча+N+Pl+Ins+PxSg3: бакчаосыныз
+     бакча+N+Pl+Ins+PxPl1: бакчаосынымы
+     бакча+N+Pl+Ins+PxPl2: бакчаосыныды
+     бакча+N+Pl+Ins+PxPl3: бакчаосынызы
+
+     бакча+N+Sg+Abe+PxSg1: бакчаетэк
+     бакча+N+Sg+Abe+PxSg2: бакчаедтэк
+     бакча+N+Sg+Abe+PxSg3: бакчаезтэк
+     бакча+N+Sg+Abe+PxPl1: бакчамытэк
+     бакча+N+Sg+Abe+PxPl2: бакчатытэк
+     бакча+N+Sg+Abe+PxPl3: бакчасытэк
+
+     бакча+N+Pl+Abe+PxSg1: бакчаосытэк
+     бакча+N+Pl+Abe+PxSg2: бакчаосыдтэк
+     бакча+N+Pl+Abe+PxSg3: бакчаосызтэк
+     бакча+N+Pl+Abe+PxPl1: бакчаосмытэк
+     бакча+N+Pl+Abe+PxPl2: бакчаостытэк
+     бакча+N+Pl+Abe+PxPl3: бакчаоссытэк
+
+     бакча+N+Sg+Advl+PxSg1: бакчаея
+     бакча+N+Sg+Advl+PxSg2: бакчаедъя
+     бакча+N+Sg+Advl+PxSg3: бакчаезъя
+     бакча+N+Sg+Advl+PxPl1: бакчамыя
+     бакча+N+Sg+Advl+PxPl2: бакчатыя
+     бакча+N+Sg+Advl+PxPl3: бакчасыя
+
+     бакча+N+Pl+Advl+PxSg1: бакчаосыя
+     бакча+N+Pl+Advl+PxSg2: бакчаосыдъя
+     бакча+N+Pl+Advl+PxSg3: бакчаосызъя
+     бакча+N+Pl+Advl+PxPl1: бакчаосмыя
+     бакча+N+Pl+Advl+PxPl2: бакчаостыя
+     бакча+N+Pl+Advl+PxPl3: бакчаоссыя
+
+     бакча+N+Sg+Ine+PxSg1: бакчаям
+     бакча+N+Sg+Ine+PxSg2: бакчаяд
+     бакча+N+Sg+Ine+PxSg3: бакчаяз
+     бакча+N+Sg+Ine+PxPl1: бакчаямы
+     бакча+N+Sg+Ine+PxPl2: бакчаяды
+     бакча+N+Sg+Ine+PxPl3: бакчаязы
+
+     бакча+N+Pl+Ine+PxSg1: бакчаосам
+     бакча+N+Pl+Ine+PxSg2: бакчаосад
+     бакча+N+Pl+Ine+PxSg3: бакчаосаз
+     бакча+N+Pl+Ine+PxPl1: бакчаосамы
+     бакча+N+Pl+Ine+PxPl2: бакчаосады
+     бакча+N+Pl+Ine+PxPl3: бакчаосазы
+
+     бакча+N+Sg+Ill+PxSg1: бакчаям
+     бакча+N+Sg+Ill+PxSg2: бакчаяд
+     бакча+N+Sg+Ill+PxSg3: бакчаяз
+     бакча+N+Sg+Ill+PxPl1: бакчаямы
+     бакча+N+Sg+Ill+PxPl2: бакчаяды
+     бакча+N+Sg+Ill+PxPl3: бакчаязы
+
+     бакча+N+Pl+Ill+PxSg1: бакчаосам
+     бакча+N+Pl+Ill+PxSg2: бакчаосад
+     бакча+N+Pl+Ill+PxSg3: бакчаосаз
+     бакча+N+Pl+Ill+PxPl1: бакчаосамы
+     бакча+N+Pl+Ill+PxPl2: бакчаосады
+     бакча+N+Pl+Ill+PxPl3: бакчаосазы
+
+     бакча+N+Sg+Ela+PxSg1: бакчаысьтым
+     бакча+N+Sg+Ela+PxSg2: бакчаысьтыд
+     бакча+N+Sg+Ela+PxSg3: бакчаысьтыз
+     бакча+N+Sg+Ela+PxPl1: бакчаысьтымы
+     бакча+N+Sg+Ela+PxPl2: бакчаысьтыды
+     бакча+N+Sg+Ela+PxPl3: бакчаысьтызы
+
+     бакча+N+Pl+Ela+PxSg1: бакчаосысьтым
+     бакча+N+Pl+Ela+PxSg2: бакчаосысьтыд
+     бакча+N+Pl+Ela+PxSg3: бакчаосысьтыз
+     бакча+N+Pl+Ela+PxPl1: бакчаосысьтымы
+     бакча+N+Pl+Ela+PxPl2: бакчаосысьтыды
+     бакча+N+Pl+Ela+PxPl3: бакчаосысьтызы
+
+     бакча+N+Sg+Ela+PxSg1: бакчаысеным
+     бакча+N+Sg+Ela+PxSg2: бакчаысеныд
+     бакча+N+Sg+Ela+PxSg3: бакчаысеныз
+     бакча+N+Sg+Ela+PxPl1: бакчаысенымы
+     бакча+N+Sg+Ela+PxPl2: бакчаысеныды
+     бакча+N+Sg+Ela+PxPl3: бакчаысенызы
+
+     бакча+N+Pl+Ela+PxSg1: бакчаосысеным
+     бакча+N+Pl+Ela+PxSg2: бакчаосысеныд
+     бакча+N+Pl+Ela+PxSg3: бакчаосысеныз
+     бакча+N+Pl+Ela+PxPl1: бакчаосысенымы
+     бакча+N+Pl+Ela+PxPl2: бакчаосысеныды
+     бакча+N+Pl+Ela+PxPl3: бакчаосысенызы
+
+     бакча+N+Pl+Ter+PxSg1: бакчаозям
+     бакча+N+Pl+Ter+PxSg2: бакчаозяд
+     бакча+N+Pl+Ter+PxSg3: бакчаозяз
+     бакча+N+Pl+Ter+PxPl1: [бакчаозямы, бакчамыозь]
+     бакча+N+Pl+Ter+PxPl2: [бакчаозяды, бакчатыозь]
+     бакча+N+Pl+Ter+PxPl3: [бакчаозязы, бакчасыозь]
+
+     бакча+N+Pl+Ter+PxSg1: бакчаосозям
+     бакча+N+Pl+Ter+PxSg2: бакчаосозяд
+     бакча+N+Pl+Ter+PxSg3: бакчаосозяз
+     бакча+N+Pl+Ter+PxPl1: бакчаосмыозь
+     бакча+N+Pl+Ter+PxPl2: бакчаостыозь
+     бакча+N+Pl+Ter+PxPl3: бакчаоссыозь
+
+     бакча+N+Pl+Prl+PxSg1: бакчаетӥм
+     бакча+N+Pl+Prl+PxSg2: бакчаетӥд
+     бакча+N+Pl+Prl+PxSg3: бакчаетӥз
+     бакча+N+Pl+Prl+PxPl1: бакчаетӥмы
+     бакча+N+Pl+Prl+PxPl2: бакчаетӥды
+     бакча+N+Pl+Prl+PxPl3: бакчаетӥзы
+
+     бакча+N+Pl+Prl+PxSg1: бакчаосэтӥм
+     бакча+N+Pl+Prl+PxSg2: бакчаосэтӥд
+     бакча+N+Pl+Prl+PxSg3: бакчаосэтӥз
+     бакча+N+Pl+Prl+PxPl1: бакчаосэтӥмы
+     бакча+N+Pl+Prl+PxPl2: бакчаосэтӥды
+     бакча+N+Pl+Prl+PxPl3: бакчаосэтӥзы
+
+     бакча+N+Pl+Apr+PxSg1: бакчаелань
+     бакча+N+Pl+Apr+PxSg2: бакчаедлань
+     бакча+N+Pl+Apr+PxSg3: бакчаезлань
+     бакча+N+Pl+Apr+PxPl1: бакчамылань
+     бакча+N+Pl+Apr+PxPl2: бакчатылань
+     бакча+N+Pl+Apr+PxPl3: бакчасылань
+
+     бакча+N+Pl+Apr+PxSg1: бакчаосэлань
+     бакча+N+Pl+Apr+PxSg2: бакчаосэдлань
+     бакча+N+Pl+Apr+PxSg3: бакчаосэзлань
+     бакча+N+Pl+Apr+PxPl1: бакчаосмылань
+     бакча+N+Pl+Apr+PxPl2: бакчаостылань
+     бакча+N+Pl+Apr+PxPl3: бакчаоссылань
+
+

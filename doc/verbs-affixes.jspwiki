@@ -40,8 +40,11 @@ Lexicon ''V_MONO''
 
 
 
+
+
 Lexicon ''V_UZA''
 * Yaml: __uzhany__
+
 
 
      возь >   ..   возе    ..   возисько
@@ -78,5 +81,31 @@ Lexicon ''IMPRT''
 Lexicon ''OPT''
 
 Lexicon ''NONFINITES''
+
+Mutual à la Jaska
+мыныны:мын
+Lexicon ''V_МЫНЫНЫ''
+* Yaml: __mynyny__
+
+
+
+Lexicon ''APRSjaska''
+
+Lexicon ''FUT-PERSONjaska''
+
+Lexicon ''PRTI-PERSONjaska''
+
+Lexicon ''PRTII-PERSONjaska''
+
+
+
+Lexicon ''CONDjaska''
+
+Lexicon ''IMPRTjaska''
+
+Lexicon ''OPTjaska''
+
+Lexicon ''NONFINITESjaska''
+
 
 

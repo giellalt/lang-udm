@@ -32,6 +32,7 @@ The following cases do not have the infix at all
 So far the PROP (underline) lexicon is a dummy pexicon that just gives __+N+Prop__,
 and then redirects to ''NOUNSUF_01''.
 
+
 Words from lexicon ''PROP_HEIMONNIMET'' are "old" tribe and place names, 
 which have an optional infix for some cases, while some do not.
 

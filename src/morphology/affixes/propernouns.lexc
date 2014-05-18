@@ -34,6 +34,9 @@ LEXICON PROP_
 !! and then redirects to ''NOUNSUF_01''.
 +N+Prop: NOUNSUF_01 ;
 
+LEXICON PROP_RUS_JA
++N+Prop:%^RusJa jaskaNOUNSUF_01 ;
+
 LEXICON PROP_HEIMONNIMET
 !! Words from lexicon ''@LEXNAME@'' are "old" tribe and place names, 
 !! which have an optional infix for some cases, while some do not.

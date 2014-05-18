@@ -1,0 +1,263 @@
+!! !!!Udmurt twol file
+
+!! !!Alphabet, Sets and Definitions
+
+Alphabet
+
+!! !!Letters of the alphabet
+
+а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я !!= * @CODE@
+А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я !!= * @CODE@
+
+!! !!Archiphonemes for vowels
+!  е1:е а1:а и1:и у1:у ӱ1:ӱ
+!  Е1:Е %{аӓ%}:А И1:И У1:У Ӱ1:Ӱ
+! JMR 2012-09-18
+! %{аӓ%}:а 
+
+%^@:0  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+!! !!Triggers
+
+%^ConsTransf:0 !!= * @CODE@ 
+%^KIN:0        !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
+%^RusJa:0      !!= * @CODE@ Эстония:Эстониез
+%^SYNC:0	     !!= * @CODE@ 
+
+Ы2:0	       !!= * @CODE@ morpheme initial disappears after vowel ы 0
+Е2:0	       !!= * @CODE@ morpheme initial disappears after vowel е э 0
+И2:0	       !!= * @CODE@ morpheme initial disappears after vowel и ӥ 0
+О2:о	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
+Е3:0	       !!= * @CODE@ Acc, Ill е э ы
+А3:0	       !!= * @CODE@ Ine а, я
+К3:0	       !!= * @CODE@ нюлэс:нюлэсК3
+М3:0	       !!= * @CODE@ син:синМ3
+
+
+!! !!Boundary symbols
+
+ %> !!= * @CODE@ 
+ #  !!  * hash #
+ %- !!= * @CODE@ 
+
+
+ ;
+
+
+!! !!Sets 
+
+Sets
+BackLabVow =   о у ё ю О У Ё Ю ;
+NonLabVow =   а е и ӥ э я А Е И Ӥ Э Я ;
+Vow =  а е ё и ӥ о ӧ у ы э ю я 
+       А Е Ё И Ӥ О Ӧ У Ы Э Ю Я ;
+BackVow = BackLabVow а А ы Ы ;
+FrontVow = FrontLabVow е и ӥ э Е И Ӥ Э ;
+ArchiVow =  Ы2 ;
+FullVow = BackLabVow FrontLabVow NonLabVow ;
+
+CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 
+           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;
+
+CnsAlv = д з л н р с т ц
+         Д З Л Н Р С Т Ц ;
+
+Cns =  б в г д ж ӝ з ӟ к л м н п р с т ф х ц ч ӵ ш щ 
+       Б В Г Д Ж Ӝ З Ӟ К Л М Н П Р С Т Ф Х Ц Ч Ӵ Ш Щ ;
+
+Cst =  к п т ф х ц ч ш с 
+       К П Т Ф Х Ц Ч Ш Ц ;
+
+Ltrs = Vow Cns Й й  ъ ь Ъ Ь ;
+
+all =  Ltrs  %- ;
+
+
+
+!! !!Definitions
+
+Definitions
+
+!LFC =  # [ Cns | й ]*  [ :FrontVow | Е2: | :е  ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
+
+
+
+!! !!Rules
+
+Rules
+
+
+
+!! !!DEPALATALISATION
+
+"Depalatalize и"
+!! __@RULENAME@__
+ и:ӥ <=> CnsAlv %>  _ ;
+
+"Depalatalize е"
+!! __@RULENAME@__
+ Е2:э <=> CnsAlv %>  _ ;
+
+"Depalatalize и"
+!! __@RULENAME@__
+ И2:ӥ <=> CnsAlv %>  _ ;
+
+"Depalatalize е3:е"
+!! __@RULENAME@__
+ Е3:е <=> [ Cns - CnsAlv | а | я: (%^RusJa:) | е: %^RusJa: | ь: ] %> _ ;
+!€# бакча%>Е3
+!€0 бакча0е
+
+"Depalatalize е3:э"
+!! __@RULENAME@__
+ Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsAlv: ] - [ %> ъ: ё: с ]| ы ] %>  _ ;
+
+
+"Depalatalize and raise е3:ы"
+!! __@RULENAME@__
+ Е3:ы <=>  %> ъ: ё: с %>  _ ;
+
+"Depalatalize and raise ё:о"
+!! __@RULENAME@__
+ ё:о <=> Vow: (%^RusJa:) %> ъ: _ с ;
+!€# корка%>ъёс
+!€0 корка00ос
+!€# собрание%^RusJa%>ъёс
+!€# собрани0000ос
+
+
+"А3:а"
+!! __@RULENAME@__
+ А3:а <=> Cns %>  _ ;
+
+"О2:о"
+!! __@RULENAME@__
+ О2:о <=> [ Cns (%>) | Vow %> 0: ] _ ;
+!€# мын%>О2
+!€0 мын0о
+!€# ужа%>0О2
+!€0 ужа0ло
+
+"Palatal О2:ё"
+!! __@RULENAME@__
+ О2:ё <=>  [ ь: | й: ] (%>)  _ ;
+
+
+"Palatal е"
+!! __@RULENAME@__
+ Е2:е <=> [Cns - CnsAlv|ь:|ъ:| й:] %>  _ ;
+
+"Palatal и"
+!! __@RULENAME@__
+ И2:и <=> [Cns - CnsAlv|ь:|ъ:| й:] %>  _ ;
+
+"Palatal а"
+!! __@RULENAME@__
+ А3:я <=> [ь:| й:|Vow:] %>  _ ;
+
+"Stem vowel loss Ы2:ы LEFT" !! Is this really necessary
+!! __@RULENAME@__
+ Ы2:ы <=          :Cns (ь|ъ) %> _ Cns ;
+!€# мын%>Ы2сал
+!€0 мын0ысал
+         Vow Cns (ь|ъ) :Cns+ (ь|ъ) %> _ [ # | %> ];
+
+"Stem vowel loss Ы2:ы RIGHT"
+!! __@RULENAME@__
+ Ы2:ы =>   :Cns (ь|ъ) %> _ Cns ;
+!€# мын%>Ы2сал
+!€0 мын0ысал
+  Vow Cns (ь|ъ) :Cns+ (ь|ъ) %> _ [ # | %> ] ;
+             Vow :Cns (ь:) %> _ [ # | %> ];
+!€# мын%>Ы2#
+!€0 мын0ы0
+!€0 мын000
+!€# возь%>Ы2#
+!€0 возь0ы0
+!€0 возь000
+
+"Palatal и:й"
+!! __@RULENAME@__
+ И2:й <=> Vow %>  _ [ #| %>] ;
+
+
+!! !!VOWEL LOSS
+"Stem vowel loss Ы2:0 LEFT" !! Is this really necessary
+!! __@RULENAME@__
+ Ы2:0 <= Vow: %> _ ;
+
+"Stem vowel loss Ы2:0 RIGHT"
+!! __@RULENAME@__
+ Ы2:0 => Vow: %> _ ;
+         Vow :Cns (ь:) %> _ [ # | %> ]; 
+!€# мын%>Ы2#
+!€0 мын0ы0
+!€0 мын000
+!€# возь%>Ы2#
+!€0 возь0ы0
+!€0 возь000
+
+"я:0"
+!! __@RULENAME@__
+ я:0 <=>  _ %^RusJa: %> [Е3: | ъ: ё: | ы | л ] ;
+
+"е:0"
+!! __@RULENAME@__
+ е:0 <=>  _ %^RusJa: %> [Е3: | ъ: ё: | ы | л ] ;
+
+"Palatal е:0"
+!! __@RULENAME@__
+ Е2:0 <=> Vow %>  _ ;
+
+"Palatal и:0"
+!! __@RULENAME@__
+ И2:0 <=> Vow %>  _ Cns ;
+
+"О2:0"
+!! __@RULENAME@__
+ О2:0 <=> Vow  _ ;
+!€# ужа%>О2
+!€0 ужа00
+
+"й:0"
+!! __@RULENAME@__
+ й:0 <=> _ (%>) [ И2: | Е2: | О2: | Е3: ] ;
+
+"ь:0"
+!! __@RULENAME@__
+ ь:0 <=> _ (%>) [ И2: | Е2: | О2: | Е3: ] ;
+!€# возь%>Ы2#
+!€0 возь0ы0
+!€0 возь000
+
+"ъ:0"
+!! __@RULENAME@__
+ ъ:0 <=> Vow: (%^RusJa:) %> _ ;
+!€# корка%>ъёс
+!€0 корка00ос
+!€# собрание%^RusJa%>ъёс
+!€# собрани0000ос
+
+!! !!ZERO TO CONSONANT
+"0:л"
+!! __@RULENAME@__
+ 0:л <=> Vow %> _ О2: ;
+!€# ужа%>0О2
+!€0 ужа0ло
+
+!! !!CONSONANTS
+
+"Devoicing д:т"
+!! __@RULENAME@__
+ д:т <=> т %> _ ;
+
+"Devoicing з:с"
+!! __@RULENAME@__
+ з:с <=> т %> _ ;
+
+"Surface consonant before vowel К3:к"
+!! __@RULENAME@__
+ К3:к <=> _ %> :Vow ;
+
+"Surface consonant before vowel М3:м"
+!! __@RULENAME@__
+ М3:м <=> _ %> :Vow ;

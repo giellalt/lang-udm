@@ -27,7 +27,7 @@ Tests:
 
      возьыны+V+Ind+Prs+ConNeg+Sg1: возиськы
      возьыны+V+Ind+Prs+ConNeg+Sg2: возиськы
-     возьыны+V+Ind+Prs+ConNeg+Sg3: возы
+     возьыны+V+Ind+Prs+ConNeg+Sg3: возьы
      возьыны+V+Ind+Prs+ConNeg+Pl1: возиське
      возьыны+V+Ind+Prs+ConNeg+Pl2: возиське
      возьыны+V+Ind+Prs+ConNeg+Pl3: возё
@@ -38,82 +38,82 @@ Tests:
      возьыны+V+Ind+Fut+Pl1: [возём, возёмы]
      возьыны+V+Ind+Fut+Pl2: возёды
      возьыны+V+Ind+Fut+Pl3: возёзы
-     возьыны+V+Ind+Fut+ConNeg+Sg: возы
+     возьыны+V+Ind+Fut+ConNeg+Sg: возьы
      возьыны+V+Ind+Fut+ConNeg+Pl: [возе, возелэ]
 
      # TODO:
-     # возьыны+V+Ind+PrtI+Sg1: ужай
-     # возьыны+V+Ind+PrtI+Sg2: ужад
-     # возьыны+V+Ind+PrtI+Sg3: ужаз
-     # возьыны+V+Ind+PrtI+Pl1: [ужамы, ужам]
-     # возьыны+V+Ind+PrtI+Pl2: ужады
-     # возьыны+V+Ind+PrtI+Pl3: ужазы
-     # возьыны+V+Ind+PrtI+ConNeg+Sg: ужа
-     # возьыны+V+Ind+PrtI+ConNeg+Pl: ужалэ
+     возьыны+V+Ind+PrtI+Sg1: вози
+     возьыны+V+Ind+PrtI+Sg2: возид
+     возьыны+V+Ind+PrtI+Sg3: возиз
+     возьыны+V+Ind+PrtI+Pl1: [возимы, возим]
+     возьыны+V+Ind+PrtI+Pl2: возиды
+     возьыны+V+Ind+PrtI+Pl3: возизы
+     возьыны+V+Ind+PrtI+ConNeg+Sg: возь
+     возьыны+V+Ind+PrtI+ConNeg+Pl: возе
 
-     # возьыны+V+Ind+PrtII+Sg1: ужаськем
-     # возьыны+V+Ind+PrtII+Sg2: ужамед
-     # возьыны+V+Ind+PrtII+Sg3: ужам
-     # возьыны+V+Ind+PrtII+Pl1: ужаськеммы
-     # возьыны+V+Ind+PrtII+Pl2: ужаллямды
-     # возьыны+V+Ind+PrtII+Pl3: [ужаллямзы, ужаллям]
+     возьыны+V+Ind+PrtII+Sg1: возиськем
+     возьыны+V+Ind+PrtII+Sg2: воземед
+     возьыны+V+Ind+PrtII+Sg3: возем
+     возьыны+V+Ind+PrtII+Pl1: возиськеммы
+     возьыны+V+Ind+PrtII+Pl2: возиллямды
+     возьыны+V+Ind+PrtII+Pl3: [возиллямзы, возиллям]
 
-     # возьыны+V+Ind+PrtII+ConNeg+Sg1: ужаськем
-     # возьыны+V+Ind+PrtII+ConNeg+Sg2: ужамед
-     # возьыны+V+Ind+PrtII+ConNeg+Sg3: ужам
-     # возьыны+V+Ind+PrtII+ConNeg+Pl1: ужаськеммы
-     # возьыны+V+Ind+PrtII+ConNeg+Pl2: ужаллямды
-     # возьыны+V+Ind+PrtII+ConNeg+Pl3: [ужаллямзы, ужаллям]
+     возьыны+V+Ind+PrtII+ConNeg+Sg1: возиськем
+     возьыны+V+Ind+PrtII+ConNeg+Sg2: воземед
+     возьыны+V+Ind+PrtII+ConNeg+Sg3: возем
+     возьыны+V+Ind+PrtII+ConNeg+Pl1: возиськеммы
+     возьыны+V+Ind+PrtII+ConNeg+Pl2: возиллямды
+     возьыны+V+Ind+PrtII+ConNeg+Pl3: [возиллямзы, возиллям]
 
-     # возьыны+V+Ind+PrtII+Neg+Sg1: ужаськымтэе
-     # возьыны+V+Ind+PrtII+Neg+Sg2: ужамтэед
-     # возьыны+V+Ind+PrtII+Neg+Sg3: ужамтэ
-     # возьыны+V+Ind+PrtII+Neg+Pl1: ужаськымтэмы
-     # возьыны+V+Ind+PrtII+Neg+Pl2: ужамтэды
-     # возьыны+V+Ind+PrtII+Neg+Pl3: [ужаллямтэзы, ужаллямтэ]
+     возьыны+V+Ind+PrtII+Neg+Sg1: возиськымтэе
+     возьыны+V+Ind+PrtII+Neg+Sg2: возьымтэед
+     возьыны+V+Ind+PrtII+Neg+Sg3: возьымтэ
+     возьыны+V+Ind+PrtII+Neg+Pl1: возиськымтэмы
+     возьыны+V+Ind+PrtII+Neg+Pl2: возиллямтэды
+     возьыны+V+Ind+PrtII+Neg+Pl3: [возиллямтэзы, возиллямтэ]
 
-     # возьыны+V+Imprt+Sg2: ужа
-     # возьыны+V+Imprt+Pl2: ужалэ
-     # возьыны+V+Imprt+ConNeg+Sg2: ужа
-     # возьыны+V+Imprt+ConNeg+Pl2: ужалэ
+     возьыны+V+Imprt+Sg2: возь
+     возьыны+V+Imprt+Pl2: [возе, возелэ]
+     возьыны+V+Imprt+ConNeg+Sg2: возь
+     возьыны+V+Imprt+ConNeg+Pl2: [возе, возелэ]
 
-     # возьыны+V+Imprt+Sg3: ужалоз
-     # возьыны+V+Imprt+Pl3: ужалозы
-     # возьыны+V+Imprt+ConNeg+Sg3: ужа
-     # возьыны+V+Imprt+ConNeg+Pl3: ужалэ
+     возьыны+V+Imprt+Sg3: возёз
+     возьыны+V+Imprt+Pl3: возёзы
+     возьыны+V+Imprt+ConNeg+Sg3: возь
+     возьыны+V+Imprt+ConNeg+Pl3: [возе, возелэ]
 
-     # возьыны+V+Opt+Sg1: ужам
-     # возьыны+V+Opt+Sg2: ужад
-     # возьыны+V+Opt+Sg3: ужаз
-     # возьыны+V+Opt+Pl1: ужамы
-     # возьыны+V+Opt+Pl2: ужады
-     # возьыны+V+Opt+Pl3: ужазы
-     # возьыны+V+Opt+ConNeg+Sg: ужа
-     # возьыны+V+Opt+ConNeg+Pl: [ужалэ, ужа]
+     возьыны+V+Opt+Sg1: возём
+     возьыны+V+Opt+Sg2: возёд
+     возьыны+V+Opt+Sg3: возёз
+     возьыны+V+Opt+Pl1: возёмы
+     возьыны+V+Opt+Pl2: возёды
+     возьыны+V+Opt+Pl3: возёзы
+     возьыны+V+Opt+ConNeg+Sg: возь
+     возьыны+V+Opt+ConNeg+Pl: [возелэ, возе]
 
-     # возьыны+V+Cond+Sg1: ужасал
-     # возьыны+V+Cond+Sg2: [ужасал, ужасалыд]
-     # возьыны+V+Cond+Sg3: [ужасал, ужасалыз]
-     # возьыны+V+Cond+Pl1: ужасалмы
-     # возьыны+V+Cond+Pl2: ужасалды
-     # возьыны+V+Cond+Pl3: ужасалзы
+     возьыны+V+Cond+Sg1: возьысал
+     возьыны+V+Cond+Sg2: [возьысал, возьысалыд]
+     возьыны+V+Cond+Sg3: [возьысал, возьысалыз]
+     возьыны+V+Cond+Pl1: возьысалмы
+     возьыны+V+Cond+Pl2: возьысалды
+     возьыны+V+Cond+Pl3: возьысалзы
 
-     # возьыны+V+Cond+ConNeg+Sg1: ужасал
-     # возьыны+V+Cond+ConNeg+Sg2: [ужасал, ужасалыд]
-     # возьыны+V+Cond+ConNeg+Sg3: [ужасал, ужасалыз]
-     # возьыны+V+Cond+ConNeg+Pl1: ужасалмы
-     # возьыны+V+Cond+ConNeg+Pl2: ужасалды
-     # возьыны+V+Cond+ConNeg+Pl3: ужасалзы
+     возьыны+V+Cond+ConNeg+Sg1: возьысал
+     возьыны+V+Cond+ConNeg+Sg2: [возьысал, возьысалыд]
+     возьыны+V+Cond+ConNeg+Sg3: [возьысал, возьысалыз]
+     возьыны+V+Cond+ConNeg+Pl1: возьысалмы
+     возьыны+V+Cond+ConNeg+Pl2: возьысалды
+     возьыны+V+Cond+ConNeg+Pl3: возьысалзы
 
-     # возьыны+V+PrcPrfAdn: ужам
-     # возьыны+V+PrcPrfNeg: ужамтэ
-     # возьыны+V+PrcPrfPred: ужамын
+     возьыны+V+PrcPrfAdn: возем
+     возьыны+V+PrcPrfNeg: воземтэе
+     возьыны+V+PrcPrfPred: воземын
 
-     # возьыны+V+PrcPrsPos: ужась
-     # возьыны+V+PrcPrsNeg: ужасьтэм
+     возьыны+V+PrcPrsPos: возись
+     возьыны+V+PrcPrsNeg: возисьтэм
 
-     # возьыны+V+GerPos: ужаса
-     # возьыны+V+GerNeg: ужатэк
+     возьыны+V+GerPos: возьыса
+     возьыны+V+GerNeg: возьытэк
 
 
 
