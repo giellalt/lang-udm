@@ -30,5 +30,5 @@ Tests:
      пичи+A+Sg+Ela+Det: пичиысьтыз
      пичи+A+Pl+Ela+Det: пичиосысьтыз
 
-     пичи+A+Sg+Gen+Det: ""
+     пичи+A+Sg+Gen+Det: [ ~пичиосызлэн ]
      пичи+A+Pl+Gen+Det: пичиосызлэн
