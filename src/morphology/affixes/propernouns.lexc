@@ -35,7 +35,7 @@ LEXICON PROP_
 +N+Prop: NOUNSUF_01 ;
 
 LEXICON PROP_RUS_JA
-+N+Prop:%^RusJa jaskaNOUNSUF_01 ;
++N+Prop:%^RusJa NOUNSUF_01 ;
 
 LEXICON PROP_HEIMONNIMET
 !! Words from lexicon ''@LEXNAME@'' are "old" tribe and place names, 

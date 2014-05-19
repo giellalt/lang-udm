@@ -37,10 +37,11 @@ Other verb forms are
   +PrcPrsPos	
   +PrcPrfAdn	
   +PrcPrfPred	 
-  +PrcPrfNeg	
+  +PrcPrfNeg	 
   +GerPos	 мыныса
   +GerNeg	 мынытэк
   +GerTer	 мынытозь
+  +GerTemp	 мыныку
 
 
 Special symbols are classified with:
@@ -83,6 +84,8 @@ symbols in the lexicon files:
 And following triggers to control variation
  * %^RusJa       Эстония:Эстониез
  * %^SYNC	      
+ * %^ЫLossVar    This is used for мыныны: мыны ~ мын 
+ * %^ЫLoss       This is used for мыныны: мын 
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:

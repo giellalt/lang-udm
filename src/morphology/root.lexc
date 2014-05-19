@@ -66,10 +66,11 @@ Multichar_Symbols
  +PrcPrsPos	!!= @CODE@
  +PrcPrfAdn	!!= @CODE@
  +PrcPrfPred	!!= @CODE@ 
- +PrcPrfNeg	!!= @CODE@
+ +PrcPrfNeg	!!= @CODE@ 
  +GerPos	!!= @CODE@ мыныса
  +GerNeg	!!= @CODE@ мынытэк
  +GerTer	!!= @CODE@ мынытозь
+ +GerTemp	!!= @CODE@ мыныку
 
  +Sup +VGen +VAbess
 
@@ -142,6 +143,8 @@ Multichar_Symbols
  {front} {back}
 %^RusJa      !!= * @CODE@ Эстония:Эстониез
 %^SYNC	     !!= * @CODE@ 
+%^ЫLossVar   !!= * @CODE@ This is used for мыныны: мыны ~ мын 
+%^ЫLoss      !!= * @CODE@ This is used for мыныны: мын 
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:

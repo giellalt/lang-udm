@@ -194,7 +194,7 @@
 !! | ''paikka, palsta''          |                |   
 !! | пыдэс               | пыдс–ын    |  пидэск–ын
 !! | ''pohja''           | (iness.)   |  (iness.)
-!! | удрэс               | удрс–ын    |  удрэск–ын
+!! | урдэс               | урдс–ын    |  урдэск–ын
 !! | ''vierus''          | (iness.)   |  (iness.)
 !! 
 !! NB: palatal quality implied by the yodified vowel in the first example is
@@ -270,79 +270,28 @@ LEXICON N_
 !! class of nouns described in more depth above.
 ! NOUNSUF ; !!  2014-01-24 __If they are not against us, they are for us__
 ! Testing Jaska
- jaskaNOUNSUF ;
+ NOUNSUF ;
 
 LEXICON N_KORKA
-! +N+Sg: CASESUF_KORKA ;
-! +N+Pl:%>ос CASESUF ;
-! +Sg: PREPX ;
-! +Pl:%>ос PREPX ;
-! +Pl:%>ос POSTPX ;
-!! TODO: +Sg: POSTPX ;
+!! this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
+!! TODO: +N+Sg+Ine     endings	 in "н"
 ! Testing Jaska
- jaskaNOUNSUF ;
+ NOUNSUF ;
 
 LEXICON N_RUS_JA
-!! Words from Russian in ''@LEXNAME@'' end on –ия, but our lexicon entries
-!! set the stem as ending in –и, because the final -я appears only in some
-!! situations.
-!+N+Sg: CASESUF_JA ;
-!+N+Pl:%>ос CASESUF ;
-!! TODO: possessives
+!! Words from Russian in ''@LEXNAME@'' end in –ия, our lexicon entries
+!! set the stem as ending in –ия, but there is a trigger that causes
+!! the final "я" to disappear in some situations.
 ! Testing Jaska
-:я%^RusJa jaskaNOUNSUF ;
+:я%^RusJa NOUNSUF ;
 
 LEXICON N_RUS_JE
-!! Words from Russian in ''@LEXNAME@'' end on –ие, but our lexicon entries
-!! set the stem as ending in –и, because the final -е appears only in some
-!! situations.
-!+N+Sg: CASESUF_JE ;
-!+N+Pl:%>ос CASESUF ;
-!! TODO: possessives
+!! Words from Russian in ''@LEXNAME@'' end in –ие, our lexicon entries
+!! set the stem as ending in –ие, but there is a trigger that causes
+!! the final "е" to disappear in some situations.
 ! Testing Jaska
-:е%^RusJa jaskaNOUNSUF ;
+:е%^RusJa NOUNSUF ;
 
-LEXICON CASESUF_JE
-!! ''@LEXNAME@'' controls the occurrence of the original -е in the stem, which occurs
-!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
-!! in their initial vowel use this yodified version.
-+Nom:%>е%>0 K;
-+Acc:%>ез K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>лэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Ins:%>ен K;
-+Abe:%>тэк K;
-+Advl:%>е%>я K;
-+Ine:%>ын K;
-+Ill:%>е K;
-+Ela:%>ысь K;
-+Egr:%>ысен K;
-+Ter:%>озь K;
-+Prl:%>етӥ K;
-+Apr:%>лань K;
-
-LEXICON CASESUF_JA
-!! ''@LEXNAME@'' controls the occurrence of the original -я in the stem, which occurs
-!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
-!! in their initial vowel use this yodified version.
-+Nom:%>я%>0 K;
-+Acc:%>ез K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>лэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Ins:%>ен K;
-+Abe:%>тэк K;
-+Advl:%>я%>я K;
-+Ine:%>ын K;
-+Ill:%>е K;
-+Ela:%>ысь K;
-+Egr:%>ысен K;
-+Ter:%>озь K;
-+Prl:%>етӥ K;
-+Apr:%>лань K;
 
 LEXICON CASESUF_KORKA
 !! ''@LEXNAME@'' controls the output of case suffixes in the корка/куала type
@@ -369,120 +318,44 @@ LEXICON N_TAT
 NOUNSUF ;
 
 LEXICON N_СИН
-:М3 jaskaNOUNSUF ;
++N:М3 NOUNSUF_01_V ;
++N: NOUNSUF_01_C ;
 
 LEXICON N_НЮЛЭС
-:К3 jaskaNOUNSUF ;
++N:К3 NOUNSUF_01_V ;
++N: NOUNSUF_01_C ;
 
 LEXICON N_УРДЭС
-:%^SYNC jaskaNOUNSUF_01_V ; !урдсын
-:К3 jaskaNOUNSUF_01_V ; !урдэскын
- jaskaNOUNSUF_01_C ;
++N:%^SYNC NOUNSUF_01_V ; !урдсын
++N:К3 NOUNSUF_01_V ; !урдэскын
++N: NOUNSUF_01_C ;
 
 LEXICON N_СЮЛЭМ
-:%^SYNC jaskaNOUNSUF_01_V ; !сюлмын
- jaskaNOUNSUF_01_V ; !сюлэмын
- jaskaNOUNSUF_01_C ;
++N:%^SYNC NOUNSUF_01_V ; !сюлмын
++N: NOUNSUF_01_V ; !сюлэмын
++N: NOUNSUF_01_C ;
 
+
+!! À la Jaska
 LEXICON NOUNSUF
 +N: NOUNSUF_01 ;
 
 LEXICON NOUNSUF_01
-+Sg: CASESUF ;
-+Pl:%>ъёс CASESUF ;
-+Sg: PREPX ;
-+Sg: POSTPX ;
-+Pl:%>ъёс PREPX ;
-+Pl:%>ъёс POSTPX ;
+ NOUNSUF_01_C ;
+ NOUNSUF_01_V ;
 
-LEXICON CASESUF
-+Nom:%> K;
-+Acc:%>эз K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>лэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Ins:%>эн K;
-+Abe:%>тэк K;
-+Advl:%>ъя K;
-+Ine:%>ын K;
-+Ill:%>э K;
-+Ela:%>ысь K;
-+Egr:%>ысен K;
-+Ter:%>озь K;
-+Prl:%>этӥ K;
-+Apr:%>лань K;
+LEXICON NOUNSUF_01_C
++Sg: AFTER-SG/PL-CASE_C ;
++Pl:%>ъёс AFTER-SG/PL-CASE_C ;
 
-LEXICON PREPX
-+PxSg1: POSTCX;
-+PxSg2:%>д POSTCX;
-+PxSg3:%>з POSTCX;
-+PxPl1:%>мы POSTCX;
-+PxPl2:%>ды POSTCX;
-+PxPl3:%>зы POSTCX;
-
-LEXICON POSTCX
-+Acc:%>э K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>ляэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Abe:%>тэк K;
-+Advl:%>ъя K;
-+Apr:%>лань K;
-+Prl:%>озь K;
-
-LEXICON POSTPX
-+Nom:%>э CXPXSG ;
-+Nom:%> CXPXPL ; ! also for other cases?
-+Ins:%>ены CXPX ;
-+Ine:%>а CXPX ;
-+Ill:%>а CXPX ;
-+Ela:%>ысьти CXPX ;
-+Egr:%>ысьены CXPX ;
-+Tra:%>ети CXPX ;
-+Ter:%>озьа CXPX ;
-
-LEXICON CXPX
-CXPXSG ;
-CXPXPL ;
-
-LEXICON CXPXSG
-+PxSg1: K;
-+PxSg2:%>д K;
-+PxSg3:%>з K;
-
-LEXICON CXPXPL
-+PxPl1:%>мы K;
-+PxPl2:%>ды K;
-+PxPl3:%>зы K;
-
-LEXICON ACRONDELIMITER
-    PROP_ ;
-:%: PROP_ ;
-:%- PROP_ ;
-:%' PROP_ ;
-
-!! À la Jaska
-LEXICON jaskaNOUNSUF
-+N: jaskaNOUNSUF_01 ;
-
-LEXICON jaskaNOUNSUF_01
- jaskaNOUNSUF_01_C ;
- jaskaNOUNSUF_01_V ;
-
-LEXICON jaskaNOUNSUF_01_C
-+Sg: jaskaAFTER-SG/PL-CASE_C ;
-+Pl:%>ъёс jaskaAFTER-SG/PL-CASE_C ;
-
-LEXICON jaskaNOUNSUF_01_V
-+Sg: jaskaAFTER-SG/PL-CASE_V ;
-+Pl:%>ъёс jaskaAFTER-SG/PL-CASE_V ;
+LEXICON NOUNSUF_01_V
++Sg: AFTER-SG/PL-CASE_V ;
++Pl:%>ъёс AFTER-SG/PL-CASE_V ;
 +Sg+Ter+PxPl1:%>озямы K ; !Sg
 +Sg+Ter+PxPl2:%>озяды K ; ! Sg
 +Sg+Ter+PxPl3:%>озязы K ; !Sg
 
-LEXICON jaskaAFTER-SG/PL-CASE_C
+LEXICON AFTER-SG/PL-CASE_C
 +Nom:%> K;
 +Acc+Dial/North:%>ты K;
 +Gen:%>лэн K;
@@ -531,7 +404,7 @@ LEXICON jaskaAFTER-SG/PL-CASE_C
 +Apr+PxPl2:%>тылань K ;
 +Apr+PxPl3:%>сылань K ;
 
-LEXICON jaskaAFTER-SG/PL-CASE_V
+LEXICON AFTER-SG/PL-CASE_V
 +Acc:%>Е3з K;
 +Ins:%>эн K;
 +Ine:%>ын K;
@@ -605,28 +478,28 @@ LEXICON jaskaAFTER-SG/PL-CASE_V
 +Ter+PxSg2:%>озяд K ;
 +Ter+PxSg3:%>озяз K ;
 
-+Prl+PxSg1:%>этӥм K ;
-+Prl+PxSg2:%>этӥд K ;
-+Prl+PxSg3:%>этӥз K ;
-+Prl+PxPl1:%>этӥмы K ;
-+Prl+PxPl2:%>этӥды K ;
-+Prl+PxPl3:%>этӥзы K ;
++Prl+PxSg1:%>Е3тӥм K ;
++Prl+PxSg2:%>Е3тӥд K ;
++Prl+PxSg3:%>Е3тӥз K ;
++Prl+PxPl1:%>Е3тӥмы K ;
++Prl+PxPl2:%>Е3тӥды K ;
++Prl+PxPl3:%>Е3тӥзы K ;
 
-+Apr+PxSg1:%>элань K ;
-+Apr+PxSg2:%>эдлань K ;
-+Apr+PxSg3:%>эзлань K ;
++Apr+PxSg1:%>Е3лань K ;
++Apr+PxSg2:%>Е3длань K ;
++Apr+PxSg3:%>Е3злань K ;
 
 
 
-LEXICON jaskaPREPX
-+PxSg1: jaskaPOSTCX;
-+PxSg2:%>д jaskaPOSTCX;
-+PxSg3:%>з jaskaPOSTCX;
-+PxPl1:%>мы jaskaPOSTCX;
-+PxPl2:%>ды jaskaPOSTCX;
-+PxPl3:%>зы jaskaPOSTCX;
+LEXICON PREPX
++PxSg1: POSTCX;
++PxSg2:%>д POSTCX;
++PxSg3:%>з POSTCX;
++PxPl1:%>мы POSTCX;
++PxPl2:%>ды POSTCX;
++PxPl3:%>зы POSTCX;
 
-LEXICON jaskaPOSTCX
+LEXICON POSTCX
 +Acc:%>Е3 K;
 +Acc+Dial/North:%>ты K;
 +Gen:%>ляэн K;
@@ -637,30 +510,36 @@ LEXICON jaskaPOSTCX
 +Apr:%>лань K;
 +Prl:%>озь K;
 
-LEXICON jaskaPOSTPX
-+Nom:%>Е3 jaskaCXPXSG ;
-+Nom:%> jaskaCXPXPL ; ! also for other cases?
-+Ins:%>ены jaskaCXPX ;
-+Ine:%>а jaskaCXPX ;
-+Ill:%>а jaskaCXPX ;
-+Ela:%>ысьти jaskaCXPX ;
-+Egr:%>ысьены jaskaCXPX ;
-+Tra:%>ети jaskaCXPX ;
-+Ter:%>озьа jaskaCXPX ;
+LEXICON POSTPX
++Nom:%>Е3 CXPXSG ;
++Nom:%> CXPXPL ; ! also for other cases?
++Ins:%>ены CXPX ;
++Ine:%>а CXPX ;
++Ill:%>а CXPX ;
++Ela:%>ысьти CXPX ;
++Egr:%>ысьены CXPX ;
++Tra:%>ети CXPX ;
++Ter:%>озьа CXPX ;
 
-LEXICON jaskaCXPX
-jaskaCXPXSG ;
-jaskaCXPXPL ;
+LEXICON CXPX
+CXPXSG ;
+CXPXPL ;
 
-LEXICON jaskaCXPXSG
+LEXICON CXPXSG
 +PxSg1: K;
 +PxSg2:%>д K;
 +PxSg3:%>з K;
 
-LEXICON jaskaCXPXPL
+LEXICON CXPXPL
 +PxPl1:%>мы K;
 +PxPl2:%>ды K;
 +PxPl3:%>зы K;
+
+LEXICON ACRONDELIMITER
+    PROP_ ;
+:%: PROP_ ;
+:%- PROP_ ;
+:%' PROP_ ;
 
 
 

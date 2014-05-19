@@ -35,36 +35,22 @@ Typical V_MONO entry is the long stem, ending on <ы>
 
  бертыны:берт V_MONO  "mennä kotiin" ;
 
-Lexicon ''V_MONO''
+Lexicon ''V_MONO'' мыныны:мыны
 * Yaml: __mynyny__
-
-
-
 
 
 Lexicon ''V_UZA''
 * Yaml: __uzhany__
 
 
+Mutual à la Jaska
+мыныны:мыны
+Lexicon ''V_МЫНЫНЫ''
+* Yaml: __mynyny__
 
-     возь >   ..   возе    ..   возисько
-     берт >   ..   бертэ   ..   бертӥсько
-
-
-
-Lexicon ''OPRS''
-NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
 
 
 Lexicon ''APRS''
-
-Lexicon ''FUTPAST''
-
-Lexicon ''FUTPASTSG''
-
-Lexicon ''FUTPASTPL''
-
-Lexicon ''FUTPASTPLSHORT''
 
 Lexicon ''FUT-PERSON''
 
@@ -81,31 +67,6 @@ Lexicon ''IMPRT''
 Lexicon ''OPT''
 
 Lexicon ''NONFINITES''
-
-Mutual à la Jaska
-мыныны:мын
-Lexicon ''V_МЫНЫНЫ''
-* Yaml: __mynyny__
-
-
-
-Lexicon ''APRSjaska''
-
-Lexicon ''FUT-PERSONjaska''
-
-Lexicon ''PRTI-PERSONjaska''
-
-Lexicon ''PRTII-PERSONjaska''
-
-
-
-Lexicon ''CONDjaska''
-
-Lexicon ''IMPRTjaska''
-
-Lexicon ''OPTjaska''
-
-Lexicon ''NONFINITESjaska''
 
 
 

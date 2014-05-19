@@ -18,47 +18,47 @@ Tests:
      бачка+N+Pl+Nom:    бачкаос
      бачка+N+Sg+Ine:    бакчаын
      бачка+N+Sg+Gen:    бакчалэн
-     бачка+N+Sg+Advli:  бачкая
+     бачка+N+Sg+Advl:  бачкая
 
   Noun - дунне: 
      дунне+N+Sg+Nom:    дунне
      дунне+N+Pl+Nom:    дуннеос    
      дунне+N+Sg+Ine:    дуннеын    
      дунне+N+Sg+Gen:    дуннелэн    
-     дунне+N+Sg+Advli:  дуннея
+     дунне+N+Sg+Advl:  дуннея
 
   Noun - ты:
      ты+N+Sg+Nom:       ты
      ты+N+Pl+Nom:       тыос       
      ты+N+Sg+Ine:       тыын       
      ты+N+Sg+Gen:       тылэн       
-     ты+N+Sg+Advli:     тыя
+     ты+N+Sg+Advl:     тыя
 
   Noun - гурт:
      гурт+N+Sg+Nom:     гурт    
      гурт+N+Pl+Nom:     гуртъёс    
      гурт+N+Sg+Ine:     гуртын     
      гурт+N+Sg+Gen:     гуртлэн     
-     гурт+N+Sg+Advli:   гуртъя
+     гурт+N+Sg+Advl:   гуртъя
 
   Noun - тэль:
      тэль+N+Sg+Nom:     тэль    
-     тэль+N+Pl+Nom:     тельёс     
-     тэль+N+Sg+Ine:     тэлъын     
-     тэль+N+Sg+Gen:     тэлълэн     
-     тэль+N+Sg+Advli:   тэлья
+     тэль+N+Pl+Nom:     тэльёс     
+     тэль+N+Sg+Ine:     тэльын     
+     тэль+N+Sg+Gen:     тэльлэн     
+     тэль+N+Sg+Advl:   тэлья
 
   Noun - вить:
      вить+N+Sg+Nom:     вить    
      вить+N+Pl+Nom:     витьёс     
      вить+N+Sg+Ine:     витьын     
      вить+N+Sg+Gen:     витьлэн     
-     вить+N+Sg+Advli:   витья
+     вить+N+Sg+Advl:   витья
               
   Noun - уй:
      уй+N+Sg+Nom:       уй      
      уй+N+Pl+Nom:       уйёс      
      уй+N+Sg+Ine:       уйын      
      уй+N+Sg+Gen:       уйлэн       
-     уй+N+Sg+Advli:     уйя
+     уй+N+Sg+Advl:     уйя
 

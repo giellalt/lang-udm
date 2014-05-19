@@ -15,7 +15,7 @@ Tests:
 # Then: run analyser, then correct.
 
 
-  Adjective - пичи: # Noun  пичи 'eng /udm /fin' - full paradigm
+  Adjective - пичи: # Adjective  пичи 'eng /udm /fin' - full paradigm
      пичи+A+Abs: пичи
 
      пичи+A+Sg+Nom+Det: пичиез
@@ -30,5 +30,5 @@ Tests:
      пичи+A+Sg+Ela+Det: пичиысьтыз
      пичи+A+Pl+Ela+Det: пичиосысьтыз
 
-     пичи+A+Sg+Gen+Det: "~?"
+     пичи+A+Sg+Gen+Det: пичиезлэн
      пичи+A+Pl+Gen+Det: пичиосызлэн

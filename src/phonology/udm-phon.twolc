@@ -21,9 +21,12 @@ Alphabet
 %^ConsTransf:0 !!= * @CODE@ 
 %^KIN:0        !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
 %^RusJa:0      !!= * @CODE@ Эстония:Эстониез
-%^SYNC:0	     !!= * @CODE@ 
+%^SYNC:0       !!= * @CODE@ 
+%^ЫLossVar:0      !!= * @CODE@ This is used for мыныны: мыны ~ мын 
+%^ЫLoss:0      !!= * @CODE@ This is used for мыныны: мын 
 
 Ы2:0	       !!= * @CODE@ morpheme initial disappears after vowel ы 0
+
 Е2:0	       !!= * @CODE@ morpheme initial disappears after vowel е э 0
 И2:0	       !!= * @CODE@ morpheme initial disappears after vowel и ӥ 0
 О2:о	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
@@ -61,6 +64,16 @@ CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш
 CnsAlv = д з л н р с т ц
          Д З Л Н Р С Т Ц ;
 
+CnsNoPair = б в г ж ӝ ӟ к м п р ф ч ӵ ш щ
+            Б В Г Ж Ӝ Ӟ К М П Р Ф Ч Ӵ Ш Щ ;
+
+CnsPair = д з л н с т ц
+          Д З Л Н С Т Ц ;
+
+CnsVoiceless =  к п с т ф х ц ч ӵ ш щ
+                К П С Т Ф Х Ц Ч Ӵ Ш Щ ;
+
+
 Cns =  б в г д ж ӝ з ӟ к л м н п р с т ф х ц ч ӵ ш щ 
        Б В Г Д Ж Ӝ З Ӟ К Л М Н П Р С Т Ф Х Ц Ч Ӵ Ш Щ ;
 
@@ -91,25 +104,29 @@ Rules
 
 "Depalatalize и"
 !! __@RULENAME@__
- и:ӥ <=> CnsAlv %>  _ ;
+ и:ӥ <=> CnsPair %>  _ ;
 
 "Depalatalize е"
 !! __@RULENAME@__
- Е2:э <=> CnsAlv %>  _ ;
+ Е2:э <=> CnsPair ы: %>  _ ;
+!€# мыны%>Е2
+!€0 мын00э
 
 "Depalatalize и"
 !! __@RULENAME@__
- И2:ӥ <=> CnsAlv %>  _ ;
+ И2:ӥ <=> CnsPair ы: %>  _ ;
+!€# мыны%>И2сько
+!€0 мын00ӥсько
 
 "Depalatalize е3:е"
 !! __@RULENAME@__
- Е3:е <=> [ Cns - CnsAlv | а | я: (%^RusJa:) | е: %^RusJa: | ь: ] %> _ ;
+ Е3:е <=> [ CnsNoPair (%^SYNC:) | и | а | я: (%^RusJa:) | е: %^RusJa: | ь: ] %> _ ;
 !€# бакча%>Е3
 !€0 бакча0е
 
 "Depalatalize е3:э"
 !! __@RULENAME@__
- Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsAlv: ] - [ %> ъ: ё: с ]| ы ] %>  _ ;
+ Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы ] (%^SYNC:) %>  _ ;
 
 
 "Depalatalize and raise е3:ы"
@@ -131,70 +148,50 @@ Rules
 
 "О2:о"
 !! __@RULENAME@__
- О2:о <=> [ Cns (%>) | Vow %> 0: ] _ ;
-!€# мын%>О2
-!€0 мын0о
+ О2:о <=> [ Cns ы: (%>) | Vow %> 0: ] _ ;
+!€# мыны%>О2
+!€0 мын00о
 !€# ужа%>0О2
 !€0 ужа0ло
 
 "Palatal О2:ё"
 !! __@RULENAME@__
- О2:ё <=>  [ ь: | й: ] (%>)  _ ;
+ О2:ё <=>  [ ь: | й: ] (ы:) (%>)  _ ;
 
 
 "Palatal е"
 !! __@RULENAME@__
- Е2:е <=> [Cns - CnsAlv|ь:|ъ:| й:] %>  _ ;
+ Е2:е <=> [CnsNoPair|ь:|ъ:| й:] ы: %>  _ ;
 
 "Palatal и"
 !! __@RULENAME@__
- И2:и <=> [Cns - CnsAlv|ь:|ъ:| й:] %>  _ ;
+ И2:и <=> [CnsNoPair|ь:|ъ:| й:] ы: %>  _ ;
 
 "Palatal а"
 !! __@RULENAME@__
  А3:я <=> [ь:| й:|Vow:] %>  _ ;
 
-"Stem vowel loss Ы2:ы LEFT" !! Is this really necessary
-!! __@RULENAME@__
- Ы2:ы <=          :Cns (ь|ъ) %> _ Cns ;
-!€# мын%>Ы2сал
-!€0 мын0ысал
-         Vow Cns (ь|ъ) :Cns+ (ь|ъ) %> _ [ # | %> ];
-
-"Stem vowel loss Ы2:ы RIGHT"
-!! __@RULENAME@__
- Ы2:ы =>   :Cns (ь|ъ) %> _ Cns ;
-!€# мын%>Ы2сал
-!€0 мын0ысал
-  Vow Cns (ь|ъ) :Cns+ (ь|ъ) %> _ [ # | %> ] ;
-             Vow :Cns (ь:) %> _ [ # | %> ];
-!€# мын%>Ы2#
-!€0 мын0ы0
-!€0 мын000
-!€# возь%>Ы2#
-!€0 возь0ы0
-!€0 возь000
-
 "Palatal и:й"
 !! __@RULENAME@__
- И2:й <=> Vow %>  _ [ #| %>] ;
+ И2:й <=> [ а | я ] %>  _ [ #| %>] ;
 
 
 !! !!VOWEL LOSS
-"Stem vowel loss Ы2:0 LEFT" !! Is this really necessary
+"Stem vowel loss ы:0 LEFT" !! Is this really necessary
 !! __@RULENAME@__
- Ы2:0 <= Vow: %> _ ;
+ ы:0 <= _ %> [ Е2: | И2: | О2: ] ;
+        Vow Cns _ [ %^ЫLoss: | О2: ] ;
 
 "Stem vowel loss Ы2:0 RIGHT"
 !! __@RULENAME@__
- Ы2:0 => Vow: %> _ ;
-         Vow :Cns (ь:) %> _ [ # | %> ]; 
-!€# мын%>Ы2#
-!€0 мын0ы0
-!€0 мын000
-!€# возь%>Ы2#
-!€0 возь0ы0
-!€0 возь000
+ ы:0 => _  %> [ Е2: | И2: | О2: ] ;
+         Vow :Cns (ь:) _ [ %^ЫLossVar: | %^ЫLoss: | О2: ] ; 
+!€# мыны#
+!€0 мыны0
+!€0 мын00
+!€# возьы#
+!€0 возьы0
+!€0 возь00
 
 "я:0"
 !! __@RULENAME@__
@@ -203,18 +200,28 @@ Rules
 "е:0"
 !! __@RULENAME@__
  е:0 <=>  _ %^RusJa: %> [Е3: | ъ: ё: | ы | л ] ;
+          [ CnsNoPair | р | Р ] _ Cns %^SYNC: %> :Vow ;
+
+"е:ь"
+!! __@RULENAME@__
+ е:ь <=> CnsPair _ Cns %^SYNC: %> :Vow ;
+
+"э:0"
+!! __@RULENAME@__
+ э:0 <=>  Cns _ Cns %^SYNC: %> :Vow ;
+
 
 "Palatal е:0"
 !! __@RULENAME@__
- Е2:0 <=> Vow %>  _ ;
+ Е2:0 <=> [ а | я ] %>  _ ;
 
 "Palatal и:0"
 !! __@RULENAME@__
- И2:0 <=> Vow %>  _ Cns ;
+ И2:0 <=> [ а | я ] %>  _ Cns ;
 
 "О2:0"
 !! __@RULENAME@__
- О2:0 <=> Vow  _ ;
+ О2:0 <=> [ а | я ]  _ ;
 !€# ужа%>О2
 !€0 ужа00
 
@@ -224,7 +231,7 @@ Rules
 
 "ь:0"
 !! __@RULENAME@__
- ь:0 <=> _ (%>) [ И2: | Е2: | О2: | Е3: ] ;
+ ь:0 <=> _ (ы:) (%>) [ И2: | Е2: | О2: | Е3: ] ;
 !€# возь%>Ы2#
 !€0 возь0ы0
 !€0 возь000
@@ -236,6 +243,7 @@ Rules
 !€0 корка00ос
 !€# собрание%^RusJa%>ъёс
 !€# собрани0000ос
+     [ ь | й ] %> _ [ я | ё ] ;
 
 !! !!ZERO TO CONSONANT
 "0:л"
@@ -248,11 +256,11 @@ Rules
 
 "Devoicing д:т"
 !! __@RULENAME@__
- д:т <=> т %> _ ;
+ д:т <=> CnsVoiceless %> _ ;
 
 "Devoicing з:с"
 !! __@RULENAME@__
- з:с <=> т %> _ ;
+ з:с <=> CnsVoiceless %> _ ;
 
 "Surface consonant before vowel К3:к"
 !! __@RULENAME@__

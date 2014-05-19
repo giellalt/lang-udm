@@ -17,8 +17,8 @@ Tests:
 
   Noun - бакча: # Noun  бакча 'eng /udm /fin' - full paradigm
      бакча+N+Sg+Nom: бакча
-     бакча+N+Sg+Acc: бакчаэз
-#     бакча+N+Sg+Acc+Dial/North: бакчаты
+     бакча+N+Sg+Acc: бакчаез
+     бакча+N+Sg+Acc: бакчаты #+Dial/North
      бакча+N+Sg+Gen: бакчалэн
      бакча+N+Sg+Abl: бакчалэсь
      бакча+N+Sg+Dat: бакчалы
