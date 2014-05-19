@@ -82511,6 +82511,7 @@
   <e order="2">
     <lg>
       <l pos="V">луыны</l>
+      <l_cogn pos="V" xml:lang="kpv">лоны</l_cogn>
 
       <stg>
         <st Contlex="V_MONO">луы</st>
@@ -82518,10 +82519,6 @@
     </lg>
 
     <phonet>луыны</phonet>
-
-    <etymg>
-      <etym xml:lang="kpv">лоны</etym>
-    </etymg>
 
     <mg>
       <defNative/>

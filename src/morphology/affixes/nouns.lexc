@@ -272,11 +272,13 @@ LEXICON N_
 ! Testing Jaska
  NOUNSUF ;
 
-LEXICON N_KORKA
+LEXICON N_КОРКА
 !! this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
 !! TODO: +N+Sg+Ine     endings	 in "н"
 ! Testing Jaska
  NOUNSUF ;
++N+Sg+Ine:%>н K;
+
 
 LEXICON N_RUS_JA
 !! Words from Russian in ''@LEXNAME@'' end in –ия, our lexicon entries
@@ -284,6 +286,7 @@ LEXICON N_RUS_JA
 !! the final "я" to disappear in some situations.
 ! Testing Jaska
 :я%^RusJa NOUNSUF ;
++Use/Sub: NOUNSUF ;
 
 LEXICON N_RUS_JE
 !! Words from Russian in ''@LEXNAME@'' end in –ие, our lexicon entries
@@ -291,27 +294,7 @@ LEXICON N_RUS_JE
 !! the final "е" to disappear in some situations.
 ! Testing Jaska
 :е%^RusJa NOUNSUF ;
-
-
-LEXICON CASESUF_KORKA
-!! ''@LEXNAME@'' controls the output of case suffixes in the корка/куала type
-!! which tends to take short case suffixes when they are available.
-+Nom:%>0 K;
-+Acc:%>ез K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>лэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Ins:%>ен K;
-+Abe:%>тэк K;
-+Advl:%>я K;
-+Ine:%>н K;
-+Ill:%>е K;
-+Ela:%>сь K;
-+Egr:%>сен K;
-+Ter:%>озь K;
-+Prl:%>етӥ K;
-+Apr:%>лань K;
++Use/Sub: NOUNSUF ;
 
 LEXICON N_TAT
 !! Words from Tatar in ''@LEXNAME@'' preserve the original stem я in all cases.
@@ -370,39 +353,39 @@ LEXICON AFTER-SG/PL-CASE_C
 +Nom+PxPl3:%>зы K ;
 
 +Acc+PxSg1:%>ме K ;
-+Acc+PxSg2:%>тэ K ;
-+Acc+PxSg3:%>сэ K ;
++Acc+PxSg2:%>дэ K ;
++Acc+PxSg3:%>зэ K ;
 +Acc+PxPl1:%>мес K ;
-+Acc+PxPl2:%>тэс K ;
-+Acc+PxPl3:%>сэс K ;
++Acc+PxPl2:%>дэс K ;
++Acc+PxPl3:%>зэс K ;
 
 +Gen+PxPl1:%>мылэн K ;
-+Gen+PxPl2:%>тылэн K ;
-+Gen+PxPl3:%>сылэн K ;
++Gen+PxPl2:%>дылэн K ;
++Gen+PxPl3:%>зылэн K ;
 
 +Abl+PxPl1:%>мылэсь K ;
-+Abl+PxPl2:%>тылэсь K ;
-+Abl+PxPl3:%>сылэсь K ;
++Abl+PxPl2:%>дылэсь K ;
++Abl+PxPl3:%>зылэсь K ;
 
 +Dat+PxPl1:%>мылы K ;
-+Dat+PxPl2:%>тылы K ;
-+Dat+PxPl3:%>сылы K ;
++Dat+PxPl2:%>дылы K ;
++Dat+PxPl3:%>зылы K ;
 
 +Abe+PxPl1:%>мытэк K ;
-+Abe+PxPl2:%>тытэк K ;
-+Abe+PxPl3:%>сытэк K ;
++Abe+PxPl2:%>дытэк K ;
++Abe+PxPl3:%>зытэк K ;
 
 +Advl+PxPl1:%>мыя K ;
-+Advl+PxPl2:%>тыя K ;
-+Advl+PxPl3:%>сыя K ;
++Advl+PxPl2:%>дыя K ;
++Advl+PxPl3:%>зыя K ;
 
 +Ter+PxPl1:%>мыозь K ;
-+Ter+PxPl2:%>тыозь K ;
-+Ter+PxPl3:%>сыозь K ;
++Ter+PxPl2:%>дыозь K ;
++Ter+PxPl3:%>зыозь K ;
 
 +Apr+PxPl1:%>мылань K ;
-+Apr+PxPl2:%>тылань K ;
-+Apr+PxPl3:%>сылань K ;
++Apr+PxPl2:%>дылань K ;
++Apr+PxPl3:%>зылань K ;
 
 LEXICON AFTER-SG/PL-CASE_V
 +Acc:%>Е3з K;
@@ -478,62 +461,17 @@ LEXICON AFTER-SG/PL-CASE_V
 +Ter+PxSg2:%>озяд K ;
 +Ter+PxSg3:%>озяз K ;
 
-+Prl+PxSg1:%>Е3тӥм K ;
-+Prl+PxSg2:%>Е3тӥд K ;
-+Prl+PxSg3:%>Е3тӥз K ;
-+Prl+PxPl1:%>Е3тӥмы K ;
-+Prl+PxPl2:%>Е3тӥды K ;
-+Prl+PxPl3:%>Е3тӥзы K ;
++Prl+PxSg1:%>этӥм K ;
++Prl+PxSg2:%>этӥд K ;
++Prl+PxSg3:%>этӥз K ;
++Prl+PxPl1:%>этӥмы K ;
++Prl+PxPl2:%>этӥды K ;
++Prl+PxPl3:%>этӥзы K ;
 
-+Apr+PxSg1:%>Е3лань K ;
-+Apr+PxSg2:%>Е3длань K ;
-+Apr+PxSg3:%>Е3злань K ;
++Apr+PxSg1:%>элань K ;
++Apr+PxSg2:%>эдлань K ;
++Apr+PxSg3:%>эзлань K ;
 
-
-
-LEXICON PREPX
-+PxSg1: POSTCX;
-+PxSg2:%>д POSTCX;
-+PxSg3:%>з POSTCX;
-+PxPl1:%>мы POSTCX;
-+PxPl2:%>ды POSTCX;
-+PxPl3:%>зы POSTCX;
-
-LEXICON POSTCX
-+Acc:%>Е3 K;
-+Acc+Dial/North:%>ты K;
-+Gen:%>ляэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Abe:%>тэк K;
-+Advl:%>ъя K;
-+Apr:%>лань K;
-+Prl:%>озь K;
-
-LEXICON POSTPX
-+Nom:%>Е3 CXPXSG ;
-+Nom:%> CXPXPL ; ! also for other cases?
-+Ins:%>ены CXPX ;
-+Ine:%>а CXPX ;
-+Ill:%>а CXPX ;
-+Ela:%>ысьти CXPX ;
-+Egr:%>ысьены CXPX ;
-+Tra:%>ети CXPX ;
-+Ter:%>озьа CXPX ;
-
-LEXICON CXPX
-CXPXSG ;
-CXPXPL ;
-
-LEXICON CXPXSG
-+PxSg1: K;
-+PxSg2:%>д K;
-+PxSg3:%>з K;
-
-LEXICON CXPXPL
-+PxPl1:%>мы K;
-+PxPl2:%>ды K;
-+PxPl3:%>зы K;
 
 LEXICON ACRONDELIMITER
     PROP_ ;

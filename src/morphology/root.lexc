@@ -112,10 +112,13 @@ Multichar_Symbols
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N +V→V +V→A
- +Der/ку    !!= @CODE@ мыныку
- +Der/ны    !!= @CODE@ мыныны
- +Der/Он    !!= @CODE@ мынон
- +Der/тозь  !!= @CODE@ мынытозь
+ +Der/ку    !!= @CODE@ мыныку ужаку
+ +Der/ны    !!= @CODE@ мыныны ужаны
+ +Der/Он    !!= @CODE@ мынон ужан
+ +Der/Оно    !!= @CODE@ мыноно ужано
+ +Der/тозь  !!= @CODE@ мынытозь ужатозь
+ +Der/тэм  !!= @CODE@ мынӥсьтэм ужасьтэм
+ +Der/Эм    !!= @CODE@ мынэм ужам
 
 !! Dialectical variation
  +Dial/North
