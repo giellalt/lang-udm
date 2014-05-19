@@ -79,7 +79,7 @@ LEXICON A_
  ADJSUF ;
 
 LEXICON ADJSUF
- +A:  ABSCOMP ;
++A:  ABSCOMP ;
 
 LEXICON ABSCOMP
  ADJ_ABS ;
@@ -90,46 +90,26 @@ LEXICON ADJ_ABS
  +Abs:  K ;
 
 LEXICON ADJ_DETERM
- +Sg:      ADJ_SG_DETERM_CASE ;
- +Pl:%>ос  ADJ_PL_DETERM_CASE ;
++Sg:      ADJ_SG/PL_DETERM_CASE ;
++Pl:%>ъёс  ADJ_SG/PL_DETERM_CASE ;
 
-LEXICON ADJ_SG_DETERM_CASE
-!! Cases here all lead to a determinative suffix
-! TODO: collect the rest of the cases
- +Nom:%>0       ADJ_LONG_SG_DET ;
- +Ine:%>а       ADJ_SHORT_DET ;
- +Ill:%>а       ADJ_SHORT_DET ;
- +Ela:%>ысьты   ADJ_SHORT_DET ;
+LEXICON ADJ_SG/PL_DETERM_CASE
++Nom+Det:%>Е3з K ;
++Gen+Det:%>Е3злэн K ;
++Abl+Det:%>Е3злэсь K ;
++Dat+Det:%>Е3злы K ;
++Ins+Det:%>Е3ныз K ;
++Abe+Det:%>Е3зтэк K ;
++Advl+Det:%>Е3зъя K ;
++Ine+Det:%>А3з K ;
++Ill+Det:%>А3з K ;
++Ela+Det:%>ысьтыз K ;
++Ela+Det:%>ысеныз K ;
++Ter+Det:%>озяз K ;
++Prl+Det:%>Е3тӥз K ;
++Apr+Det:%>Е3злань K ;
 
-LEXICON ADJ_PL_DETERM_CASE
-!! Cases here all lead to a determinative suffix
-! TODO: collect the rest of the cases
- +Nom:%>0       ADJ_LONG_PL_DET ;
- +Ine:%>а       ADJ_SHORT_DET ;
- +Ill:%>а       ADJ_SHORT_DET ;
- +Ela:%>ысьты   ADJ_SHORT_DET ;
 
- ! TODO: +Acc:%>эз K;
- ! TODO: do these have alternate ordering?
- ! +Gen:%>лэн K;
- ! +Abl:%>лэсь K;
- ! +Dat:%>лы K;
- ! +Ins:%>эн K;
- ! +Abe:%>тэк K;
- ! +Advl:%>ъя K;
- ! +Egr:%>ысен K;
- ! +Ter:%>озь K;
- ! +Prl:%>этӥ K;
- ! +Apr:%>лань K;
-
-LEXICON ADJ_LONG_SG_DET
- +Det:%>ез      K ;
-
-LEXICON ADJ_SHORT_DET
- +Det:%>з      K ;
-
-LEXICON ADJ_LONG_PL_DET
- +Det:%>ыз      K ;
 
 LEXICON ADJ_COMP
 ! TODO:

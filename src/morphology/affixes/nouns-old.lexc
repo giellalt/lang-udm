@@ -1,0 +1,667 @@
+!! ! UDMURT Noun inflection
+!! 
+!! Nouns in Udmurt inflects for case, number, and possession. Following are some
+!! notes for things that need to be done so far, and also an overview of nominal
+!! inflection types.
+!! 
+!! Most Udmurt nouns (the vast majority) do not require changes to the stem
+!! as a result of inflection. These nouns however, for FST purposes, fall into
+!! some subcategories:
+!! 
+!! * Vowel-final stems, which also take inflectional suffixes ending on
+!!   (non-yod) vowels (excepting the adverbial)
+!! * Consonant-final stems, which take endings beginning on a yodified vowel,
+!!   if one exists
+!! * Diphthongal stems, which also take the yodified vowels.
+!! 
+!! Some inflectional endings thus may have two alternatives:
+!! 
+!! | Case                  | Non-yod      | Yod
+!! | Nominative plural     | ос           | ёс
+!! | Accusative singular   | эз           | ез
+!! | Instrumental singular | эн           | ен
+!! | Illative singular     | э            | е
+!! | Prolative singular    | этӥ          | етӥ
+!! 
+!! Other cases do not vary depending on these environments.
+!! 
+!! Note that depending on the palatal/nonpalatal status of the last segment,
+!! the yodified vowel series may be preceded by a <ъ>. According to references though,
+!! the palatal marker <ь> must remain even when followed by this series.
+!!
+!! Udmurt also has a unique way of handling hiatus relationships, where the non-yod
+!! series follows vowels, and the yod series follows consonants.
+!! 
+!! Also note that though stems may not change, orthographically, there may need to be
+!! a hard sign inserted to maintain the non-palatal pronunciation of certain
+!! consonant segments.
+!! 
+!! Some examples:
+!! 
+!! ''-V stems''
+!! 
+!! | NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
+!! | бачка | бачкаос | бакчаын | бакчалэн | бачкая
+!! | дунне | дуннеос | дуннеын | дуннелэн | дуннея
+!! | ты    | тыос    | тыын    | тылэн    | тыя
+!! 
+!! ''-C stems''
+!! 
+!! | NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
+!! | гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
+!! | тэль  | тельёс  | тэлъын | тэлълэн | тэлья
+!! | вить  | витьёс  | витьын | витьлэн | витья
+!! 
+!! ''Diphthongs''
+!! 
+!! | NomSg | NomPl | IneSg | GenSg | Advl Sg
+!! | уй    | уйёс  | уйын  | уйлэн | уйя
+!! 
+!! ! Russian loans ending in -ия/-ие
+!! 
+!! Russian loanwords ending on these segments delete the final yodified vowel
+!! in all cases, except for the singular adverbial and nominative singular.
+!! 
+!! Examples:
+!! 
+!! | Nominative Singular   |  конференци–0–я      |  собрани–0–е
+!! | Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
+!! | Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
+!! | Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
+!! | Adverbial Singular    |  конференци–я–я      |  собрани–е–я
+!! 
+!! Note also that Russian stress is preserved in Nominative Singular, but
+!! Udmurt stress takes over for inflected forms, and shifts to the final vowel.
+!! 
+!! This applies to all sorts of Russian words, also including placenames ending
+!! in -я, excepting biblical place names, and Russian personal names.
+!! 
+!! TODO: implement in propernouns
+!! 
+!!  * Финляндия - Финляндиын
+!!  * Эстония   - Эстониын
+!! 
+!! But:
+!! 
+!!  * Самария   – Самарияын
+!!  * Евгения   – Евгения–лы
+!!  * Юлия      – Юлия–лы
+!! 
+!! There are also some subtypes, where this deletion does not occur even though
+!! the word ends in -я:
+!! 
+!!  * Non-russian words ending in -я (Loans from Tatar): чия ''kirsikka'' - чия–лы
+!! 
+!! ! Place names based on names of old tribes
+!! 
+!! See ''affixes/propernouns.lexc'', but quickly: 
+!! 
+!! These typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+!! cases, they take an infix which is optional. The optional infix causes
+!! short versions of case suffixes, otherwise the words take the long version.
+!! 
+!! ! корка / куала
+!! 
+!! The words ''корка, куала'' have some forms similar to the tribe/place names, and some
+!! cases behave differently: Inessive, Elative have the short consonant-only
+!! suffix, but unlike the tribe/place names, there is no -ла- infix.
+!! 
+!! TODO: write tests
+!! 
+!! ! "Old" Finno-ugric stems (-м-, -г-, -т-)
+!! 
+!! TODO: add these to lexicon, and add morphology. Consider marking in morphology
+!! in a way that NDS can present:  син син(м)-
+!! TODO: write tests
+!! TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
+!! 
+!! {{{
+!!          <l>muohta</l>
+!!          <lc>muohttaga</lc>
+!! }}}
+!! 
+!! Some particularly old words have since experienced some amount of deletion
+!! and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
+!! but their appearance isn't completely regular, in that some variation
+!! exists, and sometimes the "short" stem without this segment appears where
+!! the "long" stem usually would.
+!! 
+!! Usually, these will also be marked in dictionaries. син син(м)-.
+!! 
+!! When the possessive is applied to nominative versions of these forms,
+!! the possessive will have the vowel -ы- instead of -э- or -е-. Also,
+!! the 'old' segments appear.
+!! 
+!! Examples:
+!! 
+!! !! -м–
+!! 
+!! | син        | син–тэм      | синм–ысь                | сынм–ы
+!! | ''silmä''  | ''sokea''    | (elat.)                 | (px. y. 1. p.)
+!! | визь       | визь–тэк     | визьм–о				 |  
+!! | ''järki''  | (abess.)     | ''viisas''				 |  
+!! | куйнь      | куйнь–лэсь   | куйньм–ой				 |  
+!! | ''kolme''  | (abl.)       | ''3:n päivän kuluessa'' |  
+!! |            | куйнь–етй    | ~ куйньм–етӥ			 |  
+!! |            | ''kolmas''   | ''kolmas''				 |  
+!! | ин         |               | инм–ын				 |  
+!! | ''taivas'' |               | (iness.)				 |  
+!! 
+!! !! -к–
+!! 
+!! | кус        |  кус–лы     |   куск–ын        |  куск–ы
+!! | ''lantio'' |  (dat.)     |   (iness.)       |  (Px Sg1)
+!! | ''vyötärö''|             |                |  
+!! | улеп       |  улеп–лы     |   улепк–ын       |  
+!! | ''elävä''  |  (dat.)      |   (instr.)       |  
+!! | nюлэс      | нюлэс–лы     |   нюлэск–ын      |  
+!! | ''metsä''  |  (dat.)      |   (iness.)       |  
+!! | вис        | вис–лы       |   виск–ын        |  
+!! | ''tauko''  |  (dat.)      |   (iness.)       |  
+!! | ''väli''   |	 	 |	 	         |  
+!! 
+!! !! -т–
+!! 
+!! | кык        |  кык–намы      |   кыкт–о
+!! | ''kaksi''  |  ''me kaksin'' | ''kaksoset''
+!! |            |                | ''kaksospari''
+!! |            |  кык–етӥ       |  кыкт–ой
+!! |            |  ''toinen''    | ''kahden päivän kuluessa''
+!! |            |                |  кыкт–етӥ
+!! |            |                |   ''toinen''
+!! 
+!! ! Vowel deletion stems
+!! 
+!! * TODO: add to lexicon, also need a morphophonological symbol for these
+!! * TODO: write tests
+!! 
+!! Some stems also delete vowels in specific cases, generally when the stem is
+!! attached to a vowel-initial suffix. Alternatively, the vowels may remain,
+!! but a epenthetic consonant may appear: -к-
+!! 
+!! !! Optional deletion
+!! 
+!! | сэрег      | серг–ын  | 
+!! | ''nurkka'' | (iness.) | 
+!! | ''kulma''           |                |   
+!! | сюлэм      | сюлм–ыд  | сюлэм–ыд
+!! | ''sydän''  | (Px Sg2) | (Px Sg2)
+!! 
+!! !! Deletion or epenthesis
+!! 
+!! | вадес               | вадьс-ын   |  вадеск–ын
+!! | ''aika, hetki''     | (iness.)   |  (iness.)
+!! | ''paikka, palsta''          |                |   
+!! | пыдэс               | пыдс–ын    |  пидэск–ын
+!! | ''pohja''           | (iness.)   |  (iness.)
+!! | удрэс               | удрс–ын    |  удрэск–ын
+!! | ''vierus''          | (iness.)   |  (iness.)
+!! 
+!! NB: palatal quality implied by the yodified vowel in the first example is
+!! preserved via a soft sign.
+
+! TODO: also consider a special character series for morphophonology, so it's more clear
+!       that something's happening in phonology?
+!              E2 -> <je> / <e>, etc.
+
+! why do the palatal ones need overt marking with <ь>?
+
+!! ! Suffix ordering with possessive construction
+!! 
+!! The possessive construction results in different case ordering:
+!! 
+!! ''N-Num-Poss-Case'':
+!! 
+!! * Genetive
+!! * Ablative
+!! * Dative
+!! * Abessive
+!! * Adverbial
+!! * Approximative
+!! * Terminative
+!! 
+!! ''N-Num-Case-Poss'':
+!! 
+!! * Inessive
+!! * Elative
+!! * Illative
+!! * Egressive
+!! * Prolative
+!! * Instrumental
+!! 
+!! Note that since the adjective 'determinative' is essentially the 3rd person
+!! singular possessive, the above ordering also follows for adjective inflection.
+!! Also note, some cases have atlernate forms for when tehy come before the possessive.
+!! 
+!! Cases with alternate forms:
+!! 
+!! * Accusative singular, plural
+!! * Inessive singular, plural
+!! * Illative singular, plural
+!! * Elative singular, plural
+!! 
+!! ''Examples'':
+!! 
+!! Genetive:
+!! 
+!! | Px 1pSg        | Px 2pSg         | Px 3pSg
+!! | бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
+!! | бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
+!! 
+!! Inessive:
+!! 
+!! | Px 1pSg      | Px 2pSg      | Px 3pSg
+!! | бакча-я-м    | бакча-я-д    | бакча-я-з
+!! | бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
+!! 
+!! Elative:
+!! 
+!! | Px 1pSg          | Px 2pSg          | Px 3pSg
+!! | бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
+!! | бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
+!! 
+!! * TODO: write tests for these ordering situations
+!! * TODO: implement these in lexc
+
+!! !! Noun Lexica
+
+LEXICON N_
+!! Words from lexicon @LEXNAME@ are mostly covered. These are from the main
+!! class of nouns described in more depth above.
+! NOUNSUF ; !!  2014-01-24 __If they are not against us, they are for us__
+! Testing Jaska
+ jaskaNOUNSUF ;
+
+LEXICON N_KORKA
+! +N+Sg: CASESUF_KORKA ;
+! +N+Pl:%>ос CASESUF ;
+! +Sg: PREPX ;
+! +Pl:%>ос PREPX ;
+! +Pl:%>ос POSTPX ;
+!! TODO: +Sg: POSTPX ;
+! Testing Jaska
+ jaskaNOUNSUF ;
+
+LEXICON N_RUS_JA
+!! Words from Russian in ''@LEXNAME@'' end on –ия, but our lexicon entries
+!! set the stem as ending in –и, because the final -я appears only in some
+!! situations.
+!+N+Sg: CASESUF_JA ;
+!+N+Pl:%>ос CASESUF ;
+!! TODO: possessives
+! Testing Jaska
+:я%^RusJa jaskaNOUNSUF ;
+
+LEXICON N_RUS_JE
+!! Words from Russian in ''@LEXNAME@'' end on –ие, but our lexicon entries
+!! set the stem as ending in –и, because the final -е appears only in some
+!! situations.
+!+N+Sg: CASESUF_JE ;
+!+N+Pl:%>ос CASESUF ;
+!! TODO: possessives
+! Testing Jaska
+:е%^RusJa jaskaNOUNSUF ;
+
+LEXICON CASESUF_JE
+!! ''@LEXNAME@'' controls the occurrence of the original -е in the stem, which occurs
+!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+!! in their initial vowel use this yodified version.
++Nom:%>е%>0 K;
++Acc:%>ез K;
++Acc+Dial/North:%>ты K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>ен K;
++Abe:%>тэк K;
++Advl:%>е%>я K;
++Ine:%>ын K;
++Ill:%>е K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>етӥ K;
++Apr:%>лань K;
+
+LEXICON CASESUF_JA
+!! ''@LEXNAME@'' controls the occurrence of the original -я in the stem, which occurs
+!! in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+!! in their initial vowel use this yodified version.
++Nom:%>я%>0 K;
++Acc:%>ез K;
++Acc+Dial/North:%>ты K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>ен K;
++Abe:%>тэк K;
++Advl:%>я%>я K;
++Ine:%>ын K;
++Ill:%>е K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>етӥ K;
++Apr:%>лань K;
+
+LEXICON CASESUF_KORKA
+!! ''@LEXNAME@'' controls the output of case suffixes in the корка/куала type
+!! which tends to take short case suffixes when they are available.
++Nom:%>0 K;
++Acc:%>ез K;
++Acc+Dial/North:%>ты K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>ен K;
++Abe:%>тэк K;
++Advl:%>я K;
++Ine:%>н K;
++Ill:%>е K;
++Ela:%>сь K;
++Egr:%>сен K;
++Ter:%>озь K;
++Prl:%>етӥ K;
++Apr:%>лань K;
+
+LEXICON N_TAT
+!! Words from Tatar in ''@LEXNAME@'' preserve the original stem я in all cases.
+NOUNSUF ;
+
+LEXICON N_СИН
+:М3 jaskaNOUNSUF ;
+
+LEXICON N_НЮЛЭС
+:К3 jaskaNOUNSUF ;
+
+LEXICON N_УРДЭС
+:%^SYNC jaskaNOUNSUF_01_V ; !урдсын
+:К3 jaskaNOUNSUF_01_V ; !урдэскын
+ jaskaNOUNSUF_01_C ;
+
+LEXICON N_СЮЛЭМ
+:%^SYNC jaskaNOUNSUF_01_V ; !сюлмын
+ jaskaNOUNSUF_01_V ; !сюлэмын
+ jaskaNOUNSUF_01_C ;
+
+LEXICON NOUNSUF
++N: NOUNSUF_01 ;
+
+LEXICON NOUNSUF_01
++Sg: CASESUF ;
++Pl:%>ъёс CASESUF ;
++Sg: PREPX ;
++Sg: POSTPX ;
++Pl:%>ъёс PREPX ;
++Pl:%>ъёс POSTPX ;
+
+LEXICON CASESUF
++Nom:%> K;
++Acc:%>эз K;
++Acc+Dial/North:%>ты K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Ins:%>эн K;
++Abe:%>тэк K;
++Advl:%>ъя K;
++Ine:%>ын K;
++Ill:%>э K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
++Apr:%>лань K;
+
+LEXICON PREPX
++PxSg1: POSTCX;
++PxSg2:%>д POSTCX;
++PxSg3:%>з POSTCX;
++PxPl1:%>мы POSTCX;
++PxPl2:%>ды POSTCX;
++PxPl3:%>зы POSTCX;
+
+LEXICON POSTCX
++Acc:%>э K;
++Acc+Dial/North:%>ты K;
++Gen:%>ляэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Abe:%>тэк K;
++Advl:%>ъя K;
++Apr:%>лань K;
++Prl:%>озь K;
+
+LEXICON POSTPX
++Nom:%>э CXPXSG ;
++Nom:%> CXPXPL ; ! also for other cases?
++Ins:%>ены CXPX ;
++Ine:%>а CXPX ;
++Ill:%>а CXPX ;
++Ela:%>ысьти CXPX ;
++Egr:%>ысьены CXPX ;
++Tra:%>ети CXPX ;
++Ter:%>озьа CXPX ;
+
+LEXICON CXPX
+CXPXSG ;
+CXPXPL ;
+
+LEXICON CXPXSG
++PxSg1: K;
++PxSg2:%>д K;
++PxSg3:%>з K;
+
+LEXICON CXPXPL
++PxPl1:%>мы K;
++PxPl2:%>ды K;
++PxPl3:%>зы K;
+
+LEXICON ACRONDELIMITER
+    PROP_ ;
+:%: PROP_ ;
+:%- PROP_ ;
+:%' PROP_ ;
+
+!! À la Jaska
+LEXICON jaskaNOUNSUF
++N: jaskaNOUNSUF_01 ;
+
+LEXICON jaskaNOUNSUF_01
+ jaskaNOUNSUF_01_C ;
+ jaskaNOUNSUF_01_V ;
+
+LEXICON jaskaNOUNSUF_01_C
++Sg: jaskaAFTER-SG/PL-CASE_C ;
++Pl:%>ъёс jaskaAFTER-SG/PL-CASE_C ;
+
+LEXICON jaskaNOUNSUF_01_V
++Sg: jaskaAFTER-SG/PL-CASE_V ;
++Pl:%>ъёс jaskaAFTER-SG/PL-CASE_V ;
++Sg+Ter+PxPl1:%>озямы K ; !Sg
++Sg+Ter+PxPl2:%>озяды K ; ! Sg
++Sg+Ter+PxPl3:%>озязы K ; !Sg
+
+LEXICON jaskaAFTER-SG/PL-CASE_C
++Nom:%> K;
++Acc+Dial/North:%>ты K;
++Gen:%>лэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Abe:%>тэк K;
++Advl:%>ъя K;
++Apr:%>лань K;
+! with possession
++Nom+PxPl1:%>мы K ;
++Nom+PxPl2:%>ды K ;
++Nom+PxPl3:%>зы K ;
+
++Acc+PxSg1:%>ме K ;
++Acc+PxSg2:%>тэ K ;
++Acc+PxSg3:%>сэ K ;
++Acc+PxPl1:%>мес K ;
++Acc+PxPl2:%>тэс K ;
++Acc+PxPl3:%>сэс K ;
+
++Gen+PxPl1:%>мылэн K ;
++Gen+PxPl2:%>тылэн K ;
++Gen+PxPl3:%>сылэн K ;
+
++Abl+PxPl1:%>мылэсь K ;
++Abl+PxPl2:%>тылэсь K ;
++Abl+PxPl3:%>сылэсь K ;
+
++Dat+PxPl1:%>мылы K ;
++Dat+PxPl2:%>тылы K ;
++Dat+PxPl3:%>сылы K ;
+
++Abe+PxPl1:%>мытэк K ;
++Abe+PxPl2:%>тытэк K ;
++Abe+PxPl3:%>сытэк K ;
+
++Advl+PxPl1:%>мыя K ;
++Advl+PxPl2:%>тыя K ;
++Advl+PxPl3:%>сыя K ;
+
++Ter+PxPl1:%>мыозь K ;
++Ter+PxPl2:%>тыозь K ;
++Ter+PxPl3:%>сыозь K ;
+
++Apr+PxPl1:%>мылань K ;
++Apr+PxPl2:%>тылань K ;
++Apr+PxPl3:%>сылань K ;
+
+LEXICON jaskaAFTER-SG/PL-CASE_V
++Acc:%>Е3з K;
++Ins:%>эн K;
++Ine:%>ын K;
++Ill:%>Е3 K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
+
+! with possession
++Nom+PxSg1:%>Е3 K ;
++Nom+PxSg2:%>Е3д K ;
++Nom+PxSg3:%>Е3з K ;
+
++Gen+PxSg1:%>Е3лэн K ;
++Gen+PxSg2:%>Е3длэн K ;
++Gen+PxSg3:%>Е3злэн K ;
+
++Abl+PxSg1:%>Е3лэсь K ;
++Abl+PxSg2:%>Е3длэсь K ;
++Abl+PxSg3:%>Е3злэсь K ;
+
++Dat+PxSg1:%>Е3лы K ;
++Dat+PxSg2:%>Е3длы K ;
++Dat+PxSg3:%>Е3злы K ;
+
++Ins+PxSg1:%>Е3ным K ;
++Ins+PxSg2:%>Е3ныд K ;
++Ins+PxSg3:%>Е3ныз K ;
++Ins+PxPl1:%>Е3нымы K ;
++Ins+PxPl2:%>Е3ныды K ;
++Ins+PxPl3:%>Е3нызы K ;
+
++Abe+PxSg1:%>Е3тэк K ;
++Abe+PxSg2:%>Е3дтэк K ;
++Abe+PxSg3:%>Е3зтэк K ;
+
++Advl+PxSg1:%>Е3я K ;
++Advl+PxSg2:%>Е3дъя K ;
++Advl+PxSg3:%>Е3зъя K ;
+
++Ine+PxSg1:%>А3м K ;
++Ine+PxSg2:%>А3д K ;
++Ine+PxSg3:%>А3з K ;
++Ine+PxPl1:%>А3мы K ;
++Ine+PxPl2:%>А3ды K ;
++Ine+PxPl3:%>А3зы K ;
+
++Ill+PxSg1:%>А3м K ;
++Ill+PxSg2:%>А3д K ;
++Ill+PxSg3:%>А3з K ;
++Ill+PxPl1:%>А3мы K ;
++Ill+PxPl2:%>А3ды K ;
++Ill+PxPl3:%>А3зы K ;
+
++Ela+PxSg1:%>ысьтым K ;
++Ela+PxSg2:%>ысьтыд K ;
++Ela+PxSg3:%>ысьтыз K ;
++Ela+PxPl1:%>ысьтымы K ;
++Ela+PxPl2:%>ысьтыды K ;
++Ela+PxPl3:%>ысьтызы K ;
+
++Ela+PxSg1:%>ысеным K ;
++Ela+PxSg2:%>ысеныд K ;
++Ela+PxSg3:%>ысеныз K ;
++Ela+PxPl1:%>ысенымы K ;
++Ela+PxPl2:%>ысеныды K ;
++Ela+PxPl3:%>ысенызы K ;
+
++Ter+PxSg1:%>озям K ;
++Ter+PxSg2:%>озяд K ;
++Ter+PxSg3:%>озяз K ;
+
++Prl+PxSg1:%>этӥм K ;
++Prl+PxSg2:%>этӥд K ;
++Prl+PxSg3:%>этӥз K ;
++Prl+PxPl1:%>этӥмы K ;
++Prl+PxPl2:%>этӥды K ;
++Prl+PxPl3:%>этӥзы K ;
+
++Apr+PxSg1:%>элань K ;
++Apr+PxSg2:%>эдлань K ;
++Apr+PxSg3:%>эзлань K ;
+
+
+
+LEXICON jaskaPREPX
++PxSg1: jaskaPOSTCX;
++PxSg2:%>д jaskaPOSTCX;
++PxSg3:%>з jaskaPOSTCX;
++PxPl1:%>мы jaskaPOSTCX;
++PxPl2:%>ды jaskaPOSTCX;
++PxPl3:%>зы jaskaPOSTCX;
+
+LEXICON jaskaPOSTCX
++Acc:%>Е3 K;
++Acc+Dial/North:%>ты K;
++Gen:%>ляэн K;
++Abl:%>лэсь K;
++Dat:%>лы K;
++Abe:%>тэк K;
++Advl:%>ъя K;
++Apr:%>лань K;
++Prl:%>озь K;
+
+LEXICON jaskaPOSTPX
++Nom:%>Е3 jaskaCXPXSG ;
++Nom:%> jaskaCXPXPL ; ! also for other cases?
++Ins:%>ены jaskaCXPX ;
++Ine:%>а jaskaCXPX ;
++Ill:%>а jaskaCXPX ;
++Ela:%>ысьти jaskaCXPX ;
++Egr:%>ысьены jaskaCXPX ;
++Tra:%>ети jaskaCXPX ;
++Ter:%>озьа jaskaCXPX ;
+
+LEXICON jaskaCXPX
+jaskaCXPXSG ;
+jaskaCXPXPL ;
+
+LEXICON jaskaCXPXSG
++PxSg1: K;
++PxSg2:%>д K;
++PxSg3:%>з K;
+
+LEXICON jaskaCXPXPL
++PxPl1:%>мы K;
++PxPl2:%>ды K;
++PxPl3:%>зы K;
+
+
+
+! vim: set ft=xfst-lexc:
