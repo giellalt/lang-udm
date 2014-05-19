@@ -108,7 +108,7 @@ Rules
 
 "Depalatalize е"
 !! __@RULENAME@__
- Е2:э <=> CnsPair ы: %>  _ ;
+ Е2:э <=> [ CnsPair | у ] ы: %>  _ ;
 !€# мыны%>Е2
 !€0 мын00э
 
@@ -120,13 +120,13 @@ Rules
 
 "Depalatalize е3:е"
 !! __@RULENAME@__
- Е3:е <=> [ CnsNoPair (%^SYNC:) | и | а | я: (%^RusJa:) | е: %^RusJa: | ь: ] %> _ ;
+ Е3:е <=> [ CnsNoPair (%^SYNC:)  | о | и | ы | а | я: (%^RusJa:) | е: %^RusJa: | ь: ] %> _ ;
 !€# бакча%>Е3
 !€0 бакча0е
 
 "Depalatalize е3:э"
 !! __@RULENAME@__
- Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы ] (%^SYNC:) %>  _ ;
+ Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
 
 
 "Depalatalize and raise е3:ы"
@@ -159,13 +159,19 @@ Rules
  О2:ё <=>  [ ь: | й: ] (ы:) (%>)  _ ;
 
 
+"Palatal э:е"
+!! __@RULENAME@__
+ э:е <=>  [ Vow | CnsNoPair ] :0* %> _  ;
+
 "Palatal е"
 !! __@RULENAME@__
  Е2:е <=> [CnsNoPair|ь:|ъ:| й:] ы: %>  _ ;
 
 "Palatal и"
 !! __@RULENAME@__
- И2:и <=> [CnsNoPair|ь:|ъ:| й:] ы: %>  _ ;
+ И2:и <=> [CnsNoPair|ь:|ъ:|у| й:] ы: %>  _ ;
+!€# луы%>И2з
+!€0 лу00из
 
 "Palatal а"
 !! __@RULENAME@__
@@ -180,11 +186,15 @@ Rules
 "Stem vowel loss ы:0 LEFT" !! Is this really necessary
 !! __@RULENAME@__
  ы:0 <= _ %> [ Е2: | И2: | О2: ] ;
+!€# луы%>Е2м
+!€0 лу00эм
         Vow Cns _ [ %^ЫLoss: | О2: ] ;
 
 "Stem vowel loss Ы2:0 RIGHT"
 !! __@RULENAME@__
  ы:0 => _  %> [ Е2: | И2: | О2: ] ;
+!€# луы%>Е2м
+!€0 лу00эм
          Vow :Cns (ь:) _ [ %^ЫLossVar: | %^ЫLoss: | О2: ] ; 
 !€# мыны#
 !€0 мыны0

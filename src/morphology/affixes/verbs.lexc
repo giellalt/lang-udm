@@ -191,10 +191,14 @@ LEXICON NONFINITES
 +GerNeg:%>тэк  K	;
 +Der/тозь+GerTer:%>тозь  K	;
 +Der/ку+GerTemp:%>ку  K	;
-+Der/Он+N+Sg+Nom:О2н  K	;
++Der/Он:О2н  N_	;
++Der/Он+N+Der/тэм:О2н%>тэм  A_	;
++Der/Оно:О2но  A_	;
++PrcPrs+N+Der/тэм:%>И2сьтэм A_ ;
 +PrcPrsNeg:%>И2сьтэм K ;
 +PrcPrsPos:%>И2сь K ;
 +PrcPrfAdn:%>Е2м K ;
++Der/Эм+PrcPrfAdn:%>Е2м N_ ;
 +PrcPrfPred:%>Е2мын K ;
 
 
