@@ -162,15 +162,14 @@ LEXICON COND
 LEXICON IMPRT
 !! Lexicon ''@LEXNAME@''
 +Sg2:%^ЫLoss K	   ;
-+Sg3:%>О2з K	;
+!+Sg3:%>О2з K	; Kozmács István 2014-05-27 => Opt
 +Pl2:%>Е2лэ K	;
-+Pl3:%>О2зы K	;
+!+Pl3:%>О2зы K	; Kozmács István 2014-05-27 => Opt
 +ConNeg+Sg2:%^ЫLoss K	;
-+ConNeg+Sg3:%^ЫLossVar K	;
 +ConNeg+Pl2:%>Е2 K	; !мыныны
 +ConNeg+Pl2:%>Е2лэ K	;
-+ConNeg+Pl3:%>Е2 K	; !мыныны
-+ConNeg+Pl3:%>Е2лэ K	;
+!+ConNeg+Pl3:%>Е2 K	; !мыныны Kozmács István 2014-05-27 => Opt
+!+ConNeg+Pl3:%>Е2лэ K	; Kozmács István 2014-05-27 => Opt
 
 LEXICON OPT
 !! Lexicon ''@LEXNAME@''
@@ -181,6 +180,7 @@ LEXICON OPT
 +Pl2:О2ды K	;
 +Pl3:О2зы K	;
 +ConNeg+Sg:%^ЫLoss K ;
++ConNeg+Sg3:%^ЫLossVar K	;
 +ConNeg+Pl:%>Е2 K ;
 +ConNeg+Pl:%>Е2лэ K	;
 
