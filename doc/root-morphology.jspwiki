@@ -40,7 +40,7 @@ The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
 
- * +Use/Sub      Not in norm
+ * +Err/Sub      Not in norm
  * +Use/-Spell   Not in speller
 
 
