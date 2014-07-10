@@ -23,34 +23,34 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UDMURT language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-+WORK  !!= * @CODE@ 
++WORK  !!= * @CODE@
 !! The parts-of-speech are:
 
-+N	     !!= * @CODE@ 
-+A	     !!= * @CODE@ 
-+Adv     !!= * @CODE@ 
-+V	     !!= * @CODE@ 
-+Pron    !!= * @CODE@ 
-+CS	     !!= * @CODE@ 
-+CC	     !!= * @CODE@ 
-+Adp     !!= * @CODE@ 
-+Po	     !!= * @CODE@ 
-+Pr	     !!= * @CODE@ 
-+Interj  !!= * @CODE@ 
-+Pcle    !!= * @CODE@ 
-+Num     !!= * @CODE@ 
++N	     !!= * @CODE@
++A	     !!= * @CODE@
++Adv     !!= * @CODE@
++V	     !!= * @CODE@
++Pron    !!= * @CODE@
++CS	     !!= * @CODE@
++CC	     !!= * @CODE@
++Adp     !!= * @CODE@
++Po	     !!= * @CODE@
++Pr	     !!= * @CODE@
++Interj  !!= * @CODE@
++Pcle    !!= * @CODE@
++Num     !!= * @CODE@
 
 
 !! The parts of speech are further split up into:
 
-+Prop	 !!= * @CODE@ 
-+Pers	 !!= * @CODE@ 
-+Dem	 !!= * @CODE@ 
-+Interr	 !!= * @CODE@ 
-+Refl	 !!= * @CODE@ 
-+Recipr  !!= * @CODE@ 
-+Rel	 !!= * @CODE@ 
-+Indef	 !!= * @CODE@ 
++Prop	 !!= * @CODE@
++Pers	 !!= * @CODE@
++Dem	 !!= * @CODE@
++Interr	 !!= * @CODE@
++Refl	 !!= * @CODE@
++Recipr  !!= * @CODE@
++Rel	 !!= * @CODE@
++Indef	 !!= * @CODE@
 
 !! The Usage extents are marked using following tags:
 
@@ -60,53 +60,53 @@ Multichar_Symbols
 
 !! The nominals are inflected in the following Number
 
-+Sg	  !!= * @CODE@ 
-+Du	  !!= * @CODE@ 
-+Pl	  !!= * @CODE@ 
++Sg	  !!= * @CODE@
++Du	  !!= * @CODE@
++Pl	  !!= * @CODE@
 
-!! The nominals are inflected in the following Case 
+!! The nominals are inflected in the following Case
 !! TODO: Document case names!
 
-+Nom  !!= * @CODE@ 
-+Acc  !!= * @CODE@ 
-+Gen  !!= * @CODE@ 
-+Abl  !!= * @CODE@ 
-+Dat  !!= * @CODE@ 
-+Ins  !!= * @CODE@ 
-+Abe  !!= * @CODE@ 
-+Advl  !!= * @CODE@ 
-+Ine  !!= * @CODE@ 
-+Ill  !!= * @CODE@ 
-+Ela  !!= * @CODE@ 
-+Egr  !!= * @CODE@ 
-+Ter  !!= * @CODE@ 
-+Prl  !!= * @CODE@ 
-+Apr  !!= * @CODE@ 
-+Abs  !!= * @CODE@ 
-+Det  !!= * @CODE@ 
++Nom  !!= * @CODE@
++Acc  !!= * @CODE@
++Gen  !!= * @CODE@
++Abl  !!= * @CODE@
++Dat  !!= * @CODE@
++Ins  !!= * @CODE@
++Abe  !!= * @CODE@
++Advl  !!= * @CODE@
++Ine  !!= * @CODE@
++Ill  !!= * @CODE@
++Ela  !!= * @CODE@
++Egr  !!= * @CODE@
++Ter  !!= * @CODE@
++Prl  !!= * @CODE@
++Apr  !!= * @CODE@
++Abs  !!= * @CODE@
++Det  !!= * @CODE@
 
 !! The possession is marked as such:
 
-+PxSg1  !!= * @CODE@ 
-+PxSg2  !!= * @CODE@ 
-+PxSg3  !!= * @CODE@ 
-+PxDu1  !!= * @CODE@ 
-+PxDu2  !!= * @CODE@ 
-+PxDu3  !!= * @CODE@ 
-+PxPl1  !!= * @CODE@ 
-+PxPl2  !!= * @CODE@ 
-+PxPl3  !!= * @CODE@ 
++PxSg1  !!= * @CODE@
++PxSg2  !!= * @CODE@
++PxSg3  !!= * @CODE@
++PxDu1  !!= * @CODE@
++PxDu2  !!= * @CODE@
++PxDu3  !!= * @CODE@
++PxPl1  !!= * @CODE@
++PxPl2  !!= * @CODE@
++PxPl3  !!= * @CODE@
 
 !! The comparative forms are:
 
-+Comp  !!= * @CODE@ 
-+Superl  !!= * @CODE@ 
++Comp  !!= * @CODE@
++Superl  !!= * @CODE@
 
 !! Numerals are classified under:
 
-+Attr  !!= * @CODE@ 
-+Card  !!= * @CODE@ 
-+Ord   !!= * @CODE@ 
++Attr  !!= * @CODE@
++Card  !!= * @CODE@
++Ord   !!= * @CODE@
 
 !! Verb moods are:
  +Cond	!!= @CODE@ Conditional
@@ -122,92 +122,92 @@ Multichar_Symbols
 
 !! Verb personal forms are:
 
-+Sg1  !!= * @CODE@ 
-+Sg2  !!= * @CODE@ 
-+Sg3  !!= * @CODE@ 
-+Du1  !!= * @CODE@ 
-+Du2  !!= * @CODE@ 
-+Du3  !!= * @CODE@ 
-+Pl1  !!= * @CODE@ 
-+Pl2  !!= * @CODE@ 
-+Pl3  !!= * @CODE@ 
++Sg1  !!= * @CODE@
++Sg2  !!= * @CODE@
++Sg3  !!= * @CODE@
++Du1  !!= * @CODE@
++Du2  !!= * @CODE@
++Du3  !!= * @CODE@
++Pl1  !!= * @CODE@
++Pl2  !!= * @CODE@
++Pl3  !!= * @CODE@
 
 !! Other verb forms are: (TODO: Document the tags)
 
-+Inf	   !!= * @CODE@ 
-+Ger	   !!= * @CODE@ 
-+ConNeg	   !!= * @CODE@ 
-+ConNegII  !!= * @CODE@ 
-+Neg	   !!= * @CODE@ 
-+ImprtII   !!= * @CODE@ 
- +PrcPrsPos	!!= @CODE@ 
- +PrcPrfAdn	!!= @CODE@ 
- +PrcPrfPred	!!= @CODE@ 
- +PrcPrfNeg	!!= @CODE@ 
++Inf	   !!= * @CODE@
++Ger	   !!= * @CODE@
++ConNeg	   !!= * @CODE@
++ConNegII  !!= * @CODE@
++Neg	   !!= * @CODE@
++ImprtII   !!= * @CODE@
+ +PrcPrsPos	!!= @CODE@
+ +PrcPrfAdn	!!= @CODE@
+ +PrcPrfPred	!!= @CODE@
+ +PrcPrfNeg	!!= @CODE@
  +GerPos	!!= @CODE@ мыныса
  +GerNeg	!!= @CODE@ мынытэк
  +GerTer	!!= @CODE@ мынытозь
  +GerTemp	!!= @CODE@ мыныку
 
 
-+Sup     !!= * @CODE@ 
-+VGen    !!= * @CODE@ 
-+VAbess  !!= * @CODE@ 
++Sup     !!= * @CODE@
++VGen    !!= * @CODE@
++VAbess  !!= * @CODE@
 
 ! Abbreviated words are classified with:
 
-+ABBR  !!= * @CODE@ 
-+ACR   !!= * @CODE@ 
++ABBR  !!= * @CODE@
++ACR   !!= * @CODE@
 
 !! Special symbols are classified with:
-+CLB    !!= * @CODE@ 
-+PUNCT  !!= * @CODE@ 
-+LEFT   !!= * @CODE@ 
-+RIGHT  !!= * @CODE@ 
++CLB    !!= * @CODE@
++PUNCT  !!= * @CODE@
++LEFT   !!= * @CODE@
++RIGHT  !!= * @CODE@
 !! The verbs are syntactically split according to transitivity:
 
-+TV  !!= * @CODE@ 
-+IV  !!= * @CODE@ 
++TV  !!= * @CODE@
++IV  !!= * @CODE@
 !! Special multiword units are analysed with:
- +Multi  !!= * @CODE@ 
+ +Multi  !!= * @CODE@
 !! Non-dictionary words can be recognised with:
- +Guess  !!= * @CODE@ 
+ +Guess  !!= * @CODE@
 
 !! Question and Focus particles:
- +Qst  !!= * @CODE@ 
- +Foc  !!= * @CODE@ 
+ +Qst  !!= * @CODE@
+ +Foc  !!= * @CODE@
 
 
 !! Semantics are classified with
 
-+Mal	  !!= * @CODE@ 
-+Fem	  !!= * @CODE@ 
-+Sur	  !!= * @CODE@ 
-+Patr	  !!= * @CODE@ 
- +Plc 	  !!= * @CODE@ 
- +Org	  !!= * @CODE@ 
- +Obj	  !!= * @CODE@ 
- +Ani	  !!= * @CODE@ 
- +Hum	  !!= * @CODE@ 
- +Plant	  !!= * @CODE@ 
- +Group	  !!= * @CODE@ 
- +Time 	  !!= * @CODE@ 
- +Txt	  !!= * @CODE@ 
- +Route	  !!= * @CODE@ 
- +Measr   !!= * @CODE@ 
- +Wthr	  !!= * @CODE@ 
- +Build   !!= * @CODE@ 
- +Edu	  !!= * @CODE@ 
- +Veh	  !!= * @CODE@ 
- +Clth	  !!= * @CODE@ 
++Mal	  !!= * @CODE@
++Fem	  !!= * @CODE@
++Sur	  !!= * @CODE@
++Patr	  !!= * @CODE@
+ +Plc 	  !!= * @CODE@
+ +Org	  !!= * @CODE@
+ +Obj	  !!= * @CODE@
+ +Ani	  !!= * @CODE@
+ +Hum	  !!= * @CODE@
+ +Plant	  !!= * @CODE@
+ +Group	  !!= * @CODE@
+ +Time 	  !!= * @CODE@
+ +Txt	  !!= * @CODE@
+ +Route	  !!= * @CODE@
+ +Measr   !!= * @CODE@
+ +Wthr	  !!= * @CODE@
+ +Build   !!= * @CODE@
+ +Edu	  !!= * @CODE@
+ +Veh	  !!= * @CODE@
+ +Clth	  !!= * @CODE@
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
 
-+V→N !!= * @CODE@ 
-+V→V  !!= * @CODE@ 
-+V→A  !!= * @CODE@ 
++V→N !!= * @CODE@
++V→V  !!= * @CODE@
++V→A  !!= * @CODE@
  +Der/ку    !!= @CODE@ мыныку ужаку
  +Der/ны    !!= @CODE@ мыныны ужаны
  +Der/Он    !!= @CODE@ мынон ужан
@@ -217,8 +217,8 @@ Multichar_Symbols
  +Der/Эм    !!= @CODE@ мынэм ужам
 
 !! Dialectical variation
- +Dial/North  !!= * @CODE@ 
- +Dial/South  !!= * @CODE@ 
+ +Dial/North  !!= * @CODE@
+ +Dial/South  !!= * @CODE@
 
 
 !! Morphophonology
@@ -226,11 +226,11 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
 
-{aä}  !!= * @CODE@ 
-{oö}  !!= * @CODE@ 
-{uü}  !!= * @CODE@ 
- %{ИӤЙ%}   !!= @CODE@ 
- %^@  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+{aä}  !!= * @CODE@
+{oö}  !!= * @CODE@
+{uü}  !!= * @CODE@
+ %{ИӤЙ%}   !!= @CODE@
+ %^@  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
 Ы2	       !!= * @CODE@ morpheme initial disappears after vowel
 Е2	       !!= * @CODE@ morpheme initial disappears after vowel
 И2	       !!= * @CODE@ morpheme initial disappears after vowel
@@ -246,15 +246,15 @@ Multichar_Symbols
 {front}
 {back}
 %^RusJa      !!= * @CODE@ Эстония:Эстониез
-%^SYNC	     !!= * @CODE@ 
-%^ЫLossVar   !!= * @CODE@ This is used for мыныны: мыны ~ мын 
-%^ЫLoss      !!= * @CODE@ This is used for мыныны: мын 
+%^SYNC	     !!= * @CODE@
+%^ЫLossVar   !!= * @CODE@ This is used for мыныны: мыны ~ мын
+%^ЫLoss      !!= * @CODE@ This is used for мыныны: мын
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
-@P.NeedNoun.ON@  !!= * @CODE@ 
-@D.NeedNoun.ON@  !!= * @CODE@ 
-@C.NeedNoun@  !!= * @CODE@ 
+@P.NeedNoun.ON@  !!= * @CODE@
+@D.NeedNoun.ON@  !!= * @CODE@
+@C.NeedNoun@  !!= * @CODE@
 
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
