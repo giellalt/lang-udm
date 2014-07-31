@@ -40,7 +40,7 @@ LEXICON V_ !!= @CODE@ Verb type is still to be determined.
 !!  бертыны:берт V_MONO  "mennä kotiin" ;
 
 LEXICON V_MONO
-!! Lexicon ''@LEXNAME@'' мыныны:мыны
+!! Lexicon __@LEXNAME@__ мыныны:мыны
 !! * Yaml: __mynyny__
 ! Testing JASKA
 +V+Ind+PrtI+ConNeg+Pl:%>Е2 K ;
@@ -50,7 +50,7 @@ LEXICON V_MONO
 
 
 LEXICON V_UZA
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 !! * Yaml: __uzhany__
 ! testing JASKA
 +V+Ind+PrtI+ConNeg+Pl:%>лэ K ;
@@ -61,7 +61,7 @@ LEXICON V_UZA
 
 !! Mutual à la Jaska
 LEXICON V_МЫНЫНЫ !! мыныны:мыны
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 !! * Yaml: __mynyny__
 
 +V+Ind+Prs: APRS ;
@@ -81,7 +81,7 @@ LEXICON V_МЫНЫНЫ !! мыныны:мыны
 
 
 LEXICON APRS
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1:%>И2сько K ;
 +Sg2:%>И2ськод K ;
 +Sg3:%>Е2 K ;
@@ -97,7 +97,7 @@ LEXICON APRS
 +ConNeg+Pl3:%>О2 K ;
 
 LEXICON FUT-PERSON
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1: K ;
 +Sg2:%>д K ;
 +Sg3:%>з K ;
@@ -106,7 +106,7 @@ LEXICON FUT-PERSON
 +Pl3:%>зы K ;
 
 LEXICON PRTI-PERSON
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1:%>И2 K ;
 +Sg2:%>И2д K ;
 +Sg3:%>И2з K ;
@@ -116,7 +116,7 @@ LEXICON PRTI-PERSON
 +Pl3:%>И2зы K ;
 
 LEXICON PRTII-PERSON
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1:%>И2ськем K ;
 +Sg2:%>Е2мед K ;
 +Sg3:%>Е2м K ;
@@ -141,7 +141,7 @@ LEXICON PRTII-PERSON
 
 
 LEXICON COND
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1:          K ;
 +Sg2:          K ;
 +Sg2:ыд        K ;
@@ -160,7 +160,7 @@ LEXICON COND
 +ConNeg+Pl3:зы K ;
 
 LEXICON IMPRT
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg2:%^ЫLoss K	   ;
 !+Sg3:%>О2з K	; Kozmács István 2014-05-27 => Opt
 +Pl2:%>Е2лэ K	;
@@ -172,7 +172,7 @@ LEXICON IMPRT
 !+ConNeg+Pl3:%>Е2лэ K	; Kozmács István 2014-05-27 => Opt
 
 LEXICON OPT
-!! Lexicon ''@LEXNAME@''
+!! Lexicon __@LEXNAME@__
 +Sg1:О2м K ;
 +Sg2:О2д K ;
 +Sg3:О2з K ;
@@ -185,7 +185,7 @@ LEXICON OPT
 +ConNeg+Pl:%>Е2лэ K	;
 
 LEXICON NONFINITES
-    !! Lexicon ''@LEXNAME@''
+    !! Lexicon __@LEXNAME@__
 +Inf:ны  K	;
 +GerPos:%>са  K	;
 +GerNeg:%>тэк  K	;
