@@ -39,13 +39,13 @@ LEXICON PROP_RUS_JA
 +N+Prop+Err/Sub: NOUNSUF_01 ;
 
 LEXICON PROP_HEIMONNIMET
-!! Words from lexicon ''@LEXNAME@'' are "old" tribe and place names, 
+!! Words from lexicon __@LEXNAME@__ are "old" tribe and place names, 
 !! which have an optional infix for some cases, while some do not.
 +N+Prop+Sg:%>ла HEIMO_SUFFIXES_LA ;
 +N+Prop+Sg:     HEIMO_SUFFIXES_NIL ;
 
 LEXICON HEIMO_SUFFIXES_LA
-!! In ''@LEXNAME@'', we append the cases with their post-ла realizations.
+!! In __@LEXNAME@__, we append the cases with their post-ла realizations.
 !! Examples:
 !! || Case    ||  Infix || No infix
 !! | Iness.     |  Салья-ла-н    |  Салья-ын
@@ -61,7 +61,7 @@ LEXICON HEIMO_SUFFIXES_LA
 +Acc:%>з   K;
 
 LEXICON HEIMO_SUFFIXES_NIL
-!! In ''@LEXNAME@'', the word gets cases with no infix.
+!! In __@LEXNAME@__, the word gets cases with no infix.
 
 !!  || Case  || wordform
 !!  | Terminat.  |  Салья-озь

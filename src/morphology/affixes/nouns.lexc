@@ -281,7 +281,7 @@ LEXICON N_КОРКА
 
 
 LEXICON N_RUS_JA
-!! Words from Russian in ''@LEXNAME@'' end in –ия, our lexicon entries
+!! Words from Russian in __@LEXNAME@__ end in –ия, our lexicon entries
 !! set the stem as ending in –ия, but there is a trigger that causes
 !! the final "я" to disappear in some situations.
 ! Testing Jaska
@@ -289,7 +289,7 @@ LEXICON N_RUS_JA
 +Err/Sub: NOUNSUF ;
 
 LEXICON N_RUS_JE
-!! Words from Russian in ''@LEXNAME@'' end in –ие, our lexicon entries
+!! Words from Russian in __@LEXNAME@__ end in –ие, our lexicon entries
 !! set the stem as ending in –ие, but there is a trigger that causes
 !! the final "е" to disappear in some situations.
 ! Testing Jaska
@@ -297,7 +297,7 @@ LEXICON N_RUS_JE
 +Err/Sub: NOUNSUF ;
 
 LEXICON N_TAT
-!! Words from Tatar in ''@LEXNAME@'' preserve the original stem я in all cases.
+!! Words from Tatar in __@LEXNAME@__ preserve the original stem я in all cases.
 NOUNSUF ;
 
 LEXICON N_СИН
