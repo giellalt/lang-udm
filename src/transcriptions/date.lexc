@@ -12,14 +12,13 @@
 ! Other licensing options are available upon request, please contact
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
-! ==================== !
-! The South Sámi dates !
-! ==================== !
+! ================= !
+! The Finnish dates !
+! ================= !
 
 
 ! 12.8.
-! Borgemánu 12. b.
-! Borgemánu guoktenuppelot beaivi
+! Borgekuun guoktelot beaivi
 
 Multichar_Symbols
 
@@ -36,176 +35,81 @@ Multichar_Symbols
 @U.MONTH.11@ 
 @U.MONTH.12@ 
 
-+Use/NG
-
-
++Use/NG ! For substandard month names used in Oahpa
+! They will be accepted but not generated.
+ 
 LEXICON Root
-
-! For each month: First the normative, then the non-normatives, then initial capital
-
-@U.MONTH.1@:tsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:garretsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:garre-tsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:orrejaepienasken%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:orrejaepien-asken%_@U.MONTH.1@ 31DAYS ;
-
-@U.MONTH.1@+Use/NG:Tsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:Garretsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:Garre-tsïengelen%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:Orrejaepienasken%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:Orrejaepien-asken%_@U.MONTH.1@ 31DAYS ;
-
-
-@U.MONTH.2@:goevten%_@U.MONTH.2@ 29DAYS ;
-@U.MONTH.2@+Use/NG:gierhkiengarresen%_@U.MONTH.2@ 29DAYS ;
-@U.MONTH.2@+Use/NG:gierhkien-garresen%_@U.MONTH.2@ 29DAYS ;
-
-@U.MONTH.2@+Use/NG:Goevten%_@U.MONTH.2@ 29DAYS ;
-@U.MONTH.2@+Use/NG:Gierhkiengarresen%_@U.MONTH.2@ 29DAYS ;
-@U.MONTH.2@+Use/NG:Gierhkien-garresen%_@U.MONTH.2@ 29DAYS ;
-
-
-@U.MONTH.3@:njoktjen%_@U.MONTH.3@ 31DAYS ;
-@U.MONTH.3@+Use/NG:voerhtjenasken%_@U.MONTH.3@ 31DAYS ;
-@U.MONTH.3@+Use/NG:voerhtjen-asken%_@U.MONTH.3@ 31DAYS ;
-
-@U.MONTH.3@+Use/NG:Njoktjen%_@U.MONTH.3@ 31DAYS ;
-@U.MONTH.3@+Use/NG:Voerhtjenasken%_@U.MONTH.3@ 31DAYS ;
-@U.MONTH.3@+Use/NG:Voerhtjen-asken%_@U.MONTH.3@ 31DAYS ;
-
-
-@U.MONTH.4@:voerhtjen%_@U.MONTH.4@ 30DAYS ;
-@U.MONTH.4@+Use/NG:voerhtjenasken%_@U.MONTH.4@ 31DAYS ;
-@U.MONTH.4@+Use/NG:voerhtjen-asken%_@U.MONTH.4@ 31DAYS ;
-
-@U.MONTH.4@+Use/NG:Voerhtjen%_@U.MONTH.4@ 30DAYS ;
-@U.MONTH.4@+Use/NG:Voerhtjenasken%_@U.MONTH.4@ 31DAYS ;
-@U.MONTH.4@+Use/NG:Voerhtjen-asken%_@U.MONTH.4@ 31DAYS ;
-
-
-@U.MONTH.5@:suehpeden%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:maavnesen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:majjen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:gïjreasken%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:gïjremaanoen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:gïjre-asken%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:gïjre-maanoen%_@U.MONTH.5@ 31DAYS ;
-
-@U.MONTH.5@+Use/NG:Suehpeden%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Maavnesen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Majjen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Gïjreasken%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Gïjremaanoen%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Gïjre-asken%_@U.MONTH.5@ 31DAYS ;
-@U.MONTH.5@+Use/NG:Gïjre-maanoen%_@U.MONTH.5@ 31DAYS ;
-
-
-@U.MONTH.6@:ruffien%_@U.MONTH.6@ 30DAYS ;
-
-@U.MONTH.6@+Use/NG:Ruffien%_@U.MONTH.6@ 30DAYS ;
-
-
-@U.MONTH.7@:snjaltjen%_@U.MONTH.7@ 31DAYS ;
-
-@U.MONTH.7@+Use/NG:Snjaltjen%_@U.MONTH.7@ 31DAYS ;
-
-
-@U.MONTH.8@:mïetsken%_@U.MONTH.8@ 31DAYS ;
-
-@U.MONTH.8@+Use/NG:Mïetsken%_@U.MONTH.8@ 31DAYS ;
-
-
-@U.MONTH.9@:skïereden%_@U.MONTH.9@ 30DAYS ;
-
-@U.MONTH.9@+Use/NG:Skïereden%_@U.MONTH.9@ 30DAYS ;
-
-
-@U.MONTH.10@:golken%_@U.MONTH.10@ 31DAYS ;
-@U.MONTH.10@+Use/NG:rïhkeden%_@U.MONTH.10@ 31DAYS ;
-
-@U.MONTH.10@+Use/NG:Golken%_@U.MONTH.10@ 31DAYS ;
-@U.MONTH.10@+Use/NG:Rïhkeden%_@U.MONTH.10@ 31DAYS ;
-
-@U.MONTH.11@:rahkan%_@U.MONTH.11@ 30DAYS ; ! bytt NG?
-@U.MONTH.11@+Use/NG:gålkoen%_@U.MONTH.11@ 30DAYS ; ! bytt NG?
-
-@U.MONTH.11@+Use/NG:Rahkan%_@U.MONTH.11@ 30DAYS ; ! bytt NG?
-@U.MONTH.11@+Use/NG:Gålkoen%_@U.MONTH.11@ 30DAYS ; ! bytt NG?
-
-
-@U.MONTH.12@:goeven%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:jåvleasken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:jåvle-asken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:javleasken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:jåvlemaanoen%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:javle-asken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:jåvle-maanoen%_@U.MONTH.12@ 31DAYS ;
-
-@U.MONTH.12@+Use/NG:Goeven%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Jåvleasken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Jåvle-asken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Javleasken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Jåvlemaanoen%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Javle-asken%_@U.MONTH.12@ 31DAYS ;
-@U.MONTH.12@+Use/NG:Jåvle-maanoen%_@U.MONTH.12@ 31DAYS ;
-
-
+ 
+tammikuun% @U.MONTH.1@:@U.MONTH.1@ 31DAYS ;
+helmikuun% @U.MONTH.2@:@U.MONTH.2@ 29DAYS ;
+maaliskuun% @U.MONTH.3@:@U.MONTH.3@ 31DAYS ;
+huhtikuun% @U.MONTH.4@:@U.MONTH.4@ 30DAYS ;
+toukokuun% @U.MONTH.5@:@U.MONTH.5@ 31DAYS ;
+kesäkuun% @U.MONTH.6@:@U.MONTH.6@ 30DAYS ;
+heinäkuun% @U.MONTH.7@:@U.MONTH.7@ 31DAYS ;
+elokuun% @U.MONTH.8@:@U.MONTH.8@ 31DAYS ;
+syyskuun% @U.MONTH.9@:@U.MONTH.9@ 30DAYS ;
+lokakuun% @U.MONTH.10@:@U.MONTH.10@ 31DAYS ;
+marraskuun% @U.MONTH.11@:@U.MONTH.11@ 30DAYS ;
+joulukuun% @U.MONTH.12@:@U.MONTH.12@ 31DAYS ;
+ 
+ 
 LEXICON 29DAYS
-1:voestes B ;
-2:mubpie B ;
-3:gåalmede B ;
-4:njealjede B ;
-5:vïjhtede B ;
-6:govhtede B ;
-7:tjïjhtjede B ;
-8:gaaktsede B ;
-9:åktsede B ;
-1%0:låhkede B ;
-11:luhkievoestes B ;
-12:luhkiemubpie B ;
-13:luhkiegåalmede B ;
-14:luhkienjealjede B ;
-15:luhkievïjhtede B ;
-16:luhkiegovhtede B ;
-17:luhkietjïjhtjede B ;
-18:luhkiegaaktsede B ;
-19:luhkieåktsede B ;
-2%0:gööktelåhkede B ;
-21:göökteluhkievoestes B ;
-22:göökteluhkiemubpie B ;
-23:göökteluhkiegåalmede B ;
-24:göökteluhkienjealjede B ;
-25:göökteluhkievïjhtede B ;
-26:göökteluhkiegovhtede B ;
-27:göökteluhkietjïjhtjede B ;
-28:göökteluhkiegaaktsede B ;
-29:göökteluhkieåktsede B ;
-
+ensimmäinen:1 B ;
+toinen:2 B ;
+kolmas:3 B ;
+neljäs:4 B ;
+viides:5 B ;
+kuudes:6 B ;
+seitsemäs:7 B ;
+kahdeksas:8 B ;
+yhdeksäs:9 B ;
+kymmenes:1%0 B ;
+yhdestoista:11 B ;
+kahdestoista:12 B ;
+kolmastoista:13 B ;
+neljästoista:14 B ;
+viidestoista:15 B ;
+kuudestoista:16 B ;
+seitsemästoista:17 B ;
+kahdeksastoista:18 B ;
+yhdeksästoista:19 B ;
+kahdeskymmenes:2%0 B ;
+kahdeskymmenesensimmäinen:21 B ;
+kahdeskymmenestoinen:22 B ;
+kahdeskymmeneskolmas:23 B ;
+kahdeskymmenesneljäs:24 B ;
+kahdeskymmenesviides:25 B ;
+kahdeskymmeneskuudes:26 B ;
+kahdeskymmenesseitsemäs:27 B ;
+kahdeskymmeneskahdeksas:28 B ;
+kahdeskymmenesyhdeksäs:29 B ;
+ 
 LEXICON 30DAYS
-3%0:golmelåhkede B ;
+kolmaskymmenes:3%0 B ;
 29DAYS ;
-
+ 
 LEXICON 31DAYS
-31:golmeluhkievoestes B ;
+kolmaskymmenesensimmäinen:31 B ;
 30DAYS ;
-
+ 
 LEXICON B
-%.:%_biejjie MONTH ;
-
+% päivä:%. MONTH ;
+ 
 LEXICON MONTH
-1@U.MONTH.1@:@U.MONTH.1@ X ;
-2@U.MONTH.2@:@U.MONTH.2@ X ;
-3@U.MONTH.3@:@U.MONTH.3@ X ;
-4@U.MONTH.4@:@U.MONTH.4@ X ;
-5@U.MONTH.5@:@U.MONTH.5@ X ;
-6@U.MONTH.6@:@U.MONTH.6@ X ;
-7@U.MONTH.7@:@U.MONTH.7@ X ;
-8@U.MONTH.8@:@U.MONTH.8@ X ;
-9@U.MONTH.9@:@U.MONTH.9@ X ;
-1%0@U.MONTH.10@:@U.MONTH.10@ X ;
-11@U.MONTH.11@:@U.MONTH.11@ X ;
-12@U.MONTH.12@:@U.MONTH.12@ X ;
-
+@U.MONTH.1@:1@U.MONTH.1@ X ;
+@U.MONTH.2@:2@U.MONTH.2@ X ;
+@U.MONTH.3@:3@U.MONTH.3@ X ;
+@U.MONTH.4@:4@U.MONTH.4@ X ;
+@U.MONTH.5@:5@U.MONTH.5@ X ;
+@U.MONTH.6@:6@U.MONTH.6@ X ;
+@U.MONTH.7@:7@U.MONTH.7@ X ;
+@U.MONTH.8@:8@U.MONTH.8@ X ;
+@U.MONTH.9@:9@U.MONTH.9@ X ;
+@U.MONTH.10@:1%0@U.MONTH.10@ X ;
+@U.MONTH.11@:11@U.MONTH.11@ X ;
+@U.MONTH.12@:12@U.MONTH.12@ X ;
+ 
 LEXICON X
-%.: # ;
+:%. # ;
 ! # ; ! sloppy punctuation
