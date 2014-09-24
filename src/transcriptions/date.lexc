@@ -13,12 +13,12 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ================= !
-! The Finnish dates !
+! The Udmurt dates  !
 ! ================= !
 
 
 ! 12.8.
-! Borgekuun guoktelot beaivi
+! Гудырикошконлэн дас кыкетӥ нуналыз
 
 Multichar_Symbols
 
@@ -40,61 +40,61 @@ Multichar_Symbols
  
 LEXICON Root
  
-tammikuun% @U.MONTH.1@:@U.MONTH.1@ 31DAYS ;
-helmikuun% @U.MONTH.2@:@U.MONTH.2@ 29DAYS ;
-maaliskuun% @U.MONTH.3@:@U.MONTH.3@ 31DAYS ;
-huhtikuun% @U.MONTH.4@:@U.MONTH.4@ 30DAYS ;
-toukokuun% @U.MONTH.5@:@U.MONTH.5@ 31DAYS ;
-kesäkuun% @U.MONTH.6@:@U.MONTH.6@ 30DAYS ;
-heinäkuun% @U.MONTH.7@:@U.MONTH.7@ 31DAYS ;
-elokuun% @U.MONTH.8@:@U.MONTH.8@ 31DAYS ;
-syyskuun% @U.MONTH.9@:@U.MONTH.9@ 30DAYS ;
-lokakuun% @U.MONTH.10@:@U.MONTH.10@ 31DAYS ;
-marraskuun% @U.MONTH.11@:@U.MONTH.11@ 30DAYS ;
-joulukuun% @U.MONTH.12@:@U.MONTH.12@ 31DAYS ;
+толшорлэн% @U.MONTH.1@:@U.MONTH.1@ 31DAYS ;
+тулыспаллэн% @U.MONTH.2@:@U.MONTH.2@ 29DAYS ;
+южтолэзьлэн% @U.MONTH.3@:@U.MONTH.3@ 31DAYS ;
+оштолэзьлэн% @U.MONTH.4@:@U.MONTH.4@ 30DAYS ;
+куартолэзьлэн% @U.MONTH.5@:@U.MONTH.5@ 31DAYS ;
+инвожолэн% @U.MONTH.6@:@U.MONTH.6@ 30DAYS ;
+пӧсьтолэзьлэн% @U.MONTH.7@:@U.MONTH.7@ 31DAYS ;
+гудырикошконлэн% @U.MONTH.8@:@U.MONTH.8@ 31DAYS ;
+куарусёнлэн% @U.MONTH.9@:@U.MONTH.9@ 30DAYS ;
+коньывуонлэн% @U.MONTH.10@:@U.MONTH.10@ 31DAYS ;
+шуркынмонлэн% @U.MONTH.11@:@U.MONTH.11@ 30DAYS ;
+толсурлэн% @U.MONTH.12@:@U.MONTH.12@ 31DAYS ;
  
  
 LEXICON 29DAYS
-ensimmäinen:1 B ;
-toinen:2 B ;
-kolmas:3 B ;
-neljäs:4 B ;
-viides:5 B ;
-kuudes:6 B ;
-seitsemäs:7 B ;
-kahdeksas:8 B ;
-yhdeksäs:9 B ;
-kymmenes:1%0 B ;
-yhdestoista:11 B ;
-kahdestoista:12 B ;
-kolmastoista:13 B ;
-neljästoista:14 B ;
-viidestoista:15 B ;
-kuudestoista:16 B ;
-seitsemästoista:17 B ;
-kahdeksastoista:18 B ;
-yhdeksästoista:19 B ;
-kahdeskymmenes:2%0 B ;
-kahdeskymmenesensimmäinen:21 B ;
-kahdeskymmenestoinen:22 B ;
-kahdeskymmeneskolmas:23 B ;
-kahdeskymmenesneljäs:24 B ;
-kahdeskymmenesviides:25 B ;
-kahdeskymmeneskuudes:26 B ;
-kahdeskymmenesseitsemäs:27 B ;
-kahdeskymmeneskahdeksas:28 B ;
-kahdeskymmenesyhdeksäs:29 B ;
+нырысетӥ:1 B ;
+кыкетӥ:2 B ;
+куинетӥ:3 B ;
+ньылетӥ:4 B ;
+витетэӥ:5 B ;
+куатетэӥ:6 B ;
+сизьыметэӥ:7 B ;
+тямысэтӥ:8 B ;
+укмысэтӥ:9 B ;
+дасэтэӥ:1%0 B ;
+дас% одӥгетӥ:11 B ;
+дас% кыкетӥ:12 B ;
+дас% куинетӥ:13 B ;
+дас% ньылетӥ:14 B ;
+дас% витетӥ:15 B ;
+дас% куатетӥ:16 B ;
+дас% сизьыметӥ:17 B ;
+дас% тямысэтӥ:18 B ;
+дас% укмысэтӥ:19 B ;
+кызетӥ:2%0 B ;
+кызь% одИгетӥ:21 B ;
+кызь% кыкетӥ:22 B ;
+кызь% куинетӥ:23 B ;
+кызь% ньылетӥ:24 B ;
+кызь% витетӥ:25 B ;
+кызь% куатетӥ:26 B ;
+кызь% сизьыметӥ:27 B ;
+кызь% тямысэтӥ:28 B ;
+кызь% укмысэтӥ:29 B ;
  
 LEXICON 30DAYS
-kolmaskymmenes:3%0 B ;
+куамынетӥ:3%0 B ;
 29DAYS ;
  
 LEXICON 31DAYS
-kolmaskymmenesensimmäinen:31 B ;
+куамын% одӥгетӥ:31 B ;
 30DAYS ;
  
 LEXICON B
-% päivä:%. MONTH ;
+% нуналыз:%. MONTH ;
  
 LEXICON MONTH
 @U.MONTH.1@:1@U.MONTH.1@ X ;
