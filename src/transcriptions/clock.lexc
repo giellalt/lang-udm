@@ -148,7 +148,7 @@ LEXICON H-MAFT_minutes
 кызь% сизьым% :27 ANDMINUTES ;
 кызь% тямыс% :28 ANDMINUTES ;
 кызь% укмыс% :29 ANDMINUTES ;
-джын% :3%0 # ;
+ӝыны% :3%0 # ;
 куамын% одӥг% :31 ANDMINUTES ;
 куамын% кык% :32 ANDMINUTES ;
 куамын% куинь% :33 ANDMINUTES ;
@@ -287,4 +287,4 @@ LEXICON HOUR-AND-HALF
 дас% кык@U.TIME.1@:@U.TIME.1@ AND-HALF ;
 
 LEXICON AND-HALF
-% да% джын: # ;
+% но% ӝыны: # ;
