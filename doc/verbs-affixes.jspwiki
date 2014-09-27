@@ -36,17 +36,17 @@ Typical V_MONO entry is the long stem, ending on <ы>
  бертыны:берт V_MONO  "mennä kotiin" ;
 
 Lexicon __V_MONO__ мыныны:мыны
-* Yaml: __mynyny__
+* Yaml: __mynyny__ , This is first declension
 
 
 Lexicon __V_UZA__
-* Yaml: __uzhany__
+* Yaml: __uzhany__ , this is second declension
 
 
 Mutual à la Jaska
 мыныны:мыны
 Lexicon __V_МЫНЫНЫ__
-* Yaml: __mynyny__
+* Yaml: __mynyny__ 
 
 
 
