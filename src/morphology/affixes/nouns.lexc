@@ -353,7 +353,7 @@ LEXICON AFTER-SG/PL-CASE_C
 +Nom+PxPl3:%>зы K ;
 
 +Acc+PxSg1:%>ме K ;
-+Acc+PxSg2:%>дэ K ;
++Acc+PxSg2:%>тэ K ; ! дэ
 +Acc+PxSg3:%>зэ K ;
 +Acc+PxPl1:%>мес K ;
 +Acc+PxPl2:%>дэс K ;
