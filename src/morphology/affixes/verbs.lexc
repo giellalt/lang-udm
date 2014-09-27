@@ -41,7 +41,7 @@ LEXICON V_ !!= @CODE@ Verb type is still to be determined.
 
 LEXICON V_MONO
 !! Lexicon __@LEXNAME@__ мыныны:мыны
-!! * Yaml: __mynyny__
+!! * Yaml: __mynyny__ , This is first declension
 ! Testing JASKA
 +V+Ind+PrtI+ConNeg+Pl:%>Е2 K ;
 +V+Ind+PrtII+Neg+Pl2:%>И2ллямтэды K ;
@@ -51,7 +51,7 @@ LEXICON V_MONO
 
 LEXICON V_UZA
 !! Lexicon __@LEXNAME@__
-!! * Yaml: __uzhany__
+!! * Yaml: __uzhany__ , this is second declension
 ! testing JASKA
 +V+Ind+PrtI+ConNeg+Pl:%>лэ K ;
 +V+Ind+PrtII+Neg+Pl2:%>мтэды K ;
@@ -62,7 +62,7 @@ LEXICON V_UZA
 !! Mutual à la Jaska
 LEXICON V_МЫНЫНЫ !! мыныны:мыны
 !! Lexicon __@LEXNAME@__
-!! * Yaml: __mynyny__
+!! * Yaml: __mynyny__ 
 
 +V+Ind+Prs: APRS ;
 +V+Ind+Fut:%>О2 FUT-PERSON ;
