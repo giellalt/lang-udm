@@ -216,7 +216,7 @@ LEXICON TENST
 
 LEXICON LÅGEVT
 %0:дас THOUSANDS ;
-1:дас#одӥг#сюрс THOUSAND ; ! WHAT is this?
+1:дас% одӥг% сюрс THOUSAND ; ! WHAT is this?
 :дас%  ONEST ;
 
 LEXICON ONEST
