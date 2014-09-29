@@ -46,30 +46,30 @@ REAL-ONES ;			     ! 1-9
 
 LEXICON ONESG
 :одӥг%    1GIGA ;
-2:кык    GIGA ;
-3:куинь   GIGA ;
-4:ньыль 	 GIGA ;
-5:вить  	 GIGA ;
-6:куать  GIGA ;
-7:сизьым  GIGA ;
-8:тямыс  GIGA ;
-9:укмыс     GIGA ; 
+2:кык%    GIGA ;
+3:куинь%   GIGA ;
+4:ньыль% 	 GIGA ;
+5:вить%  	 GIGA ;
+6:куать%  GIGA ;
+7:сизьым%  GIGA ;
+8:тямыс%  GIGA ;
+9:укмыс%     GIGA ; 
 
 LEXICON 1GIGA
 1:милярд%   OVERMILLIONS ;
 
 LEXICON GIGA
-:% милярд%  OVERMILLIONS ;
+:милярд%  OVERMILLIONS ;
 
 LEXICON HUNDREDSM
-2:кык       CUODIM ;
-3:куинь      CUODIM ;
-4:ньыль 	    CUODIM ;
-5:вить  	    CUODIM ;
-6:куать     CUODIM ;
-7:сизьым     CUODIM ;
-8:тямыс   CUODIM ;
-9:укмыс      CUODIM ;
+2:кык%       CUODIM ;
+3:куинь%      CUODIM ;
+4:ньыль% 	    CUODIM ;
+5:вить%  	    CUODIM ;
+6:куать%     CUODIM ;
+7:сизьым%     CUODIM ;
+8:тямыс%   CUODIM ;
+9:укмыс%      CUODIM ;
 
 LEXICON CUODIM
 :сю%  HUNDREDM ; !200, not 100
@@ -167,14 +167,14 @@ HUNDREDST ;		        ! x00.000.000
 
 LEXICON HUNDREDST
 
-2:кык    CUODIT ;
-3:куинь  CUODIT ;	! 300000-399999
-4:ньыль CUODIT ;	! 400000-499999
-5:вить  CUODIT ;	! 500000-599999
-6:куать  CUODIT ;	! 600000-699999
-7:сизьым  CUODIT ;
-8:тямыс  CUODIT ;	! 800000-899999
-9:укмыс   CUODIT ;	! 900000-999999
+2:кык%    CUODIT ;
+3:куинь%  CUODIT ;	! 300000-399999
+4:ньыль%  CUODIT ;	! 400000-499999
+5:вить%  CUODIT ;	! 500000-599999
+6:куать%  CUODIT ;	! 600000-699999
+7:сизьым%  CUODIT ;
+8:тямыс%  CUODIT ;	! 800000-899999
+9:укмыс%   CUODIT ;	! 900000-999999
 
 LEXICON CUODIT
 :сю%   HUNDREDT ;	! 200000-199999
