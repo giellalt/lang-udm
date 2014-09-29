@@ -113,7 +113,8 @@ LEXICON ADJ_SG/PL_DETERM_CASE
 
 LEXICON ADJ_COMP
 ! TODO:
- K ;
++Comp:ӝык K ;
+! +Superl: K ; ! Fill in here.
 
 ! vim: set ft=xfst-lexc:
 

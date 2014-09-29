@@ -42,7 +42,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">айкась</l>
+      <l pos="CS">айкась</l>
 
       <stg>
         <st Contlex="CONJ_">айкась</st>
@@ -56,7 +56,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">али</l>
+      <l pos="CC">али</l>
 
       <stg>
         <st Contlex="CONJ_">али</st>
@@ -70,7 +70,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">аль</l>
+      <l pos="CC">аль</l>
 
       <stg>
         <st Contlex="CONJ_">аль</st>
@@ -126,7 +126,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">да</l>
+      <l pos="CC">да</l>
 
       <stg>
         <st Contlex="CONJ_">да</st>
@@ -168,7 +168,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ито</l>
+      <l pos="CC">ито</l>
 
       <stg>
         <st Contlex="CONJ_">ито</st>
@@ -210,7 +210,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">либо</l>
+      <l pos="CC">либо</l>
 
       <stg>
         <st Contlex="CONJ_">либо</st>
@@ -266,10 +266,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">но</l>
+      <l pos="CC">но</l>
 
       <stg>
-        <st Contlex="CONJ_">но</st>
+        <st Contlex="CC_">но</st>
       </stg>
     </lg>
 
