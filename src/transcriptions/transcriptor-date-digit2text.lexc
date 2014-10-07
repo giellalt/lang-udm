@@ -40,76 +40,76 @@ Multichar_Symbols
  
 LEXICON Root
  
-толшорлэн% @U.MONTH.1@:@U.MONTH.1@ 31DAYS ;
-тулыспаллэн% @U.MONTH.2@:@U.MONTH.2@ 29DAYS ;
-южтолэзьлэн% @U.MONTH.3@:@U.MONTH.3@ 31DAYS ;
-оштолэзьлэн% @U.MONTH.4@:@U.MONTH.4@ 30DAYS ;
-куартолэзьлэн% @U.MONTH.5@:@U.MONTH.5@ 31DAYS ;
-инвожолэн% @U.MONTH.6@:@U.MONTH.6@ 30DAYS ;
-пӧсьтолэзьлэн% @U.MONTH.7@:@U.MONTH.7@ 31DAYS ;
-гудырикошконлэн% @U.MONTH.8@:@U.MONTH.8@ 31DAYS ;
-куарусёнлэн% @U.MONTH.9@:@U.MONTH.9@ 30DAYS ;
-коньывуонлэн% @U.MONTH.10@:@U.MONTH.10@ 31DAYS ;
-шуркынмонлэн% @U.MONTH.11@:@U.MONTH.11@ 30DAYS ;
-толсурлэн% @U.MONTH.12@:@U.MONTH.12@ 31DAYS ;
+@U.MONTH.1@:толшорлэн% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.2@:тулыспаллэн% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.3@:южтолэзьлэн% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.4@:оштолэзьлэн% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.5@:куартолэзьлэн% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.6@:инвожолэн% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.7@:пӧсьтолэзьлэн% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.8@:гудырикошконлэн% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.9@:куарусёнлэн% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.10@:коньывуонлэн% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.11@:шуркынмонлэн% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.12@:толсурлэн% @U.MONTH.12@ 31DAYS ;
  
  
 LEXICON 29DAYS
-нырысетӥ:1 B ;
-кыкетӥ:2 B ;
-куинетӥ:3 B ;
-ньылетӥ:4 B ;
-витетэӥ:5 B ;
-куатетэӥ:6 B ;
-сизьыметэӥ:7 B ;
-тямысэтӥ:8 B ;
-укмысэтӥ:9 B ;
-дасэтэӥ:1%0 B ;
-дас% одӥгетӥ:11 B ;
-дас% кыкетӥ:12 B ;
-дас% куинетӥ:13 B ;
-дас% ньылетӥ:14 B ;
-дас% витетӥ:15 B ;
-дас% куатетӥ:16 B ;
-дас% сизьыметӥ:17 B ;
-дас% тямысэтӥ:18 B ;
-дас% укмысэтӥ:19 B ;
-кызетӥ:2%0 B ;
-кызь% одИгетӥ:21 B ;
-кызь% кыкетӥ:22 B ;
-кызь% куинетӥ:23 B ;
-кызь% ньылетӥ:24 B ;
-кызь% витетӥ:25 B ;
-кызь% куатетӥ:26 B ;
-кызь% сизьыметӥ:27 B ;
-кызь% тямысэтӥ:28 B ;
-кызь% укмысэтӥ:29 B ;
+1:нырысетӥ B ;
+2:кыкетӥ B ;
+3:куинетӥ B ;
+4:ньылетӥ B ;
+5:витетэӥ B ;
+6:куатетэӥ B ;
+7:сизьыметэӥ B ;
+8:тямысэтӥ B ;
+9:укмысэтӥ B ;
+1%0:дасэтэӥ B ;
+11:дас% одӥгетӥ B ;
+12:дас% кыкетӥ B ;
+13:дас% куинетӥ B ;
+14:дас% ньылетӥ B ;
+15:дас% витетӥ B ;
+16:дас% куатетӥ B ;
+17:дас% сизьыметӥ B ;
+18:дас% тямысэтӥ B ;
+19:дас% укмысэтӥ B ;
+2%0:кызетӥ B ;
+21:кызь% одИгетӥ B ;
+22:кызь% кыкетӥ B ;
+23:кызь% куинетӥ B ;
+24:кызь% ньылетӥ B ;
+25:кызь% витетӥ B ;
+26:кызь% куатетӥ B ;
+27:кызь% сизьыметӥ B ;
+28:кызь% тямысэтӥ B ;
+29:кызь% укмысэтӥ B ;
  
 LEXICON 30DAYS
-куамынетӥ:3%0 B ;
+3%0:куамынетӥ B ;
 29DAYS ;
  
 LEXICON 31DAYS
-куамын% одӥгетӥ:31 B ;
+31:куамын% одӥгетӥ B ;
 30DAYS ;
  
 LEXICON B
-% нуналыз:%. MONTH ;
+%.:% нуналыз MONTH ;
  
 LEXICON MONTH
-@U.MONTH.1@:1@U.MONTH.1@ X ;
-@U.MONTH.2@:2@U.MONTH.2@ X ;
-@U.MONTH.3@:3@U.MONTH.3@ X ;
-@U.MONTH.4@:4@U.MONTH.4@ X ;
-@U.MONTH.5@:5@U.MONTH.5@ X ;
-@U.MONTH.6@:6@U.MONTH.6@ X ;
-@U.MONTH.7@:7@U.MONTH.7@ X ;
-@U.MONTH.8@:8@U.MONTH.8@ X ;
-@U.MONTH.9@:9@U.MONTH.9@ X ;
-@U.MONTH.10@:1%0@U.MONTH.10@ X ;
-@U.MONTH.11@:11@U.MONTH.11@ X ;
-@U.MONTH.12@:12@U.MONTH.12@ X ;
+1@U.MONTH.1@:@U.MONTH.1@ X ;
+2@U.MONTH.2@:@U.MONTH.2@ X ;
+3@U.MONTH.3@:@U.MONTH.3@ X ;
+4@U.MONTH.4@:@U.MONTH.4@ X ;
+5@U.MONTH.5@:@U.MONTH.5@ X ;
+6@U.MONTH.6@:@U.MONTH.6@ X ;
+7@U.MONTH.7@:@U.MONTH.7@ X ;
+8@U.MONTH.8@:@U.MONTH.8@ X ;
+9@U.MONTH.9@:@U.MONTH.9@ X ;
+1%0@U.MONTH.10@:@U.MONTH.10@ X ;
+11@U.MONTH.11@:@U.MONTH.11@ X ;
+12@U.MONTH.12@:@U.MONTH.12@ X ;
  
 LEXICON X
-:%. # ;
+%.: # ;
 ! # ; ! sloppy punctuation
