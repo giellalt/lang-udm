@@ -443,12 +443,12 @@ LEXICON AFTER-SG/PL-CASE_V
 +Ill+PxPl2:%>А3ды K ;
 +Ill+PxPl3:%>А3зы K ;
 
-+Ela+PxSg1:%>ысьтым K ;
-+Ela+PxSg2:%>ысьтыд K ;
-+Ela+PxSg3:%>ысьтыз K ;
-+Ela+PxPl1:%>ысьтымы K ;
-+Ela+PxPl2:%>ысьтыды K ;
-+Ela+PxPl3:%>ысьтызы K ;
++Ela+PxSg1:%>ысьтым K ;  ! yaml says no t
++Ela+PxSg2:%>ысьтыд K ;  ! yaml says no t
++Ela+PxSg3:%>ысьтыз K ;  ! yaml says no t
++Ela+PxPl1:%>ысьтымы K ; ! yaml says no t
++Ela+PxPl2:%>ысьтыды K ; ! yaml says no t
++Ela+PxPl3:%>ысьтызы K ; ! yaml says no t
 
 +Ela+PxSg1:%>ысеным K ;
 +Ela+PxSg2:%>ысеныд K ;
