@@ -1,1 +1,348 @@
 
+Morphology
+----------
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+
+
+Analysis symbols
+----------------
+The morphological analyses of wordforms of UDMURT language are presented
+in this system in terms of following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
+ * +WORK  
+The parts-of-speech are:
+
+ * +N	     
+ * +A	     
+ * +Adv     
+ * +V	     
+ * +Pron    
+ * +CS	     
+ * +CC	     
+ * +Adp     
+ * +Po	     
+ * +Pr	     
+ * +Interj  
+ * +Pcle    
+ * +Num     
+
+
+The parts of speech are further split up into:
+
+ * +Prop	 
+ * +Pers	 
+ * +Dem	 
+ * +Interr	 
+ * +Refl	 
+ * +Recipr  
+ * +Rel	 
+ * +Indef	 
+
+The Usage extents are marked using following tags:
+
+ * +Err/Sub      Not in norm
+ * +Use/-Spell   Not in speller
+
+
+The nominals are inflected in the following Number
+
+ * +Sg	  
+ * +Du	  
+ * +Pl	  
+
+The nominals are inflected in the following Case
+TODO: Document case names!
+
+ * +Nom  
+ * +Acc  
+ * +Gen  
+ * +Abl  
+ * +Dat  
+ * +Ins  
+ * +Abe  
+ * +Advl  
+ * +Ine  
+ * +Ill  
+ * +Ela  
+ * +Egr  
+ * +Ter  
+ * +Prl  
+ * +Apr  
+
+The possession is marked as such:
+
+ * +PxSg1  
+ * +PxSg2  
+ * +PxSg3  
+ * +PxDu1  
+ * +PxDu2  
+ * +PxDu3  
+ * +PxPl1  
+ * +PxPl2  
+ * +PxPl3  
+
+The comparative forms are:
+
+ * +Comp  
+ * +Superl  
+
+Numerals are classified under:
+
+ * +Attr  
+ * +Card  
+ * +Ord   
+
+Verb moods are:
+  +Cond	 Conditional
+  +Imprt	 Imperative
+  +Ind	 Indicative
+  +Opt	 Optional
+
+Verb tenses are:
+  +Fut  Future
+  +Prs  Present
+  +PrtI  Preterite One
+  +PrtII  Preterite Two
+
+Verb personal forms are:
+
+ * +Sg1  
+ * +Sg2  
+ * +Sg3  
+ * +Du1  
+ * +Du2  
+ * +Du3  
+ * +Pl1  
+ * +Pl2  
+ * +Pl3  
+
+Other verb forms are: (TODO: Document the tags)
+
+ * +Inf	   
+ * +Ger	   
+ * +ConNeg	   
+ * +ConNegII  
+ * +Neg	   
+ * +ImprtII   
+  +PrcPrsPos	
+  +PrcPrfAdn	
+  +PrcPrfPred	
+  +PrcPrfNeg	
+  +GerPos	 мыныса
+  +GerNeg	 мынытэк
+  +GerTer	 мынытозь
+  +GerTemp	 мыныку
+
+
+ * +Sup     
+ * +VGen    
+ * +VAbess  
+
+
+ * +ABBR  
+ * +ACR   
+
+Special symbols are classified with:
+ * +CLB    
+ * +PUNCT  
+ * +LEFT   
+ * +RIGHT  
+The verbs are syntactically split according to transitivity:
+
+ * +TV  
+ * +IV  
+Special multiword units are analysed with:
+ *  +Multi  
+Non-dictionary words can be recognised with:
+ *  +Guess  
+
+Question and Focus particles:
+ *  +Qst  
+ *  +Foc  
+
+
+Semantics are classified with
+
+ * +Mal	  
+ * +Fem	  
+ * +Sur	  
+ * +Patr	  
+ *  +Plc 	  
+ *  +Org	  
+ *  +Obj	  
+ *  +Ani	  
+ *  +Hum	  
+ *  +Plant	  
+ *  +Group	  
+ *  +Time 	  
+ *  +Txt	  
+ *  +Route	  
+ *  +Measr   
+ *  +Wthr	  
+ *  +Build   
+ *  +Edu	  
+ *  +Veh	  
+ *  +Clth	  
+
+
+Derivations are classified under the morphophonetic form of the suffix, the
+source and target part-of-speech.
+
+ * +V→N 
+ * +V→V  
+ * +V→A  
+  +Der/ку     мыныку ужаку
+  +Der/ны     мыныны ужаны
+  +Der/Он     мынон ужан
+  +Der/Оно     мыноно ужано
+  +Der/тозь   мынытозь ужатозь
+  +Der/тэм   мынӥсьтэм ужасьтэм
+  +Der/Эм     мынэм ужам
+
+Dialectical variation
+ *  +Dial/North  
+ *  +Dial/South  
+
+
+Morphophonology
+---------------
+To represent phonologic variations in word forms we use the following
+symbols in the lexicon files:
+
+ * {aä}  
+ * {oö}  
+ * {uü}  
+  %{ИӤЙ%}   
+  %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
+ * Ы2	        morpheme initial disappears after vowel
+ * Е2	        morpheme initial disappears after vowel
+ * И2	        morpheme initial disappears after vowel
+ * О2	        morpheme initial disappears after vowel also ло after stem-final а
+ * Е3	        Acc, Ill е э ы
+ * А3	        Ine а, я
+ * К3	        нюлэс:нюлэсК3
+ * М3	        син:синМ3
+
+
+And following triggers to control variation
+
+ * %^RusJa       Эстония:Эстониез
+ * %^SYNC	     
+ * %^ЫLossVar    This is used for мыныны: мыны ~ мын
+ * %^ЫLoss       This is used for мыныны: мын
+
+We have manually optimised the structure of our lexicon using following
+flag diacritics to restrict morhpological combinatorics:
+ * @P.NeedNoun.ON@  
+ * @D.NeedNoun.ON@  
+ * @C.NeedNoun@  
+
+The word forms in UNDEFINED language start from the lexeme roots of basic
+word classes, or optionally from prefixes:
+
+Undeveloped contlexes
+
+
+
+
+
+
+
+
+
+
+AdjTag ;
+AdvTag ;
+AdjTag ;
+AdvTag ;
+DescrTag ;
+AdjTag ;
+AdvTag ;
+PcleTag ;
+AdjTag ;
+NumTag ;
+AdjTag ;
+NTag ;
+AdjTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+PrcTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+AdvTag ;
+AdjTag ;
+NTag ;
+AdvTag ;
+AdjTag ;
+PronTag ;
+AdvTag ;
+NTag ;
+AdvTag ;
+NTag ;
+PoTag ;
+AdvTag ;
+PoTag ;
+AdvTag ;
+PronTag ;
+AdvTag ;
+PronTag ;
+NumTag ;
+DescrTag ;
+AdjTag ;
+DescrTag ;
+AdvTag ;
+NTag ;
+DescrTag ;
+NTag ;
+DescrTag ;
+NTag ;
+AdjTag ;
+GerTag ;
+ConjTag ;
+GerTag ;
+PoTag ;
+AdjTag ;
+NumTag ;
+NTag ;
+AdjTag ;
+PcleTag ;
+NTag ;
+AdvTag ;
+NTag ;
+AdvTag ;
+DescrTag ;
+NTag ;
+DescrTag ;
+NTag ;
+NumTag ;
+NTag ;
+PrcTag ;
+PcleTag ;
+NTag ;
+PcleTag ;
+NTag ;
+PoTag ;
+NTag ;
+VTag ;
+NTag ;
+VTag ;
+PronTag ;
+PcleTag ;
+AdjTag ;
+AdvTag ;
+PoTag ;
+PcleTag ;
+PoTag ;
+AdvTag ;
+PronTag ;
+PronTag ;
+NumTag ;
+PronTag ;
+NumTag ;
+AdvTag ;
+PronTag ;
+PcleTag ;
+
+
