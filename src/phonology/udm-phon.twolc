@@ -126,7 +126,7 @@ Rules
 
 "Depalatalize е3:э"
 !! __@RULENAME@__
- Е3:э <=> [[ Ltrs: Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
+ Е3:э <=> [[ (Ltrs:) Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
 
 
 "Depalatalize and raise е3:ы"
