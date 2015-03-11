@@ -9,88 +9,93 @@ Analysis symbols
 The morphological analyses of wordforms of UDMURT language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
- * +WORK  
+ * +WORK
 The parts-of-speech are:
 
- * +N	     
- * +A	     
- * +Adv     
- * +V	     
- * +Pron    
- * +CS	     
- * +CC	     
- * +Adp     
- * +Po	     
- * +Pr	     
- * +Interj  
- * +Pcle    
- * +Num     
+ * +N  Noun
+ * +A	  Adjective
+ * +Adv  Adverb
+ * +V	  Verb
+ * +Pron  Pronoun
+ * +CS	  Subordinating conjunction
+ * +CC	  Coordinating conjunction
+ * +Adp  Adposition
+ * +Po	  Postposition
+ * +Pr	  Preposition
+ * +Interj  Interjection
+ * +Pcle  Particle
+ * +Num  Numeral
+
+
 
 
 The parts of speech are further split up into:
 
- * +Prop	 
- * +Pers	 
- * +Dem	 
- * +Interr	 
- * +Refl	 
- * +Recipr  
- * +Rel	 
- * +Indef	 
+ * +Prop  Proper
+ * +Pers	  Personal
+ * +Dem	  Demonstrative
+ * +Interr	  Interrogative
+ * +Refl	  Reflexive
+ * +Recipr  Reciprocal
+ * +Rel	  Relative
+ * +Indef	  Indefinite
+
 
 The Usage extents are marked using following tags:
 
- * +Err/Sub      Not in norm
- * +Use/-Spell   Not in speller
+ * +Err/Sub Not in norm
+ * +Use/-Spell Not in speller
 
 
 The nominals are inflected in the following Number
 
- * +Sg	  
- * +Du	  
- * +Pl	  
+ * +Sg  Singular
+ * +Du	  Dual
+ * +Pl	  Plural
+
 
 The nominals are inflected in the following Case
 TODO: Document case names!
 
- * +Nom  
- * +Acc  
- * +Gen  
- * +Abl  
- * +Dat  
- * +Ins  
- * +Abe  
- * +Advl  
- * +Ine  
- * +Ill  
- * +Ela  
- * +Egr  
- * +Ter  
- * +Prl  
- * +Apr  
+ * +Nom  Nominative
+ * +Acc  Accusative
+ * +Gen  Genitive
+ * +Abl  Ablative
+ * +Dat  Dative
+ * +Ins  Instrumental
+ * +Abe  Abessive
+ * +Advl  Adverbial
+ * +Ine  Inessive 
+ * +Ill  Illative
+ * +Ela  Elative
+ * +Egr  Egressive
+ * +Ter  Terminative
+ * +Prl  Prolative
+ * +Apr  Approximative
+
 
 The possession is marked as such:
 
- * +PxSg1  
- * +PxSg2  
- * +PxSg3  
- * +PxDu1  
- * +PxDu2  
- * +PxDu3  
- * +PxPl1  
- * +PxPl2  
- * +PxPl3  
+ * +PxSg1
+ * +PxSg2
+ * +PxSg3
+ * +PxDu1
+ * +PxDu2
+ * +PxDu3
+ * +PxPl1
+ * +PxPl2
+ * +PxPl3
 
 The comparative forms are:
 
- * +Comp  
- * +Superl  
+ * +Comp  Comparative
+ * +Superl  Superlative
 
 Numerals are classified under:
 
- * +Attr  
- * +Card  
- * +Ord   
+ * +Attr  Attributive form (adnominal)
+ * +Card  Cardinal
+ * +Ord  Ordinal
 
 Verb moods are:
   +Cond	 Conditional
@@ -99,66 +104,67 @@ Verb moods are:
   +Opt	 Optional
 
 Verb tenses are:
-  +Fut  Future
-  +Prs  Present
-  +PrtI  Preterite One
+  +Fut    Future
+  +Prs    Present
+  +PrtI   Preterite One
   +PrtII  Preterite Two
 
 Verb personal forms are:
 
- * +Sg1  
- * +Sg2  
- * +Sg3  
- * +Du1  
- * +Du2  
- * +Du3  
- * +Pl1  
- * +Pl2  
- * +Pl3  
+ * +Sg1
+ * +Sg2
+ * +Sg3
+ * +Du1
+ * +Du2
+ * +Du3
+ * +Pl1
+ * +Pl2
+ * +Pl3
 
 Other verb forms are: (TODO: Document the tags)
 
- * +Inf	   
- * +Ger	   
- * +ConNeg	   
- * +ConNegII  
- * +Neg	   
- * +ImprtII   
-  +PrcPrsPos	
-  +PrcPrfAdn	
-  +PrcPrfPred	
-  +PrcPrfNeg	
-  +GerPos	 мыныса
-  +GerNeg	 мынытэк
-  +GerTer	 мынытозь
-  +GerTemp	 мыныку
+ * +Inf	  Infinitive
+ * +Ger	 	  Gerund
+ * +ConNeg	 	  Connegative (used with verb of negation)
+ * +ConNegII 	  Connegative (used with verb of negation) ?Does this apply to Udmurt?
+ * +Neg	 	  Negation, (used to mark verb of negation)
+ * +ImprtII 	  Imperative II, ?Does this apply to Udmurt?
+  +PrcPrsPos    	  Participle present positive
+  +PrcPrfAdn    	  Participle perfect adnominal
+  +PrcPrfPred   	  Participle perfect predicative
+  +PrcPrfNeg    	  Participle perfect negative 
+  +GerPos       	 мыныса    Gerund positive
+  +GerNeg       	 мынытэк   Gerund negative
+  +GerTer       	 мынытозь  Gerund terminative
+  +GerTemp      	 мыныку    Gerund temporal
+ * +Sup 	  Supine
+ * +VGen 	  Verbal genitive
+ * +VAbess 	  Verbal abesive
 
 
- * +Sup     
- * +VGen    
- * +VAbess  
 
-
- * +ABBR  
- * +ACR   
+ * +ABBR  Abbreviation
+ * +ACR  Acronym
 
 Special symbols are classified with:
- * +CLB    
- * +PUNCT  
- * +LEFT   
- * +RIGHT  
+ * +CLB   Clause boundary
+ * +PUNCT   Punctuation 
+ * +LEFT   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
+ * +RIGHT   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
+
 The verbs are syntactically split according to transitivity:
 
- * +TV  
- * +IV  
+ * +TV Transitive
+ * +IV Intransitive
+
 Special multiword units are analysed with:
- *  +Multi  
+ * +Multi Multiword phrase tag
 Non-dictionary words can be recognised with:
- *  +Guess  
+ * +Guess machine guessed
 
 Question and Focus particles:
- *  +Qst  
- *  +Foc  
+ * +Qst  Question
+ * +Foc  Focus
 
 
  * __+Sem/Act__ Activity
@@ -272,9 +278,9 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
- * +V→N 
- * +V→V  
- * +V→A  
+ * +V→N
+ * +V→V
+ * +V→A
   +Der/ку     мыныку ужаку
   +Der/ны     мыныны ужаны
   +Der/Он     мынон ужан
@@ -284,8 +290,8 @@ source and target part-of-speech.
   +Der/Эм     мынэм ужам
 
 Dialectical variation
- *  +Dial/North  
- *  +Dial/South  
+ * +Dial/North
+ * +Dial/South
 
 
 Morphophonology
@@ -293,27 +299,23 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
- * {aä}  
- * {oö}  
- * {uü}  
-  %{ИӤЙ%}   
   %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
- * Ы2	        morpheme initial disappears after vowel
- * Е2	        morpheme initial disappears after vowel
- * И2	        morpheme initial disappears after vowel
- * О2	        morpheme initial disappears after vowel also ло after stem-final а
- * Е3	        Acc, Ill е э ы
- * А3	        Ine а, я
- * К3	        нюлэс:нюлэсК3
- * М3	        син:синМ3
+ * Ы2	 morpheme initial disappears after vowel
+ * Е2	 morpheme initial disappears after vowel
+ * И2	 morpheme initial disappears after vowel
+ * О2	 morpheme initial disappears after vowel also ло after stem-final а
+ * Е3	 Acc, Ill е э ы
+ * А3	 Ine а, я
+ * К3	 нюлэс:нюлэсК3
+ * М3	 син:синМ3
 
 
 And following triggers to control variation
 
- * %^RusJa       Эстония:Эстониез
- * %^SYNC	     
- * %^ЫLossVar    This is used for мыныны: мыны ~ мын
- * %^ЫLoss       This is used for мыныны: мын
+ * %^RusJa Эстония:Эстониез
+ * %^SYNC	
+ * %^ЫLossVar This is used for мыныны: мыны ~ мын
+ * %^ЫLoss This is used for мыныны: мын
 
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -331,6 +333,8 @@ do no harm.
  | @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
  | @P.CmpPref.FALSE@ | Block these words from making further compounds
  | @D.CmpLast.TRUE@ | Block such words from entering R
+ | @D.CmpSuff.TRUE@ | Block such words from entering R
+ | @P.CmpSuff.TRUE@ | Mark that we have passed R
  | @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
  | @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
  | @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R

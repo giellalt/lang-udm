@@ -11,9 +11,7 @@ Alphabet
 
 !! !!Archiphonemes for vowels
 !  е1:е а1:а и1:и у1:у ӱ1:ӱ
-!  Е1:Е %{аӓ%}:А И1:И У1:У Ӱ1:Ӱ
-! JMR 2012-09-18
-! %{аӓ%}:а 
+!  Е1:Е И1:И У1:У Ӱ1:Ӱ
 
 %^@:0  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
 !! !!Triggers
