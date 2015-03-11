@@ -23,88 +23,93 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UDMURT language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-+WORK  !!= * @CODE@
++WORK  !!≈ * @CODE@
 !! The parts-of-speech are:
 
-+N	     !!= * @CODE@
-+A	     !!= * @CODE@
-+Adv     !!= * @CODE@
-+V	     !!= * @CODE@
-+Pron    !!= * @CODE@
-+CS	     !!= * @CODE@
-+CC	     !!= * @CODE@
-+Adp     !!= * @CODE@
-+Po	     !!= * @CODE@
-+Pr	     !!= * @CODE@
-+Interj  !!= * @CODE@
-+Pcle    !!= * @CODE@
-+Num     !!= * @CODE@
++N       !!≈ * @CODE@  Noun
++A	 !!≈ * @CODE@  Adjective
++Adv     !!≈ * @CODE@  Adverb
++V	 !!≈ * @CODE@  Verb
++Pron    !!≈ * @CODE@  Pronoun
++CS	 !!≈ * @CODE@  Subordinating conjunction
++CC	 !!≈ * @CODE@  Coordinating conjunction
++Adp     !!≈ * @CODE@  Adposition
++Po	 !!≈ * @CODE@  Postposition
++Pr	 !!≈ * @CODE@  Preposition
++Interj  !!≈ * @CODE@  Interjection
++Pcle    !!≈ * @CODE@  Particle
++Num     !!≈ * @CODE@  Numeral
+
+
 
 
 !! The parts of speech are further split up into:
 
-+Prop	 !!= * @CODE@
-+Pers	 !!= * @CODE@
-+Dem	 !!= * @CODE@
-+Interr	 !!= * @CODE@
-+Refl	 !!= * @CODE@
-+Recipr  !!= * @CODE@
-+Rel	 !!= * @CODE@
-+Indef	 !!= * @CODE@
++Prop        !!≈ * @CODE@  Proper
++Pers	     !!≈ * @CODE@  Personal
++Dem	     !!≈ * @CODE@  Demonstrative
++Interr	     !!≈ * @CODE@  Interrogative
++Refl	     !!≈ * @CODE@  Reflexive
++Recipr      !!≈ * @CODE@  Reciprocal
++Rel	     !!≈ * @CODE@  Relative
++Indef	     !!≈ * @CODE@  Indefinite
+
 
 !! The Usage extents are marked using following tags:
 
-+Err/Sub     !!= * @CODE@ Not in norm
-+Use/-Spell  !!= * @CODE@ Not in speller
++Err/Sub     !!≈ * @CODE@ Not in norm
++Use/-Spell  !!≈ * @CODE@ Not in speller
 
 
 !! The nominals are inflected in the following Number
 
-+Sg	  !!= * @CODE@
-+Du	  !!= * @CODE@
-+Pl	  !!= * @CODE@
++Sg          !!≈ * @CODE@  Singular
++Du	     !!≈ * @CODE@  Dual
++Pl	     !!≈ * @CODE@  Plural
+
 
 !! The nominals are inflected in the following Case
 !! TODO: Document case names!
 
-+Nom  !!= * @CODE@
-+Acc  !!= * @CODE@
-+Gen  !!= * @CODE@
-+Abl  !!= * @CODE@
-+Dat  !!= * @CODE@
-+Ins  !!= * @CODE@
-+Abe  !!= * @CODE@
-+Advl  !!= * @CODE@
-+Ine  !!= * @CODE@
-+Ill  !!= * @CODE@
-+Ela  !!= * @CODE@
-+Egr  !!= * @CODE@
-+Ter  !!= * @CODE@
-+Prl  !!= * @CODE@
-+Apr  !!= * @CODE@
++Nom  !!≈ * @CODE@  Nominative
++Acc  !!≈ * @CODE@  Accusative
++Gen  !!≈ * @CODE@  Genitive
++Abl  !!≈ * @CODE@  Ablative
++Dat  !!≈ * @CODE@  Dative
++Ins  !!≈ * @CODE@  Instrumental
++Abe  !!≈ * @CODE@  Abessive
++Advl  !!≈ * @CODE@  Adverbial
++Ine  !!≈ * @CODE@  Inessive 
++Ill  !!≈ * @CODE@  Illative
++Ela  !!≈ * @CODE@  Elative
++Egr  !!≈ * @CODE@  Egressive
++Ter  !!≈ * @CODE@  Terminative
++Prl  !!≈ * @CODE@  Prolative
++Apr  !!≈ * @CODE@  Approximative
+
 
 !! The possession is marked as such:
 
-+PxSg1  !!= * @CODE@
-+PxSg2  !!= * @CODE@
-+PxSg3  !!= * @CODE@
-+PxDu1  !!= * @CODE@
-+PxDu2  !!= * @CODE@
-+PxDu3  !!= * @CODE@
-+PxPl1  !!= * @CODE@
-+PxPl2  !!= * @CODE@
-+PxPl3  !!= * @CODE@
++PxSg1  !!≈ * @CODE@
++PxSg2  !!≈ * @CODE@
++PxSg3  !!≈ * @CODE@
++PxDu1  !!≈ * @CODE@
++PxDu2  !!≈ * @CODE@
++PxDu3  !!≈ * @CODE@
++PxPl1  !!≈ * @CODE@
++PxPl2  !!≈ * @CODE@
++PxPl3  !!≈ * @CODE@
 
 !! The comparative forms are:
 
-+Comp  !!= * @CODE@
-+Superl  !!= * @CODE@
++Comp    !!≈ * @CODE@  Comparative
++Superl  !!≈ * @CODE@  Superlative
 
 !! Numerals are classified under:
 
-+Attr  !!= * @CODE@
-+Card  !!= * @CODE@
-+Ord   !!= * @CODE@
++Attr  !!≈ * @CODE@  Attributive form (adnominal)
++Card  !!≈ * @CODE@  Cardinal
++Ord   !!≈ * @CODE@  Ordinal
 
 !! Verb moods are:
  +Cond	!!= @CODE@ Conditional
@@ -113,67 +118,68 @@ Multichar_Symbols
  +Opt	!!= @CODE@ Optional
 
 !! Verb tenses are:
- +Fut !!= @CODE@ Future
- +Prs !!= @CODE@ Present
- +PrtI !!= @CODE@ Preterite One
+ +Fut !!= @CODE@   Future
+ +Prs !!= @CODE@   Present
+ +PrtI !!= @CODE@  Preterite One
  +PrtII !!= @CODE@ Preterite Two
 
 !! Verb personal forms are:
 
-+Sg1  !!= * @CODE@
-+Sg2  !!= * @CODE@
-+Sg3  !!= * @CODE@
-+Du1  !!= * @CODE@
-+Du2  !!= * @CODE@
-+Du3  !!= * @CODE@
-+Pl1  !!= * @CODE@
-+Pl2  !!= * @CODE@
-+Pl3  !!= * @CODE@
++Sg1  !!≈ * @CODE@
++Sg2  !!≈ * @CODE@
++Sg3  !!≈ * @CODE@
++Du1  !!≈ * @CODE@
++Du2  !!≈ * @CODE@
++Du3  !!≈ * @CODE@
++Pl1  !!≈ * @CODE@
++Pl2  !!≈ * @CODE@
++Pl3  !!≈ * @CODE@
 
 !! Other verb forms are: (TODO: Document the tags)
 
-+Inf	   !!= * @CODE@
-+Ger	   !!= * @CODE@
-+ConNeg	   !!= * @CODE@
-+ConNegII  !!= * @CODE@
-+Neg	   !!= * @CODE@
-+ImprtII   !!= * @CODE@
- +PrcPrsPos	!!= @CODE@
- +PrcPrfAdn	!!= @CODE@
- +PrcPrfPred	!!= @CODE@
- +PrcPrfNeg	!!= @CODE@
- +GerPos	!!= @CODE@ мыныса
- +GerNeg	!!= @CODE@ мынытэк
- +GerTer	!!= @CODE@ мынытозь
- +GerTemp	!!= @CODE@ мыныку
++Inf	        !!≈ * @CODE@  Infinitive
++Ger	    	!!≈ * @CODE@  Gerund
++ConNeg	    	!!≈ * @CODE@  Connegative (used with verb of negation)
++ConNegII   	!!≈ * @CODE@  Connegative (used with verb of negation) ?Does this apply to Udmurt?
++Neg	    	!!≈ * @CODE@  Negation, (used to mark verb of negation)
++ImprtII   	!!≈ * @CODE@  Imperative II, ?Does this apply to Udmurt?
+ +PrcPrsPos    	!!= @CODE@  Participle present positive
+ +PrcPrfAdn    	!!= @CODE@  Participle perfect adnominal
+ +PrcPrfPred   	!!= @CODE@  Participle perfect predicative
+ +PrcPrfNeg    	!!= @CODE@  Participle perfect negative 
+ +GerPos       	!!= @CODE@ мыныса    Gerund positive
+ +GerNeg       	!!= @CODE@ мынытэк   Gerund negative
+ +GerTer       	!!= @CODE@ мынытозь  Gerund terminative
+ +GerTemp      	!!= @CODE@ мыныку    Gerund temporal
+ +Sup          	!!≈ * @CODE@  Supine
+ +VGen         	!!≈ * @CODE@  Verbal genitive
+ +VAbess       	!!≈ * @CODE@  Verbal abesive
 
-
-+Sup     !!= * @CODE@
-+VGen    !!= * @CODE@
-+VAbess  !!= * @CODE@
 
 ! Abbreviated words are classified with:
 
-+ABBR  !!= * @CODE@
-+ACR   !!= * @CODE@
++ABBR  !!≈ * @CODE@  Abbreviation
++ACR   !!≈ * @CODE@  Acronym
 
 !! Special symbols are classified with:
-+CLB    !!= * @CODE@
-+PUNCT  !!= * @CODE@
-+LEFT   !!= * @CODE@
-+RIGHT  !!= * @CODE@
++CLB    !!≈ * @CODE@   Clause boundary
++PUNCT  !!≈ * @CODE@   Punctuation 
++LEFT   !!≈ * @CODE@   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
++RIGHT  !!≈ * @CODE@   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
+
 !! The verbs are syntactically split according to transitivity:
 
-+TV  !!= * @CODE@
-+IV  !!= * @CODE@
++TV  !!≈ * @CODE@ Transitive
++IV  !!≈ * @CODE@ Intransitive
+
 !! Special multiword units are analysed with:
- +Multi  !!= * @CODE@
+ +Multi !!≈ * @CODE@ Multiword phrase tag
 !! Non-dictionary words can be recognised with:
- +Guess  !!= * @CODE@
+ +Guess  !!≈ * @CODE@ machine guessed
 
 !! Question and Focus particles:
- +Qst  !!= * @CODE@
- +Foc  !!= * @CODE@
+ +Qst  !!≈ * @CODE@  Question
+ +Foc  !!≈ * @CODE@  Focus
 
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
@@ -413,9 +419,9 @@ Multichar_Symbols
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
 
-+V→N !!= * @CODE@
-+V→V  !!= * @CODE@
-+V→A  !!= * @CODE@
++V→N !!≈ * @CODE@
++V→V  !!≈ * @CODE@
++V→A  !!≈ * @CODE@
  +Der/ку    !!= @CODE@ мыныку ужаку
  +Der/ны    !!= @CODE@ мыныны ужаны
  +Der/Он    !!= @CODE@ мынон ужан
@@ -425,8 +431,8 @@ Multichar_Symbols
  +Der/Эм    !!= @CODE@ мынэм ужам
 
 !! Dialectical variation
- +Dial/North  !!= * @CODE@
- +Dial/South  !!= * @CODE@
+ +Dial/North  !!≈ * @CODE@
+ +Dial/South  !!≈ * @CODE@
 
 
 !! Morphophonology
@@ -434,29 +440,25 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
 
-{aä}  !!= * @CODE@
-{oö}  !!= * @CODE@
-{uü}  !!= * @CODE@
- %{ИӤЙ%}   !!= @CODE@
  %^@  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
-Ы2	       !!= * @CODE@ morpheme initial disappears after vowel
-Е2	       !!= * @CODE@ morpheme initial disappears after vowel
-И2	       !!= * @CODE@ morpheme initial disappears after vowel
-О2	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
-Е3	       !!= * @CODE@ Acc, Ill е э ы
-А3	       !!= * @CODE@ Ine а, я
-К3	       !!= * @CODE@ нюлэс:нюлэсК3
-М3	       !!= * @CODE@ син:синМ3
+Ы2	       !!≈ * @CODE@ morpheme initial disappears after vowel
+Е2	       !!≈ * @CODE@ morpheme initial disappears after vowel
+И2	       !!≈ * @CODE@ morpheme initial disappears after vowel
+О2	       !!≈ * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
+Е3	       !!≈ * @CODE@ Acc, Ill е э ы
+А3	       !!≈ * @CODE@ Ine а, я
+К3	       !!≈ * @CODE@ нюлэс:нюлэсК3
+М3	       !!≈ * @CODE@ син:синМ3
 
 
 !! And following triggers to control variation
 
 {front}
 {back}
-%^RusJa      !!= * @CODE@ Эстония:Эстониез
-%^SYNC	     !!= * @CODE@
-%^ЫLossVar   !!= * @CODE@ This is used for мыныны: мыны ~ мын
-%^ЫLoss      !!= * @CODE@ This is used for мыныны: мын
+%^RusJa      !!≈ * @CODE@ Эстония:Эстониез
+%^SYNC	     !!≈ * @CODE@
+%^ЫLossVar   !!≈ * @CODE@ This is used for мыныны: мыны ~ мын
+%^ЫLoss      !!≈ * @CODE@ This is used for мыныны: мын
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
