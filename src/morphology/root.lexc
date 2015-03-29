@@ -57,7 +57,7 @@ Multichar_Symbols
 
 !! The Usage extents are marked using following tags:
 
-+Err/Sub     !!≈ * @CODE@ Not in norm
++Err/Orth     !!≈ * @CODE@ Not in norm
 +Use/-Spell  !!≈ * @CODE@ Not in speller
 
 
