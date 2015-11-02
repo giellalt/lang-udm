@@ -17,7 +17,7 @@
         <t pos="N" type="Prop">Алнаши</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Alnaš</t>
+        <t pos="N" type="Prop">Alnaš</t>
       </tg>
     </mg>
   </e>
@@ -35,7 +35,7 @@
         <t pos="N" type="Prop">Ausztria</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Itävalta</t>
+        <t pos="N" type="Prop">Itävalta</t>
       </tg>
     </mg>
   </e>
@@ -53,7 +53,7 @@
         <t pos="N" type="Prop">Azerbajdzsán</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Azerbaidžan</t>
+        <t pos="N" type="Prop">Azerbaidžan</t>
       </tg>
     </mg>
   </e>
@@ -71,8 +71,12 @@
         <t pos="N" type="Prop">Ázsia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Aasia</t>
+        <t pos="N" type="Prop">Aasia</t>
       </tg>
+<xg><x>Аʼзиын улӥсь</x>
+<xt xml:lang="fin">aasialainen</xt>
+<xt xml:lang="fin">Aasian asukas</xt>
+</xg>
     </mg>
   </e>
   <e order="2">
@@ -89,7 +93,7 @@
         <t pos="N" type="Prop">Amerika</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Amerikka</t>
+        <t pos="N" type="Prop">Amerikka</t>
       </tg>
     </mg>
   </e>
@@ -107,7 +111,7 @@
         <t pos="N" type="Prop">Örményország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Armenia</t>
+        <t pos="N" type="Prop">Armenia</t>
       </tg>
     </mg>
   </e>
@@ -125,7 +129,7 @@
         <t pos="N" type="Prop">Afrika</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Afrikka</t>
+        <t pos="N" type="Prop">Afrikka</t>
       </tg>
     </mg>
   </e>
@@ -143,13 +147,14 @@
         <t pos="N" type="Prop">Baskíria</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Baškortostan</t>
+        <t pos="N" type="Prop">Baškortostan</t>
       </tg>
     </mg>
   </e>
   <e order="2">
     <lg>
       <l pos="Prop">Белоруссия</l>
+<variants><l_syn type="&gt;">Беларусь</l_syn></variants>
       <stg>
         <st Contlex="PROP_RUS_JA">Белоруссия</st>
       </stg>
@@ -161,10 +166,11 @@
         <t pos="N" type="Prop">Fehéroroszország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Valko-Venäjä</t>
+        <t pos="N" type="Prop">Valko-Venäjä</t>
       </tg>
     </mg>
   </e>
+<e><lg><l pos="N" type="Prop">Беларусь</l><stg><st Contlex="PROP_">Беларусь</st></stg><orig>Беларусь</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Valko-Venäjä</t></tg></mg></e>
   <e order="2">
     <lg>
       <l pos="Prop">Блумингтон</l>
@@ -179,7 +185,7 @@
         <t pos="N" type="Prop">Bloomington</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Bloomington</t>
+        <t pos="N" type="Prop">Bloomington</t>
       </tg>
     </mg>
   </e>
@@ -201,12 +207,13 @@
       <semantics>
         <sem class="PLACE_OTHER"/>
       </semantics>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Valo, Vala</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Valo, Vala</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Вала́</t>
+        <t pos="N" type="Prop">Вала́</t>
       </tg>
     </mg>
   </e>
@@ -219,18 +226,18 @@
     </lg>
     <phonet>Ватка</phonet>
     <mg>
-      <defNative/>
+      <defNative>шур</defNative>
+      <tg xml:lang="fin">
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Vjatkajoki</t>
+        <t pos="N" type="Prop">Vjatka</t>
+        <t pos="N" type="Prop">Vatka</t>
+      </tg>
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Vatka</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (joen nimi) </defNative>
-      <tg xml:lang="fin">
-        <t>Vatka, Vjatka</t>
-      </tg>
       <tg xml:lang="rus">
-        <t>Вя́тка</t>
+        <t pos="N" type="Prop">Вя́тка</t>
       </tg>
     </mg>
   </e>
@@ -238,14 +245,22 @@
     <lg>
       <l pos="Prop">Ватка</l>
       <stg>
-        <st Contlex="PROP_">Ватка</st>
+        <st Contlex="PROP_HEIMONNIMET">Ватка</st>
       </stg>
     </lg>
     <phonet>Ватка</phonet>
     <mg>
-      <defNative> (pohjoisudmurttilaisen heimon nimi) </defNative>
+<field>kansat.</field>
+      <defNative>племя</defNative>
       <tg xml:lang="fin">
-        <t>Vatka</t>
+<re>pohjoisudmurttilaisen heimon nimi</re>
+        <t pos="N" type="Prop">Vatka</t>
+      </tg>
+      <tg xml:lang="hun">
+        <t pos="N" type="Prop">Vatka</t>
+      </tg>
+      <tg xml:lang="rus">
+        <t pos="N" type="Prop">Вя́тка</t>
       </tg>
     </mg>
   </e>
@@ -263,7 +278,7 @@
         <t pos="N" type="Prop">Magyarország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Unkari</t>
+        <t pos="N" type="Prop">Unkari</t>
       </tg>
     </mg>
   </e>
@@ -276,12 +291,13 @@
     </lg>
     <phonet>Вожой</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Vožoj, Vožojka</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Vožoj, Vožojka</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Вожо́йка</t>
+        <t pos="N" type="Prop">Вожо́йка</t>
       </tg>
     </mg>
   </e>
@@ -295,14 +311,12 @@
     <phonet>Воткакар</phonet>
     <mg>
       <defNative/>
+      <tg xml:lang="fin">
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Votkinsk</t>
+      </tg>
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Votkinszk</t>
-      </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin nimi) </defNative>
-      <tg xml:lang="fin">
-        <t>Votkinsk</t>
       </tg>
     </mg>
   </e>
@@ -317,7 +331,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Galilea</t>
+        <t pos="N" type="Prop">Galilea</t>
       </tg>
     </mg>
   </e>
@@ -335,7 +349,7 @@
         <t pos="N" type="Prop">Németország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Saksa</t>
+        <t pos="N" type="Prop">Saksa</t>
       </tg>
     </mg>
   </e>
@@ -348,18 +362,16 @@
     </lg>
     <phonet>Глазкар</phonet>
     <mg>
-      <defNative/>
+      <defNative></defNative>
+      <tg xml:lang="fin">
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Glazkar, Glazov</t>
+      </tg>
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Glazov</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative>(kaupungin nimi) </defNative>
-      <tg xml:lang="fin">
-        <t>Glazkar, Glazov</t>
-      </tg>
       <tg xml:lang="rus">
-        <t>Гла́зов</t>
+        <t pos="N" type="Prop">Гла́зов</t>
       </tg>
     </mg>
   </e>
@@ -377,7 +389,8 @@
         <t pos="N" type="Prop">Grúzia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Georgia</t>
+        <t pos="N" type="Prop">Georgia</t>
+        <t pos="N" type="Prop">Gruuzia</t>
       </tg>
     </mg>
   </e>
@@ -395,8 +408,14 @@
         <t pos="N" type="Prop">Európa</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Eurooppa</t>
+        <t pos="N" type="Prop">Eurooppa</t>
       </tg>
+<xg><x>Россиʼлэн Евроʼпа люкетэз</x>
+<xt xml:lang="fin">Venäjän Euroopan-puoleinen osa</xt></xg>
+<xg><x>Евроʼпаын улӥсь</x>
+<xt xml:lang="fin">eurooppalainen</xt>
+<xt xml:lang="fin">Euroopan asukas</xt>
+</xg>
     </mg>
   </e>
   <e order="2">
@@ -412,11 +431,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Izsevszk</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Iževsk</t>
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Iževsk</t>
       </tg>
     </mg>
   </e>
@@ -434,7 +451,7 @@
         <t pos="N" type="Prop">Isten</t>
       </tg>
       <tg xml:lang="fin">
-        <t>udmurttien pääjumala, Inmar</t>
+        <t pos="N" type="Prop">udmurttien pääjumala, Inmar</t>
       </tg>
     </mg>
   </e>
@@ -452,7 +469,7 @@
         <t pos="N" type="Prop">Olaszország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Italia</t>
+        <t pos="N" type="Prop">Italia</t>
       </tg>
     </mg>
   </e>
@@ -465,9 +482,10 @@
     </lg>
     <phonet>Кадрек</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Kadrek</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Kadrek</t>
       </tg>
     </mg>
   </e>
@@ -485,7 +503,7 @@
         <t pos="N" type="Prop">Kazahsztán</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Kazakstan</t>
+        <t pos="N" type="Prop">Kazakstan</t>
       </tg>
     </mg>
   </e>
@@ -502,14 +520,12 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kalmez</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (joen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kalmez, Kil'mez'</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Kalmez, Kil'mez'</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Кильме́зь</t>
+        <t pos="N" type="Prop">Кильме́зь</t>
       </tg>
     </mg>
   </e>
@@ -526,14 +542,12 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Káma</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative>(joen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kama,</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Kama,</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Ка́ма</t>
+        <t pos="N" type="Prop">Ка́ма</t>
       </tg>
     </mg>
   </e>
@@ -551,7 +565,7 @@
         <t pos="N" type="Prop">Kanada</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Kanada</t>
+        <t pos="N" type="Prop">Kanada</t>
       </tg>
     </mg>
   </e>
@@ -568,11 +582,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Karpusata</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kylän nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Karpušata</t>
+<re>kylän nimi</re>
+        <t pos="N" type="Prop">Karpušata</t>
       </tg>
     </mg>
   </e>
@@ -589,11 +601,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kez</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (piirin nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kez</t>
+<re>piirin nimi</re>
+        <t pos="N" type="Prop">Kez</t>
       </tg>
     </mg>
   </e>
@@ -610,11 +620,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kijev</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kiova</t>
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Kiova</t>
       </tg>
     </mg>
   </e>
@@ -632,7 +640,7 @@
         <t pos="N" type="Prop">Kirgizia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Kirgisia, Kirgisistan</t>
+        <t pos="N" type="Prop">Kirgisia, Kirgisistan</t>
       </tg>
     </mg>
   </e>
@@ -650,7 +658,7 @@
         <t pos="N" type="Prop">Kína</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Kiina</t>
+        <t pos="N" type="Prop">Kiina</t>
       </tg>
     </mg>
   </e>
@@ -668,7 +676,7 @@
         <t pos="N" type="Prop">Kuba</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Kuuba</t>
+        <t pos="N" type="Prop">Kuuba</t>
       </tg>
     </mg>
   </e>
@@ -685,11 +693,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kazány</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kasaani, Kazan</t>
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Kasaani, Kazan</t>
       </tg>
     </mg>
   </e>
@@ -706,14 +712,12 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kureg</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kylän nimi) </defNative>
       <tg xml:lang="fin">
+<re>kylän nimi</re>
         <t pos="N" type="Prop">Kureg, Kuregovo</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Курегово</t>
+        <t pos="N" type="Prop">Курегово</t>
       </tg>
     </mg>
   </e>
@@ -730,11 +734,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Kirikmasz</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (joen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Kyrykmas</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Kyrykmas</t>
       </tg>
     </mg>
   </e>
@@ -752,7 +754,7 @@
         <t pos="N" type="Prop">Lettország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Latvia</t>
+        <t pos="N" type="Prop">Latvia</t>
       </tg>
     </mg>
   </e>
@@ -770,7 +772,7 @@
         <t pos="N" type="Prop">Litvánia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Liettua</t>
+        <t pos="N" type="Prop">Liettua</t>
       </tg>
     </mg>
   </e>
@@ -785,10 +787,14 @@
     <mg>
       <defNative/>
       <tg xml:lang="hun">
-        <t pos="N" type="Prop">Mari El/Mariföld/Mari Köztársaság</t>
+        <t pos="N" type="Prop">Mari El</t>
+        <t pos="N" type="Prop">Mariföld</t>
+        <t pos="N" type="Prop">Mari Köztársaság</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Mari El, Marinmaa</t>
+        <t pos="N" type="Prop">Mari El</t>
+        <t pos="N" type="Prop">Mari</t>
+        <t pos="N" type="Prop">Marinmaa</t>
       </tg>
     </mg>
   </e>
@@ -806,7 +812,7 @@
         <t pos="N" type="Prop">Moldávia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Moldavia</t>
+        <t pos="N" type="Prop">Moldavia</t>
       </tg>
     </mg>
   </e>
@@ -824,7 +830,7 @@
         <t pos="N" type="Prop">Mongólia</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Mongolia</t>
+        <t pos="N" type="Prop">Mongolia</t>
       </tg>
     </mg>
   </e>
@@ -841,14 +847,14 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Izs</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (joen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Otš, Iž</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Ižjoki</t>
+        <t pos="N" type="Prop">Iž</t>
+        <t pos="N" type="Prop">Otš</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Иж</t>
+        <t pos="N" type="Prop">Иж</t>
       </tg>
     </mg>
   </e>
@@ -865,11 +871,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Perm</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin ja alueen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Perm</t>
+<re>kaupungin ja alueen nimi</re>
+        <t pos="N" type="Prop">Perm</t>
       </tg>
     </mg>
   </e>
@@ -882,12 +886,13 @@
     </lg>
     <phonet>Позюм</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Poźum, Pozim</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Poźum, Pozim</t>
       </tg>
       <tg xml:lang="rus">
-        <t>По́зимь</t>
+        <t pos="N" type="Prop">По́зимь</t>
       </tg>
     </mg>
   </e>
@@ -900,9 +905,10 @@
     </lg>
     <phonet>Посьтол</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Postol</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Postol</t>
       </tg>
     </mg>
   </e>
@@ -919,11 +925,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Purga</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kylän nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Purga</t>
+<re>kylän nimi</re>
+        <t pos="N" type="Prop">Purga</t>
       </tg>
     </mg>
   </e>
@@ -936,9 +940,10 @@
     </lg>
     <phonet>Пӧжман</phonet>
     <mg>
-      <defNative>(joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Pöžman</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Pöžman</t>
       </tg>
     </mg>
   </e>
@@ -956,8 +961,14 @@
         <t pos="N" type="Prop">Oroszország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Venäjä</t>
+        <t pos="N" type="Prop">Venäjä</t>
       </tg>
+<xg><x>Россиʼя Федераʼци(я)</x>
+<xt xml:lang="fin">Venäjän federaatio</xt>
+</xg>
+<xg><x>Россиʼ(я)лэн парлаʼментэз</x>
+<xt xml:lang="fin">Venäjän parlamentti</xt>
+</xg>
     </mg>
   </e>
   <e order="2">
@@ -969,9 +980,9 @@
     </lg>
     <phonet>Сама́рия</phonet>
     <mg>
-      <defNative>(raamatullinen paikannimi) </defNative>
       <tg xml:lang="fin">
-        <t>Samaria</t>
+<re>raamatullinen paikannimi</re>
+        <t pos="N" type="Prop">Samaria</t>
       </tg>
     </mg>
   </e>
@@ -989,7 +1000,7 @@
         <t pos="N" type="Prop">Szentpétervár</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Pietari</t>
+        <t pos="N" type="Prop">Pietari</t>
       </tg>
     </mg>
   </e>
@@ -1006,11 +1017,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Szarapul</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative> (kaupungin nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Sarapul</t>
+<re>kaupungin nimi</re>
+        <t pos="N" type="Prop">Sarapul</t>
       </tg>
     </mg>
   </e>
@@ -1023,9 +1032,10 @@
     </lg>
     <phonet>Сепыч</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Sepytš</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Sepytš</t>
       </tg>
     </mg>
   </e>
@@ -1038,12 +1048,13 @@
     </lg>
     <phonet>Сива́</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Siva,</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Siva,</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Си́ва</t>
+        <t pos="N" type="Prop">Си́ва</t>
       </tg>
     </mg>
   </e>
@@ -1056,12 +1067,12 @@
     </lg>
     <phonet>Сизьгурт</phonet>
     <mg>
-      <defNative> (kylän nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Sizgurt, Djatlevo</t>
+<re>kylän nimi</re>
+        <t pos="N" type="Prop">Sizgurt, Djatlevo</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Дя́тлево</t>
+        <t pos="N" type="Prop">Дя́тлево</t>
       </tg>
     </mg>
   </e>
@@ -1079,7 +1090,7 @@
         <t pos="N" type="Prop">Szovjetunió</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Neuvostoliitto</t>
+        <t pos="N" type="Prop">Neuvostoliitto</t>
       </tg>
     </mg>
   </e>
@@ -1092,12 +1103,13 @@
     </lg>
     <phonet>Сылӥӟ</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Sylydž, Sjelytška</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Sylydž, Sjelytška</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Селы́чка</t>
+        <t pos="N" type="Prop">Селы́чка</t>
       </tg>
     </mg>
   </e>
@@ -1115,7 +1127,7 @@
         <t pos="N" type="Prop">Tadzsikisztán</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Tadžikistan</t>
+        <t pos="N" type="Prop">Tadžikistan</t>
       </tg>
     </mg>
   </e>
@@ -1133,7 +1145,7 @@
         <t pos="N" type="Prop">Tatársztán/Tatárföld</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Tatarstan</t>
+        <t pos="N" type="Prop">Tatarstan</t>
       </tg>
     </mg>
   </e>
@@ -1146,12 +1158,13 @@
     </lg>
     <phonet>Туймы</phonet>
     <mg>
-      <defNative>(joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Tujmi̮, Tojma</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Tujmi̮, Tojma</t>
       </tg>
       <tg xml:lang="rus">
-        <t>То́йма</t>
+        <t pos="N" type="Prop">То́йма</t>
       </tg>
     </mg>
   </e>
@@ -1169,7 +1182,7 @@
         <t pos="N" type="Prop">Türkmenisztán</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Turkmenia</t>
+        <t pos="N" type="Prop">Turkmenia</t>
       </tg>
     </mg>
   </e>
@@ -1187,7 +1200,7 @@
         <t pos="N" type="Prop">Udmurt Köztársaság/Udmurtföld</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Udmurtia</t>
+        <t pos="N" type="Prop">Udmurtia</t>
       </tg>
     </mg>
   </e>
@@ -1205,7 +1218,7 @@
         <t pos="N" type="Prop">Üzbegisztán</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Uzbekistan</t>
+        <t pos="N" type="Prop">Uzbekistan</t>
       </tg>
     </mg>
   </e>
@@ -1223,7 +1236,7 @@
         <t pos="N" type="Prop">Ukrajna</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Ukraina</t>
+        <t pos="N" type="Prop">Ukraina</t>
       </tg>
     </mg>
   </e>
@@ -1240,11 +1253,9 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Ural</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative>(vuoriston nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Ural</t>
+<re>vuoriston nimi</re>
+        <t pos="N" type="Prop">Ural</t>
       </tg>
     </mg>
   </e>
@@ -1262,7 +1273,7 @@
         <t pos="N" type="Prop">Finnország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Suomi</t>
+        <t pos="N" type="Prop">Suomi</t>
       </tg>
     </mg>
   </e>
@@ -1279,14 +1290,12 @@
       <tg xml:lang="hun">
         <t pos="N" type="Prop">Csepca</t>
       </tg>
-    </mg>
-    <mg>
-      <defNative>(joen nimi) </defNative>
       <tg xml:lang="fin">
-        <t>Tšuptši, Tšeptsa</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Tšuptši, Tšeptsa</t>
       </tg>
       <tg xml:lang="rus">
-        <t>Чепца́</t>
+        <t pos="N" type="Prop">Чепца́</t>
       </tg>
     </mg>
   </e>
@@ -1299,9 +1308,10 @@
     </lg>
     <phonet>Чур</phonet>
     <mg>
-      <defNative> (joen nimi) </defNative>
+      <defNative></defNative>
       <tg xml:lang="fin">
-        <t>Tšur</t>
+<re>joen nimi</re>
+        <t pos="N" type="Prop">Tšur</t>
       </tg>
     </mg>
   </e>
@@ -1319,7 +1329,7 @@
         <t pos="N" type="Prop">Észtország</t>
       </tg>
       <tg xml:lang="fin">
-        <t>Viro</t>
+        <t pos="N" type="Prop">Viro</t>
       </tg>
     </mg>
   </e>
@@ -1332,9 +1342,10 @@
     </lg>
     <phonet>Яр</phonet>
     <mg>
-      <defNative> (kylän ja piirin nimi) </defNative>
+      <defNative/>
       <tg xml:lang="fin">
-        <t>Jar</t>
+<re>kylän ja piirin nimi</re>
+        <t pos="N" type="Prop">Jar</t>
       </tg>
     </mg>
   </e>
@@ -1349,7 +1360,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Saĺja</t>
+        <t pos="N" type="Prop">Saĺja</t>
       </tg>
     </mg>
   </e>
@@ -1364,7 +1375,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Mońja</t>
+        <t pos="N" type="Prop">Mońja</t>
       </tg>
     </mg>
   </e>
@@ -1379,7 +1390,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Kibja</t>
+        <t pos="N" type="Prop">Kibja</t>
       </tg>
     </mg>
   </e>
@@ -1394,7 +1405,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Č́abja</t>
+        <t pos="N" type="Prop">Č́abja</t>
       </tg>
     </mg>
   </e>
@@ -1409,7 +1420,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Ǯ́umja</t>
+        <t pos="N" type="Prop">Ǯ́umja</t>
       </tg>
     </mg>
   </e>
@@ -1424,7 +1435,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-          <t>Vamja</t>
+          <t pos="N" type="Prop">Vamja</t>
       </tg>
     </mg>
   </e>
@@ -1439,7 +1450,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Možga</t>
+        <t pos="N" type="Prop">Možga</t>
       </tg>
     </mg>
   </e>
@@ -1454,7 +1465,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Purga</t>
+        <t pos="N" type="Prop">Purga</t>
       </tg>
     </mg>
   </e>
@@ -1469,7 +1480,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-         <t>Durga</t>
+         <t pos="N" type="Prop">Durga</t>
       </tg>
     </mg>
   </e>
@@ -1484,7 +1495,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Ni̮lga</t>
+        <t pos="N" type="Prop">Ni̮lga</t>
       </tg>
     </mg>
   </e>
@@ -1499,7 +1510,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Ebga</t>
+        <t pos="N" type="Prop">Ebga</t>
       </tg>
     </mg>
   </e>
@@ -1514,7 +1525,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Końga</t>
+        <t pos="N" type="Prop">Końga</t>
       </tg>
     </mg>
   </e>
@@ -1529,7 +1540,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Poska</t>
+        <t pos="N" type="Prop">Poska</t>
       </tg>
     </mg>
   </e>
@@ -1544,7 +1555,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Birga</t>
+        <t pos="N" type="Prop">Birga</t>
       </tg>
     </mg>
   </e>
@@ -1559,7 +1570,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Egra</t>
+        <t pos="N" type="Prop">Egra</t>
       </tg>
     </mg>
   </e>
@@ -1574,8 +1585,43 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t>Č́ola</t>
+        <t pos="N" type="Prop">Č́ola</t>
       </tg>
     </mg>
   </e>
+<e><lg><l pos="N" type="Prop">Австралия</l><stg><st Contlex="PROP__RUS_JA">Австралия</st></stg><orig>Австраʼлия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Australia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Аланд</l><stg><st Contlex="PROP_">Аланд</st></stg><orig>Аʼланд</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ahvenanmaa;</t></tg><xg><x>Аʼландын улӥсь</x><xt>ahvenanmaalainen;</xt></xg><xg><x>Аʼланд<CHECKME1/> шормуӵъёс</x><xt>Ahvenanmaa, Ahvenanmaan saaristo</xt></xg></mg></e>
+<e><lg><l pos="N" type="Prop">Англия</l><stg><st Contlex="PROP__RUS_JA">Англия</st></stg><orig>Аʼнглия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Englanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Антарктида</l><stg><st Contlex="PROP_">Антарктида</st></stg><orig>Антарктиʼда</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Etelämanner, Etelänapamanner</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Арктика</l><stg><st Contlex="PROP_">Арктика</st></stg><orig>Аʼрктика</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Arktis, pohjoisnapa-alue</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Болгария</l><stg><st Contlex="PROP__RUS_JA">Болгария</st></stg><orig>Болгаʼрия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Bulgaria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Великобритания</l><stg><st Contlex="PROP__RUS_JA">Великобритания</st></stg><orig>Великобритаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Iso-Britannia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Голландия</l><stg><st Contlex="PROP__RUS_JA">Голландия</st></stg><orig>Голлаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Hollanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Греция</l><stg><st Contlex="PROP__RUS_JA">Греция</st></stg><orig>Греʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kreikka</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Дания</l><stg><st Contlex="PROP__RUS_JA">Дания</st></stg><orig>Даʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Tanska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Евразия</l><stg><st Contlex="PROP__RUS_JA">Евразия</st></stg><orig>Евраʼзия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Euraasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Испания</l><stg><st Contlex="PROP__RUS_JA">Испания</st></stg><orig>Испаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Espanja</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кам</l><stg><st Contlex="PROP_">Кам</st></stg><orig>Кам</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kama(joki)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лапландия</l><stg><st Contlex="PROP__RUS_JA">Лапландия</st></stg><orig>Лаплаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Lappi;</t></tg><xg><x>Лаплаʼндиын улӥсь</x><xt>lappilainen</xt></xg></mg></e>
+<e><lg><l pos="N" type="Prop">Москва</l><stg><st>Москва</st></stg><orig>Москва</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Moskova</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Муско</l><stg><st Contlex="PROP_">Муско</st></stg><orig>Муско</orig></lg><mg><variants><l_syn type="&gt;">Москва</l_syn></variants></mg></e>
+<e><lg><l pos="N" type="Prop">Нидерланд</l><variants><l_syn>Нидерландъёс</l_syn></variants><stg><st Contlex="PROP_">Нидерланд</st></stg><orig>Нидерланд(ъёс)</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Alankomaat</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нидерландъёс</l><variants><l_syn>Нидерланд</l_syn></variants><stg><st Contlex="PROP_">Нидерландъёс</st></stg><orig>Нидерланд(ъёс)</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Alankomaat</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Норвегия</l><stg><st Contlex="PROP__RUS_JA">Норвегия</st></stg><orig>Норвеʼгия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Norja</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Огазеяськем Нациослэн Организацизы</l><stg><st Contlex="PROP_">Огазеяськем Нациослэн Организацизы</st></stg><orig>Огазеяськем Наʼциослэн Организаʼцизы, ОНО, ООН</orig></lg><mg><tg xml:lang="fin">
+<t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
+<t pos="N" type="Prop">YK</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Петербург</l><stg><st Contlex="PROP_">Петербург</st></stg><orig>Петербург</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Pietari</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Петрозаводск</l><stg><st Contlex="PROP_">Петрозаводск</st></stg><orig>Петрозаводск</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Petroskoi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Польша</l><stg><st Contlex="PROP_">Польша</st></stg><orig>Поʼльша</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Puola</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Прибалтика</l><stg><st Contlex="PROP_">Прибалтика</st></stg><orig>Прибаʼлтика</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Baltian maat</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Рим</l><stg><st Contlex="PROP_">Рим</st></stg><orig>Рим</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Rooma;</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Румония</l><stg><st Contlex="PROP__RUS_JA">Румония</st></stg><orig>Румония</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Romania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сибирь</l><stg><st Contlex="PROP_">Сибирь</st></stg><orig>Сибирь</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Siperia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сибыр</l><stg><st Contlex="PROP_">Сибыр</st></stg><orig>Сибыр</orig></lg><mg><range>puhek.</range><font face="TimesNewRomanPS" type="&gt;"><b>Сибирь</b></font></mg></e>
+<e><lg><l pos="N" type="Prop">Эрико Кунъёслэн Содражествозы</l><stg><st Contlex="PROP_">Эрико Кунъёслэн Содражествозы</st></stg><orig>Эрико Кунъёслэн Содражествозы</orig></lg><mg><variants><l_syn type="&gt;">СНГ</l_syn></variants></mg></e>
+<e><lg><l pos="N" type="Prop">Стокгольм</l><stg><st Contlex="PROP_">Стокгольм</st></stg><orig>Стокгольм</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Tukholma</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Франция</l><stg><st Contlex="PROP__RUS_JA">Франция</st></stg><orig>Фраʼнция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ranska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хорватия</l><stg><st Contlex="PROP__RUS_JA">Хорватия</st></stg><orig>Хорваʼтия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kroatia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Швеция</l><stg><st Contlex="PROP__RUS_JA">Швеция</st></stg><orig>Швеʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ruotsi</t></tg></mg></e>
 </r>
