@@ -29,6 +29,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +N       !!≈ * @CODE@  Noun
 +A	 !!≈ * @CODE@  Adjective
 +Adv     !!≈ * @CODE@  Adverb
++Det     !!≈ * @CODE@  Determiner
 +V	 !!≈ * @CODE@  Verb
 +Pron    !!≈ * @CODE@  Pronoun
 +CS	 !!≈ * @CODE@  Subordinating conjunction
