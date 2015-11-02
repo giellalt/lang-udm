@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+  <e>
+          <lg>
+             <l pos="N">ЭВМ</l>
+	     <variants>
+	       <l_longForm>электронно-вычислительной машина</l_longForm>
+	     </variants>
+             <stg>
+                <st Contlex="AB-NO-DOT-N_">ЭВМ</st>
+             </stg>
+<orig>электроʼнно-вычислиʼтельной машина</orig>
+          </lg>
+          <mg>
+	    <defNative></defNative>
+<tg xml:lang="fin"><t pos="N" type="Prop">tietokone</t></tg>
+          </mg>
+       </e>
+<e><lg><l pos="N" type="Prop">ОНО</l><variants><l_longForm>Огазеяськем Нациослэн Организацизы</l_longForm></variants><stg><st>ОНО</st></stg>
+<orig>Огазеяськем Наʼциослэн Организаʼцизы, ОНО</orig></lg><mg><tg xml:lang="fin">
+<t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
+<t pos="N" type="Prop">YK</t>
+</tg></mg></e>
+<e><lg><l pos="N" type="Prop">ООН</l><variants><l_syn>ОНО</l_syn><l_syn>Огазеяськем Нациослэн Организацизы</l_syn></variants><stg><st>ООН</st></stg>
+<orig>ООН</orig></lg><mg><tg xml:lang="fin">
+<t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
+<t pos="N" type="Prop">YK</t>
+</tg></mg></e>
+<e><lg><l pos="N">ШИТ</l><variants><l_longForm>шедьтэм иммунодефицитлэн тодмосэз</l_longForm></variants><stg><st Contlex="AB-NO-DOT-N_">ШИТ</st></stg><orig>ШИТ, шедьтэм иммунодефицитлэн тодмосэз</orig></lg><mg><tg xml:lang="fin">
+<t pos="N">AIDS</t>
+<t pos="N">aids</t>
+<t pos="N">immuunikato</t>
+</tg></mg></e>
+<e><lg><l pos="N">СПИД</l><variants><l_syn>ШИТ</l_syn></variants><stg><st Contlex="AB-NO-DOT-N_">СПИД</st></stg><orig>СПИД</orig></lg><mg><tg xml:lang="fin">
+<t pos="N">AIDS</t>
+<t pos="N">aids</t>
+<t pos="N">immuunikato</t>
+</tg></mg></e>
+</r>
