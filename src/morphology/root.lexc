@@ -506,9 +506,15 @@ LEXICON Root
 !   subjuntors	; ! not yet.
    verbs   ;
 
+ ABBR_udm2x ;	!!= * @CODE@ abbreviations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
 
 !!! Undeveloped contlexes
+
+!! ABBREVIATIONS
+!! these still need development 2015-11-03
+LEXICON AB-NO-DOT-N_
++N+ABBR: # ;
 
 LEXICON DESCR_
 +Descr: # ;
