@@ -506,6 +506,8 @@ LEXICON Root
 !   subjuntors	; ! not yet.
    verbs   ;
 
+ N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
+
 !!! Undeveloped contlexes
 
 LEXICON DESCR_
