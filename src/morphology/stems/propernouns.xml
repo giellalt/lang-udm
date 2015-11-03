@@ -1808,4 +1808,15 @@
      </variants>
    </mg>
 </e>
+<e>
+   <lg><l pos="N" type="Prop">Акашка</l><stg><st Contlex="PROP_">Акашка</st></stg><orig>Акашка</orig>
+   </lg>
+   <mg>
+   <field>kirk.</field> <defNative>Быдӟым нунал</defNative>
+     <tg xml:lang="fin">
+       <t>pääsiäinen</t>
+     </tg>
+   </mg>
+</e>
+
 </r>
