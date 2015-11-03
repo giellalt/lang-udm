@@ -16,6 +16,7 @@ The parts-of-speech are:
  * +N  Noun
  * +A	  Adjective
  * +Adv  Adverb
+ * +Det  Determiner
  * +V	  Verb
  * +Pron  Pronoun
  * +CS	  Subordinating conjunction
@@ -80,9 +81,6 @@ The possession is marked as such:
  * +PxSg1
  * +PxSg2
  * +PxSg3
- * +PxDu1
- * +PxDu2
- * +PxDu3
  * +PxPl1
  * +PxPl2
  * +PxPl3
@@ -289,6 +287,7 @@ source and target part-of-speech.
   +Der/тозь   мынытозь ужатозь
   +Der/тэм   мынӥсьтэм ужасьтэм
   +Der/Эм     мынэм ужам
+  +Der/Эмтэ     мынэмтэ ужамтэ
 
 Dialectical variation
  * +Dial/North
@@ -348,6 +347,8 @@ given the proper use of these flags.
 
 The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+ *  N_NEWWORDS ;     These are new nouns without translations
 
 Undeveloped contlexes
 

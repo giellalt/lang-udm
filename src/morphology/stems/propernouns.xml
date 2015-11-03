@@ -1589,25 +1589,25 @@
       </tg>
     </mg>
   </e>
-<e><lg><l pos="N" type="Prop">Австралия</l><stg><st Contlex="PROP__RUS_JA">Австралия</st></stg><orig>Австраʼлия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Australia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Австралия</l><stg><st Contlex="PROP_RUS_JA">Австралия</st></stg><orig>Австраʼлия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Australia</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Аланд</l><stg><st Contlex="PROP_">Аланд</st></stg><orig>Аʼланд</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ahvenanmaa</t></tg><xg><x>Аʼландын улӥсь</x><xt>ahvenanmaalainen;</xt></xg><xg><x>Аʼланд<CHECKME1/> шормуӵъёс</x><xt>Ahvenanmaa, Ahvenanmaan saaristo</xt></xg></mg></e>
-<e><lg><l pos="N" type="Prop">Англия</l><stg><st Contlex="PROP__RUS_JA">Англия</st></stg><orig>Аʼнглия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Englanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Англия</l><stg><st Contlex="PROP_RUS_JA">Англия</st></stg><orig>Аʼнглия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Englanti</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Антарктида</l><stg><st Contlex="PROP_">Антарктида</st></stg><orig>Антарктиʼда</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Etelämanner, Etelänapamanner</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Арктика</l><stg><st Contlex="PROP_">Арктика</st></stg><orig>Аʼрктика</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Arktis, pohjoisnapa-alue</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Болгария</l><stg><st Contlex="PROP__RUS_JA">Болгария</st></stg><orig>Болгаʼрия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Bulgaria</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Великобритания</l><stg><st Contlex="PROP__RUS_JA">Великобритания</st></stg><orig>Великобритаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Iso-Britannia</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Голландия</l><stg><st Contlex="PROP__RUS_JA">Голландия</st></stg><orig>Голлаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Hollanti</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Греция</l><stg><st Contlex="PROP__RUS_JA">Греция</st></stg><orig>Греʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kreikka</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Дания</l><stg><st Contlex="PROP__RUS_JA">Дания</st></stg><orig>Даʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Tanska</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Евразия</l><stg><st Contlex="PROP__RUS_JA">Евразия</st></stg><orig>Евраʼзия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Euraasia</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Испания</l><stg><st Contlex="PROP__RUS_JA">Испания</st></stg><orig>Испаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Espanja</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Болгария</l><stg><st Contlex="PROP_RUS_JA">Болгария</st></stg><orig>Болгаʼрия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Bulgaria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Великобритания</l><stg><st Contlex="PROP_RUS_JA">Великобритания</st></stg><orig>Великобритаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Iso-Britannia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Голландия</l><stg><st Contlex="PROP_RUS_JA">Голландия</st></stg><orig>Голлаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Hollanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Греция</l><stg><st Contlex="PROP_RUS_JA">Греция</st></stg><orig>Греʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kreikka</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Дания</l><stg><st Contlex="PROP_RUS_JA">Дания</st></stg><orig>Даʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Tanska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Евразия</l><stg><st Contlex="PROP_RUS_JA">Евразия</st></stg><orig>Евраʼзия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Euraasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Испания</l><stg><st Contlex="PROP_RUS_JA">Испания</st></stg><orig>Испаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Espanja</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Кам</l><stg><st Contlex="PROP_">Кам</st></stg><orig>Кам</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kama(joki)</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Лапландия</l><stg><st Contlex="PROP__RUS_JA">Лапландия</st></stg><orig>Лаплаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Lappi</t></tg><xg><x>Лаплаʼндиын улӥсь</x><xt>lappilainen</xt></xg></mg></e>
-<e><lg><l pos="N" type="Prop">Москва</l><stg><st>Москва</st></stg><orig>Москва</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Moskova</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Лапландия</l><stg><st Contlex="PROP_RUS_JA">Лапландия</st></stg><orig>Лаплаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Lappi</t></tg><xg><x>Лаплаʼндиын улӥсь</x><xt>lappilainen</xt></xg></mg></e>
+<e><lg><l pos="N" type="Prop">Москва</l><stg><st Contlex="PROP_">Москва</st></stg><orig>Москва</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Moskova</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Муско</l><stg><st Contlex="PROP_">Муско</st></stg><orig>Муско</orig></lg><mg><variants><l_syn type="&gt;">Москва</l_syn></variants></mg></e>
 <e><lg><l pos="N" type="Prop">Нидерланд</l><variants><l_syn>Нидерландъёс</l_syn></variants><stg><st Contlex="PROP_">Нидерланд</st></stg><orig>Нидерланд(ъёс)</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Alankomaat</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Нидерландъёс</l><variants><l_syn>Нидерланд</l_syn></variants><stg><st Contlex="PROP_">Нидерландъёс</st></stg><orig>Нидерланд(ъёс)</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Alankomaat</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Норвегия</l><stg><st Contlex="PROP__RUS_JA">Норвегия</st></stg><orig>Норвеʼгия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Norja</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Норвегия</l><stg><st Contlex="PROP_RUS_JA">Норвегия</st></stg><orig>Норвеʼгия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Norja</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Огазеяськем Нациослэн Организацизы</l><stg><st Contlex="PROP_">Огазеяськем Нациослэн Организацизы</st></stg><orig>Огазеяськем Наʼциослэн Организаʼцизы, ОНО, ООН</orig></lg><mg><tg xml:lang="fin">
 <t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
 <t pos="N" type="Prop">YK</t></tg></mg></e>
@@ -1616,14 +1616,14 @@
 <e><lg><l pos="N" type="Prop">Польша</l><stg><st Contlex="PROP_">Польша</st></stg><orig>Поʼльша</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Puola</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Прибалтика</l><stg><st Contlex="PROP_">Прибалтика</st></stg><orig>Прибаʼлтика</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Baltian maat</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Рим</l><stg><st Contlex="PROP_">Рим</st></stg><orig>Рим</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Rooma</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Румония</l><stg><st Contlex="PROP__RUS_JA">Румония</st></stg><orig>Румония</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Romania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Румония</l><stg><st Contlex="PROP_RUS_JA">Румония</st></stg><orig>Румония</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Romania</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Сибирь</l><stg><st Contlex="PROP_">Сибирь</st></stg><orig>Сибирь</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Siperia</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Сибыр</l><stg><st Contlex="PROP_">Сибыр</st></stg><orig>Сибыр</orig></lg><mg><range>puhek.</range><font face="TimesNewRomanPS" type="&gt;"><b>Сибирь</b></font></mg></e>
 <e><lg><l pos="N" type="Prop">Эрико Кунъёслэн Содражествозы</l><stg><st Contlex="PROP_">Эрико Кунъёслэн Содражествозы</st></stg><orig>Эрико Кунъёслэн Содражествозы</orig></lg><mg><variants><l_syn type="&gt;">СНГ</l_syn></variants></mg></e>
 <e><lg><l pos="N" type="Prop">Стокгольм</l><stg><st Contlex="PROP_">Стокгольм</st></stg><orig>Стокгольм</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Tukholma</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Франция</l><stg><st Contlex="PROP__RUS_JA">Франция</st></stg><orig>Фраʼнция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ranska</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Хорватия</l><stg><st Contlex="PROP__RUS_JA">Хорватия</st></stg><orig>Хорваʼтия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kroatia</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Швеция</l><stg><st Contlex="PROP__RUS_JA">Швеция</st></stg><orig>Швеʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ruotsi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Франция</l><stg><st Contlex="PROP_RUS_JA">Франция</st></stg><orig>Фраʼнция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ranska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хорватия</l><stg><st Contlex="PROP_RUS_JA">Хорватия</st></stg><orig>Хорваʼтия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kroatia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Швеция</l><stg><st Contlex="PROP_RUS_JA">Швеция</st></stg><orig>Швеʼция</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ruotsi</t></tg></mg></e>
 <e>
    <lg>
      <l pos="N" type="Prop">Великтэм</l>
@@ -1749,7 +1749,7 @@
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Jumalansynnyttäjän suojelus, pokrova</t>
      </tg>
-   <mg ind="2th"/><defNative>(<i>нунал</i>)</defNative>
+</mg><mg ind="2th"><defNative>(<i>нунал</i>)</defNative>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Marian päivä, pokrovan päivä</t>
      </tg>
@@ -1770,8 +1770,8 @@
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Jumalansynnyttäjän suojelus, pokrova</t>
-     </tg>
-   <mg ind="2th"/><defNative>(<i>нунал</i>)</defNative>
+     </tg></mg>
+   <mg ind="2th"><defNative>(<i>нунал</i>)</defNative>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Marian päivä, pokrovan päivä</t>
      </tg>
