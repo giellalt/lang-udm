@@ -1,7 +1,8 @@
 
 LEXICON conjunctors
 
-а:а CC_  "" ;
+а:а CC_  "mutta" ;
+а:а CS_  "joko ... tai" ;
 агар:агар CS_  "" ;
 айкась:айкась CONJ_  "" ;
 али:али CONJ_  "" ;

@@ -13,12 +13,73 @@
       </stg>
     </lg>
 
+   <mg ind="1th"><posType>advers.</posType>
+     <tg xml:lang="fin">
+       <t Pos="CC">mutta</t>
+     <tCtn>
+<re xml:lang="udm">ӧвӧлтон бере</re>
+       <t Pos="CC">vaan</t>
+</tCtn>
+     </tg>
+     <xg><x>мон та книгаез лыдӟи ни, а тон ӧд на</x>
+       <xt xml:lang="fin">minä olen jo lukenut tämän kirjan, mutta sinä et ole vielä;</xt>
+     </xg>
+     <xg><x>тынад ӧвӧл со малпанэд, а мынам</x>
+       <xt xml:lang="fin">se ei ole sinun ajatuksesi, vaan minun</xt>
+     </xg>
+</mg>
+   <mg ind="2th"> <posType>advers.</posType>
+     <tg xml:lang="fin">
+       <t Pos="CC">mutta</t>
+       <t Pos="CC">niin kuitenkin</t>
+       <t Pos="CC">kuitenkin</t>
+     </tg>
+     <xg><x>мон кемалась сое вунэтӥ ни, а тон яʼлаʼн тодад ваиськод</x>
+       <xt xml:lang="fin">minä olen jo unohtanut sen kauan sitten, mutta sinä muistelet yhä vielä(kin)</xt>
+     </xg>
+</mg>
+   <mg ind="3th"> <posType>kopl.</posType>
+     <tg xml:lang="fin">
+       <t Pos="CC">ja</t>
+     <tCtn><re xml:lang="udm">ӧвӧлтон дыръя</re>
+       <t Pos="CC">eikä</t>
+</tCtn>
+     </tg>
+     <xg><x>гурт дортӥ шур бызе, а со сьӧрын нюлэс сылэ</x>
+       <xt xml:lang="fin">kylän vieressä virtaa joki, ja sen takana on metsä;</xt>
+     </xg>
+     <xg><x>уксёез солэн ӧвӧл, а ужамез уг поты</x>
+       <xt xml:lang="fin">hänellä ei ole rahaa, eikä hän halua työskennellä</xt>
+     </xg>
+     <variants>
+       <l_syn type="vrt0">нош<rom ind="1"/></l_syn>
+     </variants>
+   </mg>
     <mg>
       <defNative/>
 
       <tg xml:lang="hun">
         <t pos="CC">de</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">а</l>
+
+      <stg>
+        <st Contlex="CS_">а</st>
+      </stg>
+    </lg>
+<mg ind="1th"> <defNative>-а ... -а </defNative>
+<posType>Disj</posType>
+     <tg xml:lang="fin">
+       <t pos="CS">joko ... tai</t>
+     </tg>
+     <xg><x>салам, пе, сьӧре нуоно – ӟазег-а, ӵӧж-а</x>
+       <xt xml:lang="fin">mukaan on otettava tuliaisia – joko hanhi tai ankka</xt>
+     </xg>
     </mg>
   </e>
 
