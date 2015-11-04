@@ -348,9 +348,13 @@ given the proper use of these flags.
 The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
+ *  ABBR_udm2x ;	 abbreviations
  *  N_NEWWORDS ;     These are new nouns without translations
 
 Undeveloped contlexes
+
+ABBREVIATIONS
+these still need development 2015-11-03
 
 
 

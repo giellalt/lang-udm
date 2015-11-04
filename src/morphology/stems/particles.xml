@@ -2,7 +2,49 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e> <lg> <l pos="Pcle">а</l> <stg> <st Contlex="PCLE_">﻿а</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l hid="Hom1" pos="Pcle">а</l> <stg> <st Contlex="PCLE_">﻿а</st> </stg> </lg>
+<mg ind="1th"> <defNative/> <posType>interr.</posType>
+     <tg xml:lang="fin">
+       <t>entä(s), entäpä(s);</t>
+     </tg>
+     <xg><x>а тон мар ӵуказе кариськод?</x>
+       <xt xml:lang="fin">entä(s) mitä sinä teet huomenna?</xt>
+     </xg>
+</mg>   <mg ind="2th"> 
+     <tg xml:lang="fin">
+<re>interr. ja vahv.</re>
+       <t>mitä, hä(h);</t>
+     </tg>
+     <xg><x>мар тон верад, а?</x>
+       <xt xml:lang="fin">mitä oikein sanoit, häh?</xt>
+     </xg>
+</mg>
+   <mg ind="3th">
+     <tg xml:lang="fin">
+ <re>vahv.</re>
+       <t>entä (sitten), =pa / =pä;</t>
+     </tg>
+     <xg><x>а мар карод на?</x>
+       <xt xml:lang="fin">entä mitä sitten sille tehtäisiin?;</xt>
+     </xg>
+     <xg><x>а тон мын берты ни</x>
+       <xt xml:lang="fin">lähdepä sinä jo kotiin</xt>
+     </xg>
+</mg> </e>
+<e> <lg> <l hid="Hom2" pos="Pcle">а</l> <stg> <st Contlex="PCLE_">﻿а</st> </stg> </lg>
+   <mg ind="1th"> <defNative>-а; -а ... -а </defNative>
+<posType>interr.</posType>
+     <tg xml:lang="fin">
+       <t>=ko / =kö; =ko / =kö ... vai;</t>
+     </tg>
+     <xg><x>вань-а тынад чылкыт бумагаед?</x>
+       <xt xml:lang="fin">onko sinulla puhdasta paperia?;</xt>
+     </xg>
+     <xg><x>лыктод-а, уд-а туннэ?</x>
+       <xt xml:lang="fin">tuletko tänään vai et?</xt>
+     </xg>
+   </mg>
+</e>
 <e> <lg> <l pos="Pcle">адске</l> <stg> <st Contlex="PCLE_">адске</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">ай</l> <stg> <st Contlex="PCLE_">ай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
 <e> <lg> <l pos="Pcle">айбат</l> <stg> <st Contlex="PCLE_">айбат</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>

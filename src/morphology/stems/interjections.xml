@@ -6,6 +6,40 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
+      <l pos="Interj">а</l>
+
+      <stg>
+        <st Contlex="INTERJ_">а</st>
+      </stg>
+    </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t pos="Interj">ahaa</t>
+       <t pos="Interj">aa</t>
+       <t pos="Interj">ai</t>
+       <t pos="Interj">kas</t>
+     </tg>
+     <xg><x>а, тон-а со?</x>
+       <xt xml:lang="fin">ai, sinäkö siinä oletkin?</xt>
+       <xt xml:lang="fin">kas, sinäkö siinä oletkin?</xt>
+     </xg>
+</mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>ahaa</t>
+       <t pos="Interj">ähä</t>
+       <t pos="Interj">ähä kutti</t>
+       <t pos="Interj">ähäs kutti</t>
+       <t pos="Interj">piti piti</t>
+     </tg>
+     <xg><x>а, сюриз-а?!</x>
+       <xt xml:lang="fin">ähä siitä sait!</xt>
+       <xt xml:lang="fin">piti piti siitä sait!</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+    <lg>
       <l pos="Interj">а-а-а</l>
 
       <stg>
