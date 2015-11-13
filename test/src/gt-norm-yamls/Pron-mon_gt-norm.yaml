@@ -1,0 +1,82 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+  Pron - мон: # Pronoun  мон 'eng /udm /fin' - full paradigm
+     мон+Pron+Pers+Sg1+Nom: мон
+     мон+Pron+Pers+Sg1+Gen: мынам
+     мон+Pron+Pers+Sg1+Dat: мыным
+     мон+Pron+Pers+Sg1+Abl: мынэсьтым
+     мон+Pron+Pers+Sg1+Acc: монэ
+     мон+Pron+Pers+Sg1+Ins: [монэн, монэным]
+     мон+Pron+Pers+Sg1+Abe: монтэк
+     мон+Pron+Pers+Sg1+Apr: монлань
+     мон+Pron+Pers+Sg1+Advl: монъя
+#
+     тон+Pron+Pers+Sg2+Nom: тон
+     тон+Pron+Pers+Sg2+Gen: тынад
+     тон+Pron+Pers+Sg2+Dat: тыныд
+     тон+Pron+Pers+Sg2+Abl: тынэсьтыд
+     тон+Pron+Pers+Sg2+Acc: тонэ
+     тон+Pron+Pers+Sg2+Ins: [тонэн, тонэныд]
+     тон+Pron+Pers+Sg2+Abe: тонтэк
+     тон+Pron+Pers+Sg2+Apr: тонлань
+     тон+Pron+Pers+Sg2+Advl: тонъя
+#
+     со+Pron+Pers+Sg1+Nom: со
+     со+Pron+Pers+Sg1+Gen: солэн
+     со+Pron+Pers+Sg1+Dat: солы
+     со+Pron+Pers+Sg1+Abl: солэсь
+     со+Pron+Pers+Sg1+Acc: сое
+     со+Pron+Pers+Sg1+Ins: соин
+     со+Pron+Pers+Sg1+Abe: сотэк
+     со+Pron+Pers+Sg1+Apr: солань
+     со+Pron+Pers+Sg1+Advl: соя
+#
+     ми+Pron+Pers+Pl1+Nom: ми
+     ми+Pron+Pers+Pl1+Gen: милям
+     ми+Pron+Pers+Pl1+Dat: [милемлы, милем]
+     ми+Pron+Pers+Pl1+Abl: милэсьтым
+     ми+Pron+Pers+Pl1+Acc: [милемыз, милемды]
+     ми+Pron+Pers+Pl1+Ins: [милемын, миленымы]
+     ми+Pron+Pers+Pl1+Abe: митэк
+     ми+Pron+Pers+Pl1+Apr: милань
+     ми+Pron+Pers+Pl1+Advl: мия
+#
+     тӥ+Pron+Pers+Pl2+Nom: тӥ
+     тӥ+Pron+Pers+Pl2+Gen: тӥляд
+     тӥ+Pron+Pers+Pl2+Dat: [тӥледлы, тӥлед]
+     тӥ+Pron+Pers+Pl2+Abl: тӥлэсьтыд
+     тӥ+Pron+Pers+Pl2+Acc: [тӥледыз, тӥледды]
+     тӥ+Pron+Pers+Pl2+Ins: [тӥледын, тӥленыды]
+     тӥ+Pron+Pers+Pl2+Abe: тӥтэк
+     тӥ+Pron+Pers+Pl2+Apr: тӥлань
+     тӥ+Pron+Pers+Pl2+Advl: тӥя
+#
+     соос+Pron+Pers+Pl+Nom: соос
+     соос+Pron+Pers+Pl+Gen: соослэн
+     соос+Pron+Pers+Pl+Dat: соослы
+     соос+Pron+Pers+Pl+Abl: соослэсь
+     соос+Pron+Pers+Pl+Acc: [соосыз, соосты]
+     соос+Pron+Pers+Pl+Ins: соосын
+     соос+Pron+Pers+Pl+Abe: соостэк
+     соос+Pron+Pers+Pl+Apr: соослань
+     соос+Pron+Pers+Pl+Advl: соосъя
+
+
+
+
+

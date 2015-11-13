@@ -2261,11 +2261,36 @@
       <lg>
          <l pos="Pron">ми</l>
          <stg>
-            <st Contlex="PRON_">ми</st>
+            <st Contlex="PRON-PERS-PL1_">ми</st>
          </stg>
       </lg>
       <mg>
          <defNative/>
+       <t>me;</t>
+     </tg>
+     <xg><x>ми асьмеос</x>
+       <xt xml:lang="fin">me itse;</xt>
+     </xg>
+     <xg><x>ми ваʼньмы</x>
+       <xt xml:lang="fin">me kaikki;</xt>
+     </xg>
+     <xg><x>ми пӧлысь</x>
+       <xt xml:lang="fin">meistä, meidän joukostamme;</xt>
+     </xg>
+     <xg>
+<x>ми сямен</x>
+<x>ми малпаммыя</x>
+       <xt xml:lang="fin">(meidän) mielestämme</xt>
+     </xg>
+     <xg>
+<x>ми музэн</x>
+<x>ми кадь</x>
+       <xt xml:lang="fin">meidän tavallamme, kuin me</xt>
+     </xg>
+     <xg>
+<x>ми сярысь вераськыны</x>
+       <xt xml:lang="fin">puhua meistä</xt>
+     </xg>
       </mg>
    </e>
    <e>
@@ -2382,7 +2407,7 @@
       <lg>
          <l pos="Pron">мон</l>
          <stg>
-            <st Contlex="PRON_">мон</st>
+            <st Contlex="PRON-PERS-SG1_">м</st>
          </stg>
       </lg>
       <mg>
@@ -4120,12 +4145,130 @@
       <lg>
          <l pos="Pron">со</l>
          <stg>
-            <st Contlex="PRON_">со</st>
+            <st Contlex="PRON-PERS-SG3_">со</st>
          </stg>
       </lg>
       <mg>
          <defNative/>
+     <tg xml:lang="fin">
+<tCtn>
+<re xml:lang="udm">арбери но лулос с-сь</re>
+       <t>hän</t>
+</tCtn>
+       <t>se</t>
+     </tg>
+     <xg><x>со умой дышетске</x>
+       <xt xml:lang="fin">hän menestyy hyvin opinnoissaan;</xt>
+     </xg>
+     <xg><x>туэ со вазь сяськаяськыны кутскиз</x>
+       <xt xml:lang="fin">tänä vuonna se alkoi kukkia aikaisin;</xt>
+     </xg>
+     <xg><x>со выллем</x>
+       <xt xml:lang="fin">hänen kaltaisensa</xt>
+       <xt xml:lang="fin">hänen <!-- CHECKME -->kaltainen</xt>
+       <xt xml:lang="fin">sen kaltainen</xt>
+     </xg>
       </mg>
+   <mg ind="2th"> <note><i>demonstr. </i></note>
+     <tg xml:lang="fin">
+       <t>se;</t>
+     </tg><font face="SmolenskSGR">(<i>тӥни со</i>)</font>
+     <tg xml:lang="fin">
+       <t>tuo;</t>
+     </tg>
+     <xg><x>кин со?;</x>
+       <xt xml:lang="fin">kuka se (t. tuo) on?;</xt>
+     </xg>
+     <xg><x>мар со сыӵе?</x>
+       <xt xml:lang="fin">mikä se (t. tuo) oikein on?;</xt>
+     </xg>
+     <xg><x>мон улӥсько (тӥни) со коркан</x>
+       <xt xml:lang="fin">minä asun tuossa talossa</xt>
+     </xg>
+</mg>
+   <mg ind="3th"/> <note><i>determ. </i></note>
+     <tg xml:lang="fin">
+       <t>niin; noin; näin;</t>
+     </tg>
+     <xg><x>со быдӟа</x>
+       <xt xml:lang="fin">niin iso (t. suuri);</xt>
+     </xg>
+     <xg><x>со быдӟа ик</x>
+       <xt xml:lang="fin">samankokoinen;</xt>
+     </xg>
+     <xg><x>со ӝужда</x>
+       <xt xml:lang="fin">niin korkea (t. suuri);</xt>
+     </xg><font face="SmolenskSGR">(<i>адями, пудо-пӧйшур с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>niin pitkä</t>
+       <re>ihminen, eläin</re>;
+     </tg>
+     <xg><x>со ӝужда ик</x>
+       <xt xml:lang="fin">samankorkuinen;</xt>
+     </xg><font face="SmolenskSGR">(<i>адями, пудо- пӧйшур с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>samanpituinen</t>
+       <re>ihminen, eläin</re>;
+     </tg>
+     <xg><x>со зӧкта</x>
+       <xt xml:lang="fin">niin paksu;</xt>
+     </xg>
+     <xg><x>со зӧкта ик</x>
+       <xt xml:lang="fin">samanpaksuinen;</xt>
+     </xg>
+     <xg><x>со кузьда</x>
+       <xt xml:lang="fin">niin pitkä;</xt>
+     </xg>
+     <xg><x>со кузьда ик</x>
+       <xt xml:lang="fin">samanpituinen;</xt>
+     </xg>
+     <xg><x>со мурда</x>
+       <xt xml:lang="fin">niin syvä;</xt>
+     </xg>
+     <xg><x>со мурда ик</x>
+       <xt xml:lang="fin">samansyvyinen;</xt>
+     </xg>
+     <xg><x>со пасьта</x>
+       <xt xml:lang="fin">niin leveä;</xt>
+     </xg>
+     <xg><x>со пасьта ик</x>
+       <xt xml:lang="fin">samanlevyinen •</xt>
+     </xg><font face="SmolenskSGR"><b>со дырозь </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>siihen aikaan (asti), siihen mennessä</t>
+     </tg><mwemg ind="2th"/><defNative>сокема</defNative>
+     <tg xml:lang="fin">
+       <t>niin kauan;</t>
+     </tg><font face="SmolenskSGR"><b>со ласянь </b></font><mwemg ind="1th"/><defNative>сопаласен</defNative>
+     <tg xml:lang="fin">
+       <t>tuolta puolelta, tuolta suunnalta</t>
+     </tg><mwemg ind="2th"/><defNative>соиз пумысен, созэ лыдэ басьтыса</defNative>
+     <tg xml:lang="fin">
+       <t>siinä suhteessa;</t>
+     </tg><font face="SmolenskSGR"><b>со понна </b></font><mwemg ind="1th"/><defNative>солы</defNative>
+     <tg xml:lang="fin">
+       <t>häntä varten (t. hänen hyväkseen);</t>
+     </tg><font face="SmolenskSGR">(<i>соин сэрен</i>)</font>
+     <tg xml:lang="fin">
+       <t>sen vuoksi (t. takia, tähden)</t>
+     </tg><mwemg ind="2th"/><defNative>со пумысен</defNative>
+     <tg xml:lang="fin">
+       <t>hänen puolestaan, hänestä; siitä</t>
+     </tg><mwemg ind="3th"/><note><i>konj:na </i></note>
+     <tg xml:lang="fin">
+       <t>sitä vastoin, sen sijaan</t>
+     </tg>◊
+     <xg><x>со вылэ ик</x>
+       <xt xml:lang="fin">lisäksi, päälle päätteeksi;</xt>
+     </xg>
+     <xg><x>сотэк уг луы</x>
+       <xt xml:lang="fin">muulla tavoin ei voi;</xt>
+     </xg>
+     <xg><x>кызьы сотэк?!</x>
+       <xt xml:lang="fin">kuinkas muuten, ilman muuta, totta kai</xt>
+     </xg>
+   </mg>
+
    </e>
    <e>
       <lg>
@@ -4516,11 +4659,19 @@
       <lg>
          <l pos="Pron">соос</l>
          <stg>
-            <st Contlex="PRON_">соос</st>
+            <st Contlex="PRON-PERS-PL3_">соос</st>
          </stg>
       </lg>
       <mg>
          <defNative/>
+     <tg xml:lang="fin">
+<tCtn>
+<re xml:lang="udm">лулосъёс но арбериос с-сь</re>
+       <t pos="Pron">he</t>
+</tCtn>
+       <t pos="Pron">ne</t>
+     </tg>
+
       </mg>
    </e>
    <e>
@@ -4989,11 +5140,14 @@
       <lg>
          <l pos="Pron">тон</l>
          <stg>
-            <st Contlex="PRON_">тон</st>
+            <st Contlex="PRON-PERS-SG2_">т</st>
          </stg>
       </lg>
       <mg>
          <defNative/>
+     <tg xml:lang="fin">
+       <t>sinä</t>
+     </tg>
       </mg>
    </e>
    <e>
@@ -5143,7 +5297,7 @@
       <lg>
          <l pos="Pron">тӥ</l>
          <stg>
-            <st Contlex="PRON_">тӥ</st>
+            <st Contlex="PRON-PERS-PL2_">тӥ</st>
          </stg>
       </lg>
       <mg>
