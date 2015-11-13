@@ -534,9 +534,6 @@ LEXICON PRC_
 LEXICON PO_
 +Po: # ;
 
-LEXICON PRON_
-+Pron: # ;
-
 LEXICON NUM_
 +Num: # ;
 
