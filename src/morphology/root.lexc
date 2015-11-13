@@ -519,6 +519,9 @@ LEXICON AB-NO-DOT-N_
 LEXICON DESCR_
 +Descr: # ;
 
+LEXICON DET_
++Det: # ;
+
 LEXICON GER_
 +Ger: # ;
 
