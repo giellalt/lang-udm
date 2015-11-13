@@ -1,0 +1,138 @@
+!! !! UDMURT Pronoun inflection
+
+!! Udmurt adjectives inflect for:
+
+!! * Number
+!! * Case
+!! * Determinativity (Absolutive / Determinative)
+!! * Comparative (TODO: can comparative co-occur with other stuff?)
+
+!! ! Determinative notes
+
+!! When an adjective occurs in determinative, it must agree for number and case.
+!! However, when determinative co-occurs with certain cases, these cases
+!! have alternate forms.
+
+!! The cases with alternate forms are:
+
+!! * Accusative singular, plural
+!! * Inessive singular, plural
+!! * Illative singular, plural
+!! * Elative singular, plural
+
+!! Note that these alternative suffixes have palatal and non-palatal versions
+
+!! | Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+!! | Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+!! | Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+!! | Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+!! | Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+!! | Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+!! | Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+!! | Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+!! TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+
+!! words with this contlex have not been examined
+
+LEXICON PRON_
++Pron: # ;
+
+LEXICON PRON-PERS-SG1_ !! мон:м
++Pron+Pers+Sg1+Nom:он K ;
++Pron+Pers+Sg1+Gen:ынам K ;
++Pron+Pers+Sg1+Dat:ыным K ;
++Pron+Pers+Sg1+Abl:ынэсьтым K ;
++Pron+Pers+Sg1+Acc:онэ K ;
++Pron+Pers+Sg1+Ins:онэн K ;
++Pron+Pers+Sg1+Ins:онэным K ;
++Pron+Pers+Sg1+Abe:онтэк K ;
++Pron+Pers+Sg1+Apr:онлань K ;
++Pron+Pers+Sg1+Advl:онъя K ;
+
+LEXICON PRON-PERS-SG2_ !тон:т
++Pron+Pers+Sg2+Nom:он K ;
++Pron+Pers+Sg2+Gen:ынад K ;
++Pron+Pers+Sg2+Dat:ыныд K ;
++Pron+Pers+Sg2+Abl:ынэсьтыд K ;
++Pron+Pers+Sg2+Acc:онэ K ;
++Pron+Pers+Sg2+Ins:тонэн K ;
++Pron+Pers+Sg2+Ins:тонэныд K ;
++Pron+Pers+Sg2+Abe:онтэк K ;
++Pron+Pers+Sg2+Apr:онлань K ;
++Pron+Pers+Sg2+Advl:онъя K ;
+
+LEXICON PRON-PERS-SG3_ !со:со
++Pron+Pers+Sg1+Nom: K ;
++Pron+Pers+Sg1+Gen:лэн K ;
++Pron+Pers+Sg1+Dat:лы K ;
++Pron+Pers+Sg1+Abl:лэсь K ;
++Pron+Pers+Sg1+Acc:е K ;
++Pron+Pers+Sg1+Ins:ин K ;
++Pron+Pers+Sg1+Abe:тэк K ;
++Pron+Pers+Sg1+Apr:лань K ;
++Pron+Pers+Sg1+Advl:я K ;
+
+LEXICON PRON-PERS-PL1_ !!ми:ми
++Pron+Pers+Pl1+Nom: K ;
++Pron+Pers+Pl1+Gen:лям K ;
++Pron+Pers+Pl1+Dat:лемлы K ;
++Pron+Pers+Pl1+Dat:лем K ;
++Pron+Pers+Pl1+Abl:лэсьтым K ;
++Pron+Pers+Pl1+Acc:лемыз K ;
++Pron+Pers+Pl1+Acc:лемды K ;
++Pron+Pers+Pl1+Ins:лемын K ;
++Pron+Pers+Pl1+Ins:ленымы K ;
++Pron+Pers+Pl1+Abe:тэк K ;
++Pron+Pers+Pl1+Apr:лань K ;
++Pron+Pers+Pl1+Advl:я K ;
+
+LEXICON PRON-PERS-PL2_ !!тӥ:тӥ
++Pron+Pers+Pl2+Nom: K ;
++Pron+Pers+Pl2+Gen:ляд K ;
++Pron+Pers+Pl2+Dat:ледлы K ;
++Pron+Pers+Pl2+Dat:лед K ;
++Pron+Pers+Pl2+Abl:лэсьтыд K ;
++Pron+Pers+Pl2+Acc:ледыз K ;
++Pron+Pers+Pl2+Acc:ледды K ;
++Pron+Pers+Pl2+Ins:ледын K ;
++Pron+Pers+Pl2+Ins:леныды K ;
++Pron+Pers+Pl2+Abe:тэк K ;
++Pron+Pers+Pl2+Apr:лань K ;
++Pron+Pers+Pl2+Advl:я K ;
+
+LEXICON PRON-PERS-PL3_ !!соос:соос
++Pron+Pers+Pl+Nom: K ;
++Pron+Pers+Pl+Gen:лэн K ;
++Pron+Pers+Pl+Dat:лы K ;
++Pron+Pers+Pl+Abl:лэсь K ;
++Pron+Pers+Pl+Acc:ыз K ;
++Pron+Pers+Pl+Acc:ты K ;
++Pron+Pers+Pl+Ins:ын K ;
++Pron+Pers+Pl+Abe:тэк K ;
++Pron+Pers+Pl+Apr:лань K ;
++Pron+Pers+Pl+Advl:ъя K ;
+
+LEXICON PRON-PERS-MUTUAL
++Nom: K ;
++Apr:%>лань K ;
++Advl:%>ъя K ;
++Abe:%>тэк K ;
++Dat:%>лы K ; !sg3
+
+!LEXICON ADJ_SG/PL_DETERM_CASE
+!+Gen+Det:%>Е3злэн K ;
+!+Abl+Det:%>Е3злэсь K ;
+!+Ins+Det:%>Е3ныз K ;
+!+Ine+Det:%>А3з K ;
+!+Ill+Det:%>А3з K ;
+!+Ela+Det:%>ысьтыз K ;
+!+Ela+Det:%>ысеныз K ;
+!+Ter+Det:%>озяз K ;
+!+Prl+Det:%>Е3тӥз K ;
+
+
+! vim: set ft=xfst-lexc:
+

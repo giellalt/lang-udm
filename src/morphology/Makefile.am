@@ -28,6 +28,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/adverbs.lexc     \
 			 affixes/conjunctors.lexc \
 			 affixes/nouns.lexc       \
+			 affixes/pronouns.lexc \
 			 affixes/propernouns.lexc \
 			 affixes/verbs.lexc
 

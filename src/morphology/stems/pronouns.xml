@@ -2266,16 +2266,17 @@
       </lg>
       <mg>
          <defNative/>
-       <t>me;</t>
+       <tg xml:lang="fin">
+<t>me</t>
      </tg>
      <xg><x>ми асьмеос</x>
-       <xt xml:lang="fin">me itse;</xt>
+       <xt xml:lang="fin">me itse</xt>
      </xg>
      <xg><x>ми ваʼньмы</x>
-       <xt xml:lang="fin">me kaikki;</xt>
+       <xt xml:lang="fin">me kaikki</xt>
      </xg>
      <xg><x>ми пӧлысь</x>
-       <xt xml:lang="fin">meistä, meidän joukostamme;</xt>
+       <xt xml:lang="fin">meistä, meidän joukostamme</xt>
      </xg>
      <xg>
 <x>ми сямен</x>
@@ -4158,10 +4159,10 @@
        <t>se</t>
      </tg>
      <xg><x>со умой дышетске</x>
-       <xt xml:lang="fin">hän menestyy hyvin opinnoissaan;</xt>
+       <xt xml:lang="fin">hän menestyy hyvin opinnoissaan</xt>
      </xg>
      <xg><x>туэ со вазь сяськаяськыны кутскиз</x>
-       <xt xml:lang="fin">tänä vuonna se alkoi kukkia aikaisin;</xt>
+       <xt xml:lang="fin">tänä vuonna se alkoi kukkia aikaisin</xt>
      </xg>
      <xg><x>со выллем</x>
        <xt xml:lang="fin">hänen kaltaisensa</xt>
@@ -4171,104 +4172,136 @@
       </mg>
    <mg ind="2th"> <note><i>demonstr. </i></note>
      <tg xml:lang="fin">
-       <t>se;</t>
+       <t>se</t>
      </tg><font face="SmolenskSGR">(<i>тӥни со</i>)</font>
      <tg xml:lang="fin">
-       <t>tuo;</t>
+       <t>tuo</t>
      </tg>
      <xg><x>кин со?;</x>
-       <xt xml:lang="fin">kuka se (t. tuo) on?;</xt>
+       <xt xml:lang="fin">kuka se (t. tuo) on?</xt>
      </xg>
      <xg><x>мар со сыӵе?</x>
-       <xt xml:lang="fin">mikä se (t. tuo) oikein on?;</xt>
+       <xt xml:lang="fin">mikä se (t. tuo) oikein on?</xt>
      </xg>
      <xg><x>мон улӥсько (тӥни) со коркан</x>
        <xt xml:lang="fin">minä asun tuossa talossa</xt>
      </xg>
 </mg>
-   <mg ind="3th"/> <note><i>determ. </i></note>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det">со</l>
+         <stg>
+            <st Contlex="DET_">со</st>
+         </stg>
+      </lg>
+   <mg ind="3th"> <note><i>determ. </i></note>
      <tg xml:lang="fin">
-       <t>niin; noin; näin;</t>
+       <t>niin; noin; näin</t>
      </tg>
      <xg><x>со быдӟа</x>
-       <xt xml:lang="fin">niin iso (t. suuri);</xt>
+       <xt xml:lang="fin">niin iso</xt>
+       <xt xml:lang="fin">niin suuri</xt>
      </xg>
      <xg><x>со быдӟа ик</x>
-       <xt xml:lang="fin">samankokoinen;</xt>
+       <xt xml:lang="fin">samankokoinen</xt>
      </xg>
      <xg><x>со ӝужда</x>
-       <xt xml:lang="fin">niin korkea (t. suuri);</xt>
-     </xg><font face="SmolenskSGR">(<i>адями, пудо-пӧйшур с-сь</i>)</font>
-     <tg xml:lang="fin">
-       <t>niin pitkä</t>
-       <re>ihminen, eläin</re>;
-     </tg>
+       <xt xml:lang="fin">niin korkea</xt>
+       <xt xml:lang="fin">niin suuri</xt>
+<xtCtn>
+<re xml:lang="udm">адями, пудо-пӧйшур с-сь</re>
+       <re>ihminen, eläin</re>
+       <xt xml:lang="fin">niin pitkä</xt>
+</xtCtn>
+     </xg>
      <xg><x>со ӝужда ик</x>
-       <xt xml:lang="fin">samankorkuinen;</xt>
-     </xg><font face="SmolenskSGR">(<i>адями, пудо- пӧйшур с-сь</i>)</font>
-     <tg xml:lang="fin">
-       <t>samanpituinen</t>
-       <re>ihminen, eläin</re>;
-     </tg>
+       <xt xml:lang="fin">samankorkuinen</xt>
+<xtCtn>
+<re xml:lang="udm">адями, пудо-пӧйшур с-сь</re>
+       <re>ihminen, eläin</re>
+       <xt xml:lang="fin">samanpituinen</xt>
+</xtCtn>
+     </xg>
      <xg><x>со зӧкта</x>
-       <xt xml:lang="fin">niin paksu;</xt>
+       <xt xml:lang="fin">niin paksu</xt>
      </xg>
      <xg><x>со зӧкта ик</x>
-       <xt xml:lang="fin">samanpaksuinen;</xt>
+       <xt xml:lang="fin">samanpaksuinen</xt>
      </xg>
      <xg><x>со кузьда</x>
-       <xt xml:lang="fin">niin pitkä;</xt>
+       <xt xml:lang="fin">niin pitkä</xt>
      </xg>
      <xg><x>со кузьда ик</x>
-       <xt xml:lang="fin">samanpituinen;</xt>
+       <xt xml:lang="fin">samanpituinen</xt>
      </xg>
      <xg><x>со мурда</x>
-       <xt xml:lang="fin">niin syvä;</xt>
+       <xt xml:lang="fin">niin syvä</xt>
      </xg>
      <xg><x>со мурда ик</x>
-       <xt xml:lang="fin">samansyvyinen;</xt>
+       <xt xml:lang="fin">samansyvyinen</xt>
      </xg>
      <xg><x>со пасьта</x>
-       <xt xml:lang="fin">niin leveä;</xt>
+       <xt xml:lang="fin">niin leveä</xt>
      </xg>
      <xg><x>со пасьта ик</x>
        <xt xml:lang="fin">samanlevyinen •</xt>
-     </xg><font face="SmolenskSGR"><b>со дырозь </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>siihen aikaan (asti), siihen mennessä</t>
-     </tg><mwemg ind="2th"/><defNative>сокема</defNative>
-     <tg xml:lang="fin">
-       <t>niin kauan;</t>
-     </tg><font face="SmolenskSGR"><b>со ласянь </b></font><mwemg ind="1th"/><defNative>сопаласен</defNative>
-     <tg xml:lang="fin">
-       <t>tuolta puolelta, tuolta suunnalta</t>
-     </tg><mwemg ind="2th"/><defNative>соиз пумысен, созэ лыдэ басьтыса</defNative>
-     <tg xml:lang="fin">
-       <t>siinä suhteessa;</t>
-     </tg><font face="SmolenskSGR"><b>со понна </b></font><mwemg ind="1th"/><defNative>солы</defNative>
-     <tg xml:lang="fin">
-       <t>häntä varten (t. hänen hyväkseen);</t>
-     </tg><font face="SmolenskSGR">(<i>соин сэрен</i>)</font>
-     <tg xml:lang="fin">
-       <t>sen vuoksi (t. takia, tähden)</t>
-     </tg><mwemg ind="2th"/><defNative>со пумысен</defNative>
-     <tg xml:lang="fin">
-       <t>hänen puolestaan, hänestä; siitä</t>
-     </tg><mwemg ind="3th"/><note><i>konj:na </i></note>
-     <tg xml:lang="fin">
-       <t>sitä vastoin, sen sijaan</t>
-     </tg>◊
+     </xg>
+     <xg><x>со дырозь</x>
+       <xt xml:lang="fin">siihen aikaan (asti)</xt>
+       <xt xml:lang="fin">siihen mennessä</xt>
+<xtCtn>
+<re xml:lang="udm">сокема</re>
+     <xt xml:lang="fin">niin kauan</xt>
+</xtCtn>
+     </xg>
+     <xg><x>со ласянь</x>
+<xtCtn>
+<re xml:lang="udm">сопаласен</re>
+       <xt xml:lang="fin">tuolta puolelta, tuolta suunnalta</xt>
+</xtCtn>
+     </xg>
+     <xg><x>соиз пумысен</x>
+     <xt xml:lang="fin">siinä suhteessa</xt>
+     </xg>
+     <xg><x>созэ лыдэ басьтыса</x>
+     <xt xml:lang="fin">siinä suhteessa</xt>
+     </xg>
+     <xg><x>со понна</x>
+<xtCtn>
+<re xml:lang="udm">солы</re>
+       <xt xml:lang="fin">häntä varten</xt>
+       <xt xml:lang="fin">hänen hyväkseen</xt>
+</xtCtn>
+     </xg>
+     <xg><x>соин сэрен</x>
+       <xt xml:lang="fin">sen vuoksi</xt>
+       <xt xml:lang="fin">sen takia</xt>
+       <xt xml:lang="fin">sen tähden</xt>
+     </xg>
+     <xg><x>со пумысен</x>
+       <xt xml:lang="fin">hänen puolestaan</xt>
+       <xt xml:lang="fin">hänestä</xt>
+       <xt xml:lang="fin">siitä</xt>
+<xtCtn>
+<re>konj:na</re>
+     <xt xml:lang="fin">sitä vastoin</xt>
+       <xt xml:lang="fin">sen sijaan</xt>
+</xtCtn>
+</xg>
      <xg><x>со вылэ ик</x>
-       <xt xml:lang="fin">lisäksi, päälle päätteeksi;</xt>
+       <xt xml:lang="fin">lisäksi</xt>
+       <xt xml:lang="fin">päälle päätteeksi</xt>
      </xg>
      <xg><x>сотэк уг луы</x>
-       <xt xml:lang="fin">muulla tavoin ei voi;</xt>
+       <xt xml:lang="fin">muulla tavoin ei voi</xt>
      </xg>
      <xg><x>кызьы сотэк?!</x>
-       <xt xml:lang="fin">kuinkas muuten, ilman muuta, totta kai</xt>
+       <xt xml:lang="fin">kuinkas muuten</xt>
+       <xt xml:lang="fin">ilman muuta</xt>
+       <xt xml:lang="fin">totta kai</xt>
      </xg>
    </mg>
-
    </e>
    <e>
       <lg>
