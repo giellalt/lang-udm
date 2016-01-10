@@ -287,4 +287,15 @@
       <defNative/>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="Det">весь</l>
+      <stg>
+        <st Contlex="DET_">весь</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
 </r>
