@@ -493,6 +493,7 @@ LEXICON Root
    adjectives  ;
    adverbs  ;
    descriptives	;
+   determiners ;
    gerunds	;
    interjections	;
    nouns   ;
@@ -520,7 +521,7 @@ LEXICON DESCR_
 +Descr: # ;
 
 LEXICON DET_
-+Det: # ;
++Det: ADJ_DETERM ;
 
 LEXICON GER_
 +Ger: # ;
