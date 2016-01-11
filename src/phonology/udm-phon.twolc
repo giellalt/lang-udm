@@ -28,7 +28,7 @@ Alphabet
 Е2:0	       !!= * @CODE@ morpheme initial disappears after vowel е э 0
 И2:0	       !!= * @CODE@ morpheme initial disappears after vowel и ӥ 0
 О2:о	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
-Е3:0	       !!= * @CODE@ Acc, Ill е э ы
+Е3:е Е3:э Е3:ы       !!= * @CODE@ Acc, Ill е э ы
 А3:0	       !!= * @CODE@ Ine а, я
 К3:0	       !!= * @CODE@ нюлэс:нюлэсК3
 М3:0	       !!= * @CODE@ син:синМ3
@@ -124,7 +124,10 @@ Rules
 
 "Depalatalize е3:э"
 !! __@RULENAME@__
- Е3:э <=> [[ (Ltrs:) Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
+ Е3:э <=> [ CnsPair: - [ с | С ]| ы:0 ] (%^SYNC:) %>  _ ;
+          [ Ltrs: - [ ё:|Ё:]] [ с | C ] (%^SYNC:) %>  _ ;
+          [ Ltrs: - [ ъ:|Ъ:]] [ ё:|Ё:] [ с | C ] (%^SYNC:) %>  _ ;
+! [[ (Ltrs:) Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
 
 
 "Depalatalize and raise е3:ы"
