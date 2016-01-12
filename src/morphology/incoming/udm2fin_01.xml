@@ -1564,7 +1564,7 @@
 </e>
 
 <e>
-   <lg><l>ӵогъянтурын</l><orig>ӵогъянтурын</orig>
+   <lg><l pos="N">ӵогъянтурын</l><orig>ӵогъянтурын</orig>
    </lg>
    <mg><field>kasv.</field>
      <tg xml:lang="fin">
@@ -1728,7 +1728,7 @@
 </e>
 
 <e>
-   <lg><l>ӵож<rom ind="2"/></l>
+   <lg><l pos="Po">ӵож<rom ind="2"/></l>
    </lg>
    <mg><font face="TimesNewRomanPS" type="&gt;"><b>ӵоже </b></font>
    </mg>
