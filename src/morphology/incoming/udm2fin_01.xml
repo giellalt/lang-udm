@@ -3940,7 +3940,7 @@
 </e>
 
 <e>
-   <lg><l>черлам</l><orig>черлам</orig>
+   <lg><l pos="Prc;N">черлам</l><orig>черлам</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черланы </stem></drvg>
 </mg>
@@ -4101,7 +4101,7 @@
      </tg><font face="SmolenskSGR"><b>кинлэн</b></font>
    </mg>
 </e>
-
+<FIX1/>
 <e>
    <lg><l>черодэз?</l><orig>черодэз?</orig>
    </lg>
@@ -4171,7 +4171,7 @@
 </e>
 
 <e>
-   <lg><l>черсӥсь</l><orig>черсӥсь</orig>
+   <lg><l pos="Prc;N">черсӥсь</l><orig>черсӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>черсыны</stem></drvg>
 </mg>
@@ -4182,7 +4182,7 @@
 </e>
 
 <e>
-   <lg><l>черсӥськон</l><orig>черсӥськон</orig>
+   <lg><l pos="N">черсӥськон</l><orig>черсӥськон</orig>
    </lg>
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>черсӥськыны</stem></drvg>
    </mg>
@@ -4263,7 +4263,7 @@
 </e>
 
 <e>
-   <lg><l>черсытон</l><orig>черсытон</orig>
+   <lg><l pos="N">черсытон</l><orig>черсытон</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4287,7 +4287,7 @@
 </e>
 
 <e>
-   <lg><l>черсэм</l><orig>черсэм</orig>
+   <lg><l pos="Prc;N">черсэм</l><orig>черсэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черсыны</stem></drvg>
 </mg>
@@ -4380,7 +4380,7 @@
 </e>
 
 <e>
-   <lg><l>ческыт</l><orig>ческыт</orig>
+   <lg><l pos="A;N">ческыт</l><orig>ческыт</orig>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -4484,7 +4484,7 @@
 </e>
 
 <e>
-   <lg><l>чеснок</l><orig>чеснок</orig>
+   <lg><l pos="N">чеснок</l><orig>чеснок</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4543,7 +4543,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">чет</l><orig>чет</orig>
+     <l pos="Descr;Adv">чет</l><orig>чет</orig>
    </lg>
    <mg>
      <variants>
@@ -4554,7 +4554,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">четак</l><orig>чеʼтаʼк</orig>
+     <l pos="Descr;Adv">четак</l><orig>чеʼтаʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -4611,7 +4611,7 @@
 </e>
 
 <e>
-   <lg><l>чех</l><orig>чех</orig>
+   <lg><l pos="N;A">чех</l><orig>чех</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4627,7 +4627,7 @@
 </e>
 
 <e>
-   <lg><l>чехъёс</l><orig>чехъёс</orig>
+   <lg><l pos="N">чехъёс</l><orig>чехъёс</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4676,7 +4676,7 @@
 </e>
 
 <e>
-   <lg><l>чечен</l><orig>чечен</orig>
+   <lg><l pos="N;A">чечен</l><orig>чечен</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4689,7 +4689,7 @@
 </e>
 
 <e>
-   <lg><l>чечы</l><orig>чечы</orig>
+   <lg><l pos="N;A">чечы</l><orig>чечы</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4746,7 +4746,7 @@
 </e>
 
 <e>
-   <lg><l>чечым</l><orig>чечым</orig>
+   <lg><l pos="A;N">чечым</l><orig>чечым</orig>
    </lg>
    <mg><note><i>last.</i></note>
    <mg ind="1th"/><defNative>ческыт</defNative>
@@ -4788,7 +4788,7 @@
 </e>
 
 <e>
-   <lg><l>чибинь</l><orig>чибинь</orig>
+   <lg><l pos="N">чибинь</l><orig>чибинь</orig>
    </lg>
    <mg><field>el.</field>
    <mg ind="1th"/>
@@ -4827,7 +4827,7 @@
 </e>
 
 <e>
-   <lg><l>чибори</l><orig>чибори</orig>
+   <lg><l pos="A;N">чибори</l><orig>чибори</orig>
      <variants>
        <l_syn>чибор</l_syn>
      </variants>
@@ -4913,7 +4913,7 @@
 </e>
 
 <e>
-   <lg><l>чиган</l><orig>чиган</orig>
+   <lg><l pos="N;A">чиган</l><orig>чиган</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4982,7 +4982,7 @@
 </e>
 
 <e>
-   <lg><l>чигем</l><orig>чигем</orig>
+   <lg><l pos="Prc;N">чигем</l><orig>чигем</orig>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигыны; чигем мылкыд </b></font><senseType>kuv.</senseType>
      <tg xml:lang="fin">
@@ -5010,7 +5010,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чигись</l><orig>чигись</orig>
+     <l pos="Prc;A">чигись</l><orig>чигись</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чигыны</stem></drvg>
 </mg>
@@ -5152,7 +5152,7 @@
 </e>
 
 <e>
-   <lg><l>чигнатэм</l><orig>чигнатэм</orig>
+   <lg><l pos="Prc;N">чигнатэм</l><orig>чигнатэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чигнатыны</stem></drvg>
 </mg>
@@ -5172,7 +5172,7 @@
    <lg>
      <l pos="N">чигон</l><orig>чигон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чигыны чигтӥськон, чигтӥськыны</stem></drvg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чигыны <FIX2/>чигтӥськон, чигтӥськыны</stem></drvg>
      <variants>
        <l_syn type="&gt;">чигиськон, чигиськыны</l_syn>
      </variants>
@@ -5227,7 +5227,7 @@
 </e>
 
 <e>
-   <lg><l>чигтэм</l><orig>чигтэм</orig>
+   <lg><l pos="Prc;N">чигтэм</l><orig>чигтэм</orig>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигтыны; пыд чигтэм </b></font><mwemg ind="1th"/>
      <tg xml:lang="fin">
@@ -5315,7 +5315,7 @@
 </e>
 
 <e>
-   <lg><l>чидам</l><orig>чидам</orig>
+   <lg><l pos="Prc;N">чидам</l><orig>чидам</orig>
    </lg>
    <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чиданы</stem></drvg>
    </mg>
@@ -5351,7 +5351,7 @@
 </e>
 
 <e>
-   <lg><l>чидантэм</l><orig>чидаʼнтэʼм</orig>
+   <lg><l pos="Adv;A">чидантэм</l><orig>чидаʼнтэʼм</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -5406,7 +5406,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чидась</l><orig>чидась</orig>
+     <l pos="Prc;A">чидась</l><orig>чидась</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиданы</stem></drvg>
 </mg>
@@ -5418,7 +5418,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чидасьтэм</l><orig>чидасьтэм</orig>
+     <l pos="Prc;A">чидасьтэм</l><orig>чидасьтэм</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -5480,7 +5480,7 @@
 </e>
 
 <e>
-   <lg><l>чиедмем</l><orig>чиедмем</orig>
+   <lg><l pos="Prc;N">чиедмем</l><orig>чиедмем</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиедмыны</stem></drvg>
 </mg>
@@ -5538,7 +5538,7 @@
 </e>
 
 <e>
-   <lg><l>чиетэм</l><orig>чиетэм</orig>
+   <lg><l pos="Prc;N">чиетэм</l><orig>чиетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиетыны</stem></drvg>
 </mg>
@@ -5554,7 +5554,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">ед.</l_syn>
+       <l_syn type="&gt;">ед.<FIX3/></l_syn>
      </variants>
    </mg>
 </e>
@@ -5622,14 +5622,14 @@
 </e>
 
 <e>
-   <lg><l>чиккетӥсь</l><orig>чиккетӥсь</orig>
+   <lg><l pos="Prc;N">чиккетӥсь</l><orig>чиккетӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиккетыны</stem></drvg>
 </mg>
    <mg ind="2th"><field>el.</field><font face="SmolenskSGR">(<i>тэлясь</i>)</font>
      <tg xml:lang="fin">
        <t>puukiipijä</t>
-       <re>Certhia; C. familiaris</re>
+       <re>Certhia; Certhia familiaris</re>
      </tg>
    </mg>
 </e>
@@ -5680,7 +5680,7 @@
 </e>
 
 <e>
-   <lg><l>чиккетэм</l><orig>чиккетэм</orig>
+   <lg><l pos="Prc;N">чиккетэм</l><orig>чиккетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиккетыны</stem></drvg>
 </mg>
@@ -5775,7 +5775,7 @@
 </e>
 
 <e>
-   <lg><l>чикыртэм</l><orig>чикыртэм</orig>
+   <lg><l pos="Prc;N">чикыртэм</l><orig>чикыртэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чикыртыны</stem></drvg>
 </mg>
@@ -5849,7 +5849,7 @@
 </e>
 
 <e>
-   <lg><l>чилектэм</l><orig>чилектэм</orig>
+   <lg><l pos="Prc;N">чилектэм</l><orig>чилектэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилектыны</stem></drvg>
 </mg>
@@ -5865,7 +5865,7 @@
 </e>
 
 <e>
-   <lg><l>чилекъям</l><orig>чилекъям</orig>
+   <lg><l pos="Prc;N">чилекъям</l><orig>чилекъям</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны</stem></drvg>
 </mg>
@@ -5885,7 +5885,7 @@
 </e>
 
 <e>
-   <lg><l>чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
+   <lg><l pos="Prc;N">чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны-ворекъяны</stem></drvg>
 </mg>
@@ -6011,7 +6011,7 @@
 </e>
 
 <e>
-   <lg><l>чилепен-чилепен</l><orig>чилепеʼн-чилепен</orig>
+   <lg><l pos="A">чилепен-чилепен</l><orig>чилепеʼн-чилепен</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -6035,7 +6035,7 @@
 </e>
 
 <e>
-   <lg><l>чили-били</l><orig>чили-биʼли</orig>
+   <lg><l pos="Descr">чили-били</l><orig>чили-биʼли</orig>
    </lg>
    <mg>
      <variants>
@@ -6045,7 +6045,7 @@
 </e>
 
 <e>
-   <lg><l>чили-вали</l><orig>чили-ваʼли</orig>
+   <lg><l pos="Descr">чили-вали</l><orig>чили-ваʼли</orig>
    </lg>
    <mg><note><i>deskr. kuvaa joko värien välkettä tai auringon loistetta vedessä</i></note>
      <tg xml:lang="fin">
@@ -6061,7 +6061,7 @@
 </e>
 
 <e>
-   <lg><l>чиль: чиль чиляны</l>
+   <lg><l pos="Descr">чиль: чиль чиляны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -6130,7 +6130,7 @@
 </e>
 
 <e>
-   <lg><l>чильк-чильк</l><orig>чиʼльк-чильк</orig>
+   <lg><l pos="Descr">чильк-чильк</l><orig>чиʼльк-чильк</orig>
    </lg>
    <mg>
      <variants>
@@ -6140,7 +6140,7 @@
 </e>
 
 <e>
-   <lg><l>чильпам</l><orig>чильпам</orig>
+   <lg><l pos="Prc;N">чильпам</l><orig>чильпам</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чильпаны</stem></drvg>
 </mg>
@@ -6207,7 +6207,7 @@
 </e>
 
 <e>
-   <lg><l>чильпаськем</l><orig>чильпаськем</orig>
+   <lg><l pos="Prc;N">чильпаськем</l><orig>чильпаськем</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чильпаськыны</stem></drvg>
 </mg>
@@ -6244,7 +6244,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">чильпыр</l><orig>чильпыр</orig>
+     <l pos="N">чильпыр</l><orig>чильпыр</orig>
    </lg>
    <mg ind="1th"><defNative>югыт</defNative>
      <tg xml:lang="fin">
@@ -6302,7 +6302,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чильпырась</l><orig>чильпырась</orig>
+     <l pos="Prc;A">чильпырась</l><orig>чильпырась</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чильпыраны</stem></drvg>
 </mg>
@@ -6331,7 +6331,7 @@
 </mg>
    <mg ind="2th"> <range>puhek.</range><font face="SmolenskSGR">(<i>капчи визьем, ассэ кильтро возись</i>)</font>
      <tg xml:lang="fin">
-       <t>rempseä, huoleton; kevytkenkäinen // hepsanheikka, hepsakka</t>
+       <t>rempseä, huoleton; kevytkenkäinen // hepsankeikka, hepsakka</t>
        <re>nainen</re>;
      </tg>
      <xg><x>чильтро адями</x>
@@ -6427,7 +6427,7 @@
 </e>
 
 <e>
-   <lg><l>чиль-чиль: чиль-чиль сьӧд</l>
+   <lg><l pos="Descr">чиль-чиль: чиль-чиль сьӧд</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -6465,7 +6465,7 @@
 
 <e>
    <lg>
-     <l pos="V">чильыктыны</l><orig>чильыктыны</orig>
+     <l pos="Prc;N">чильыктэм</l><orig>чильыктыны</orig><FIX3/><korjasin radikaalisti, T.K./>
    </lg>
    <mg ind="1th"><drvg><inflect>partis. v:stä</inflect><stem>чильыктыны</stem></drvg>
 </mg>
@@ -6523,7 +6523,7 @@
 </e>
 
 <e>
-   <lg><l>чильыртон<rom ind="1"/></l>
+   <lg><l pos="N">чильыртон<rom ind="1"/></l>
    </lg>
    <mg><defNative>ӟильыртон</defNative>
      <tg xml:lang="fin">
@@ -6533,7 +6533,7 @@
 </e>
 
 <e>
-   <lg><l>чильыртон<rom ind="2"/></l>
+   <lg><l pos="N">чильыртон<rom ind="2"/></l>
    </lg>
    <mg><defNative>чилян</defNative>
      <tg xml:lang="fin">
@@ -6565,7 +6565,7 @@
 </e>
 
 <e>
-   <lg><l>чильыртэм<rom ind="1"/></l>
+   <lg><l pos="Prc;N">чильыртэм<rom ind="1"/></l>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc"/><font face="SmolenskSGR"><b>чильыртыны<rom ind="1"/></b></font>
      <tg xml:lang="fin">
@@ -6580,7 +6580,7 @@
 </e>
 
 <e>
-   <lg><l>чильыртэм<rom ind="2"/></l>
+   <lg><l pos="Prc;N">чильыртэм<rom ind="2"/></l>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc"/><font face="SmolenskSGR"><b>чильыртыны<rom ind="2"/></b></font>
      <tg xml:lang="fin">
@@ -6595,7 +6595,7 @@
 </e>
 
 <e>
-   <lg><l>чильыр-чильыр<rom ind="1"/></l>
+   <lg><l pos="Descr">чильыр-чильыр<rom ind="1"/></l>
    </lg>
    <mg><note><i>onom. kuvaa lintujen tirskumista, sirkuttamista, visertämistä</i></note>
      <tg xml:lang="fin">
@@ -6603,7 +6603,7 @@
      </tg>
      <xg><x>ӟольгыриос чильыр-чильыр каро</x>
        <xt xml:lang="fin">varpuset tirskuvat (t. visertävät)</xt>
-     </xg><font face="SmolenskSGR"><b>чильыр-чильыр<rom ind="2"/></b></font><note><i>deskr. kuvaa värien välkettä t. vaihtelua</i></note>
+     </xg><font face="SmolenskSGR"><b>чильыр-чильыр<rom ind="2"/></b></font><note><i>deskr. kuvaa värien välkettä t. vaihtelua</i></note><FIX2/>
      <tg xml:lang="fin">
        <t>: loistaen, kimaltaen;</t>
      </tg>
@@ -6768,7 +6768,7 @@
 </e>
 
 <e>
-   <lg><l>чингетэм</l><orig>чингетэм</orig>
+   <lg><l pos="Prc;N">чингетэм</l><orig>чингетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чингетыны</stem></drvg>
 </mg>
@@ -6780,7 +6780,7 @@
 
 <e>
    <lg>
-     <l pos="A">чингылё</l><orig>чингылё</orig>
+     <l pos="N">чингылё</l><orig>чингылё</orig>
      <variants>
        <l_syn>чингыли</l_syn>
      </variants>
@@ -7007,7 +7007,7 @@
 </e>
 
 <e>
-   <lg><l>чипей</l><orig>чипей</orig>
+   <lg><l pos="N">чипей</l><orig>чипей</orig>
    </lg>
    <mg><field>el.</field>
      <tg xml:lang="fin">
@@ -7078,7 +7078,7 @@
 </e>
 
 <e>
-   <lg><l>чипсэм</l><orig>чипсэм</orig>
+   <lg><l pos="Prc;N">чипсэм</l><orig>чипсэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чипсыны</stem></drvg>
 </mg>
@@ -7133,7 +7133,7 @@
 </e>
 
 <e>
-   <lg><l>чипы<rom ind="1"/></l>
+   <lg><l pos="N">чипы<rom ind="1"/></l>
    </lg>
    <mg ind="1th"><defNative>курегпи</defNative>
      <tg xml:lang="fin">
@@ -7151,7 +7151,7 @@
 </e>
 
 <e>
-   <lg><l>чипы<rom ind="2"/></l>
+   <lg><l pos="N">чипы<rom ind="2"/></l>
    </lg>
    <mg><range>puhek.</range><font face="SmolenskSGR">(<i>киын</i>)</font>
      <tg xml:lang="fin">
@@ -7189,7 +7189,7 @@
 </e>
 
 <e>
-   <lg><l>чипыоктӥсь</l><orig>чипыоктӥсь</orig>
+   <lg><l pos="N">чипыоктӥсь</l><orig>чипыоктӥсь</orig>
    </lg>
    <mg><field>el.</field>
      <tg xml:lang="fin">
@@ -7220,7 +7220,7 @@
 </e>
 
 <e>
-   <lg><l>чирак: чирак кеськыны</l>
+   <lg><l pos="Adv">чирак: чирак кеськыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7234,7 +7234,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чиргетӥсь</l><orig>чиргетӥсь</orig>
+     <l pos="Prc;N">чиргетӥсь</l><orig>чиргетӥсь</orig>
    </lg>
    <mg ind="1th"><inflect type="Der/сь" drv="Prc"/>
      <xg><x>чиргетыны: чиргетӥсь тылобурдоос</x>
@@ -7254,12 +7254,12 @@
 </e>
 
 <e>
-   <lg><l>чиргетӥсьӟоз</l><orig>чиргетӥсьӟоз</orig>
+   <lg><l pos="N">чиргетӥсьӟоз</l><orig>чиргетӥсьӟоз</orig>
    </lg>
    <mg><field>el.</field>
      <tg xml:lang="fin">
        <t>sirkka;</t>
-     </tg><font face="SmolenskSGR"><b>чиргетӥсьӟозъёс </b></font><mwemg ind="1th"/><defNative>коркаӟозъёс</defNative>
+     </tg><font face="SmolenskSGR"><b>чиргетӥсьӟозъёс </b></font><mwemg ind="1th"/><defNative>коркаӟозъёс</defNative><FIX2/>
      <tg xml:lang="fin">
        <t>sirkat</t>
      </tg><mwemg ind="2th"/>
@@ -7307,7 +7307,7 @@
 </e>
 
 <e>
-   <lg><l>чиргетэм</l><orig>чиргетэм</orig>
+   <lg><l pos="Prc;N">чиргетэм</l><orig>чиргетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чиргетыны</stem></drvg>
 </mg>
@@ -7386,7 +7386,7 @@
 </e>
 
 <e>
-   <lg><l>чирдэм</l><orig>чирдэм</orig>
+   <lg><l pos="Prc;N">чирдэм</l><orig>чирдэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чирдыны</stem></drvg>
 </mg>
@@ -7482,7 +7482,7 @@
 </e>
 
 <e>
-   <lg><l>чирк-чирк-чирк</l><orig>чирк-чирк-чирк</orig>
+   <lg><l pos="Descr">чирк-чирк-чирк</l><orig>чирк-чирк-чирк</orig>
      <variants>
        <l_syn>чирк</l_syn>
      </variants>
@@ -7582,7 +7582,7 @@
 </e>
 
 <e>
-   <lg><l>чисто</l><orig>чиʼсто</orig>
+   <lg><l pos="Adv">чисто</l><orig>чиʼсто</orig>
    </lg>
    <mg><range>murt.</range>
      <tg xml:lang="fin">
@@ -7598,7 +7598,7 @@
 </e>
 
 <e>
-   <lg><l>чись: чись карыны</l>
+   <lg><l pos="Adv">чись: чись карыны</l>
    </lg>
    <mg>
      <variants>
@@ -7633,7 +7633,7 @@
 </e>
 
 <e>
-   <lg><l>читыр-котыр</l><orig>читыр-коʼтыр</orig>
+   <lg><l pos="A;Adv">читыр-котыр</l><orig>читыр-коʼтыр</orig>
      <variants>
        <l_syn>чит</l_syn>
      </variants>
@@ -7646,7 +7646,7 @@
 </e>
 
 <e>
-   <lg><l>чит</l><orig>чит</orig>
+   <lg><l pos="A;Adv">чит</l><orig>чит</orig>
      <variants>
        <l_syn>читыр-котыр</l_syn>
      </variants>
@@ -7659,7 +7659,7 @@
 </e>
 
 <e>
-   <lg><l>читыр-чутыр</l><orig>читыр-чатыр</orig>
+   <lg><l pos="A;Adv">читыр-чутыр</l><orig>читыр-чатыр</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7692,7 +7692,7 @@
 </e>
 
 <e>
-   <lg><l>чияпу</l><orig>чияпу</orig>
+   <lg><l pos="N">чияпу</l><orig>чияпу</orig>
    </lg>
    <mg><field>kasv.</field>
      <tg xml:lang="fin">
@@ -7728,7 +7728,7 @@
 </e>
 
 <e>
-   <lg><l>чозрес</l><orig>чозрес</orig>
+   <lg><l pos="A">чозрес</l><orig>чозрес</orig>
      <variants>
        <l_syn>чозырес</l_syn>
      </variants>
@@ -7758,7 +7758,7 @@
 
 <e>
    <lg>
-     <l pos="N">чокмор</l><orig>чокмор</orig>
+     <l pos="N;A">чокмор</l><orig>чокмор</orig>
    </lg>
    <mg ind="1th"><defNative>нушы</defNative>
      <tg xml:lang="fin">
@@ -7803,7 +7803,7 @@
 </e>
 
 <e>
-   <lg><l>чомбляк</l><orig>чоʼмбляʼк</orig>
+   <lg><l pos="Descr">чомбляк</l><orig>чоʼмбляʼк</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7816,7 +7816,7 @@
 </e>
 
 <e>
-   <lg><l>чомбылляськон</l><orig>чомбылляськон</orig>
+   <lg><l pos="N">чомбылляськон</l><orig>чомбылляськон</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7837,7 +7837,7 @@
 </e>
 
 <e>
-   <lg><l>чомбыляк</l><orig>чоʼмбыляʼк</orig>
+   <lg><l pos="Descr">чомбыляк</l><orig>чоʼмбыляʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -7918,7 +7918,7 @@
        <t>kohmettuminen, kangistuminen; jähmettyminen; jäykistyminen</t>
      </tg>
 </mg>
-   <mg ind="2th"><defNative>чонь- чонь луон</defNative>
+   <mg ind="2th"><defNative>чонь-чонь луон</defNative>
      <tg xml:lang="fin">
        <t>kangistuminen, jäykistyminen;</t>
      </tg><font face="SmolenskSGR">(<i>чурытомон</i>)</font>
@@ -7964,7 +7964,7 @@
 </e>
 
 <e>
-   <lg><l>чонь-чонь: чонь-чонь луыны</l>
+   <lg><l pos="Adv">чонь-чонь: чонь-чонь луыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7977,7 +7977,7 @@
 </e>
 
 <e>
-   <lg><l>чоньыт</l><orig>чоньыт</orig>
+   <lg><l pos="A;Adv">чоньыт</l><orig>чоньыт</orig>
    </lg>
    <mg ind="1th"><defNative>шонер</defNative>
      <tg xml:lang="fin">
@@ -7998,7 +7998,7 @@
 </e>
 
 <e>
-   <lg><l>чоняк</l><orig>чоʼняʼк</orig>
+   <lg><l pos="Adv">чоняк</l><orig>чоʼняʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -8052,7 +8052,7 @@
 </e>
 
 <e>
-   <lg><l>чорк-чорк</l><orig>чоʼрк-чорк</orig>
+   <lg><l pos="Descr">чорк-чорк</l><orig>чоʼрк-чорк</orig>
    </lg>
    <mg ind="1th"><note><i>deskr.</i></note>
      <tg xml:lang="fin">
@@ -8263,7 +8263,7 @@
        <xt xml:lang="fin">kalan uimarakko</xt>
      </xg>
 </mg>
-   <mg ind="2th"> <font face="SmolenskSGR"><b>(~орыгъёс) </b></font><note><i>täht.</i></note>
+   <mg ind="2th"> <font face="SmolenskSGR"><b>(Чорыгъёс) </b></font><note><i>täht.</i></note>
      <tg xml:lang="fin">
        <t>Kalat</t>
      </tg>
@@ -8378,7 +8378,7 @@
 </e>
 
 <e>
-   <lg><l>чот<rom ind="1"/></l>
+   <lg><l pos="N">чот<rom ind="1"/></l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -8404,7 +8404,7 @@
      </xg><font face="SmolenskSGR"><b>чотэ басьтыны </b></font><mwemg ind="1th"/><defNative>санэ поныны</defNative>
      <tg xml:lang="fin">
        <t>ottaa huomioon</t>
-     </tg><mwemg ind="2th"/><defNative>лыдэ б.</defNative>
+     </tg><mwemg ind="2th"/><defNative>лыдэ басьтыны</defNative>
      <tg xml:lang="fin">
        <t>ottaa lukuun;</t>
      </tg>
@@ -8421,7 +8421,7 @@
 </e>
 
 <e>
-   <lg><l>чот<rom ind="2"/></l>
+   <lg><l pos="Descr;Adv">чот<rom ind="2"/></l>
    </lg>
    <mg><font face="TimesNewRomanPS" type="&gt;"><b>чотак</b></font>
    </mg>
@@ -8429,7 +8429,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">чотак</l><orig>чоʼтаʼк</orig>
+     <l pos="Descr;Adv">чотак</l><orig>чоʼтаʼк</orig>
    </lg>
    <mg ind="1th"><note><i>deskr.</i></note>
      <tg xml:lang="fin">
@@ -8480,7 +8480,7 @@
 
 <e>
    <lg>
-     <l pos="A">чочоро</l><orig>чочоро</orig>
+     <l pos="A;Adv;N">чочоро</l><orig>чочоро</orig>
    </lg>
    <mg ind="1th"><defNative>укыр сэзь, ассэ кильтро возись</defNative>
      <tg xml:lang="fin">
@@ -8553,7 +8553,7 @@
    <lg>
      <l pos="V">чӧлляны</l><orig>чӧлляны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>чӧлтыны чӧлляськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чӧлляськыны</stem></drvg>
+   <mg><drvg><inflect>iter. v:stä</inflect><stem>чӧлтыны <FIX2/>чӧлляськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чӧлляськыны</stem></drvg>
    </mg>
 </e>
 
@@ -8739,7 +8739,7 @@
 </e>
 
 <e>
-   <lg><l>чӧльыё-пӧлыё: чӧльыё-пӧлыё пӧзь</l>
+   <lg><l pos="A">чӧльыё-пӧлыё: чӧльыё-пӧлыё пӧзь</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -8749,7 +8749,7 @@
 </e>
 
 <e>
-   <lg><l>чуак</l><orig>чааʼк</orig>
+   <lg><l pos="Adv">чуак</l><orig>чааʼк</orig>
    </lg>
    <mg><range>puhek.</range>
      <tg xml:lang="fin">
@@ -8762,7 +8762,7 @@
 </e>
 
 <e>
-   <lg><l>чуваш</l><orig>чуваш</orig>
+   <lg><l pos="N;A">чуваш</l><orig>чуваш</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -8807,7 +8807,7 @@
 </e>
 
 <e>
-   <lg><l>чугун</l><orig>чугун</orig>
+   <lg><l pos="N">чугун</l><orig>чугун</orig>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -8828,7 +8828,7 @@
 </e>
 
 <e>
-   <lg><l>чуз-чуз</l><orig>чаз-чуз</orig>
+   <lg><l pos="Descr">чуз-чуз</l><orig>чаз-чуз</orig>
    </lg>
    <mg><note><i>onom. ja deskr.</i></note>
      <tg xml:lang="fin">
@@ -8844,7 +8844,7 @@
 </e>
 
 <e>
-   <lg><l>чузъяськем</l><orig>чузъяськем</orig>
+   <lg><l pos="Prc;N">чузъяськем</l><orig>чузъяськем</orig>
    </lg>
    <mg ind="1th"><note><i>partis. teonn. v:stä</i></note><font face="SmolenskSGR"><b>чузъяськыны</b></font>
 </mg>
@@ -8895,7 +8895,7 @@
 </e>
 
 <e>
-   <lg><l>чуинчи</l><orig>чуинчи</orig>
+   <lg><l pos="N;A">чуинчи</l><orig>чуинчи</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -8933,7 +8933,7 @@
      </tg>
      <xg><x>чук шуккыны</x>
        <xt xml:lang="fin">lyödä tilkku</xt>
-     </xg><note>(<i>kolikolla seinään t. laipionkannatimeen</i></note>– <note><i>armeijaan saattomenojen osa</i>)</note>
+     </xg><note>(<i>kolikolla seinään t. laipionkannatimeen</i></note>– <note><i>armeijaansaattomenojen osa</i>)</note>
 </mg>
    <mg ind="4th"><defNative>чеберман</defNative>
      <tg xml:lang="fin">
@@ -8946,7 +8946,7 @@
 </e>
 
 <e>
-   <lg><l>чукам</l><orig>чукам</orig>
+   <lg><l pos="Prc;N">чукам</l><orig>чукам</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чуканы</stem></drvg>
 </mg>
@@ -9008,7 +9008,7 @@
    <mg ind="3th"><defNative>ӝегатыны</defNative>
      <tg xml:lang="fin">
        <t>jarruttaa, estää</t>
-     </tg><font face="SmolenskSGR"><b>чукаськон</b></font>
+     </tg><font face="SmolenskSGR"><b>чукаськон</b></font><FIX2/>
    <mg ind="1th"/><defNative>кугӟан, дэмӟон</defNative>
      <tg xml:lang="fin">
        <t>tarttuminen, takertuminen</t>
@@ -9077,7 +9077,7 @@
 
 <e>
    <lg>
-     <l pos="Ger">чукатэк</l><orig>чукатэк</orig>
+     <l pos="Ger;Adv">чукатэк</l><orig>чукатэк</orig>
    </lg>
    <mg ind="1th"><note><i>konv. v:stä</i></note><font face="SmolenskSGR"><b>чуканы</b></font>
 </mg>
@@ -9089,7 +9089,7 @@
 
 <e>
    <lg>
-     <l pos="N">чукдор</l><orig>чукдор</orig>
+     <l pos="A;N">чукдор</l><orig>чукдор</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9126,7 +9126,7 @@
 </e>
 
 <e>
-   <lg><l>чукин</l><orig>чукин</orig>
+   <lg><l pos="Adv">чукин</l><orig>чукин</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9136,7 +9136,7 @@
 </e>
 
 <e>
-   <lg><l>чукинак: уробо чукинак луиз</l><orig>чакинаʼк: уробо ч. луиз</orig>
+   <lg><l pos="Adv">чукинак: уробо чукинак луиз</l><orig>чакинаʼк: уробо ч. луиз</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9358,7 +9358,7 @@
 
 <e>
    <lg>
-     <l pos="N">чуккес</l><orig>чуккес</orig>
+     <l pos="A">чуккес</l><orig>чуккес</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9437,7 +9437,7 @@
 </e>
 
 <e>
-   <lg><l>чукча</l><orig>чакча</orig>
+   <lg><l pos="N;A">чукча</l><orig>чакча</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9467,7 +9467,7 @@
    <mg><field>kirk.</field><font face="SmolenskSGR">(<i>черке пыртон</i>)</font>
      <tg xml:lang="fin">
        <t>kastaminen, kaste; ristiminen</t>
-     </tg><font face="SmolenskSGR"><b>чукыны </b></font><val>tr.</val>
+     </tg><font face="SmolenskSGR"><b>чукыны </b></font><val>tr.</val><FIX2/>
    <mg ind="1th"/><defNative>пус чӧлтыны</defNative>
      <tg xml:lang="fin">
        <t>heittää (t. lyödä) arpaa</t>
@@ -9488,7 +9488,7 @@
        <t>kastaa; ristiä</t>
      </tg></mg>
 </e>
-<e><FIXME1/><mg><font face="SmolenskSGR"><b>чукынымтэ</b></font>
+<e><FIXME1/><mg><font face="SmolenskSGR"><b>чукынымтэ</b></font><FIX2/>
    <mg ind="1th"/><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чукыныны</stem></drvg>
 </mg>
    <mg ind="2th"><field>kirk.</field>
@@ -9510,7 +9510,7 @@
 </e>
 
 <e>
-   <lg><l>чукынэм</l><orig>чукынэм</orig>
+   <lg><l pos="N;A">чукынэм</l><orig>чукынэм</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9538,7 +9538,7 @@
 </e>
 
 <e>
-   <lg><l>чукыр-чакыр</l><orig>чукыр-чаʼкыр</orig>
+   <lg><l pos="Descr">чукыр-чакыр</l><orig>чукыр-чаʼкыр</orig>
    </lg>
    <mg>
      <variants>
@@ -9548,7 +9548,7 @@
 </e>
 
 <e>
-   <lg><l>чулан<rom ind="1"/></l>
+   <lg><l pos="N">чулан<rom ind="1"/></l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9564,7 +9564,7 @@
 </e>
 
 <e>
-   <lg><l>чулан<rom ind="2"/></l>
+   <lg><l pos="N">чулан<rom ind="2"/></l>
    </lg>
    <mg ind="1th"><defNative>маке пыр месылон, донган</defNative>
      <tg xml:lang="fin">
@@ -9653,7 +9653,7 @@
 </e>
 
 <e>
-   <lg><l>чулки</l><orig>чулки</orig>
+   <lg><l pos="N">чулки</l><orig>чулки</orig>
      <variants>
        <l_syn>чулка</l_syn>
      </variants>
@@ -9733,7 +9733,7 @@
 </e>
 
 <e>
-   <lg><l>чулькак</l><orig>чалькаʼк</orig>
+   <lg><l pos="Adv">чулькак</l><orig>чалькаʼк</orig>
    </lg>
    <mg><range>puhek.</range>
      <tg xml:lang="fin">
@@ -9776,7 +9776,7 @@
    </lg>
    <mg ind="1th">
      <variants>
-       <l_syn type="&gt;">ед.</l_syn>
+       <l_syn type="&gt;">ед.<FIX3/></l_syn>
      </variants>
 </mg>
    <mg ind="2th"> <field>el.</field>
@@ -9848,7 +9848,7 @@
 </e>
 
 <e>
-   <lg><l>чумолёям</l><orig>чумолёям</orig>
+   <lg><l pos="Prc;N">чумолёям</l><orig>чумолёям</orig>
    </lg>
    <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чумолёяны</stem></drvg>
    </mg>
@@ -9928,7 +9928,7 @@
 </e>
 
 <e>
-   <lg><l>чуньы</l><orig>чуньы</orig>
+   <lg><l pos="N">чуньы</l><orig>чуньы</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -9959,7 +9959,7 @@
 </e>
 
 <e>
-   <lg><l>чуньыё: чуньыё кобла</l>
+   <lg><l pos="A">чуньыё: чуньыё кобла</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -10016,7 +10016,7 @@
    <mg><range>puhek.</range>
      <tg xml:lang="fin">
        <t>suudelma, suukko</t>
-     </tg><font face="SmolenskSGR"><b>чупам</b></font>
+     </tg><font face="SmolenskSGR"><b>чупам</b></font><FIX2/>
    <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чупаны</stem></drvg>
 </mg>
    <mg ind="2th"><tg xml:lang="fin">
@@ -10077,7 +10077,7 @@
 
 <e>
    <lg>
-     <l pos="V">чап/карыны</l><orig>чап/карыны</orig>
+     <l pos="V">чуп/карыны</l><orig>чап/карыны</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -10088,7 +10088,7 @@
 </e>
 
 <e>
-   <lg><l>чупрес</l><orig>чупрес</orig>
+   <lg><l pos="A;Adv">чупрес</l><orig>чупрес</orig>
      <variants>
        <l_syn>чупырес</l_syn>
      </variants>
@@ -10110,7 +10110,7 @@
 </e>
 
 <e>
-   <lg><l>чупырес</l><orig>чупырес</orig>
+   <lg><l pos="A;Adv">чупырес</l><orig>чупырес</orig>
      <variants>
        <l_syn>чупрес</l_syn>
      </variants>
@@ -10176,7 +10176,7 @@
 </e>
 
 <e>
-   <lg><l>чупыр-чупыр: чупыр-чупыр кариськыны</l>
+   <lg><l pos="Adv">чупыр-чупыр: чупыр-чупыр кариськыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -10221,7 +10221,7 @@
 </e>
 
 <e>
-   <lg><l>чур<rom ind="2"/></l>
+   <lg><l pos="Descr">чур<rom ind="2"/></l>
    </lg>
    <mg><note><i>onom.</i></note>
      <tg xml:lang="fin">
@@ -10234,7 +10234,7 @@
 </e>
 
 <e>
-   <lg><l>чур<rom ind="3"/></l>
+   <lg><l pos="Interj">чур<rom ind="3"/></l>
    </lg>
    <mg><note><i>interj. last.</i></note>
      <tg xml:lang="fin">
@@ -10274,7 +10274,7 @@
 </e>
 
 <e>
-   <lg><l>чургетэм</l><orig>чургетэм</orig>
+   <lg><l pos="Prc;N">чургетэм</l><orig>чургетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чургетыны</stem></drvg>
 </mg>
@@ -10583,13 +10583,13 @@
 </mg>
    <mg ind="2th"><defNative>ӧръяськыны</defNative>
      <tg xml:lang="fin">
-       <t>(alkaa) virtaa (uomaa pitkin)</t>
+       <t>(alkaa) virrata (uomaa pitkin)</t>
      </tg>
    </mg>
 </e>
 
 <e>
-   <lg><l>чурыт</l><orig>чурыт</orig>
+   <lg><l pos="A;Adv">чурыт</l><orig>чурыт</orig>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -10690,7 +10690,7 @@
 </e>
 
 <e>
-   <lg><l>чурытась</l><orig>чурытась</orig>
+   <lg><l pos="Prc;A;N">чурытась</l><orig>чурытась</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаны</stem></drvg>
 </mg>
@@ -10705,7 +10705,7 @@
 </e>
 
 <e>
-   <lg><l>чурытаськем</l><orig>чурытаськем</orig>
+   <lg><l pos="Prc;N">чурытаськем</l><orig>чурытаськем</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чурытаськыны</stem></drvg>
 </mg>
@@ -10716,7 +10716,7 @@
 </e>
 
 <e>
-   <lg><l>чурытаськись</l><orig>чурытаськись</orig>
+   <lg><l pos="Prc;A;N">чурытаськись</l><orig>чурытаськись</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаськыны </stem></drvg>
 </mg>
@@ -10784,7 +10784,7 @@
 </e>
 
 <e>
-   <lg><l>чурытъяскон</l><orig>чурытъяскон</orig>
+   <lg><l pos="N">чурытъяскон</l><orig>чурытъяскон</orig>
      <variants>
        <l_syn>чурытъяськыны</l_syn>
      </variants>
@@ -10811,7 +10811,7 @@
 </e>
 
 <e>
-   <lg><l>чус<rom ind="1"/></l>
+   <lg><l pos="A;N;Adv">чус<rom ind="1"/></l>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -10861,7 +10861,7 @@
 </e>
 
 <e>
-   <lg><l>чус<rom ind="2"/></l>
+   <lg><l pos="A">чус<rom ind="2"/></l>
    </lg>
    <mg><defNative>сэзь, чупрес</defNative>
      <tg xml:lang="fin">
@@ -10871,7 +10871,7 @@
 </e>
 
 <e>
-   <lg><l>чусак: чусак кариськыны (</l>
+   <lg><l pos="Adv">чусак: чусак кариськыны (</l>
    </lg>
    <mg><font face="SmolenskSGR"><i>я. </i></font><FIXME1/>
      <xg><x>луыны)</x>
@@ -10882,7 +10882,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чусомем</l><orig>чусомем</orig>
+     <l pos="Prc;N">чусомем</l><orig>чусомем</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чусомыны</stem></drvg>
 </mg>
@@ -11034,7 +11034,7 @@
 </e>
 
 <e>
-   <lg><l>чут</l><orig>чут</orig>
+   <lg><l pos="A;N;Adv">чут</l><orig>чут</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11053,7 +11053,7 @@
 </e>
 
 <e>
-   <lg><l>чутӥсь</l><orig>чутӥсь</orig>
+   <lg><l pos="Prc;A;N">чутӥсь</l><orig>чутӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чутыны</stem></drvg>
 </mg>
@@ -11075,7 +11075,7 @@
 </e>
 
 <e>
-   <lg><l>чутрак</l><orig>чатраʼк</orig>
+   <lg><l pos="Adv;Descr">чутрак</l><orig>чатраʼк</orig>
    </lg>
    <mg ind="1th"><defNative>юн-юн</defNative>
      <tg xml:lang="fin">
@@ -11114,7 +11114,7 @@
    <lg>
      <l pos="Descr">чутык</l><orig>чутык</orig>
      <variants>
-       <l_syn>чатык-чатык</l_syn>
+       <l_syn>чутык-чутык</l_syn>
      </variants>
    </lg>
    <mg><note><i>deskr. kuvaa ontuvan ihmisen kävelytyyliä</i></note>
@@ -11131,7 +11131,7 @@
 </e>
 
 <e>
-   <lg><l>чутык-чутык</l><orig>чатык-чатык</orig>
+   <lg><l pos="Descr">чутык-чутык</l><orig>чатык-чатык</orig>
      <variants>
        <l_syn>чутык</l_syn>
      </variants>
@@ -11164,7 +11164,7 @@
 </e>
 
 <e>
-   <lg><l>чутырак</l><orig>чатыраʼк</orig>
+   <lg><l pos="Adv;Descr">чутырак</l><orig>чатыраʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -11174,7 +11174,7 @@
 </e>
 
 <e>
-   <lg><l>чутыран</l><orig>чутыран</orig>
+   <lg><l pos="N">чутыран</l><orig>чутыран</orig>
      <variants>
        <l_syn>чутыраны</l_syn>
      </variants>
@@ -11201,7 +11201,7 @@
 </e>
 
 <e>
-   <lg><l>чутырес</l><orig>чутырес</orig>
+   <lg><l pos="A;Adv">чутырес</l><orig>чутырес</orig>
    </lg>
    <mg>
      <variants>
@@ -11211,7 +11211,7 @@
 </e>
 
 <e>
-   <lg><l>чутырмон</l><orig>чутырмон</orig>
+   <lg><l pos="N">чутырмон</l><orig>чутырмон</orig>
    </lg>
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чутырмыны</stem></drvg>
    </mg>
@@ -11339,7 +11339,7 @@
 </e>
 
 <e>
-   <lg><l>чутэм</l><orig>чутэм</orig>
+   <lg><l pos="Prc;N">чутэм</l><orig>чутэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чутыны</stem></drvg>
 </mg>
@@ -11353,7 +11353,7 @@
    <lg>
      <l pos="N">чучы</l><orig>чучы</orig>
    </lg>
-   <mg><font face="Symbol">Ι </font>
+   <mg><font face="Symbol">Ι<FIX3/> </font>
      <tg xml:lang="fin">
        <t>suupielten rohtuma;</t>
      </tg>
@@ -11367,7 +11367,7 @@
    <lg>
      <l pos="N">чучы</l><orig>чучы</orig>
    </lg>
-   <mg><font face="Symbol">ΙΙ </font><range>murt.</range><font face="SmolenskSGR">(<i>яра, лом</i>)</font>
+   <mg><font face="Symbol">ΙΙ<FIX3/> </font><range>murt.</range><font face="SmolenskSGR">(<i>яра, лом</i>)</font>
      <tg xml:lang="fin">
        <t>rupeutuma, ruvettuma</t>
        <re>lapsilla</re>
@@ -11489,7 +11489,7 @@
 </e>
 
 <e>
-   <lg><l>чылкак</l><orig>чолкаʼк</orig>
+   <lg><l pos="Adv">чылкак</l><orig>чолкаʼк</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11511,7 +11511,7 @@
 </e>
 
 <e>
-   <lg><l>чылк-чылк</l><orig>чолк-чылк</orig>
+   <lg><l pos="A;Adv">чылк-чылк</l><orig>чолк-чылк</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11524,7 +11524,7 @@
 </e>
 
 <e>
-   <lg><l>чылкыт</l><orig>чылкыт</orig>
+   <lg><l pos="A">чылкыт</l><orig>чылкыт</orig>
    </lg>
    <mg><defNative>дун</defNative>
      <tg xml:lang="fin">
@@ -11656,7 +11656,7 @@
 
 <e>
    <lg>
-     <l pos="N">чын</l><orig>чын</orig>
+     <l pos="N;Adv">чын</l><orig>чын</orig>
    </lg>
    <mg><range>murt.</range>
    <mg ind="1th"/><defNative>зэм</defNative>
@@ -11681,7 +11681,7 @@
 </e>
 
 <e>
-   <lg><l>чынмарӟан</l><orig>чынмарӟан</orig>
+   <lg><l pos="N">чынмарӟан</l><orig>чынмарӟан</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11722,7 +11722,7 @@
 </e>
 
 <e>
-   <lg><l>чырс</l><orig>чырс</orig>
+   <lg><l pos="A">чырс</l><orig>чырс</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11747,7 +11747,7 @@
 </e>
 
 <e>
-   <lg><l>чырсалэс</l><orig>чырсалэс</orig>
+   <lg><l pos="A">чырсалэс</l><orig>чырсалэс</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11769,7 +11769,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">чырсамтэ</l><orig>чырсамтэ</orig>
+     <l pos="Prc;A">чырсамтэ</l><orig>чырсамтэ</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чырсаны</stem></drvg>
 </mg>
@@ -11834,14 +11834,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>hapattaa, käyttää; piimittää; antaa hapata (t. hapantua)</t>
-     </tg><font face="SmolenskSGR"><b>чырсгумы </b></font><field>kasv.</field><font face="SmolenskSGR">(<i>гоноколыс, гоночырс</i>)</font>
+     </tg><font face="SmolenskSGR"><b>чырсгумы </b></font><field>kasv.</field><font face="SmolenskSGR">(<i>гоноколыс, гоночырс</i>)</font><FIX2/>
      <tg xml:lang="fin">
        <t>ukonputki</t>
        <re>Heracleum</re>;
      </tg>
      <tg xml:lang="fin">
        <t>idänukonputki</t>
-       <re>H. sibiricum</re>
+       <re>Heracleum sibiricum</re>
      </tg>
    </mg>
 </e>
@@ -11858,7 +11858,7 @@
 </e>
 
 <e>
-   <lg><l>чырспыр</l><orig>чорспор</orig>
+   <lg><l pos="A">чырспыр</l><orig>чорспор</orig>
      <variants>
        <l_syn>чырспыръем</l_syn>
      </variants>
@@ -11871,9 +11871,9 @@
 </e>
 
 <e>
-   <lg><l>чырспыръем</l><orig>чорспыръеʼм</orig>
+   <lg><l pos="A">чырспыръем</l><orig>чорспыръеʼм</orig>
      <variants>
-       <l_syn>чорспор</l_syn>
+       <l_syn>чырспыр</l_syn>
      </variants>
    </lg>
    <mg>
@@ -11894,7 +11894,7 @@
      </tg>
      <tg xml:lang="fin">
        <t> niittysuolaheinä</t>
-       <re>R. acetosa</re>;
+       <re>Rumex acetosa</re>;
      </tg>
      <variants>
        <l_syn type="&gt;">кузькылак</l_syn>
@@ -11995,7 +11995,7 @@
 </e>
 
 <e>
-   <lg><l>чырты</l><orig>чырты</orig>
+   <lg><l pos="N">чырты</l><orig>чырты</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -12027,7 +12027,7 @@
 </e>
 
 <e>
-   <lg><l>чыртыбер (=ыз)</l><orig>чыртыбер (=ыз)</orig>
+   <lg><l pos="N">чыртыбер (=ыз)</l><orig>чыртыбер (=ыз)</orig>
    </lg>
    <mg><field>anat.</field>
      <tg xml:lang="fin">
@@ -12046,7 +12046,7 @@
    <mg><field>anat.</field>
      <tg xml:lang="fin">
        <t>aataminomena</t>
-     </tg><font face="SmolenskSGR"><b>чыртысьӧр (=ыз)</b></font>
+     </tg><font face="SmolenskSGR"><b>чыртысьӧр (=ыз)</b></font><FIX2/>
      <variants>
        <l_syn type="&gt;">чыртыбер</l_syn>
      </variants>
@@ -12054,19 +12054,19 @@
 </e>
 
 <e>
-   <lg><l>чырым</l>
+   <lg><l pos="N">чырым</l>
    </lg>
    <mg>
      <xg><x>чырым но ӧй кары</x>
 <xt xml:lang="fin">koko yönä en ummistanut silmiäni, koko yönä en nukkunut (t. saanut unta) silmäntäyttä;</xt>
      </xg>
-<xg><x>одӥг чырым но ӧй кöʼлы</x>
+<xg><x>одӥг чырым но ӧй кöлы</x>
        <xt xml:lang="fin">koko yönä en ummistanut silmiäni, koko yönä en nukkunut (t. saanut unta) silmäntäyttä</xt></xg>
    </mg>
 </e>
 
 <e>
-   <lg><l>чыры-пыры</l><orig>чыры-пыры</orig>
+   <lg><l pos="N">чыры-пыры</l><orig>чыры-пыры</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -12133,7 +12133,7 @@
 </e>
 
 <e>
-   <lg><l>чыс-чыс</l><orig>чыʼс-чыс</orig>
+   <lg><l pos="A;Adv">чыс-чыс</l><orig>чыʼс-чыс</orig>
    </lg>
    <mg ind="1th"><defNative>шуныт но шулдыр</defNative>
      <tg xml:lang="fin">
