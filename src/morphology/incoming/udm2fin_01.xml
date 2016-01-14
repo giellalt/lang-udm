@@ -18422,7 +18422,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шаʼлтраʼк шалтырес</l_syn>
+       <l_syn type="&gt;">шалтрак <FIX2/>шалтырес</l_syn>
        <l_syn type="&gt;">шалтрес</l_syn>
      </variants>
    </mg>
@@ -18603,7 +18603,7 @@
 
 <e>
    <lg>
-     <l pos="Descr">шаʼльк-шальк</l><orig>шаʼльк-шальк</orig>
+     <l pos="Descr">шальк-шальк</l><orig>шаʼльк-шальк</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -18751,7 +18751,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шаʼльтраʼк шальтырес</l_syn>
+       <l_syn type="&gt;">шальтрак <FIX2/>шальтырес</l_syn>
        <l_syn type="&gt;">шальтрес</l_syn>
      </variants>
    </mg>
@@ -18949,7 +18949,7 @@
    </mg>
 </e>
 
-<e><FIXME2/><font face="SmolenskSGR"><b>шантажиʼровать: шантажиʼровать карыны</b></font> <font face="SmolenskSGR">(<i>кинэ ке</i>)</font>
+<e><FIXME2/><font face="SmolenskSGR"><b>шантажировать: шантажировать карыны</b></font> <font face="SmolenskSGR">(<i>кинэ ке</i>)</font>
      <tg xml:lang="fin">
        <t>kiristää jtak;</t>
      </tg><font face="SmolenskSGR">(<i>шантажен вырыны</i>)</font>
@@ -19064,7 +19064,7 @@
 </e>
 
 <e>
-   <lg><l>шаʼп-шап<rom ind="2"/></l>
+   <lg><l>шап-шап<rom ind="2"/></l>
    </lg>
    <mg>
      <variants>
@@ -20340,7 +20340,7 @@
 
 <e>
    <lg>
-     <l pos="N">{вейцария</l><orig>{вейцаʼрия</orig>
+     <l pos="N">Швейцария</l><orig>{вейцаʼрия</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -20500,7 +20500,7 @@
      <tg xml:lang="fin">
        <t>, älytä, oivaltaa;</t>
      </tg>
-     <xg><x>мон ӝоʼгаʼк шедьтӥськи, ма вазьыны</x>
+     <xg><x>мон ӝогак шедьтӥськи, ма вазьыны</x>
        <xt xml:lang="fin">hoksasin heti mitä vastata, keksin heti vastauksen</xt>
      </xg>
 </mg>
@@ -21842,7 +21842,7 @@
 <e>
    <lg><l>шизофрени</l><orig>шизофрениʼ</orig>
      <variants>
-       <l_syn>шизофрениʼя</l_syn>
+       <l_syn>шизофрения</l_syn>
      </variants>
    </lg>
    <mg><field>lääk.</field>
@@ -21856,7 +21856,7 @@
    <lg>
      <l pos="N">шизофрения</l><orig>шизофрениʼя</orig>
      <variants>
-       <l_syn>шизофрениʼ</l_syn>
+       <l_syn>шизофрени</l_syn>
      </variants>
    </lg>
    <mg><field>lääk.</field>
@@ -22281,7 +22281,7 @@
        <t>kattolevy</t>
        <re>asbestiliuskeesta</re>;
      </tg>
-     <xg><x>шиʼфереʼн липыны</x>
+     <xg><x>шиферен липыны</x>
        <xt xml:lang="fin">kattaa kattolevyllä</xt>
      </xg>
    </mg>
@@ -22300,7 +22300,7 @@
      <tg xml:lang="fin">
        <t>signumi, paikkamerkki;</t>
      </tg>
-     <xg><x>книгалэн шиʼфрез</x>
+     <xg><x>книгалэн шифрез</x>
        <xt xml:lang="fin">kirjan signumi</xt>
      </xg>
    </mg>
@@ -23447,7 +23447,7 @@
      <tg xml:lang="fin">
        <t>oikea, virheetön, säännöllinen, tarkka // oikein, virheettömästi, säännöllisesti, tarkasti;</t>
      </tg>
-     <xg><x>ш. аʼдрес</x>
+     <xg><x>ш. адрес</x>
        <xt xml:lang="fin">tarkka osoite;</xt>
      </xg>
      <xg><x>шонер кылпум вошъян</x>
@@ -23942,7 +23942,7 @@
    <lg>
      <l pos="A">шоретӥез</l><orig>шореʼтӥеʼз</orig>
      <variants>
-       <l_syn>шореʼтӥʼ</l_syn>
+       <l_syn>шоретӥ</l_syn>
      </variants>
    </lg>
    <mg>
@@ -24344,7 +24344,7 @@
 </e>
 
 <e>
-   <lg><l>шорты (шорто=)</l><orig>шоʼрты (шоʼрто=)</orig>
+   <lg><l>шорты (шортыʼ=)</l><orig>шоʼрты (шоʼрто=)</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -24405,7 +24405,7 @@
 <x>юбо ш. мырӟиськыны</x>
 <xt xml:lang="fin">törmätä pylvääseen</xt>
 </xg>◊
-     <xg><x>ноʼмор ш. учкытэк</x>
+     <xg><x>номыр ш. учкытэк</x>
        <xt xml:lang="fin">kaikesta huolimatta</xt>
      </xg>
    </mg>
@@ -24527,7 +24527,7 @@
 
 <e>
    <lg>
-     <l pos="N">{отландия</l><orig>{отлаʼндия</orig>
+     <l pos="N">Шотландия</l><orig>{отлаʼндия</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -24908,7 +24908,7 @@
      <tg xml:lang="fin">
        <t>arvata, oivaltaa, älytä;</t>
      </tg>
-     <xg><x>ноʼкиʼн но ӧз шӧды на вал, мар ми татын кариськом</x>
+     <xg><x>нокин но ӧз шӧды на вал, мар ми татын кариськом</x>
        <xt xml:lang="fin">kukaan ei ollut vielä arvannut, mitä me täällä teemme</xt>
      </xg>
 </mg>
@@ -25584,10 +25584,10 @@
 
 <e><FIXME1/>
    <mg>
-     <xg><x>шпиоʼнить: шпиоʼнить карон</x>
+     <xg><x>шпионить: шпионить карон</x>
        <xt xml:lang="fin">vakoilu, urkinta;</xt>
      </xg>
-     <xg><x>шпиоʼнить карыны</x>
+     <xg><x>шпионить карыны</x><FIX2/>
        <xt xml:lang="fin">vakoilla, urkkia</xt>
      </xg>
    </mg>
@@ -25619,7 +25619,7 @@
    <lg>
      <l pos="N">шпрот</l><orig>шпрот</orig>
      <variants>
-       <l_syn>шпроʼта</l_syn>
+       <l_syn>шпрота</l_syn>
      </variants>
    </lg>
    <mg><field>el.</field>
@@ -25774,7 +25774,7 @@
 </e>
 
 <e>
-   <lg><l>штопор (штопор=)</l><orig>штоʼпор (штоʼпор=ʼ)</orig>
+   <lg><l>штопор (штоʼпор=ʼ)</l><orig>штоʼпор (штоʼпор=ʼ)</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -26016,28 +26016,28 @@
 </e>
 
 <e>
-   <lg><l>шаак-даак</l><orig>шаак-даак</orig>
+   <lg><l>шуʼак-дуʼак</l><orig>шаак-даак</orig><FIX3/>
      <variants>
        <l_syn>шуаʼк-дуаʼк</l_syn>
      </variants>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шааʼк</l_syn>
+       <l_syn type="&gt;">шуʼаʼк</l_syn>
      </variants>
    </mg>
 </e>
 
 <e>
    <lg>
-     <l pos="Adv">шуак-дуак</l><orig>шуаʼк-дуаʼк</orig>
+     <l pos="Adv">шуаʼк-дуаʼк</l><orig>шуаʼк-дуаʼк</orig><FIX3/>
      <variants>
-       <l_syn>шаак-даак</l_syn>
+       <l_syn>шуʼак-дуʼак</l_syn>
      </variants>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шааʼк</l_syn>
+       <l_syn type="&gt;">шуʼаʼк</l_syn>
      </variants>
    </mg>
 </e>
@@ -26408,7 +26408,7 @@
      <xg><x>кылъя шуг-секытъёс</x>
        <xt xml:lang="fin">kielivaikeudet;</xt>
      </xg>
-     <xg><x>эконоʼмикая шуг- секытъёс</x>
+     <xg><x>экономикая шуг-секытъёс</x>
        <xt xml:lang="fin">taloudelliset vaikeudet;</xt>
      </xg>
      <xg><x>вань шуг-секытъёсты вормыны</x>
@@ -26783,7 +26783,7 @@
      <tg xml:lang="fin">
        <t>soida;</t>
      </tg>
-     <xg><x>раʼдио шудэ</x>
+     <xg><x>радио шудэ</x>
        <xt xml:lang="fin">radio soi;</xt>
      </xg>
      <xg><x>урамын крезьгур шудэ</x>
@@ -28959,7 +28959,7 @@
        <t>lause, virke;</t>
      </tg>
      <variants>
-       <l_syn type="&gt;">предложеʼние</l_syn>
+       <l_syn type="&gt;">предложение</l_syn>
      </variants>
    </mg>
 </e>
@@ -30256,11 +30256,11 @@
 </e>
 
 <e>
-   <lg><l>шопытак</l><orig>шопытаʼк</orig>
+   <lg><l>шыпытак</l><orig>шопытаʼк</orig>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шопаʼк</l_syn>
+       <l_syn type="&gt;">шыпак</l_syn>
      </variants>
    </mg>
 </e>
