@@ -18637,7 +18637,7 @@
 </e>
 
 <e>
-   <lg><l>шальтрак</l><orig>шаʼльтраʼк</orig>
+   <lg><l pos="Descr">шальтрак</l><orig>шаʼльтраʼк</orig>
    </lg>
    <mg ind="1th"><note><i>onom. kuvaa metalli- t. puuesineiden, rattaiden aiheuttamaa yksittäistä heleää ääntä</i></note>
      <tg xml:lang="fin">
@@ -18661,7 +18661,7 @@
 </e>
 
 <e>
-   <lg><l>шальтран</l><orig>шальтран</orig>
+   <lg><l pos="N">шальтран</l><orig>шальтран</orig>
    </lg>
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>шальтраны</stem></drvg>
    </mg>
@@ -18733,9 +18733,9 @@
 </e>
 
 <e>
-   <lg><l>шальтыр</l><orig>шальтыр</orig>
+   <lg><l pos="Descr">шальтыр</l><orig>шальтыр</orig>
    </lg>
-   <mg ind="1th"><note><i>onom. kuvaa metalli- esineiden (esim. kolikkojen) t. pienten puuesineiden useasti toistuvaa heleää ääntä</i></note>
+   <mg ind="1th"><note><i>onom. kuvaa metalliesineiden (esim. kolikkojen) t. pienten puuesineiden useasti toistuvaa heleää ääntä</i></note>
      <tg xml:lang="fin">
        <t>: helinä, kilinä</t>
      </tg>
@@ -18747,7 +18747,7 @@
 </e>
 
 <e>
-   <lg><l>шальтырак</l><orig>шаʼльтыраʼк</orig>
+   <lg><l pos="Descr">шальтырак</l><orig>шаʼльтыраʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -18791,7 +18791,7 @@
 </e>
 
 <e>
-   <lg><l>шальтыртэм</l><orig>шальтыртэм</orig>
+   <lg><l pos="Prc;N">шальтыртэм</l><orig>шальтыртэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шальтыртыны</stem></drvg>
 </mg>
@@ -18890,7 +18890,7 @@
 </e>
 
 <e>
-   <lg><l>шампанской</l><orig>шампаʼнской</orig>
+   <lg><l pos="N">шампанской</l><orig>шампаʼнской</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -18926,7 +18926,7 @@
 </e>
 
 <e>
-   <lg><l>шанс</l><orig>шанс</orig>
+   <lg><l pos="N">шанс</l><orig>шанс</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -18940,7 +18940,7 @@
 </e>
 
 <e>
-   <lg><l>шантаж</l><orig>шантаж</orig>
+   <lg><l pos="N">шантаж</l><orig>шантаж</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -18975,7 +18975,7 @@
 </e>
 
 <e>
-   <lg><l>шап<rom ind="1"/></l>
+   <lg><l pos="Descr">шап<rom ind="1"/></l>
    </lg>
    <mg><note><i>onom. kuvaa pisaran t. tipan tippumista ropisten</i></note>
      <tg xml:lang="fin">
@@ -18988,7 +18988,7 @@
 </e>
 
 <e>
-   <lg><l>шап<rom ind="2"/></l>
+   <lg><l pos="Adv;A">шап<rom ind="2"/></l>
    </lg>
    <mg ind="1th"><defNative>дыраз</defNative>
      <tg xml:lang="fin">
@@ -19019,7 +19019,7 @@
 </e>
 
 <e>
-   <lg><l>шаплы</l><orig>шаплы</orig>
+   <lg><l pos="A;Adv">шаплы</l><orig>шаплы</orig>
    </lg>
    <mg ind="1th"><defNative>сэзь</defNative>
      <tg xml:lang="fin">
@@ -19051,7 +19051,7 @@
 </e>
 
 <e>
-   <lg><l>шап-шап<rom ind="1"/></l>
+   <lg><l pos="Descr">шап-шап<rom ind="1"/></l>
    </lg>
    <mg><note><i>onom. kuvaa pisaroiden t. tippojen tippumista ropisten</i></note>
      <tg xml:lang="fin">
@@ -19064,7 +19064,7 @@
 </e>
 
 <e>
-   <lg><l>шап-шап<rom ind="2"/></l>
+   <lg><l pos="A;Adv">шап-шап<rom ind="2"/></l>
    </lg>
    <mg>
      <variants>
@@ -19115,7 +19115,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">шапышъян 1, шапышъяны<rom ind="0_1"/></l_syn>
+       <l_syn type="&gt;">шапышъян 1<FIX3/>, шапышъяны<rom ind="0_1"/></l_syn>
      </variants>
    </mg>
 </e>
@@ -19198,7 +19198,7 @@
 </e>
 
 <e>
-   <lg><l>шапыртон</l><orig>шапыртон</orig>
+   <lg><l pos="N">шапыртон</l><orig>шапыртон</orig>
      <variants>
        <l_syn>шапыртыны</l_syn>
      </variants>
@@ -19225,7 +19225,7 @@
 </e>
 
 <e>
-   <lg><l>шапор-шапыр</l><orig>шапор-шапыр</orig>
+   <lg><l pos="Descr">шапыр-шапыр</l><orig>шапор-шапыр</orig>
    </lg>
    <mg>
      <variants>
@@ -19316,7 +19316,7 @@
 </e>
 
 <e>
-   <lg><l>шар<rom ind="1"/></l>
+   <lg><l pos="N">шар<rom ind="1"/></l>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -19362,7 +19362,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">шара</l><orig>шара</orig>
+     <l pos="Adv;A">шара</l><orig>шара</orig>
    </lg>
    <mg ind="1th"><defNative>куараен</defNative>
      <tg xml:lang="fin">
@@ -19401,7 +19401,7 @@
 </e>
 
 <e>
-   <lg><l>шарае: шарае потон</l>
+   <lg><l pos="Adv">шарае: шарае потон</l>
    </lg>
    <mg><mwemg ind="1th"/><defNative>кыре потон, усьтӥськон</defNative>
      <tg xml:lang="fin">
@@ -19564,7 +19564,7 @@
 </e>
 
 <e>
-   <lg><l>шарик</l><orig>шаʼрик</orig>
+   <lg><l pos="N">шарик</l><orig>шаʼрик</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -19574,7 +19574,7 @@
 </e>
 
 <e>
-   <lg><l>шарико</l><orig>шаʼрикоʼ</orig>
+   <lg><l pos="A">шарико</l><orig>шаʼрикоʼ</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -19611,7 +19611,7 @@
 </e>
 
 <e>
-   <lg><l>шаркак</l><orig>шаʼркаʼк</orig>
+   <lg><l pos="Descr">шаркак</l><orig>шаʼркаʼк</orig>
    </lg>
    <mg>
      <variants>
@@ -19649,7 +19649,7 @@
 </e>
 
 <e>
-   <lg><l>шарккетэм</l><orig>шарккетэм</orig>
+   <lg><l pos="Prc;N">шарккетэм</l><orig>шарккетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шарккетыны</stem></drvg>
 </mg>
@@ -19858,7 +19858,7 @@
 </e>
 
 <e>
-   <lg><l>шаугетэм</l><orig>шаугетэм</orig>
+   <lg><l pos="Prc;N">шаугетэм</l><orig>шаугетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шаугетыны</stem></drvg>
 </mg>
@@ -19983,7 +19983,7 @@
 </e>
 
 <e>
-   <lg><l>шачрес</l><orig>шачрес</orig>
+   <lg><l pos="A">шачрес</l><orig>шачрес</orig>
    </lg>
    <mg ind="1th"><defNative>кот</defNative>
      <tg xml:lang="fin">
@@ -20068,7 +20068,7 @@
 </e>
 
 <e>
-   <lg><l>шачыртэм</l><orig>шачыртэм</orig>
+   <lg><l pos="Prc;N">шачыртэм</l><orig>шачыртэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шачыртыны</stem></drvg>
 </mg>
@@ -20118,7 +20118,7 @@
 </e>
 
 <e>
-   <lg><l>шачыръяськон</l><orig>шачыръяськон</orig>
+   <lg><l pos="N">шачыръяськон</l><orig>шачыръяськон</orig>
    </lg>
    <mg ind="1th"><defNative>астэ ачид</defNative>
      <tg xml:lang="fin">
@@ -20180,7 +20180,7 @@
 </e>
 
 <e>
-   <lg><l>шашки</l><orig>шашки</orig>
+   <lg><l pos="N">шашки</l><orig>шашки</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -20199,7 +20199,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>saslikki, lihavarras</t>
-     </tg><font face="SmolenskSGR"><b>шаштурын</b></font>
+     </tg><font face="SmolenskSGR"><b>шаштурын</b></font><FIX2/>
      <variants>
        <l_syn type="&gt;">шаш<rom ind="0_1"/></l_syn>
      </variants>
@@ -20230,7 +20230,7 @@
 
 <e>
    <lg>
-     <l pos="N">шаян</l><orig>шаян</orig>
+     <l pos="A;Adv">шаян</l><orig>шаян</orig>
    </lg>
    <mg ind="1th"><defNative>лякыттэм, шӧртчияськись</defNative>
      <tg xml:lang="fin">
@@ -20320,12 +20320,12 @@
 </e>
 
 <e>
-   <lg><l>швейцар<rom ind="1"/></l>
+   <lg><l pos="N">швейцар<rom ind="1"/></l>
    </lg>
    <mg><defNative>к-сь гостиницаын</defNative>
      <tg xml:lang="fin">
        <t>ovenvartija, (eteis)vahtimestari</t>
-     </tg><font face="SmolenskSGR"><b>швейцар<rom ind="2"/></b></font><font face="SmolenskSGR">(<i>калык</i>)</font>
+     </tg><font face="SmolenskSGR"><b>швейцар<rom ind="2"/></b></font><font face="SmolenskSGR">(<i>калык</i>)</font><FIX2/>
      <tg xml:lang="fin">
        <t>sveitsiläinen</t>
      </tg>
@@ -20362,7 +20362,7 @@
 </e>
 
 <e>
-   <lg><l>шебель</l><orig>шебель</orig>
+   <lg><l pos="N;A">шебель</l><orig>шебель</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -20640,7 +20640,7 @@
 </e>
 
 <e>
-   <lg><l>шедьытон</l><orig>шедьытон</orig>
+   <lg><l pos="N">шедьытон</l><orig>шедьытон</orig>
    </lg>
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>шедьытыны</stem></drvg>
    </mg>
@@ -20713,7 +20713,7 @@
 </e>
 
 <e>
-   <lg><l>шекерскем</l><orig>шекерскем</orig>
+   <lg><l pos="Prc;A;N">шекерскем</l><orig>шекерскем</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекерскыны</stem></drvg>
 </mg>
@@ -20731,7 +20731,7 @@
 </e>
 
 <e>
-   <lg><l>шекерскон</l><orig>шекерскон</orig>
+   <lg><l pos="N">шекерскон</l><orig>шекерскон</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -20774,7 +20774,7 @@
 </e>
 
 <e>
-   <lg><l>шекертэм</l><orig>шекертэм</orig>
+   <lg><l pos="Prc;N">шекертэм</l><orig>шекертэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекертыны</stem></drvg>
 </mg>
@@ -20866,7 +20866,7 @@
 </e>
 
 <e>
-   <lg><l>шенглес</l><orig>шенглес</orig>
+   <lg><l pos="A;Adv">шенглес</l><orig>шенглес</orig>
    </lg>
    <mg ind="1th"><defNative>к-сь &quot;р&quot; куараез мыдлань вера</defNative>
      <tg xml:lang="fin">
@@ -20890,7 +20890,7 @@
 </e>
 
 <e>
-   <lg><l>шенгылес</l><orig>шенгылес</orig>
+   <lg><l pos="A;Adv">шенгылес</l><orig>шенгылес</orig>
      <variants>
        <l_syn>шенгыль</l_syn>
      </variants>
@@ -20904,7 +20904,7 @@
 
 <e>
    <lg>
-     <l pos="Descr">шенгыль</l><orig>шенгыль</orig>
+     <l pos="A;Adv">шенгыль</l><orig>шенгыль</orig>
      <variants>
        <l_syn>шенгылес</l_syn>
      </variants>
@@ -20932,7 +20932,7 @@
 
 <e>
    <lg>
-     <l pos="N">шенгыльтӥсь</l><orig>шенгыльтӥсь</orig>
+     <l pos="Prc;A">шенгыльтӥсь</l><orig>шенгыльтӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шенгыльтыны</stem></drvg>
 </mg>
@@ -20985,7 +20985,7 @@
 </e>
 
 <e>
-   <lg><l>шенӟиян</l><orig>шенӟиян</orig>
+   <lg><l pos="N">шенӟиян</l><orig>шенӟиян</orig>
    </lg>
    <mg ind="1th"><defNative>к-сь картошка</defNative>
      <tg xml:lang="fin">
@@ -21268,7 +21268,7 @@
 </e>
 
 <e>
-   <lg><l>шепотурын</l><orig>шепотурын</orig>
+   <lg><l pos="N">шепотурын</l><orig>шепотурын</orig>
    </lg>
    <mg><field>kasv.</field>
      <tg xml:lang="fin">
@@ -21279,7 +21279,7 @@
 </e>
 
 <e>
-   <lg><l>шер<rom ind="1"/></l>
+   <lg><l pos="N">шер<rom ind="1"/></l>
    </lg>
    <mg><defNative>шерон арбери</defNative>
      <tg xml:lang="fin">
@@ -21289,7 +21289,7 @@
 </e>
 
 <e>
-   <lg><l>шер<rom ind="2"/></l>
+   <lg><l pos="Adv;A">шер<rom ind="2"/></l>
    </lg>
    <mg><defNative>ӵем ӧвӧл</defNative>
      <tg xml:lang="fin">
@@ -21317,7 +21317,7 @@
 </e>
 
 <e>
-   <lg><l>шерак: шерак кожыны</l>
+   <lg><l pos="Adv">шерак: шерак кожыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -21411,7 +21411,7 @@
 
 <e>
    <lg>
-     <l pos="Descr">шер-вай</l><orig>шер-вай</orig>
+     <l pos="Adv;A">шер-вай</l><orig>шер-вай</orig>
    </lg>
    <mg ind="1th"><defNative>одӥг-ог</defNative>
      <tg xml:lang="fin">
@@ -21566,7 +21566,7 @@
 
 <e>
    <lg>
-     <l pos="N">шерон</l><orig>шерон</orig>
+     <l pos="N;A">шерон</l><orig>шерон</orig>
    </lg>
    <mg ind="1th"><defNative>к-сь пуртэз, тӥрез</defNative>
      <tg xml:lang="fin">
@@ -21598,7 +21598,7 @@
 </e>
 
 <e>
-   <lg><l>шертӥсь</l><orig>шертӥсь</orig>
+   <lg><l pos="Prc;N">шертӥсь</l><orig>шертӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шертыны</stem></drvg>
 </mg>
@@ -21702,7 +21702,7 @@
 </e>
 
 <e>
-   <lg><l>шерык-вайык</l><orig>шерык-ваʼйык</orig>
+   <lg><l pos="Descr">шерык-вайык</l><orig>шерык-ваʼйык</orig>
    </lg>
    <mg><note><i>deskr.</i></note>
      <tg xml:lang="fin">
@@ -21826,7 +21826,7 @@
 </e>
 
 <e>
-   <lg><l>шиетэм</l><orig>шиетэм</orig>
+   <lg><l pos="Prc;N">шиетэм</l><orig>шиетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шиетыны</stem></drvg>
 </mg>
@@ -21840,7 +21840,7 @@
 </e>
 
 <e>
-   <lg><l>шизофрени</l><orig>шизофрениʼ</orig>
+   <lg><l pos="N">шизофрени</l><orig>шизофрениʼ</orig>
      <variants>
        <l_syn>шизофрения</l_syn>
      </variants>
@@ -21907,7 +21907,7 @@
        <t>kilistä, kilahdella, helistä;</t>
      </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
      <tg xml:lang="fin">
-       <t>kilistää, kilistellä, helistä, helistellä</t>
+       <t>kilistää, kilistellä, helistää, helistellä</t>
      </tg>
    </mg>
 </e>
@@ -21968,7 +21968,7 @@
 </e>
 
 <e>
-   <lg><l>шильыртэм</l><orig>шильыртэм</orig>
+   <lg><l pos="Prc;N">шильыртэм</l><orig>шильыртэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шильыртыны</stem></drvg>
 </mg>
@@ -22049,7 +22049,7 @@
 </e>
 
 <e>
-   <lg><l>шимес</l><orig>шимес</orig>
+   <lg><l pos="A;Adv">шимес</l><orig>шимес</orig>
    </lg>
    <mg ind="1th"><defNative>кӧшкемыт</defNative>
      <tg xml:lang="fin">
