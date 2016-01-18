@@ -37952,12 +37952,12 @@
    <mg>
      <tg xml:lang="fin">
        <t>kansatiede, etnografia</t>
-     </tg><font face="SmolenskSGR"><b>эфир</b></font>
+     </tg><font face="SmolenskSGR"><b>эфир</b></font><FIX2/>
    <mg ind="1th"/><field>kem.</field>
      <tg xml:lang="fin">
        <t>eetteri;</t>
      </tg>
-     <xg><x>этиʼл(овой) этнограʼфия</x>
+     <xg><x>этил(овой) эфир</x>
        <xt xml:lang="fin">(di)etyylieetteri</xt>
      </xg>
 </mg>
@@ -37965,7 +37965,7 @@
      <tg xml:lang="fin">
        <t>lähetys;</t>
      </tg>
-     <xg><x>меӵак этнограʼфия<CHECKME1/></x>
+     <xg><x>меӵак эфир</x>
        <xt xml:lang="fin">suora lähetys;</xt>
      </xg><font face="SmolenskSGR"><b>эфире потыны </b></font><mwemg ind="1th"/><defNative>меӵак</defNative>
      <tg xml:lang="fin">
@@ -37990,7 +37990,7 @@
      <tg xml:lang="fin">
        <t>vaikutus, teho, efekti;</t>
      </tg>
-     <xg><x>сцеʼна эффект<CHECKME1/></x>
+     <xg><x>сцена эффект</x>
        <xt xml:lang="fin">näyttämöllinen teho(keino)</xt>
      </xg>
 </mg>
@@ -38006,7 +38006,7 @@
      <tg xml:lang="fin">
        <t>hyöty;</t>
      </tg>
-     <xg><x>эмъюм эффект<CHECKME1/> ӧз сёты</x>
+     <xg><x>эмъюм эффект ӧз сёты</x>
        <xt xml:lang="fin">lääke ei tehonnut (t. vaikuttanut)</xt>
      </xg>
 </mg>
@@ -38014,7 +38014,7 @@
      <tg xml:lang="fin">
        <t>ilmiö;</t>
      </tg>
-     <xg><x>геомагниʼтной эффект<CHECKME1/></x>
+     <xg><x>геомагнитной эффект</x>
        <xt xml:lang="fin">geomagneettinen ilmiö</xt>
      </xg>
    </mg>
@@ -38155,12 +38155,12 @@
      <tg xml:lang="fin">
        <t>juna;</t>
      </tg>
-     <xg><x>воʼинской эшелон<CHECKME1/></x>
+     <xg><x>воинской эшелон</x>
        <xt xml:lang="fin">sotilasjuna;</xt>
      </xg>
-     <xg><x>музъем эгырен эшелон<CHECKME1/></x>
+     <xg><x>музъем эгырен эшелон</x>
        <xt xml:lang="fin">hiilijuna</xt>
-     </xg><font face="SmolenskSGR"><b>эшлан, эшланы</b></font>
+     </xg><font face="SmolenskSGR"><b>эшлан, эшланы</b></font><FIX2/>
      <variants>
        <l_syn type="&gt;">эшъян, эшъяны</l_syn>
      </variants>
@@ -38217,10 +38217,10 @@
      <tg xml:lang="fin">
        <t>ystävyys, toveruus</t>
      </tg><FIXME1/>
-     <xg><x>эшлыко</x>
+     <xg><x>эшлыко</x><FIX2/>
        <xt xml:lang="fin">ystävän=, ystävyys=, ystävällinen, toverillinen, toveri=, toveruus=;</xt>
      </xg>
-     <xg><x>эшлык<CHECKME1/> кусыпъёс</x>
+     <xg><x>эшлыко кусыпъёс</x>
        <xt xml:lang="fin">ystävyyssuhteet, ystävälliset suhteet, toveruussuhteet, toverilliset välit</xt>
      </xg>
    </mg>
@@ -38234,7 +38234,7 @@
      <tg xml:lang="fin">
        <t>paljon, moni;</t>
      </tg>
-     <xg><x>эшто<CHECKME1/> семья</x>
+     <xg><x>эшто семья</x>
        <xt xml:lang="fin">iso (t. monihenkinen, monilapsinen) perhe</xt>
      </xg>
 </mg>
@@ -38242,7 +38242,7 @@
      <tg xml:lang="fin">
        <t>joukolla, yksissä tuumin (t. neuvoin), yhteisvoimin, yhdessä, yhteisesti, yhteistyössä;</t>
      </tg>
-     <xg><x>эшто<CHECKME1/> ужаны</x>
+     <xg><x>эшто ужаны</x>
        <xt xml:lang="fin">tehdä työtä joukolla (t. yhteisvoimin)</xt>
      </xg>
    </mg>
@@ -38256,7 +38256,7 @@
      <tg xml:lang="fin">
        <t>osuuskunta; yritys; yhtiö;</t>
      </tg>
-     <xg><x>гурт возёс эштос<CHECKME1/></x>
+     <xg><x>гурт возёс эштос</x>
        <xt xml:lang="fin">maatalousosuuskunta</xt>
      </xg>
    </mg>
@@ -38269,19 +38269,19 @@
      <tg xml:lang="fin">
        <t>vielä; lisää;</t>
      </tg>
-     <xg><x>эшшо<CHECKME1/> дыр кулэ на</x>
+     <xg><x>эшшо дыр кулэ на</x>
        <xt xml:lang="fin">tarvitsen vielä (t. lisää) aikaa;</xt>
      </xg>
-     <xg><x>эшшо<CHECKME1/> лыдӟы на</x>
+     <xg><x>эшшо лыдӟы на</x>
        <xt xml:lang="fin">lue vielä kerran;</xt>
      </xg>
-     <xg><x>со быдэс арнялы эшшо<CHECKME1/> кошкиз на</x>
+     <xg><x>со быдэс арнялы эшшо кошкиз на</x>
        <xt xml:lang="fin">hän lähti vielä koko viikoksi;</xt>
      </xg>
-     <xg><x>со егит на эшшо<CHECKME1/></x>
+     <xg><x>со егит на эшшо</x>
        <xt xml:lang="fin">hän on vielä nuori;</xt>
      </xg>
-     <xg><x>та книгаез басьты на эшшо<CHECKME1/></x>
+     <xg><x>та книгаез басьты на эшшо</x>
        <xt xml:lang="fin">ota vielä tämä kirja</xt>
      </xg>
    </mg>
@@ -38320,7 +38320,7 @@
      <tg xml:lang="fin">
        <t>tutustuttaa, tehdä tutuksi, esitellä;</t>
      </tg>
-     <xg><x>адямиосты ог- огенызы эшъяны<CHECKME1/></x>
+     <xg><x>адямиосты ог-огенызы эшъяны</x>
        <xt xml:lang="fin">tutustuttaa ihmiset toisiinsa</xt>
      </xg>
    </mg>
@@ -38351,7 +38351,7 @@
      <tg xml:lang="fin">
        <t>tutustua;</t>
      </tg>
-     <xg><x>эшъяськыны<CHECKME1/> вераським</x>
+     <xg><x>эшъяськыны вераським</x>
        <xt xml:lang="fin">päätimme olla ystäviä;</xt>
      </xg>
      <xg><x>милям нылпиосмы эшъяськиллям</x>
@@ -38360,7 +38360,7 @@
      <xg><x>ми выль бускельёсынымы эшъяським</x>
        <xt xml:lang="fin">olemme ystävystyneet uusien naapureiden kanssa;</xt>
      </xg>
-     <xg><x>кинотеаʼтрын эшъяськыны<CHECKME1/></x>
+     <xg><x>кинотеатрын эшъяськыны</x>
        <xt xml:lang="fin">tutustua elokuvateatterissa;</xt>
      </xg>
      <xg><x>эшъяскыса улон</x>
@@ -38495,7 +38495,7 @@
      <tg xml:lang="fin">
        <t>kysellä, tiedustella;</t>
      </tg>
-     <xg><x>аʼдресэз юалляны<CHECKME1/></x>
+     <xg><x>адресэз юалляны</x>
        <xt xml:lang="fin">tiedustella osoitetta</xt>
      </xg>
 </mg>
@@ -38517,7 +38517,7 @@
      <tg xml:lang="fin">
        <t>(kierto)kysely, mielipidetutkimus, mielipidetiedustelu;</t>
      </tg>
-     <xg><x>юалляськон<CHECKME1/> ортчытыны</x>
+     <xg><x>юалляськон ортчытыны</x>
        <xt xml:lang="fin">tehdä mielipidetutkimus</xt>
      </xg>
    </mg>
@@ -38534,10 +38534,10 @@
      <tg xml:lang="fin">
        <t>tehdä mielipidetutkimus;</t>
      </tg>
-     <xg><x>адӟисьёслэсь юалляськыны<CHECKME1/></x>
+     <xg><x>адӟисьёслэсь юалляськыны</x>
        <xt xml:lang="fin">kuulustella todistajia;</xt>
      </xg>
-     <xg><x>газетэ юалляськыны<CHECKME1/></x>
+     <xg><x>газетэ юалляськыны</x>
        <xt xml:lang="fin">haastatella sanomalehteen</xt>
      </xg>
    </mg>
@@ -38589,11 +38589,11 @@
    <mg ind="4th"><defNative>куран</defNative>
      <tg xml:lang="fin">
        <t>kosiminen, kosinta, kosiskelu</t>
-     </tg>◊ <font face="SmolenskSGR"><b>юан<CHECKME1/> нимвоштос </b></font><field>kiel.</field>
+     </tg>◊ <font face="SmolenskSGR"><b>юан нимвоштос </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>interrogatiivipronomini;</t>
      </tg>
-     <xg><x>юан<CHECKME1/> пус</x>
+     <xg><x>юан пус</x>
        <xt xml:lang="fin">kysymysmerkki</xt>
      </xg>
    </mg>
@@ -38623,10 +38623,10 @@
      <tg xml:lang="fin">
        <t>kysyä, tiedustella;</t>
      </tg>
-     <xg><x>аʼдресэз юаны<CHECKME1/></x>
+     <xg><x>адресэз юаны</x>
        <xt xml:lang="fin">tiedustella osoitetta;</xt>
      </xg>
-     <xg><x>фамиʼлиез юаны<CHECKME1/></x>
+     <xg><x>фамилиез юаны</x>
        <xt xml:lang="fin">kysyä sukunimeä</xt>
      </xg>
 </mg>
@@ -38634,10 +38634,10 @@
      <tg xml:lang="fin">
        <t>kysyä, pyytää;</t>
      </tg>
-     <xg><x>визь-кенеш юаны<CHECKME1/></x>
+     <xg><x>визь-кенеш юаны</x>
        <xt xml:lang="fin">kysyä neuvoa;</xt>
      </xg>
-     <xg><x>эшлэсь книга юаны<CHECKME1/></x>
+     <xg><x>эшлэсь книга юаны</x>
        <xt xml:lang="fin">pyytää kirja ystävältä</xt>
      </xg>
 </mg>
@@ -38652,7 +38652,7 @@
    <mg ind="4th"><defNative>кураны</defNative>
      <tg xml:lang="fin">
        <t>kosia, kosiskella</t>
-     </tg>◊ <font face="SmolenskSGR"><b>кылзэ</b> (<i>я. </i><b>кылэз) юаны<CHECKME1/> </b></font><mwemg ind="1th"/><defNative>выжыятыса юалляськыны</defNative>
+     </tg>◊ <font face="SmolenskSGR"><b>кылзэ</b> (<i>я. </i><b>кылэз) юаны </b></font><mwemg ind="1th"/><defNative>выжыятыса юалляськыны</defNative>
      <tg xml:lang="fin">
        <t>kiduttaa; kiskoa, puristaa (tietoja), lypsää (tietoja); saada tunnustamaan (t. myöntämään)</t>
      </tg><mwemg ind="2th"/><defNative>кыл кутытыны</defNative>
@@ -38673,7 +38673,7 @@
      <tg xml:lang="fin">
        <t>kysyä, kysellä, tiedustella;</t>
      </tg>
-     <xg><x>выль иворъёсты юаны-вераны<CHECKME1/></x>
+     <xg><x>выль иворъёсты юаны-вераны</x>
        <xt xml:lang="fin">kysyä (t. kysellä) jltak uutisia</xt>
      </xg>
 </mg>
@@ -38681,7 +38681,7 @@
      <tg xml:lang="fin">
        <t>neuvotella, pitää neuvoa, keskustella;</t>
      </tg>
-     <xg><x>дышетӥсьлэсь юаны-вераны<CHECKME1/></x>
+     <xg><x>дышетӥсьлэсь юаны-вераны</x>
        <xt xml:lang="fin">neuvotella opettajan kanssa</xt>
      </xg>◊ <font face="SmolenskSGR"><b>юатэк-вератэк кошкыны </b></font><mwemg ind="1th"/><defNative>юаськытэк кошкыны</defNative>
      <tg xml:lang="fin">
@@ -38697,7 +38697,7 @@
    <lg><l>юась-верась</l><orig>юась-верась</orig>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/>
-     <xg><x>юаны- вераны; ноʼкиʼн юась-верась<CHECKME1/> ӧвӧл</x>
+     <xg><x>юаны-вераны; нокин юась-верась ӧвӧл</x>
        <xt xml:lang="fin">kukaan ei ole kiinnostunut; kukaan ei ole kysellyt</xt>
      </xg>
    </mg>
@@ -38708,7 +38708,7 @@
      <l pos="N">юаськон</l><orig>юаськон</orig>
    </lg>
    <mg><inflect type="Der/Он" drv="V»N"/>
-     <xg><x>юаськыны; юаськон<CHECKME1/> дыр</x>
+     <xg><x>юаськыны; юаськон дыр</x>
        <xt xml:lang="fin">kutsunta-aika, kutsunnat</xt>
      </xg>
    </mg>
@@ -38722,7 +38722,7 @@
      <tg xml:lang="fin">
        <t>pyytää lupaa;</t>
      </tg>
-     <xg><x>кузёлэсь юаськыны<CHECKME1/></x>
+     <xg><x>кузёлэсь юаськыны</x>
        <xt xml:lang="fin">kysyä lupa(a) päälliköltä</xt>
      </xg>
 </mg>
@@ -38757,7 +38757,7 @@
        <t>pikkuleipä, kaurakeksi</t>
        <re>kotona valmistettu</re>
      </tg> ◊
-     <xg><x>сьӧд юача<CHECKME1/></x>
+     <xg><x>сьӧд юача</x>
        <xt xml:lang="fin">sottapytty, epäsiisti ihminen</xt>
      </xg>
    </mg>
@@ -38772,7 +38772,7 @@
      <tg xml:lang="fin">
        <t>kottarainen</t>
        <re>Sturnus</re>;
-     </tg><font face="SmolenskSGR"><b>юбер<CHECKME1/> гырк</b> (<i>я. </i></font><FIXME1/>
+     </tg><font face="SmolenskSGR"><b>юбер гырк</b> (<i>я. </i></font><FIXME1/>
      <xg><x>уморто)</x>
        <xt xml:lang="fin">kottaraispönttö</xt>
      </xg>
@@ -38781,7 +38781,7 @@
      <tg xml:lang="fin">
        <t>rastas</t>
        <re>Turdus</re>;
-     </tg><font face="SmolenskSGR">(<i>пурысьюбер<CHECKME1/>, палэзьсиись</i>)</font>
+     </tg><font face="SmolenskSGR">(<i>пурысьюбер, палэзьсиись</i>)</font>
      <tg xml:lang="fin">
        <t>räkättirastas</t>
        <re>T. pilaris</re>
@@ -38802,7 +38802,7 @@
      <tg xml:lang="fin">
        <t>(vuosi)juhla, vuosipäivä, merkkipäivä;</t>
      </tg>
-     <xg><x>юбилей<CHECKME1/> ортчытыны</x>
+     <xg><x>юбилей ортчытыны</x>
        <xt xml:lang="fin">viettää vuosijuhlaa, juhlia vuosipäivää (t. merkkipäivää)</xt>
      </xg>
    </mg>
@@ -38838,10 +38838,10 @@
      <tg xml:lang="fin">
        <t>tolppa, pylväs, paalu, patsas;</t>
      </tg><font face="SmolenskSGR"><b>телеграф</b> (<i>я. </i></font>
-     <xg><x>телефон) юбо<CHECKME1/></x>
+     <xg><x>телефон) юбо</x>
        <xt xml:lang="fin">lennätinpylväs</xt>
      </xg>◊
-     <xg><x>юбо<CHECKME1/> кадь сылыны</x>
+     <xg><x>юбо кадь сылыны</x>
        <xt xml:lang="fin">tyrmistyä, jähmettyä, jäykistyä; seisoa kuin naulittuna; jököttää (liikkumatta), toljottaa;</xt>
      </xg>
      <xg><x>шор юбоен шудыны</x>
@@ -38879,10 +38879,10 @@
      <tg xml:lang="fin">
        <t>kultaseppä, jalokiviseppä</t>
      </tg><FIXME1/>
-     <xg><x>ювелиʼрной</x>
+     <xg><x>ювелирной</x><FIX2/>
        <xt xml:lang="fin">kultasepän=, jalokivi=, koru=;</xt>
      </xg>
-     <xg><x>ювелир<CHECKME1/> магазин</x>
+     <xg><x>ювелирной магазин</x>
        <xt xml:lang="fin">kultasepänliike, koruliike</xt>
      </xg>
    </mg>
@@ -38894,7 +38894,7 @@
    <mg><defNative>лымшор</defNative>
      <tg xml:lang="fin">
        <t>etelä // eteläinen</t>
-     </tg><font face="SmolenskSGR"><b>юг<rom ind="2"/></b></font>
+     </tg><font face="SmolenskSGR"><b>юг<rom ind="2"/></b></font><FIX2/>
      <xg><x>: куазь юг луиз</x>
        <xt xml:lang="fin">aamu on jo valjennut;</xt>
      </xg>
@@ -38905,7 +38905,7 @@
 </e>
 
 <e>
-   <lg><l>юʼгаʼк: юʼгаʼк<CHECKME1/> луыны</l>
+   <lg><l>югак: югак луыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -38915,10 +38915,10 @@
      <tg xml:lang="fin">
        <t> tulla valoisaksi, valaistua;</t>
      </tg>
-     <xg><x>сцеʼна юʼгаʼк<CHECKME1/> луиз</x>
+     <xg><x>сцена югак луиз</x>
        <xt xml:lang="fin">näyttämö tuli häikäisevän valoisaksi;</xt>
      </xg>
-     <xg><x>гурезь йылъёс шундылэсь юʼгаʼк<CHECKME1/> луизы</x>
+     <xg><x>гурезь йылъёс шундылэсь югак луизы</x>
        <xt xml:lang="fin">aurinko valaisi vuorten huiput</xt>
      </xg>
    </mg>
@@ -38987,15 +38987,15 @@
        <t>itsekseen, itseksensä</t>
        <re>hän</re>;
      </tg>
-     <xg><x>ас югдаз<CHECKME1/> вераськыны</x>
+     <xg><x>ас югдаз вераськыны</x>
        <xt xml:lang="fin">puhua itsekseen;</xt>
      </xg>
-     <xg><x>ас югдаз<CHECKME1/> ветлыны</x>
+     <xg><x>ас югдаз ветлыны</x>
        <xt xml:lang="fin">kulkea omiin mietteisiinsä (t. haaveisiinsa) vaipuneena;</xt>
      </xg>
-     <xg><x>ас югдаз<CHECKME1/> улыны</x>
+     <xg><x>ас югдаз улыны</x>
        <xt xml:lang="fin">olla vaipuneena omiin mietteisiinsä (t. haaveisiinsa);</xt>
-     </xg><font face="SmolenskSGR"><b>ас югдаз<CHECKME1/> усьыны </b></font><mwemg ind="1th"/><defNative>ас понназ малпаськыны кутскыны</defNative>
+     </xg><font face="SmolenskSGR"><b>ас югдаз усьыны </b></font><mwemg ind="1th"/><defNative>ас понназ малпаськыны кутскыны</defNative>
      <tg xml:lang="fin">
        <t>vaipua omiin mietteisiinsä (t. haaveisiinsa)</t>
      </tg><mwemg ind="2th"/><defNative>пересьмыса</defNative>
@@ -39059,7 +39059,7 @@
      <tg xml:lang="fin">
        <t>aamunkoitto, aamunsarastus, päivänkoitto, päivänsarastus;</t>
      </tg>
-     <xg><x>куазь югдон<CHECKME1/> азьын</x>
+     <xg><x>куазь югдон азьын</x>
        <xt xml:lang="fin">ennen aamunkoittoa (t. päivänkoittoa)</xt>
      </xg>
 </mg>
@@ -39072,7 +39072,7 @@
    <mg ind="4th"><defNative>тодон-валан басьтон</defNative>
      <tg xml:lang="fin">
        <t>valistus, valistuminen, sivistys, sivistyminen;</t>
-     </tg><font face="SmolenskSGR"><b>югдон<CHECKME1/> вакыт </b></font><field>hist.</field>
+     </tg><font face="SmolenskSGR"><b>югдон вакыт </b></font><field>hist.</field>
      <tg xml:lang="fin">
        <t>valistus(aika)</t>
      </tg>
@@ -39087,7 +39087,7 @@
      <tg xml:lang="fin">
        <t>tilanne, olo(suhtee)t, asiaintila;</t>
      </tg>
-     <xg><x>калыккуспо югдур<CHECKME1/></x>
+     <xg><x>калыккуспо югдур</x>
        <xt xml:lang="fin">kansainvälinen tilanne;</xt>
      </xg>
      <xg><x>таӵе югдур(ъёс) дыръя</x>
@@ -39204,15 +39204,15 @@
    <mg ind="3th"> <senseType>kuv.</senseType><defNative>тодон-валан басьтыны</defNative>
      <tg xml:lang="fin">
        <t>valistua, sivistyä</t>
-     </tg><font face="SmolenskSGR"><b>югдытон</b></font>
+     </tg><font face="SmolenskSGR"><b>югдытон</b></font><FIX2/>
    <mg ind="1th"/><defNative>югыт карон</defNative>
      <tg xml:lang="fin">
        <t>valaiseminen, valaistus, valaisu;</t>
      </tg>
-     <xg><x>электротылын югдытӥськыны<CHECKME1/></x>
+     <xg><x>электротылын югдытон</x>
        <xt xml:lang="fin">sähkövalaistus;</xt>
      </xg>
-     <xg><x>юртъёсты югдытӥськыны<CHECKME1/></x>
+     <xg><x>юртъёсты югдытон</x>
        <xt xml:lang="fin">rakennusten valaistus</xt>
      </xg>
 </mg>
@@ -39251,7 +39251,7 @@
      <tg xml:lang="fin">
        <t>valaista, näyttää valoa;</t>
      </tg>
-     <xg><x>фонаʼрикен сюресэз югдытыны<CHECKME1/></x>
+     <xg><x>фонарикен сюресэз югдытыны</x>
        <xt xml:lang="fin">valaista tietä taskulampulla;</xt>
      </xg>
      <xg><x>шунды гурезь йылъёсты югдытӥз</x>
@@ -39346,7 +39346,7 @@
      <tg xml:lang="fin">
        <t>lumivalkoinen, vitivalkoinen, valkoistakin valkoisempi;</t>
      </tg>
-     <xg><x>юʼг-тӧдьы<CHECKME1/> лымы</x>
+     <xg><x>юг-тӧдьы лымы</x>
        <xt xml:lang="fin">vitivalkoinen lumi</xt>
      </xg>
    </mg>
@@ -39365,13 +39365,13 @@
      <xg><x>ю. уй</x>
        <xt xml:lang="fin">valoisa yö;</xt>
      </xg><font face="SmolenskSGR"><b>коʼмнатаʼ</b></font> <FIXME1/>
-     <xg><x>югыт<CHECKME1/></x>
+     <xg><x>югыт</x>
        <xt xml:lang="fin">huone on valoisa;</xt>
      </xg>
      <xg><x>лампалэн югытаз сылыны</x>
        <xt xml:lang="fin">seisoa (t. olla) lampun valossa;</xt>
      </xg>
-     <xg><x>югыт<CHECKME1/> азе потыны</x>
+     <xg><x>югыт азе потыны</x>
        <xt xml:lang="fin">astua valoon</xt>
      </xg>
 </mg>
@@ -39379,17 +39379,17 @@
      <tg xml:lang="fin">
        <t>kirkas, voimakasvaloinen // kirkkaasti;</t>
      </tg>
-     <xg><x>югыт<CHECKME1/> нунал</x>
+     <xg><x>югыт нунал</x>
        <xt xml:lang="fin">kirkas päivä;</xt>
      </xg>
-     <xg><x>лампа тырмымон югыт<CHECKME1/> ӝуа</x>
+     <xg><x>лампа тырмымон югыт ӝуа</x>
        <xt xml:lang="fin">lamppu palaa riittävän kirkkaasti</xt>
      </xg>
 </mg>
    <mg ind="3th"><defNative>тус с-сь</defNative>
      <tg xml:lang="fin">
        <t>vaalea(=), valko=;</t>
-     </tg><font face="SmolenskSGR"><b>югыт<CHECKME1/> йырсиё</b></font>
+     </tg><font face="SmolenskSGR"><b>югыт йырсиё</b></font>
      <tg xml:lang="fin">
        <t>vaaleatukkainen, vaaleahiuksinen</t>
      </tg>
@@ -39406,7 +39406,7 @@
      <tg xml:lang="fin">
        <t>palo, väike, loiste</t>
        <re>silmien</re>
-     </tg> • <font face="SmolenskSGR"><b>югыт<CHECKME1/> луыны </b></font><mwemg ind="1th"/>
+     </tg> • <font face="SmolenskSGR"><b>югыт луыны </b></font><mwemg ind="1th"/>
      <tg xml:lang="fin">
        <t>tulla valoisa(mma)ksi</t>
      </tg><mwemg ind="2th"/><defNative>яркыт</defNative>
@@ -39419,26 +39419,26 @@
      <tg xml:lang="fin">
        <t>sarastaa, seljetä, valjeta</t>
      </tg>◊
-     <xg><x>куазь югыт<CHECKME1/> луон</x>
+     <xg><x>куазь югыт луон</x>
        <xt xml:lang="fin">aamunkoitto, aamunsarastus, päivänkoitto, päivänsarastus;</xt>
      </xg>
-     <xg><x>куазь югыт<CHECKME1/> луон азьын</x>
+     <xg><x>куазь югыт луон азьын</x>
        <xt xml:lang="fin">ennen aamunkoittoa (t. päivänkoittoa);</xt>
      </xg>
-     <xg><x>(куазь) югыт<CHECKME1/> луэ ни</x>
+     <xg><x>(куазь) югыт луэ ни</x>
        <xt xml:lang="fin">aamu sarastaa jo, päivä (t. aamu) valkenee jo;</xt>
      </xg>
-     <xg><x>югыт<CHECKME1/> дунне</x>
+     <xg><x>югыт дунне</x>
        <xt xml:lang="fin">maailma;</xt>
      </xg>
-     <xg><x>югыт<CHECKME1/> дуннее вордскыны</x>
+     <xg><x>югыт дуннее вордскыны</x>
        <xt xml:lang="fin">syntyä, tulla maailmaan</xt>
      </xg>
    </mg>
 </e>
 
 <e>
-   <lg><l>юʼгытаʼк: юʼгытаʼк<CHECKME1/> луыны</l>
+   <lg><l>югытак: югытак луыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -39524,7 +39524,7 @@
 <e>
    <lg><l>юг-юг</l><orig>юʼг-юг</orig>
    </lg>
-   <mg ind="1th"><font face="SmolenskSGR">(<i>туж юʼг-юг<CHECKME1/></i>)</font>
+   <mg ind="1th"><font face="SmolenskSGR">(<i>туж юг-юг</i>)</font>
      <tg xml:lang="fin">
        <t>aivan valoisa</t>
      </tg>
@@ -39533,7 +39533,7 @@
      <tg xml:lang="fin">
        <t>lumivalkoinen, vitivalkoinen, valkoistakin valkoisempi;</t>
      </tg>
-     <xg><x>юʼг-юг<CHECKME1/> кисьтаськись лымы</x>
+     <xg><x>юг-юг кисьтаськись лымы</x>
        <xt xml:lang="fin">valkeutta hohtava lumi</xt>
      </xg>
 </mg>
@@ -39541,16 +39541,16 @@
      <tg xml:lang="fin">
        <t>kirkas; häikäisevä, huikaiseva, sokaiseva;</t>
      </tg>
-     <xg><x>юʼг-юг<CHECKME1/> тыл</x>
+     <xg><x>юг-юг тыл</x>
        <xt xml:lang="fin">kirkas valo (t. valaistus)</xt>
-     </xg>• <font face="SmolenskSGR"><b>юʼг-юг<CHECKME1/> карыны </b></font><mwemg ind="1th"/><font face="SmolenskSGR">(<i>туж юʼг-юг<CHECKME1/></i>)</font>
+     </xg>• <font face="SmolenskSGR"><b>юг-юг карыны </b></font><mwemg ind="1th"/><font face="SmolenskSGR">(<i>туж юг-юг</i>)</font>
      <tg xml:lang="fin">
        <t>tehdä aivan valoisaksi</t>
      </tg><mwemg ind="2th"/><defNative>тӧдь-тӧдь</defNative>
      <tg xml:lang="fin">
        <t>valkaista, tehdä lumivalkoiseksi;</t>
      </tg>
-     <xg><x>дэраез юʼг-юг<CHECKME1/> карыны</x>
+     <xg><x>дэраез юг-юг карыны</x>
        <xt xml:lang="fin">valkaista (t. tehdä lumivalkoiseksi) palttina</xt>
      </xg><mwemg ind="3th"/><defNative>яркыт</defNative>
      <tg xml:lang="fin">
@@ -39575,16 +39575,16 @@
      <tg xml:lang="fin">
        <t>paloitella, pilkkoa, hienontaa, pieniä, leikellä;</t>
      </tg>
-     <xg><x>картофка юдон<CHECKME1/></x>
+     <xg><x>картофка юдыны</x>
        <xt xml:lang="fin">pilkkoa peruna (paloiksi);</xt>
      </xg><font face="SmolenskSGR"><b>кияр</b> (<i>я. </i></font>
-     <xg><x>огреч) юдон<CHECKME1/></x>
+     <xg><x>огреч) юдыны</x>
        <xt xml:lang="fin">pilkkoa kurkku (paloiksi);</xt>
      </xg>
-     <xg><x>сугон юдон<CHECKME1/></x>
+     <xg><x>сугон юдыны</x>
        <xt xml:lang="fin">hienontaa sipuli;</xt>
      </xg>
-     <xg><x>сӥль юдон<CHECKME1/></x>
+     <xg><x>сӥль юдыны</x>
        <xt xml:lang="fin">paloitella lihaa</xt>
      </xg>
    </mg>
@@ -39598,13 +39598,13 @@
      <tg xml:lang="fin">
        <t>pala(nen), kappale, suikale, tilkku; viipale, viilu;</t>
      </tg>
-     <xg><x>сӥль юдэс<CHECKME1/></x>
+     <xg><x>сӥль юдэс</x>
        <xt xml:lang="fin">lihapala, lihakimpale, pala lihaa;</xt>
      </xg>
-     <xg><x>лимон юдэс<CHECKME1/></x>
+     <xg><x>лимон юдэс</x>
        <xt xml:lang="fin">sitruunaviipale;</xt>
      </xg>
-     <xg><x>нянь юдэс<CHECKME1/></x>
+     <xg><x>нянь юдэс</x>
        <xt xml:lang="fin">leipäviipale;</xt>
      </xg>
      <xg><x>басма юдэсъёс</x>
@@ -39789,7 +39789,7 @@
    <lg>
      <l pos="V">юзманы</l><orig>юзманы</orig>
    </lg>
-   <mg ind="1th"><font face="SmolenskSGR">(<i>сю юзман<CHECKME1/></i>)</font>
+   <mg ind="1th"><font face="SmolenskSGR">(<i>сю юзманы</i>)</font>
      <tg xml:lang="fin">
        <t>sammua, lähteä (pois)</t>
        <re>jano</re>;
@@ -39819,7 +39819,7 @@
    <mg ind="2th"><tg xml:lang="fin">
        <t>virvoitus=, virkistys=, raikas, raikastava, virkistävä, piristävä;</t>
      </tg>
-     <xg><x>юзматӥсь<CHECKME1/> юонъёс</x>
+     <xg><x>юзматӥсь юонъёс</x>
        <xt xml:lang="fin">virvoitusjuomat, virvokkeet</xt>
      </xg>
    </mg>
@@ -39844,11 +39844,11 @@
    <lg>
      <l pos="V">юзматыны</l><orig>юзматыны</orig>
    </lg>
-   <mg ind="1th"><font face="SmolenskSGR">(<i>сюэз юзматыны<CHECKME1/></i>)</font>
+   <mg ind="1th"><font face="SmolenskSGR">(<i>сюэз юзматыны</i>)</font>
      <tg xml:lang="fin">
        <t>sammuttaa (jano);</t>
      </tg>
-     <xg><x>сюэз юзматыны<CHECKME1/></x>
+     <xg><x>сюэз юзматыны</x>
        <xt xml:lang="fin">sammuttaa jano</xt>
      </xg>
 </mg>
@@ -39856,7 +39856,7 @@
      <tg xml:lang="fin">
        <t>jäähdyttää, viilentää;</t>
      </tg>
-     <xg><x>пӧсь вуэз юзматыны<CHECKME1/></x>
+     <xg><x>пӧсь вуэз юзматыны</x>
        <xt xml:lang="fin">jäähdyttää (t. viilentää) keitettyä vettä</xt>
      </xg>
    </mg>
@@ -39869,19 +39869,19 @@
      <tg xml:lang="fin">
        <t>raikas, raitis, viileä, vilpoinen;</t>
      </tg>
-     <xg><x>юзмыт<CHECKME1/> омыр</x>
+     <xg><x>юзмыт омыр</x>
        <xt xml:lang="fin">raitis ilma;</xt>
      </xg>
-     <xg><x>юзмыт<CHECKME1/> омырен шоканы потыны</x>
+     <xg><x>юзмыт омырен шоканы потыны</x>
        <xt xml:lang="fin">mennä ulos raittiiseen ilmaan, käydä ulkona haukkaamassa raitista ilmaa;</xt>
      </xg>
-     <xg><x>юзмыт<CHECKME1/> уй</x>
+     <xg><x>юзмыт уй</x>
        <xt xml:lang="fin">viileä yö;</xt>
      </xg>
-     <xg><x>юзмыт<CHECKME1/> луыны</x>
+     <xg><x>юзмыт луыны</x>
        <xt xml:lang="fin">alkaa olla viileä (t. vilpoisa);</xt>
      </xg>
-     <xg><x>педлон юзмыт<CHECKME1/></x>
+     <xg><x>педлон юзмыт</x>
        <xt xml:lang="fin">ulkona on viileä(ä) (t. vilpoista)</xt>
      </xg>
    </mg>
@@ -39922,10 +39922,10 @@
      <tg xml:lang="fin">
        <t>raikas, raitis, viileä, vilpoinen;</t>
      </tg>
-     <xg><x>педлон юзрес<CHECKME1/></x>
+     <xg><x>педлон юзрес</x>
        <xt xml:lang="fin">ulkona on viileä(ä) (t. vilpoista);</xt>
      </xg>
-     <xg><x>юзрес<CHECKME1/> куазь</x>
+     <xg><x>юзрес куазь</x>
        <xt xml:lang="fin">viileä sää</xt>
      </xg>
    </mg>
@@ -39938,30 +39938,30 @@
    <mg><note><i>deskr.</i></note>
      <tg xml:lang="fin">
        <t>:</t>
-     </tg><font face="SmolenskSGR"><b>юзыр<CHECKME1/> басьтэ </b></font><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
+     </tg><font face="SmolenskSGR"><b>юзыр басьтэ </b></font><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
      <tg xml:lang="fin">
        <t>vapisuttaa, värisyttää;</t>
      </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
      <tg xml:lang="fin">
        <t>selkäpiitä karmii;</t>
      </tg>
-     <xg><x>юзыр<CHECKME1/> ваён</x>
+     <xg><x>юзыр ваён</x>
        <xt xml:lang="fin">viluttaminen, vilu, viluntunne, vilunväristys, vilunväreet;</xt>
      </xg>
-     <xg><x>юзыр<CHECKME1/> вайыны</x>
+     <xg><x>юзыр вайыны</x>
        <xt xml:lang="fin">viluttaa</xt>
      </xg>
    </mg>
 </e>
 
 <e>
-   <lg><l>юʼзыраʼк: юʼзыраʼк<CHECKME1/> луыны</l>
+   <lg><l>юзырак: юзырак луыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>hätkähtää, säpsähtää, vavahtaa;</t>
      </tg>
-     <xg><x>кышкаса юʼзыраʼк<CHECKME1/> луыны</x>
+     <xg><x>кышкаса юзырак луыны</x>
        <xt xml:lang="fin">hätkähtää säikähdyksestä</xt>
      </xg>
    </mg>
@@ -40048,14 +40048,14 @@
    <mg><defNative>(<note><i>myös</i></note> юись мурт)</defNative>
      <tg xml:lang="fin">
        <t>juoppo, juomari, alkoholisti</t>
-     </tg>◊ <font face="SmolenskSGR"><b>вир юись<CHECKME1/> </b></font><mwemg ind="1th"/><defNative>к-сь пӧйшур</defNative>
+     </tg>◊ <font face="SmolenskSGR"><b>вир юись </b></font><mwemg ind="1th"/><defNative>к-сь пӧйшур</defNative>
      <tg xml:lang="fin">
        <t>verenimijä</t>
      </tg><mwemg ind="2th"/><senseType>kuv.</senseType><font face="SmolenskSGR">(<i>калыкез зӥбыса возись</i>)</font>
      <tg xml:lang="fin">
        <t>hirmuvaltias, itsevaltias, despootti;</t>
      </tg>
-     <xg><x>ныл юись<CHECKME1/></x>
+     <xg><x>ныл юись</x>
        <xt xml:lang="fin">häävieras, häämenoihin osallistuja</xt>
      </xg>
    </mg>
@@ -40068,7 +40068,7 @@
      <tg xml:lang="fin">
        <t>jukagiiri // jukagiirilainen, jukagiirien;</t>
      </tg>
-     <xg><x>юкагир<CHECKME1/> кыл</x>
+     <xg><x>юкагир кыл</x>
        <xt xml:lang="fin">jukagiiri(n kieli)</xt>
      </xg>
    </mg>
@@ -40093,10 +40093,10 @@
      <tg xml:lang="fin">
        <t>kaksipyöräiset kärryt</t>
      </tg><FIXME1/>
-     <xg><x>юлтош</x>
+     <xg><x>юлтош</x><FIX2/>
        <xt xml:lang="fin">kaveri, ystävä, toveri, kumppani; seuralainen;</xt>
      </xg>
-     <xg><x>сюрес (выл) юлдырга<CHECKME1/></x>
+     <xg><x>сюрес (выл) юлтош</x>
        <xt xml:lang="fin">matkakumppani, matkatoveri, matkaseuralainen</xt>
      </xg>◊
      <xg><x>кыӵе юлтошед, ачид но сыӵе </x><genre>sp.</genre>
@@ -40116,10 +40116,10 @@
      <tg xml:lang="fin">
        <t>käymätön;</t>
      </tg>
-     <xg><x>юмал<CHECKME1/> нянь</x>
+     <xg><x>юмал нянь</x>
        <xt xml:lang="fin">happamaton taikina (t. leipä);</xt>
      </xg>
-     <xg><x>юмал<CHECKME1/> сюкась</x>
+     <xg><x>юмал сюкась</x>
        <xt xml:lang="fin">käymätön kalja</xt>
      </xg>
 </mg>
@@ -40127,7 +40127,7 @@
      <tg xml:lang="fin">
        <t>makea;</t>
      </tg>
-     <xg><x>юмал<CHECKME1/> чай</x>
+     <xg><x>юмал чай</x>
        <xt xml:lang="fin">makea tee</xt>
      </xg>
 </mg>
@@ -40141,9 +40141,9 @@
      <tg xml:lang="fin">
        <t>kypsymätön, epäkypsä, kehittymätön</t>
      </tg>◊
-     <xg><x>юмал<CHECKME1/> йӧл</x>
+     <xg><x>юмал йӧл</x>
        <xt xml:lang="fin">täysmaito, täysi (t. kuorimaton) maito;</xt>
-     </xg><font face="SmolenskSGR"><b>пинал мылкыд юмал<CHECKME1/> мылкыд </b></font><genre>sp.</genre>
+     </xg><font face="SmolenskSGR"><b>пинал мылкыд юмал мылкыд </b></font><genre>sp.</genre>
      <tg xml:lang="fin">
        <t>nuori ja kokematon (t. vihreä)</t>
      </tg>
@@ -40639,7 +40639,7 @@
      <tg xml:lang="fin">
        <t>lujittaa, vahvistaa;</t>
      </tg>
-     <xg><x>ӵыпетэз юнматыны<CHECKME1/></x>
+     <xg><x>ӵыпетэз юнматыны</x>
        <xt xml:lang="fin">vahvistaa pato</xt>
      </xg>
 </mg>
@@ -40647,7 +40647,7 @@
      <tg xml:lang="fin">
        <t>kiinnittää;</t>
      </tg>
-     <xg><x>кортӵогъёсын юнматыны<CHECKME1/></x>
+     <xg><x>кортӵогъёсын юнматыны</x>
        <xt xml:lang="fin">kiinnittää nauloilla</xt>
      </xg>
 </mg>
@@ -40661,7 +40661,7 @@
      <tg xml:lang="fin">
        <t>parantaa, kohentaa, vahvistaa;</t>
      </tg>
-     <xg><x>тазалыкез юнматыны<CHECKME1/></x>
+     <xg><x>тазалыкез юнматыны</x>
        <xt xml:lang="fin">kohentaa kuntoa; vahvistaa terveyttä</xt>
      </xg>
 </mg>
@@ -40669,7 +40669,7 @@
      <tg xml:lang="fin">
        <t>hyväksyä, vahvistaa;</t>
      </tg>
-     <xg><x>ужан планэз юнматыны<CHECKME1/></x>
+     <xg><x>ужан планэз юнматыны</x>
        <xt xml:lang="fin">vahvistaa (t. hyväksyä) työsuunnitelma</xt>
      </xg>
    </mg>
@@ -40683,7 +40683,7 @@
      <tg xml:lang="fin">
        <t>turhaan, turhan takia, turhanpäiten, suotta;</t>
      </tg>
-     <xg><x>юʼнмеʼ<CHECKME1/> дырез быдтыны</x>
+     <xg><x>юнме дырез быдтыны</x>
        <xt xml:lang="fin">kuluttaa aikaa turhaan, haaskata aikaa</xt>
      </xg>
    </mg>
@@ -40734,7 +40734,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>hyvin vahva (t. kova, luja, kestävä, pystyvä) // hyvin vahvasti (t. kovasti, kovaa, lujasti, lujaa, kestävästi, pysyvästi);</t>
-     </tg><font face="SmolenskSGR"><b>юʼн-юн<CHECKME1/> кариськыны</b> (<i>я. </i></font><FIXME1/>
+     </tg><font face="SmolenskSGR"><b>юн-юн кариськыны</b> (<i>я. </i></font><FIXME1/>
      <xg><x>луыны)</x>
        <xt xml:lang="fin">tulla hyvin vahvaksi (t. kestäväksi, lujaksi)</xt>
      </xg>
@@ -40749,10 +40749,10 @@
      <tg xml:lang="fin">
        <t>vilja, elo, kylvö(s), laiho;</t>
      </tg>
-     <xg><x>ю-нянь<CHECKME1/> будэтӥсь</x>
+     <xg><x>ю-нянь будэтӥсь</x>
        <xt xml:lang="fin">maanviljelijä;</xt>
      </xg>
-     <xg><x>ю-нянь<CHECKME1/> октыны-калтыны</x>
+     <xg><x>ю-нянь октыны-калтыны</x>
        <xt xml:lang="fin">korjata viljaa (t. viljan sato)</xt>
      </xg>
 </mg>
@@ -40786,10 +40786,10 @@
      <xg><x>юзматӥсь юонъёс</x>
        <xt xml:lang="fin">virvoitusjuomat, virvokkeet;</xt>
      </xg>
-     <xg><x>юон<CHECKME1/> ву</x>
+     <xg><x>юон ву</x>
        <xt xml:lang="fin">juomavesi;</xt>
      </xg>
-     <xg><x>юон<CHECKME1/> кобы</x>
+     <xg><x>юон кобы</x>
        <xt xml:lang="fin">juomakauha</xt>
      </xg>
 </mg>
@@ -40798,7 +40798,7 @@
        <t>juotava, juoma</t>
        <re>karjan</re>;
      </tg>
-     <xg><x>кунян юон<CHECKME1/></x>
+     <xg><x>кунян юон</x>
        <xt xml:lang="fin">vasikoiden juotava</xt>
      </xg>
 </mg>
@@ -40806,10 +40806,10 @@
      <tg xml:lang="fin">
        <t>juoppous, juopottelu;</t>
      </tg>
-     <xg><x>юон<CHECKME1/> вылэ чӧлскыны</x>
+     <xg><x>юон вылэ чӧлскыны</x>
        <xt xml:lang="fin">alkaa juoda (t. juopotella), herjetä (t. ratketa) juomaan</xt>
      </xg>◊
-     <xg><x>юон<CHECKME1/> дыр</x>
+     <xg><x>юон дыр</x>
        <xt xml:lang="fin">juhla(t)</xt>
      </xg>
    </mg>
@@ -40911,10 +40911,10 @@
        <re>hevosen</re>;
      </tg>
      <variants>
-       <l_syn type="&gt;">адыман; юрго<CHECKME1/> вал </l_syn>
+       <l_syn type="&gt;">адыман; юрго вал </l_syn>
      </variants>
      <tg xml:lang="fin">
-       <t>peitsari, tasaastuja</t>
+       <t>peitsari, tasa-astuja</t>
        <re>hevonen</re>;
      </tg>
      <variants>
@@ -40936,7 +40936,7 @@
    <mg ind="2th"><tg xml:lang="fin">
        <t>nirso // nirsoilija, nirso ihmninen;</t>
      </tg>
-     <xg><x>юрдӥсь<CHECKME1/> адями</x>
+     <xg><x>юрдӥсь адями</x>
        <xt xml:lang="fin">nirsoilija, nirso ihminen</xt>
      </xg>
    </mg>
@@ -40991,19 +40991,19 @@
      <tg xml:lang="fin">
        <t>iljettävä, ilkeä, inhottava, vastenmielinen // iljettävästi, ilkeästi, inhottavasti, vastenmielisesti;</t>
      </tg>
-     <xg><x>юрӟым<CHECKME1/> адями</x>
+     <xg><x>юрӟым адями</x>
        <xt xml:lang="fin">iljettävä (t. paha) ihminen, iljetys;</xt>
      </xg>
-     <xg><x>юрӟым<CHECKME1/> вырос</x>
+     <xg><x>юрӟым вырос</x>
        <xt xml:lang="fin">inhottava (t. ilkeä) käytös;</xt>
      </xg>
-     <xg><x>юрӟым<CHECKME1/> куазь</x>
+     <xg><x>юрӟым куазь</x>
        <xt xml:lang="fin">inhottava (t. kurja) ilma;</xt>
      </xg>
-     <xg><x>юрӟым<CHECKME1/> кылъёс</x>
+     <xg><x>юрӟым кылъёс</x>
        <xt xml:lang="fin">ilkeät (t. rumat) sanat;</xt>
      </xg>
-     <xg><x>юрӟым<CHECKME1/> вераськыны</x>
+     <xg><x>юрӟым вераськыны</x>
        <xt xml:lang="fin">puhua ilkeästi (t. rumasti), kiroilla</xt>
      </xg>
    </mg>
@@ -41017,10 +41017,10 @@
      <tg xml:lang="fin">
        <t>tahallaan, tahallisesti, tarkoituksellisesti, tieten tahtoen, varta vasten;</t>
      </tg>
-     <xg><x>мон татчы юʼри<CHECKME1/> тӥледын пумиськыны (шуыса) лыктӥ</x>
+     <xg><x>мон татчы юри тӥледын пумиськыны (шуыса) лыктӥ</x>
        <xt xml:lang="fin">tulin varta vasten tapaamaan teitä;</xt>
      </xg>
-     <xg><x>юʼри<CHECKME1/> лэсьтыны</x>
+     <xg><x>юри лэсьтыны</x>
        <xt xml:lang="fin">tehdä tahallaan</xt>
      </xg>
    </mg>
@@ -41044,10 +41044,10 @@
      <tg xml:lang="fin">
        <t>lainopillinen, oikeustieteellinen, juridinen, oikeudellinen;</t>
      </tg>
-     <xg><x>юридиʼческой<CHECKME1/> науʼкаос</x>
+     <xg><x>юридической наукаос</x>
        <xt xml:lang="fin">oikeustiede;</xt>
      </xg>
-     <xg><x>юридиʼческой<CHECKME1/> факультет</x>
+     <xg><x>юридической факультет</x>
        <xt xml:lang="fin">oikeustieteellinen tiedekunta</xt>
      </xg>
 </mg>
@@ -41058,12 +41058,12 @@
      <tg xml:lang="fin">
        <t>oikeus=;</t>
      </tg>
-     <xg><x>юридиʼческой<CHECKME1/> кужым</x>
+     <xg><x>юридической кужым</x>
        <xt xml:lang="fin">oikeusvoima;</xt>
      </xg>
-     <xg><x>юридиʼческой<CHECKME1/> юрттэт</x>
+     <xg><x>юридической юрттэт</x>
        <xt xml:lang="fin">oikeusapu;</xt>
-     </xg><font face="SmolenskSGR"><b>юридиʼческой<CHECKME1/> кузё</b></font>
+     </xg><font face="SmolenskSGR"><b>юридической кузё</b></font>
      <tg xml:lang="fin">
        <t>laillinen omistaja</t>
      </tg>
@@ -41072,7 +41072,7 @@
      <tg xml:lang="fin">
        <t>lakimies=, lakimiesten, juristien</t>
      </tg>◊
-     <xg><x>юридиʼческой<CHECKME1/> консультаʼци</x>
+     <xg><x>юридической консультаци</x>
        <xt xml:lang="fin">oikeusaputoimisto</xt>
      </xg>
    </mg>
@@ -41241,7 +41241,7 @@
      <tg xml:lang="fin">
        <t>pihkata;</t>
      </tg>
-     <xg><x>пыжез юрсираны<CHECKME1/></x>
+     <xg><x>пыжез юрсираны</x>
        <xt xml:lang="fin">pihkata vene(ttä)</xt>
      </xg>
 </mg>
@@ -41292,7 +41292,7 @@
      <tg xml:lang="fin">
        <t>pihkainen, hartsinen, pihka=, hartsi=;</t>
      </tg>
-     <xg><x>юрсиро<CHECKME1/> пу</x>
+     <xg><x>юрсиро пу</x>
        <xt xml:lang="fin">pihkainen puu</xt>
      </xg>
    </mg>
@@ -41318,16 +41318,16 @@
      <tg xml:lang="fin">
        <t>talo; tupa;</t>
      </tg>
-     <xg><x>ас юрт<CHECKME1/></x>
+     <xg><x>ас юрт</x>
        <xt xml:lang="fin">omakotitalo;</xt>
      </xg>
-     <xg><x>из юрт<CHECKME1/></x>
+     <xg><x>из юрт</x>
        <xt xml:lang="fin">kivitalo;</xt>
      </xg>
-     <xg><x>пу юрт<CHECKME1/></x>
+     <xg><x>пу юрт</x>
        <xt xml:lang="fin">puutalo, tupa;</xt>
      </xg>
-     <xg><x>улон юрт<CHECKME1/></x>
+     <xg><x>улон юрт</x>
        <xt xml:lang="fin">asuintalo</xt>
      </xg>
 </mg>
@@ -41335,12 +41335,12 @@
      <tg xml:lang="fin">
        <t>koti, talo;</t>
      </tg>
-     <xg><x>атай юрт<CHECKME1/></x>
+     <xg><x>атай юрт</x>
        <xt xml:lang="fin">vanhempien koti;</xt>
      </xg>
-     <xg><x>вордскем юрт<CHECKME1/></x>
+     <xg><x>вордскем юрт</x>
        <xt xml:lang="fin">syntymäkoti, lapsuuskoti;</xt>
-     </xg><font face="SmolenskSGR"><b>юрт<CHECKME1/> кузё</b></font>
+     </xg><font face="SmolenskSGR"><b>юрт кузё</b></font>
      <tg xml:lang="fin">
        <t>talon isäntä</t>
      </tg>
@@ -41349,13 +41349,13 @@
      <tg xml:lang="fin">
        <t>talo, koti;</t>
      </tg>
-     <xg><x>культуʼра юрт<CHECKME1/></x>
+     <xg><x>культура юрт</x>
        <xt xml:lang="fin">kulttuuritalo;</xt>
      </xg>
-     <xg><x>нылпи юрт<CHECKME1/></x>
+     <xg><x>нылпи юрт</x>
        <xt xml:lang="fin">lastenkoti;</xt>
      </xg>
-     <xg><x>шутэтскон юрт<CHECKME1/></x>
+     <xg><x>шутэтскон юрт</x>
        <xt xml:lang="fin">lepokoti;</xt>
      </xg>
      <xg><x>пересьёслэн юртсы</x>
@@ -41406,7 +41406,7 @@
      <xg><x>миниʼстрлэн юрттӥсез</x>
        <xt xml:lang="fin">varaministeri;</xt>
      </xg>
-     <xg><x>мыным юрттӥсь<CHECKME1/> кулэ</x>
+     <xg><x>мыным юрттӥсь кулэ</x>
        <xt xml:lang="fin">minä tarvitsen apulaisen (t. auttajan)</xt>
      </xg>
 </mg>
@@ -41423,7 +41423,7 @@
    <mg ind="5th"><defNative>к-сь йыружын</defNative>
      <tg xml:lang="fin">
        <t>rikoskumppani, rikostoveri</t>
-     </tg>◊ <font face="SmolenskSGR"><b>юрттӥсь<CHECKME1/> глагол</b> (<i>я. </i><b>каронкыл) </b></font><field>kiel.</field>
+     </tg>◊ <font face="SmolenskSGR"><b>юрттӥсь глагол</b> (<i>я. </i><b>каронкыл) </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>apuverbi</t>
      </tg>
@@ -41467,7 +41467,7 @@
      <tg xml:lang="fin">
        <t>avustaa;</t>
      </tg>
-     <xg><x>ог-огедлы юрттӥськыны<CHECKME1/></x>
+     <xg><x>ог-огедлы юрттӥськыны</x>
        <xt xml:lang="fin">auttaa toisiaan</xt>
      </xg>
    </mg>
@@ -41481,11 +41481,11 @@
 </mg>
    <mg ind="2th"><tg xml:lang="fin">
        <t>apu, avunanto;</t>
-     </tg><font face="SmolenskSGR">(<i>коньдонэн юрттон<CHECKME1/></i>)</font>
+     </tg><font face="SmolenskSGR">(<i>коньдонэн юрттон</i>)</font>
      <tg xml:lang="fin">
        <t>avustus;</t>
      </tg>
-     <xg><x>ог-огедлы юрттон<CHECKME1/></x>
+     <xg><x>ог-огедлы юрттон</x>
        <xt xml:lang="fin">keskinäinen avunanto (t. apu)</xt>
      </xg>
    </mg>
@@ -41500,7 +41500,7 @@
        <t>avustus</t>
        <re>rahallinen</re>;
      </tg>
-     <xg><x>мерлыко юрттос<CHECKME1/></x>
+     <xg><x>мерлыко юрттос</x>
        <xt xml:lang="fin">sosiaaliavustus, sosiaaliturva;</xt>
      </xg>
      <variants>
@@ -41516,14 +41516,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>auttaa;</t>
-     </tg><font face="SmolenskSGR">(<i>коньдонэн юрттыны<CHECKME1/></i>)</font>
+     </tg><font face="SmolenskSGR">(<i>коньдонэн юрттыны</i>)</font>
      <tg xml:lang="fin">
        <t>avustaa;</t>
      </tg>
-     <xg><x>кенешен юрттыны<CHECKME1/></x>
+     <xg><x>кенешен юрттыны</x>
        <xt xml:lang="fin">auttaa neuvomalla;</xt>
      </xg>
-     <xg><x>ужын юрттыны<CHECKME1/></x>
+     <xg><x>ужын юрттыны</x>
        <xt xml:lang="fin">auttaa työssä; edistää asiaa;</xt>
      </xg>
      <xg><x>эмъюм юрттӥз</x>
@@ -41571,17 +41571,17 @@
      <tg xml:lang="fin">
        <t>avustus;</t>
      </tg>
-     <xg><x>юрттэт<CHECKME1/> курыны</x>
+     <xg><x>юрттэт курыны</x>
        <xt xml:lang="fin">pyytää apua</xt>
      </xg>
 </mg>
    <mg ind="2th"><tg xml:lang="fin">
        <t>palvelu, huolto;</t>
      </tg>
-     <xg><x>мерлыко юрттэт<CHECKME1/></x>
+     <xg><x>мерлыко юрттэт</x>
        <xt xml:lang="fin">sosiaaliavustus, sosiaaliturva, sosiaalihuolto;</xt>
      </xg>
-     <xg><x>эм юрттэт<CHECKME1/></x>
+     <xg><x>эм юрттэт</x>
        <xt xml:lang="fin">terveyspalvelu, terveydenhuolto</xt>
      </xg>
 </mg>
@@ -41631,7 +41631,7 @@
      <tg xml:lang="fin">
        <t>rakentaa (t. rakennuttaa) itselleen talo, olla rakennushommissa;</t>
      </tg>
-     <xg><x>кар сьӧры юртъяськыны<CHECKME1/></x>
+     <xg><x>кар сьӧры юртъяськыны</x>
        <xt xml:lang="fin">rakentaa (t. rakennuttaa) itselleen taloa kaupungin ulkopuolelle;</xt>
      </xg>
      <xg><x>бускеле тэль дуре юртъяськиз</x>
@@ -41684,7 +41684,7 @@
      <tg xml:lang="fin">
        <t>rauhoittaa, saada rauhoittumaan, lohduttaa;</t>
      </tg>
-     <xg><x>бӧрдӥсь нылпиез юскатыны<CHECKME1/></x>
+     <xg><x>бӧрдӥсь нылпиез юскатыны</x>
        <xt xml:lang="fin">rauhoittaa (t. lohduttaa) itkevää lasta</xt>
      </xg>
    </mg>
@@ -41709,7 +41709,7 @@
      <xg><x>вал юскиськиз</x>
        <xt xml:lang="fin">hevonen pääsi valjaista (irti)</xt>
      </xg>◊
-     <xg><x>суй-пыд юскиськыны<CHECKME1/></x>
+     <xg><x>суй-пыд юскиськыны</x>
        <xt xml:lang="fin">masentua;</xt>
      </xg>
      <xg><x>со учыр бере мынам суй-пыды коʼпак юскиськиз</x>
@@ -41729,7 +41729,7 @@
      <xg><x>юскыны</x>
        <xt xml:lang="fin">riisua (t. päästää, laskea, ottaa) valjaista;</xt>
      </xg>
-     <xg><x>валэз юскон<CHECKME1/></x>
+     <xg><x>валэз юскон</x>
        <xt xml:lang="fin">riisua hevonen valjaista</xt>
      </xg>
    </mg>
@@ -41868,21 +41868,21 @@
      <tg xml:lang="fin">
        <t>juoda;</t>
      </tg>
-     <xg><x>йӧл юыны<CHECKME1/></x>
+     <xg><x>йӧл юыны</x>
        <xt xml:lang="fin">juoda maitoa;</xt>
      </xg>
-     <xg><x>тазалык понна юыны<CHECKME1/></x>
+     <xg><x>тазалык понна юыны</x>
        <xt xml:lang="fin">juoda terveydeksi;</xt>
      </xg>
-     <xg><x>эмъюм юыны<CHECKME1/></x>
+     <xg><x>эмъюм юыны</x>
        <xt xml:lang="fin">ottaa lääkettä</xt>
      </xg>
 </mg>
-   <mg ind="2th"> <font face="SmolenskSGR">(<i>вина юыны<CHECKME1/></i>)</font>
+   <mg ind="2th"> <font face="SmolenskSGR">(<i>вина юыны</i>)</font>
      <tg xml:lang="fin">
        <t>juoda, ryypätä, ryypiskellä, juopotella;</t>
      </tg>
-     <xg><x>юыны<CHECKME1/> кутскыны</x>
+     <xg><x>юыны кутскыны</x>
        <xt xml:lang="fin">alkaa juoda (t. juopotella), ratketa juomaan;</xt>
      </xg>
      <xg><x>со зол вина юэ</x>
@@ -41980,10 +41980,10 @@
      <tg xml:lang="fin">
        <t>omena;</t>
      </tg>
-     <xg><x>яблок<CHECKME1/> варення</x>
+     <xg><x>яблок варення</x>
        <xt xml:lang="fin">omenahillo;</xt>
      </xg>
-     <xg><x>яблок<CHECKME1/> кӧм</x>
+     <xg><x>яблок кӧм</x>
        <xt xml:lang="fin">omenankuori;</xt>
      </xg>
      <variants>
@@ -42000,13 +42000,13 @@
      <tg xml:lang="fin">
        <t>omenapuu // omenapuun, omena(n)=;</t>
      </tg>
-     <xg><x>яблокпу<CHECKME1/> вай</x>
+     <xg><x>яблокпу вай</x>
        <xt xml:lang="fin">omenapuun oksa;</xt>
      </xg>
-     <xg><x>яблокпу<CHECKME1/> сад</x>
+     <xg><x>яблокпу сад</x>
        <xt xml:lang="fin">omenatarha;</xt>
      </xg>
-     <xg><x>яблокпу<CHECKME1/> сяська</x>
+     <xg><x>яблокпу сяська</x>
        <xt xml:lang="fin">omenankukat;</xt>
      </xg>
      <variants>
@@ -42113,10 +42113,10 @@
        <t>puolukka</t>
        <re>Vaccinium vitis-idaea</re>;
      </tg>
-     <xg><x>ягмульы<CHECKME1/> варення</x>
+     <xg><x>ягмульы варення</x>
        <xt xml:lang="fin">puolukkahillo;</xt>
      </xg>
-     <xg><x>ягмульы<CHECKME1/> сяська</x>
+     <xg><x>ягмульы сяська</x>
        <xt xml:lang="fin">puolukankukat</xt>
      </xg>
    </mg>
@@ -42176,10 +42176,10 @@
      <tg xml:lang="fin">
        <t>myrkky=, myrkyllinen, myrkkypitoinen;</t>
      </tg>
-     <xg><x>ядо<CHECKME1/> будосъёс</x>
+     <xg><x>ядо будосъёс</x>
        <xt xml:lang="fin">myrkkykasvit, myrkylliset kasvit;</xt>
      </xg>
-     <xg><x>ядо<CHECKME1/> кый</x>
+     <xg><x>ядо кый</x>
        <xt xml:lang="fin">myrkkykäärme</xt>
      </xg>
    </mg>
@@ -42193,7 +42193,7 @@
      <tg xml:lang="fin">
        <t>ydin;</t>
      </tg>
-     <xg><x>аʼтомной ядро<CHECKME1/></x>
+     <xg><x>атомной ядро</x>
        <xt xml:lang="fin">atominydin</xt>
      </xg>
 </mg>
@@ -42209,7 +42209,7 @@
      <tg xml:lang="fin">
        <t>kuula;</t>
      </tg>
-     <xg><x>ядро<CHECKME1/> донган</x>
+     <xg><x>ядро донган</x>
        <xt xml:lang="fin">kuulantyöntö</xt>
      </xg>
    </mg>
@@ -42239,10 +42239,10 @@
    <mg>
      <tg xml:lang="fin">
        <t>haavau(tu)ma, haava // haavainen;</t>
-     </tg><font face="SmolenskSGR"><b>кӧтпуш яʼзва<CHECKME1/> </b></font><field>lääk.</field>
+     </tg><font face="SmolenskSGR"><b>кӧтпуш язва </b></font><field>lääk.</field>
      <tg xml:lang="fin">
        <t>mahahaava</t>
-     </tg>◊ <font face="SmolenskSGR"><b>сибиʼр(ской) яʼзва<CHECKME1/> </b></font><note><i>eläinlääk., lääk. </i></note>
+     </tg>◊ <font face="SmolenskSGR"><b>сибир(ской) язва </b></font><note><i>eläinlääk., lääk. </i></note>
      <tg xml:lang="fin">
        <t>pernarutto</t>
      </tg>
@@ -42250,16 +42250,16 @@
 </e>
 
 <e>
-   <lg><l>язоческой</l><orig>язоческой</orig>
+   <lg><l>языческой</l><orig>язоческой</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>pakana=, pakanallinen;</t>
      </tg>
-     <xg><x>язоческой<CHECKME1/> оскон</x>
+     <xg><x>языческой оскон</x>
        <xt xml:lang="fin">pakanauskonto;</xt>
      </xg>
-     <xg><x>язоческой<CHECKME1/> йылолъёс</x>
+     <xg><x>языческой йылолъёс</x>
        <xt xml:lang="fin">pakanalliset menot</xt>
      </xg>
    </mg>
@@ -42267,7 +42267,7 @@
 
 <e>
    <lg>
-     <l pos="N">язочество</l><orig>язочество</orig>
+     <l pos="N">язычество</l><orig>язочество</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42278,7 +42278,7 @@
 
 <e>
    <lg>
-     <l pos="N">язочник</l><orig>язочник</orig>
+     <l pos="N">язычник</l><orig>язочник</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42323,19 +42323,19 @@
      <tg xml:lang="fin">
        <t>vai;</t>
      </tg>
-     <xg><x>яʼке<CHECKME1/> ... яʼк</x>
+     <xg><x>яке ... яке</x>
        <xt xml:lang="fin">joko ... tai;</xt>
      </xg>
-     <xg><x>туннэ яʼке<CHECKME1/> ӵуказе</x>
+     <xg><x>туннэ яке ӵуказе</x>
        <xt xml:lang="fin">tänään tai huomenna;</xt>
      </xg>
-     <xg><x>учкы ӝӧк вылысь, ӝажыысь яʼке<CHECKME1/> шкафысь</x>
+     <xg><x>учкы ӝӧк вылысь, ӝажыысь яке шкафысь</x>
        <xt xml:lang="fin">katso pöydältä, hyllyltä tai kaapista;</xt>
      </xg>
-     <xg><x>тӥледлы чай яʼке<CHECKME1/> коʼфе?</x>
+     <xg><x>тӥледлы чай яке кофе?</x>
        <xt xml:lang="fin">haluatteko teetä vai kahvia?;</xt>
      </xg>
-     <xg><x>яʼке<CHECKME1/> кӧснуналэ, яʼке<CHECKME1/> арняе</x>
+     <xg><x>яке кӧснуналэ, яке арняе</x>
        <xt xml:lang="fin">joko lauantaina tai sunnuntaina</xt>
      </xg>
 </mg>
@@ -42346,7 +42346,7 @@
      <tg xml:lang="fin">
        <t>vai;</t>
      </tg>
-     <xg><x>пыр, яʼке<CHECKME1/> мон ӧсэз ворсало</x>
+     <xg><x>пыр, яке мон ӧсэз ворсало</x>
        <xt xml:lang="fin">tule sisään tai minä suljen oven</xt>
      </xg>
 </mg>
@@ -42354,10 +42354,10 @@
      <tg xml:lang="fin">
        <t>eli;</t>
      </tg>
-     <xg><x>одӥг метр, яʼке<CHECKME1/> сю сантиметр</x>
+     <xg><x>одӥг метр, яке сю сантиметр</x>
        <xt xml:lang="fin">metri eli sata senttimetriä;</xt>
      </xg>
-     <xg><x>педагог, яʼке<CHECKME1/> огшоры вераса, дышетӥсь</x>
+     <xg><x>педагог, яке огшоры вераса, дышетӥсь</x>
        <xt xml:lang="fin">pedagogi eli yksinkertaisesti sanottuna opettaja</xt>
      </xg>
 </mg>
@@ -42365,7 +42365,7 @@
      <tg xml:lang="fin">
        <t>voi olla, kenties, kukaties, ehkä;</t>
      </tg>
-     <xg><x>яʼке<CHECKME1/> ветлод ик-а отчы?</x>
+     <xg><x>яке ветлод ик-а отчы?</x>
        <xt xml:lang="fin">ehkä sinä kuitenkin käyt siellä?</xt>
      </xg>
    </mg>
@@ -42402,7 +42402,7 @@
      <tg xml:lang="fin">
        <t>jakuutti // jakuutin, jakuuttien, Jakutian;</t>
      </tg>
-     <xg><x>якут<CHECKME1/> кыл</x>
+     <xg><x>якут кыл</x>
        <xt xml:lang="fin">jakuutin kieli, jakuutti</xt>
      </xg>
    </mg>
@@ -42430,13 +42430,13 @@
      <tg xml:lang="fin">
        <t>aina, alati, yhä;</t>
      </tg>
-     <xg><x>со яʼлаʼн<CHECKME1/> зӥбыт</x>
+     <xg><x>со ялан зӥбыт</x>
        <xt xml:lang="fin">hän on aina rauhallinen;</xt>
      </xg>
-     <xg><x>со яʼлаʼн<CHECKME1/> сюрес вылын</x>
+     <xg><x>со ялан сюрес вылын</x>
        <xt xml:lang="fin">hän on aina matkoilla;</xt>
      </xg>
-     <xg><x>яʼлаʼн<CHECKME1/> сямен ик</x>
+     <xg><x>ялан сямен ик</x>
        <xt xml:lang="fin">kuten aina</xt>
      </xg>
 </mg>
@@ -42444,7 +42444,7 @@
      <tg xml:lang="fin">
        <t>yhä (vain), yhä vielä(kin), (yhä) edelleen;</t>
      </tg>
-     <xg><x>со яʼлаʼн<CHECKME1/> висе на</x>
+     <xg><x>со ялан висе на</x>
        <xt xml:lang="fin">hän on yhä (t. edelleenkin) sairaana;</xt>
      </xg>
      <xg><x>яʼлаʼн-а ужаськод на?</x>
@@ -42455,13 +42455,13 @@
      <tg xml:lang="fin">
        <t>säännöllisesti, säännönmukaisesti, jatkuvasti // säännöllinen, säännönmukainen, jatkuva;</t>
      </tg>
-     <xg><x>яʼлаʼн<CHECKME1/> спортэн вырыны</x>
+     <xg><x>ялан спортэн вырыны</x>
        <xt xml:lang="fin">urheilla säännöllisesti;</xt>
      </xg>
-     <xg><x>яʼлаʼн<CHECKME1/> эмъяськон</x>
+     <xg><x>ялан эмъяськон</x>
        <xt xml:lang="fin">säännöllinen hoito</xt>
      </xg>◊
-     <xg><x>яʼлаʼн<CHECKME1/> ӝуась тыл</x>
+     <xg><x>ялан ӝуась тыл</x>
        <xt xml:lang="fin">ikuinen tuli</xt>
      </xg>
    </mg>
@@ -42524,7 +42524,7 @@
      <tg xml:lang="fin">
        <t>ilmoittaminen, ilmoitus, julistaminen, julistus, kuuluttaminen, kuulutus;</t>
      </tg>
-     <xg><x>приговорез ялон<CHECKME1/></x>
+     <xg><x>приговорез ялон</x>
        <xt xml:lang="fin">tuomion julistaminen</xt>
      </xg>
 </mg>
@@ -42535,7 +42535,7 @@
      <xg><x>поныны)</x>
        <xt xml:lang="fin">kiinnittää ilmoitus</xt><xre>seinään, tauluun</xre>;
      </xg>
-     <xg><x>газетэ ялон<CHECKME1/> сётыны</x>
+     <xg><x>газетэ ялон сётыны</x>
        <xt xml:lang="fin">panna ilmoitus lehteen</xt>
      </xg>
    </mg>
@@ -42574,10 +42574,10 @@
      <tg xml:lang="fin">
        <t>ilmoittaa, julistaa, kuuluttaa, antaa tiedoksi;</t>
      </tg>
-     <xg><x>коʼнкурс ялыны<CHECKME1/></x>
+     <xg><x>конкурс ялыны</x>
        <xt xml:lang="fin">julistaa suunnittelukilpailu;</xt>
      </xg>
-     <xg><x>раʼдио пыр ялыны<CHECKME1/></x>
+     <xg><x>радио пыр ялыны</x>
        <xt xml:lang="fin">kuuluttaa (t. ilmoittaa) jtak radiossa</xt>
      </xg>
    </mg>
@@ -42605,9 +42605,9 @@
      <xg><x>яна потыны</x>
        <xt xml:lang="fin">erota, erkaantua</xt><note>(<i>perheestään</i>);</note>
      </xg>
-     <xg><x>яна<CHECKME1/> улыны</x>
+     <xg><x>яна улыны</x>
        <xt xml:lang="fin">asua erillään</xt>
-     </xg><font face="SmolenskSGR"><b>янак</b></font>
+     </xg><font face="SmolenskSGR"><b>янак</b></font><FIX2/>
    <mg ind="1th"/><defNative>косяк</defNative>
      <tg xml:lang="fin">
        <t>pieli(puu); pihtipieli</t>
@@ -42617,7 +42617,7 @@
      <tg xml:lang="fin">
        <t>kehys, puitteet</t>
      </tg><FIXME1/>
-     <xg><x>январь</x>
+     <xg><x>январь</x><FIX2/>
        <xt xml:lang="fin">tammikuu;</xt>
      </xg>
      <variants>
@@ -42634,7 +42634,7 @@
      <tg xml:lang="fin">
        <t>virhe, erehdys, hairahdus;</t>
      </tg>
-     <xg><x>янгыш<CHECKME1/> лэсьтыны</x>
+     <xg><x>янгыш лэсьтыны</x>
        <xt xml:lang="fin">tehdä virhe, erehtyä;</xt>
      </xg>
      <xg><x>янгышез тупатыны</x>
@@ -42644,7 +42644,7 @@
    <mg ind="2th"><tg xml:lang="fin">
        <t>syy(llisyys), vika, rikkomus;</t>
      </tg>
-     <xg><x>мон (ачим) янгыш<CHECKME1/></x>
+     <xg><x>мон (ачим) янгыш</x>
        <xt xml:lang="fin">se on minun syy(tä)ni, vika on minussa;</xt>
      </xg>
      <xg><x>янгыштэ валаны</x>
@@ -42700,7 +42700,7 @@
      <tg xml:lang="fin">
        <t>erehdyksessä, vahingossa;</t>
      </tg>
-     <xg><x>янгышен<CHECKME1/> мукет изьыез басьтыны</x>
+     <xg><x>янгышен мукет изьыез басьтыны</x>
        <xt xml:lang="fin">ottaa vahingossa väärä hattu</xt>
      </xg>
    </mg>
@@ -42744,19 +42744,19 @@
      <tg xml:lang="fin">
        <t>(tupakka)massi</t>
      </tg><FIXME1/>
-     <xg><x>япон</x>
+     <xg><x>япон</x><FIX2/>
        <xt xml:lang="fin">japanilainen //</xt>
      </xg><note><i>myös </i></note>
      <tg xml:lang="fin">
        <t>Japanin;</t>
      </tg>
-     <xg><x>янчик<CHECKME1/> кыл</x>
+     <xg><x>япон кыл</x>
        <xt xml:lang="fin">japani(n kieli);</xt>
      </xg>
-     <xg><x>янчик<CHECKME1/> литератара</x>
+     <xg><x>япон литература</x>
        <xt xml:lang="fin">Japanin kirjallisuus</xt>
      </xg><FIXME1/>
-     <xg><x>япоʼнец</x>
+     <xg><x>японец</x><FIX2/>
        <xt xml:lang="fin">japanilainen</xt><xre>ihminen</xre>
      </xg>
    </mg>
@@ -42945,7 +42945,7 @@
      <tg xml:lang="fin">
        <t>:</t>
      </tg>
-     <xg><x>сапег солы туж ярам<CHECKME1/></x>
+     <xg><x>сапег солы туж ярам</x>
        <xt xml:lang="fin">kuulemma, hän on kovasti pitänyt saappaista</xt>
      </xg>
 </mg>
@@ -42956,10 +42956,10 @@
      <tg xml:lang="fin">
        <t>;</t>
      </tg>
-     <xg><x>ярам<CHECKME1/> коть</x>
+     <xg><x>ярам коть</x>
        <xt xml:lang="fin">onpa hyvä, olipa hyvä;</xt>
      </xg>
-     <xg><x>ярам<CHECKME1/>, коть тон ачид отчы вуид</x>
+     <xg><x>ярам, коть тон ачид отчы вуид</x>
        <xt xml:lang="fin">onpa hyvä, että sinäkin tulit paikalle</xt>
      </xg>
 </mg>
@@ -42975,16 +42975,16 @@
      <tg xml:lang="fin">
        <t>(käyttö)kelpoinen, kelpaava, kelvollinen, sopiva;</t>
      </tg>
-     <xg><x>аʼрмиеʼ мыныны ярамон<CHECKME1/></x>
+     <xg><x>армие мыныны ярамон</x>
        <xt xml:lang="fin">sotapalveluskelpoinen, asepalvelukseen kelpaava;</xt>
      </xg>
-     <xg><x>сиыны ярамон<CHECKME1/></x>
+     <xg><x>сиыны ярамон</x>
        <xt xml:lang="fin">syötäväksi kelpaava, syötävä;</xt>
      </xg>
-     <xg><x>улыны ярамон<CHECKME1/></x>
+     <xg><x>улыны ярамон</x>
        <xt xml:lang="fin">asuttava, asumiseen kelpaava;</xt>
      </xg>
-     <xg><x>юыны ярамон<CHECKME1/></x>
+     <xg><x>юыны ярамон</x>
        <xt xml:lang="fin">juotavaksi kelpaava</xt>
      </xg>
    </mg>
@@ -43020,10 +43020,10 @@
      <tg xml:lang="fin">
        <t>kelpaamaton, (käyttö)kelvoton, sopimaton;</t>
      </tg>
-     <xg><x>со та уже ярантэм<CHECKME1/></x>
+     <xg><x>со та уже ярантэм</x>
        <xt xml:lang="fin">hän ei ole sopiva tähän työhön;</xt>
      </xg>
-     <xg><x>юыны ярантэм<CHECKME1/> ву</x>
+     <xg><x>юыны ярантэм ву</x>
        <xt xml:lang="fin">juotavaksi kelpaamaton vesi</xt>
      </xg>
 </mg>
@@ -43031,10 +43031,10 @@
      <tg xml:lang="fin">
        <t>hyvin, erittäin, kovin, sangen;</t>
      </tg>
-     <xg><x>ярантэм<CHECKME1/> пӧсь</x>
+     <xg><x>ярантэм пӧсь</x>
        <xt xml:lang="fin">erittäin kuuma;</xt>
      </xg>
-     <xg><x>ярантэм<CHECKME1/> трос</x>
+     <xg><x>ярантэм трос</x>
        <xt xml:lang="fin">hyvin paljon</xt>
      </xg>
    </mg>
@@ -43084,7 +43084,7 @@
    <mg ind="2th"><tg xml:lang="fin">
        <t>(käyttö)kelpoinen, kelpaava, kelvollinen, sopiva;</t>
      </tg>
-     <xg><x>аʼрмиеʼ мыныны ярась<CHECKME1/></x>
+     <xg><x>армие мыныны ярась</x>
        <xt xml:lang="fin">sotapalveluskelpoinen, asepalvelukseen kelpaava</xt>
      </xg>
    </mg>
@@ -43099,30 +43099,30 @@
      <tg xml:lang="fin">
        <t>rakastava, hellä;</t>
      </tg>
-     <xg><x>яратӥсь<CHECKME1/> синъёс</x>
+     <xg><x>яратӥсь синъёс</x>
        <xt xml:lang="fin">hellät silmät, hellä katse</xt>
      </xg>
 </mg>
-   <mg ind="3th"> <font face="SmolenskSGR">(<i>маке карыны яратӥсь<CHECKME1/></i>)</font>
+   <mg ind="3th"> <font face="SmolenskSGR">(<i>маке карыны яратӥсь</i>)</font>
      <tg xml:lang="fin">
        <t>harrastaja, ystävä; kova, innokas;</t>
      </tg>
-     <xg><x>бызьылыны яратӥсь<CHECKME1/></x>
+     <xg><x>бызьылыны яратӥсь</x>
        <xt xml:lang="fin">innokas juoksija;</xt>
      </xg>
-     <xg><x>валъёсты яратӥсь<CHECKME1/></x>
+     <xg><x>валъёсты яратӥсь</x>
        <xt xml:lang="fin">innokas hevosmies;</xt>
      </xg>
-     <xg><x>тупаса улонэз яратӥсь<CHECKME1/> калыкъёс</x>
+     <xg><x>тупаса улонэз яратӥсь калыкъёс</x>
        <xt xml:lang="fin">rauhaa rakastavat kansat;</xt>
      </xg>
-     <xg><x>шунытэз яратӥсь<CHECKME1/> будос</x>
+     <xg><x>шунытэз яратӥсь будос</x>
        <xt xml:lang="fin">lämpimässä viihtyvä (t. lämpöä suosiva) kasvi;</xt>
      </xg>
-     <xg><x>эктыны яратӥсь<CHECKME1/></x>
+     <xg><x>эктыны яратӥсь</x>
        <xt xml:lang="fin">innokas tanssija, kova tanssimaan</xt>
      </xg>◊
-     <xg><x>ассэ (ачиз) гинэ яратӥсь<CHECKME1/></x>
+     <xg><x>ассэ (ачиз) гинэ яратӥсь</x>
        <xt xml:lang="fin">egoisti, itsekäs ihminen</xt>
      </xg>
    </mg>
@@ -43143,22 +43143,22 @@
      <tg xml:lang="fin">
        <t>rakas; mieli=;</t>
      </tg>
-     <xg><x>анай яратон<CHECKME1/></x>
+     <xg><x>анай яратон</x>
        <xt xml:lang="fin">äidinrakkaus;</xt>
      </xg>
-     <xg><x>атай музъемез яратон<CHECKME1/></x>
+     <xg><x>атай музъемез яратон</x>
        <xt xml:lang="fin">isänmaanrakkaus, rakkaus synnyinmaahan;</xt>
      </xg>
-     <xg><x>ӟырдыт яратон<CHECKME1/></x>
+     <xg><x>ӟырдыт яратон</x>
        <xt xml:lang="fin">tulinen (t. palava) rakkaus;</xt>
      </xg><font face="SmolenskSGR"><b>нырысь</b> (<i>я. </i></font>
-     <xg><x>нырысеʼтӥʼ) яратон<CHECKME1/></x>
+     <xg><x>нырысеʼтӥʼ) яратон</x>
        <xt xml:lang="fin">ensi rakkaus;</xt>
      </xg>
-     <xg><x>яратон<CHECKME1/> адями</x>
+     <xg><x>яратон адями</x>
        <xt xml:lang="fin">rakas ihminen;</xt>
      </xg>
-     <xg><x>яратон<CHECKME1/> кылбурчи</x>
+     <xg><x>яратон кылбурчи</x>
        <xt xml:lang="fin">mielirunoilija</xt>
      </xg>
 </mg>
@@ -43170,14 +43170,14 @@
        <xt xml:lang="fin">rakkaani, kulta(se)ni</xt>
      </xg>
 </mg>
-   <mg ind="4th"> <font face="SmolenskSGR">(<i>марлы ке, маке карыны яратон<CHECKME1/></i>)</font>
+   <mg ind="4th"> <font face="SmolenskSGR">(<i>марлы ке, маке карыны яратон</i>)</font>
      <tg xml:lang="fin">
        <t>rakkaus, kiihtymys, harrastus, halu;</t>
      </tg>
-     <xg><x>мазыкаез яратон<CHECKME1/></x>
+     <xg><x>музыкаез яратон</x>
        <xt xml:lang="fin">rakkaus musiikkiin;</xt>
      </xg>
-     <xg><x>спортэз яратон<CHECKME1/></x>
+     <xg><x>спортэз яратон</x>
        <xt xml:lang="fin">urheiluharrastus</xt>
      </xg>
    </mg>
@@ -43191,7 +43191,7 @@
      <tg xml:lang="fin">
        <t>rakas; mieli=, lempi=;</t>
      </tg>
-     <xg><x>яратоно<CHECKME1/> адями</x>
+     <xg><x>яратоно адями</x>
        <xt xml:lang="fin">rakas ihminen;</xt>
      </xg>
      <xg>
@@ -43199,13 +43199,13 @@
       <x>яратоно тус</x>
      <xt xml:lang="fin">lempiväri;</xt>
      </xg>
-     <xg><x>яратоно<CHECKME1/> инты</x>
+     <xg><x>яратоно инты</x>
        <xt xml:lang="fin">mielipaikka, lempipaikka;</xt>
      </xg>
-     <xg><x>яратоно<CHECKME1/> сиён</x>
+     <xg><x>яратоно сиён</x>
        <xt xml:lang="fin">mieliruoka;</xt>
      </xg>
-     <xg><x>яратоно<CHECKME1/> уж</x>
+     <xg><x>яратоно уж</x>
        <xt xml:lang="fin">lempityö</xt>
      </xg>
 </mg>
@@ -43218,7 +43218,7 @@
      <tg xml:lang="fin">
        <t>kunnioitettu, kunnioitettava, arvoisa; kallis;</t>
      </tg>
-     <xg><x>яратоно<CHECKME1/> куноос!</x>
+     <xg><x>яратоно куноос!</x>
        <xt xml:lang="fin">arvoisat (t. kunnioitetut) vieraat</xt>
      </xg>
    </mg>
@@ -43231,7 +43231,7 @@
      <tg xml:lang="fin">
        <t>rakas, armas, mieluinen, mieluisa, sympaattinen, miellyttävä, viehättävä, ihastuttava;</t>
      </tg>
-     <xg><x>яратымон<CHECKME1/> нылаш</x>
+     <xg><x>яратымон нылаш</x>
        <xt xml:lang="fin">sympaattinen (t. miellyttävä) tyttö</xt>
      </xg>
    </mg>
@@ -43245,24 +43245,24 @@
      <tg xml:lang="fin">
        <t>rakastaa;</t>
      </tg>
-     <xg><x>анайдэ яратыны<CHECKME1/></x>
+     <xg><x>анайдэ яратыны</x>
        <xt xml:lang="fin">rakastaa äitiään;</xt>
      </xg>
-     <xg><x>нылпиосты яратыны<CHECKME1/></x>
+     <xg><x>нылпиосты яратыны</x>
        <xt xml:lang="fin">rakastaa lapsia, pitää lapsista;</xt>
      </xg>
-     <xg><x>нырысьсэ яратыны<CHECKME1/></x>
+     <xg><x>нырысьсэ яратыны</x>
        <xt xml:lang="fin">rakastaa ensi kertaa elämässään</xt>
      </xg>
 </mg>
    <mg ind="2th"> <font face="SmolenskSGR">(<i>кельшыны – маке с-сь</i></font>
      <tg xml:lang="fin">
        <t>,</t>
-     </tg><font face="SmolenskSGR"><i>маке карыны яратыны<CHECKME1/></i>)</font>
+     </tg><font face="SmolenskSGR"><i>маке карыны яратыны</i>)</font>
      <tg xml:lang="fin">
        <t>pitää, rakastaa;</t>
      </tg>
-     <xg><x>теаʼтрез яратыны<CHECKME1/></x>
+     <xg><x>театрез яратыны</x>
        <xt xml:lang="fin">pitää teatterista, rakastaa teatteria;</xt>
      </xg>
      <xg><x>нюлэскытӥ ветлыны яратӥсько</x>
@@ -43324,7 +43324,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>ranta;</t>
-     </tg><font face="SmolenskSGR">(<i>ярдур<CHECKME1/> музъем</i>)</font>
+     </tg><font face="SmolenskSGR">(<i>ярдур музъем</i>)</font>
      <tg xml:lang="fin">
        <t>rantama, rannikko;</t>
      </tg><font face="SmolenskSGR">(<i>зарезь дур</i>)</font>
@@ -43353,10 +43353,10 @@
      <tg xml:lang="fin">
        <t>kirkas, heleä, selkeä // kirkkaasti, heleästi, selkeästi;</t>
      </tg>
-     <xg><x>яркыт<CHECKME1/> инбам</x>
+     <xg><x>яркыт инбам</x>
        <xt xml:lang="fin">kirkas (t. selkeä) taivas;</xt>
      </xg>
-     <xg><x>яркыт<CHECKME1/> шунды</x>
+     <xg><x>яркыт шунды</x>
        <xt xml:lang="fin">kirkas aurinko</xt>
      </xg>
 </mg>
@@ -43435,16 +43435,16 @@
 
 <e>
    <lg>
-     <l pos="N">яʼрмаркаʼ</l><orig>яʼрмаркаʼ</orig>
+     <l pos="N">ярмарка</l><orig>яʼрмаркаʼ</orig>
    </lg>
    <mg ind="1th"><defNative>базар</defNative>
      <tg xml:lang="fin">
        <t>markkinat // markkina=;</t>
      </tg>
-     <xg><x>тулыс яʼрмаркаʼ<CHECKME1/></x>
+     <xg><x>тулыс ярмарка</x>
        <xt xml:lang="fin">kevätmarkkinat;</xt>
      </xg>
-     <xg><x>яʼрмаркаʼ<CHECKME1/> нунал</x>
+     <xg><x>ярмарка нунал</x>
        <xt xml:lang="fin">markkinapäivä</xt>
      </xg>
 </mg>
@@ -43452,7 +43452,7 @@
      <tg xml:lang="fin">
        <t>messut // messu=;</t>
      </tg>
-     <xg><x>калыккуспо яʼрмаркаʼ<CHECKME1/></x>
+     <xg><x>калыккуспо ярмарка</x>
        <xt xml:lang="fin">kansainväliset messut</xt>
      </xg>
    </mg>
@@ -43499,13 +43499,13 @@
 
 <e>
    <lg>
-     <l pos="N">яʼслиʼ</l><orig>яʼслиʼ</orig>
+     <l pos="N">ясли</l><orig>яʼслиʼ</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>(lasten)seimi;</t>
      </tg>
-     <xg><x>нылпи яʼслиʼ<CHECKME1/></x>
+     <xg><x>нылпи ясли</x>
        <xt xml:lang="fin">lastenseimi</xt>
      </xg>
    </mg>
@@ -43599,7 +43599,7 @@
      <tg xml:lang="fin">
        <t>yli, enemmän;</t>
      </tg>
-     <xg><x>кык килолэсь ятыр<CHECKME1/></x>
+     <xg><x>кык килолэсь ятыр</x>
        <xt xml:lang="fin">yli kaksi kiloa</xt>
      </xg>
 </mg>
@@ -43607,7 +43607,7 @@
      <tg xml:lang="fin">
        <t>liika(määrä);</t>
      </tg>
-     <xg><x>омырын мускытэз ятыр<CHECKME1/></x>
+     <xg><x>омырын мускытэз ятыр</x>
        <xt xml:lang="fin">ilmassa on kosteutta liikaa</xt>
      </xg>
    </mg>
@@ -43652,7 +43652,7 @@
    <mg ind="2th"> <FIXME1/>
      <xg><x>(ячеʼйка)</x>
        <xt xml:lang="fin">osasto, ryhmä;</xt>
-     </xg><font face="SmolenskSGR"><b>комсомол ячейка<CHECKME1/> </b></font><range>vanh.</range>
+     </xg><font face="SmolenskSGR"><b>комсомол ячейка </b></font><range>vanh.</range>
      <tg xml:lang="fin">
        <t>komsomolin osasto</t>
        <re>ennen 1934</re>
