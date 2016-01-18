@@ -31022,7 +31022,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>sepeli, (kivi)murska</t>
-     </tg><font face="SmolenskSGR"><b>щёʼлочь </b></font><field>kem.</field>
+     </tg><font face="SmolenskSGR"><b>щёлочь </b></font><field>kem.</field><FIX2/>
      <tg xml:lang="fin">
        <t>alkali, emäs</t>
      </tg>
@@ -32527,19 +32527,19 @@
    <lg>
      <l pos="Adv">ырак</l><orig>ыʼраʼк</orig>
      <variants>
-       <l_syn>ыʼраʼк-ыʼраʼк</l_syn>
+       <l_syn>ырак-ырак</l_syn>
      </variants>
    </lg>
    <mg>
-     <xg><x>тӧл ыʼ. пельтылэ</x>
+     <xg><x>тӧл ырак пельтылэ</x>
        <xt xml:lang="fin">raitis tuuli puhaltaa puuskittain;</xt>
      </xg>
-     <xg><x>ыʼ. тӧл вуиз</x>
+     <xg><x>ырак тӧл вуиз</x>
        <xt xml:lang="fin">kylmä tuulenhenki alkoi puhaltaa;</xt>
      </xg>
-     <xg><x>ыʼ. капчи шокчыны</x>
+     <xg><x>ырак капчи шокчыны</x>
        <xt xml:lang="fin">huokaista helpottuneena (t. helpottuneesti)</xt>
-     </xg>◊ <font face="SmolenskSGR"><b>сюлэм ик ыʼ. луэ </b></font><mwemg ind="1th"/><defNative>шурдыны</defNative>
+     </xg>◊ <font face="SmolenskSGR"><b>сюлэм ик ырак луэ </b></font><mwemg ind="1th"/><defNative>шурдыны</defNative>
      <tg xml:lang="fin">
        <t>henkeä salpaa</t>
      </tg><mwemg ind="2th"/><defNative>лултырыны</defNative>
@@ -32550,21 +32550,21 @@
 </e>
 
 <e>
-   <lg><l>ыʼрак-ырак</l><orig>ыʼраʼк-ыʼраʼк</orig>
+   <lg><l>ырак-ырак</l><orig>ыʼраʼк-ыʼраʼк</orig>
      <variants>
-       <l_syn>ыʼраʼк</l_syn>
+       <l_syn>ырак</l_syn>
      </variants>
    </lg>
    <mg>
-     <xg><x>тӧл ыʼ. пельтылэ</x>
+     <xg><x>тӧл ырак-ырак пельтылэ</x>
        <xt xml:lang="fin">raitis tuuli puhaltaa puuskittain;</xt>
      </xg>
-     <xg><x>ыʼ. тӧл вуиз</x>
+     <xg><x>ырак-ырак тӧл вуиз</x>
        <xt xml:lang="fin">kylmä tuulenhenki alkoi puhaltaa;</xt>
      </xg>
-     <xg><x>ыʼ. капчи шокчыны</x>
+     <xg><x>ырак-ырак капчи шокчыны</x>
        <xt xml:lang="fin">huokaista helpottuneena (t. helpottuneesti)</xt>
-     </xg>◊ <font face="SmolenskSGR"><b>сюлэм ик ыʼ. луэ </b></font><mwemg ind="1th"/><defNative>шурдыны</defNative>
+     </xg>◊ <font face="SmolenskSGR"><b>сюлэм ик ырак-ырак луэ </b></font><mwemg ind="1th"/><defNative>шурдыны</defNative>
      <tg xml:lang="fin">
        <t>henkeä salpaa</t>
      </tg><mwemg ind="2th"/><defNative>лултырыны</defNative>
@@ -32810,7 +32810,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">ыʼраʼк</l_syn>
+       <l_syn type="&gt;">ырак</l_syn>
      </variants>
    </mg>
 </e>
@@ -33321,7 +33321,7 @@
      </tg><font face="SmolenskSGR">(<i>пыраклы</i>)</font>
      <tg xml:lang="fin">
        <t>kadota jäljettömiin;</t>
-     </tg><font face="SmolenskSGR"><b>олоʼкотчо ышиз-быриз </b></font><mwemg ind="1th"/><defNative>огдырлы</defNative>
+     </tg><font face="SmolenskSGR"><b>олокытчы ышиз-быриз </b></font><mwemg ind="1th"/><defNative>огдырлы</defNative>
      <tg xml:lang="fin">
        <t>hän hävisi johonkin</t>
      </tg><mwemg ind="2th"/><defNative>пыраклы</defNative>
@@ -33580,7 +33580,7 @@
      <tg xml:lang="fin">
        <t>, kohmettua, palella;</t>
      </tg>
-     <xg><x>автобус витёнъям чолкаʼк эбыльӟи</x>
+     <xg><x>автобус витёнъям чылкак эбыльӟи</x>
        <xt xml:lang="fin">palelluin kokonaan odottaessani bussia;</xt>
      </xg>
      <xg><x>картофка уйскын эбыльӟем</x>
@@ -33685,7 +33685,7 @@
 <e>
    <lg><l>эвакуаци</l><orig>эвакуаʼци</orig>
      <variants>
-       <l_syn>эвакуаʼция</l_syn>
+       <l_syn>эвакуация</l_syn>
      </variants>
    </lg>
    <mg ind="1th"><defNative>эвакуировать карон</defNative>
@@ -33704,7 +33704,7 @@
    <lg>
      <l pos="N">эвакуация</l><orig>эвакуаʼция</orig>
      <variants>
-       <l_syn>эвакуаʼци</l_syn>
+       <l_syn>эвакуаци</l_syn>
      </variants>
    </lg>
    <mg ind="1th"><defNative>эвакуировать карон</defNative>
@@ -34220,7 +34220,7 @@
      <tg xml:lang="fin">
        <t>tentti, koe, kuulustelu; tutkinto;</t>
      </tg>
-     <xg><x>пырон экзаʼменъёс</x>
+     <xg><x>пырон экзаменъёс</x>
        <xt xml:lang="fin">pääsykokeet;</xt>
      </xg>
      <xg><x>экзамен кутыны</x>
@@ -34374,7 +34374,7 @@
      <tg xml:lang="fin">
        <t>taloudellinen tila;</t>
      </tg>
-     <xg><x>эконоʼмикалэн валтӥсь удысъёсыз</x>
+     <xg><x>экономикалэн валтӥсь удысъёсыз</x>
        <xt xml:lang="fin">talouselämän avainalat</xt>
      </xg>
 </mg>
@@ -34525,7 +34525,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>(tutkimus)retki;</t>
-     </tg><font face="SmolenskSGR"><b>науʼчной</b> (<i>я. </i></font>
+     </tg><font face="SmolenskSGR"><b>научной</b> (<i>я. </i></font>
      <xg><x>тодос) экспедиция</x>
        <xt xml:lang="fin">tutkimusretki</xt>
      </xg>
@@ -34599,7 +34599,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>riistäjä</t>
-     </tg><font face="SmolenskSGR"><b>эксплуатаʼци, эксплуатаʼция</b></font>
+     </tg><font face="SmolenskSGR"><b>эксплуатаци, эксплуатация</b></font><FIX2/>
    <mg ind="1th"/><defNative>ас вылад ужатон</defNative>
      <tg xml:lang="fin">
        <t>riisto, riistäminen</t>
@@ -34618,7 +34618,7 @@
 </e>
 
 <e>
-   <lg><l>эксплуатиʼровать: эксплуатировать карись</l>
+   <lg><l>эксплуатировать: эксплуатировать карись</l>
    </lg>
    <mg>
      <variants>
@@ -34653,12 +34653,12 @@
    <mg>
      <tg xml:lang="fin">
        <t>näyttelyesine</t>
-     </tg><font face="SmolenskSGR"><b>эʼкспорт</b></font>
+     </tg><font face="SmolenskSGR"><b>экспорт</b></font><FIX2/>
    <mg ind="1th"/><defNative>мукет кунэ вузан</defNative>
      <tg xml:lang="fin">
        <t>vienti(kauppa);</t>
      </tg>
-     <xg><x>нянь(я) эʼ.</x>
+     <xg><x>нянь(я) экспорт</x>
        <xt xml:lang="fin">viljanvienti</xt>
      </xg>
 </mg>
@@ -34682,10 +34682,10 @@
 
 <e><FIXME1/>
    <mg>
-     <xg><x>экспортиʼровать: экспортиʼровать карон</x>
+     <xg><x>экспортировать: экспортировать карон</x>
        <xt xml:lang="fin">maasta vienti;</xt>
      </xg>
-     <xg><x>экспортиʼровать карыны</x>
+     <xg><x>экспортировать карыны</x>
        <xt xml:lang="fin">viedä (maasta)</xt>
      </xg>
    </mg>
@@ -34882,7 +34882,7 @@
 <e>
    <lg><l>электрификаци</l><orig>электрификаʼци</orig>
      <variants>
-       <l_syn>электрификаʼция</l_syn>
+       <l_syn>электрификация</l_syn>
      </variants>
    </lg>
    <mg>
@@ -34894,9 +34894,9 @@
 
 <e>
    <lg>
-     <l pos="N">электрификаʼция</l><orig>электрификаʼция</orig>
+     <l pos="N">электрификация</l><orig>электрификаʼция</orig>
      <variants>
-       <l_syn>электрификаʼци</l_syn>
+       <l_syn>электрификаци</l_syn>
      </variants>
    </lg>
    <mg>
@@ -34938,7 +34938,7 @@
    <mg><range>puhek.</range>
      <tg xml:lang="fin">
        <t>sähkö(voima), sähköenergia // sähkö(n)=</t>
-     </tg><font face="SmolenskSGR"><b>электробриʼтваʼ</b></font>
+     </tg><font face="SmolenskSGR"><b>электробритва</b></font><FIX2/>
      <tg xml:lang="fin">
        <t>sähköparranajokone</t>
      </tg>
@@ -34983,7 +34983,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>sähkölamppu</t>
-     </tg><font face="SmolenskSGR"><b>электроʼлиз </b></font><field>fys.</field>
+     </tg><font face="SmolenskSGR"><b>электролиз </b></font><field>fys.</field><FIX2/>
      <tg xml:lang="fin">
        <t>elektrolyysi</t>
      </tg>
@@ -35058,7 +35058,7 @@
 <e>
    <lg><l>электростанци</l><orig>электростаʼнци</orig>
      <variants>
-       <l_syn>электростаʼнция</l_syn>
+       <l_syn>электростанция</l_syn>
      </variants>
    </lg>
    <mg>
@@ -35070,9 +35070,9 @@
 
 <e>
    <lg>
-     <l pos="N">электростаʼнция</l><orig>электростаʼнция</orig>
+     <l pos="N">электростанция</l><orig>электростаʼнция</orig>
      <variants>
-       <l_syn>электростаʼнци</l_syn>
+       <l_syn>электростанци</l_syn>
      </variants>
    </lg>
    <mg>
@@ -35107,7 +35107,7 @@
 <e>
    <lg><l>электроэнерги</l><orig>электроэнеʼрги</orig>
      <variants>
-       <l_syn>электроэнеʼргия</l_syn>
+       <l_syn>электроэнергия</l_syn>
      </variants>
    </lg>
    <mg>
@@ -35142,9 +35142,9 @@
 
 <e>
    <lg>
-     <l pos="N">электроэнеʼргия</l><orig>электроэнеʼргия</orig>
+     <l pos="N">электроэнергия</l><orig>электроэнеʼргия</orig>
      <variants>
-       <l_syn>электроэнеʼрги</l_syn>
+       <l_syn>электроэнерги</l_syn>
      </variants>
    </lg>
    <mg>
@@ -35464,7 +35464,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>siirtolainen, emigrantti</t>
-     </tg><font face="SmolenskSGR"><b>эмиграʼци, эмиграʼция</b></font>
+     </tg><font face="SmolenskSGR"><b>эмиграци, эмиграция</b></font><FIX2/>
    <mg ind="1th"/><defNative>музон кунэ кошкон</defNative>
      <tg xml:lang="fin">
        <t>siirtolaisuus, maastamuutto, emigraatio</t>
@@ -35474,7 +35474,7 @@
      <tg xml:lang="fin">
        <t>maanpako;</t>
      </tg>
-     <xg><x>эмиграʼциын улыны</x>
+     <xg><x>эмиграциын улыны</x>
        <xt xml:lang="fin">elää (t. olla) maanpaossa</xt>
      </xg>
    </mg>
@@ -35518,11 +35518,11 @@
 
 <e>
    <lg>
-     <l pos="N">эмоʼция</l><orig>эмоʼция</orig>
+     <l pos="N">эмоция</l><orig>эмоʼция</orig>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">эмоʼци</l_syn>
+       <l_syn type="&gt;">эмоци</l_syn>
      </variants>
    </mg>
 </e>
@@ -35794,7 +35794,7 @@
      <xg><x>энергетической кризис</x>
        <xt xml:lang="fin">energiakriisi</xt>
      </xg>
-     <xg><x>энеʼрги, энеʼргия</x><FIX2/>
+     <xg><x>энерги, энергия</x><FIX2/>
        <xt xml:lang="fin"></xt>
      </xg><font face="SmolenskSGR">[-нэ-]</font>
      <tg xml:lang="fin">
@@ -35943,7 +35943,7 @@
 
 <e>
    <lg>
-     <l pos="N">эпилеʼпсия</l><orig>эпилеʼпсия</orig>
+     <l pos="N">эпилепсия</l><orig>эпилеʼпсия</orig>
    </lg>
    <mg><field>lääk.</field>
      <tg xml:lang="fin">
@@ -36045,7 +36045,7 @@
      <tg xml:lang="fin">
        <t>ajanlasku;</t>
      </tg>
-     <xg><x>асьме эʼралэсь азьвыл</x>
+     <xg><x>асьме эралэсь азьвыл</x>
        <xt xml:lang="fin">ennen Kristusta, ennen ajanlaskun alkua</xt>
      </xg>
 </mg>
@@ -36335,7 +36335,7 @@
        <xt xml:lang="fin">lainmukainen tuomio;</xt>
      </xg>
      <variants>
-       <l_syn type="&gt;">праʼво<rom ind="0_1"/></l_syn>
+       <l_syn type="&gt;">право<rom ind="0_1"/></l_syn>
      </variants>
    </mg>
 </e>
@@ -36996,7 +36996,7 @@
      <xg><x>висисьёсты эскерон</x>
        <xt xml:lang="fin">potilaiden tarkastus;</xt>
      </xg>
-     <xg><x>тамоʼжня(ын) эскерон</x>
+     <xg><x>таможня(ын) эскерон</x>
        <xt xml:lang="fin">tullitarkastus</xt>
      </xg>
 </mg>
@@ -37018,7 +37018,7 @@
      <tg xml:lang="fin">
        <t>tutkimus, tutkiminen;</t>
      </tg>
-     <xg><x>аʼтомной энеʼргиез уже кутон понна эскерон</x>
+     <xg><x>атомной энергиез уже кутон понна эскерон</x>
        <xt xml:lang="fin">ydinenergian käyttöä koskevat tutkimukset;</xt>
      </xg>
      <xg><x>интыез эскерон</x>
@@ -37120,7 +37120,7 @@
        <t>valvonta, tarkastus</t>
        <re>viranomaiset</re>;
      </tg>
-     <xg><x>санитаʼрной эскерон-чаклан</x>
+     <xg><x>санитарной эскерон-чаклан</x>
        <xt xml:lang="fin">terveysvalvonta</xt>
      </xg>
    </mg>
@@ -37162,7 +37162,7 @@
      <tg xml:lang="fin">
        <t>tutkia;</t>
      </tg>
-     <xg><x>аʼтомной энеʼргиез уже кутон понна эскерыны</x>
+     <xg><x>атомной энергиез уже кутон понна эскерыны</x>
        <xt xml:lang="fin">tutkia ydinenergian käyttöä;</xt>
      </xg>
      <xg><x>удмурт кылэз эскерыны</x>
@@ -37181,7 +37181,7 @@
      <tg xml:lang="fin">
        <t>käsitellä, tutkia;</t>
      </tg>
-     <xg><x>заявлеʼниез эскерыны</x>
+     <xg><x>заявлениез эскерыны</x>
        <xt xml:lang="fin">käsitellä anomus</xt>
      </xg>
 </mg>
@@ -37191,7 +37191,7 @@
      </tg>
      <xg><x>книгаез эскерыны</x>
        <xt xml:lang="fin">analysoida kirja;</xt>
-     </xg><font face="SmolenskSGR"><b>предложеʼниез эскерыны </b></font><field>kiel.</field>
+     </xg><font face="SmolenskSGR"><b>предложениез эскерыны </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>jäsentää lause</t>
      </tg>
@@ -37379,7 +37379,7 @@
      <tg xml:lang="fin">
        <t>polttoaine=;</t>
      </tg>
-     <xg><x>диʼзельной эстӥськон</x>
+     <xg><x>дизельной эстӥськон</x>
        <xt xml:lang="fin">dieselöljy [diis-];</xt>
      </xg>
      <xg><x>кизер эстӥськон</x>
@@ -37463,7 +37463,7 @@
      <tg xml:lang="fin">
        <t>(esitys)lava, koroke, estradi;</t>
      </tg>
-     <xg><x>эстраʼда вылэ потыны</x>
+     <xg><x>эстрада вылэ потыны</x>
        <xt xml:lang="fin">nousta lavalle</xt>
      </xg>
 </mg>
@@ -37471,13 +37471,13 @@
      <tg xml:lang="fin">
        <t>estradi, viihde, revyy;</t>
      </tg>
-     <xg><x>эстраʼда концерт</x>
+     <xg><x>эстрада концерт</x>
        <xt xml:lang="fin">viihdekonsertti;</xt>
      </xg>
-     <xg><x>эстраʼдаысь артист</x>
+     <xg><x>эстрадаысь артист</x>
        <xt xml:lang="fin">viihdetaiteilija;</xt>
      </xg>
-     <xg><x>эстраʼдая теаʼтр</x>
+     <xg><x>эстрадая театр</x>
        <xt xml:lang="fin">revyyteatteri</xt>
      </xg>
    </mg>
@@ -37795,7 +37795,7 @@
      <xg><x>улысь) этаж</x>
        <xt xml:lang="fin">alakerta, alakerros;</xt>
      </xg>
-     <xg><x>кыкеʼтӥʼ этаже тубыны</x>
+     <xg><x>кыкетӥ этаже тубыны</x>
        <xt xml:lang="fin">nousta toiseen kerrokseen;</xt>
      </xg>
      <xg><x>со этажлы улӥынгес улэ</x>
@@ -37872,10 +37872,10 @@
      <tg xml:lang="fin">
        <t>vaihe;</t>
      </tg>
-     <xg><x>берпумеʼтӥʼ этап</x>
+     <xg><x>берпуметӥ этап</x>
        <xt xml:lang="fin">loppuvaihe;</xt>
      </xg>
-     <xg><x>нырысеʼтӥʼ этап</x>
+     <xg><x>нырысетӥ этап</x>
        <xt xml:lang="fin">alkuvaihe, ensimmäinen vaihe</xt>
      </xg>
    </mg>
@@ -37889,7 +37889,7 @@
      <tg xml:lang="fin">
        <t>nimilappu, etiketti</t>
      </tg><FIXME1/>
-     <xg><x>этимоʼлог</x>
+     <xg><x>этимолог</x><FIX2/>
        <xt xml:lang="fin">etymologi</xt>
      </xg>
    </mg>
@@ -37910,9 +37910,9 @@
      <tg xml:lang="fin">
        <t>etymologia, sanan alkuperä</t>
      </tg><FIXME1/>
-     <xg><x>этимологиʼческой</x>
+     <xg><x>этимологической</x><FIX2/>
        <xt xml:lang="fin">etymologinen</xt>
-     </xg><font face="SmolenskSGR"><b>этимолоʼгия</b></font>
+     </xg><font face="SmolenskSGR"><b>этимология</b></font><FIX2/>
    <mg ind="1th"/><defNative>тодос</defNative>
      <tg xml:lang="fin">
        <t>etymologia</t>
@@ -37933,13 +37933,13 @@
      <tg xml:lang="fin">
        <t>kansatieteilijä, etnografi</t>
      </tg><FIXME1/>
-     <xg><x>этнограʼфи</x>
+     <xg><x>этнографи</x><FIX2/>
        <xt xml:lang="fin">kansatiede, etnografia // kansatieteellinen, etnografinen</xt>
      </xg><FIXME1/>
-     <xg><x>этнографиʼческой</x>
+     <xg><x>этнографической</x><FIX2/>
        <xt xml:lang="fin">kansatieteellinen, etnografinen;</xt>
      </xg>
-     <xg><x>этноʼграф музей</x>
+     <xg><x>этнографической музей</x>
        <xt xml:lang="fin">etnografinen (t. kansatieteellinen) museo</xt>
      </xg>
    </mg>
@@ -37947,7 +37947,7 @@
 
 <e>
    <lg>
-     <l pos="N">этнограʼфия</l><orig>этнограʼфия</orig>
+     <l pos="N">этнография</l><orig>этнограʼфия</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -38116,8 +38116,8 @@
    <mg>
      <tg xml:lang="fin">
        <t>ystävä, kaveri, kumppani, toveri;</t>
-     </tg><font face="SmolenskSGR"><b>аʼрмиось</b> (<i>я. </i></font>
-     <xg><x>аʼрмия) эш</x>
+     </tg><font face="SmolenskSGR"><b>армиысь</b> (<i>я. </i></font>
+     <xg><x>армия) эш</x>
        <xt xml:lang="fin">armeijakaveri; inttikaveri</xt>
      </xg><range>puhek.</range>
      <tg xml:lang="fin">
@@ -39105,7 +39105,7 @@
        <t>adverbiaali;</t>
      </tg>
      <variants>
-       <l_syn type="&gt;">обстояʼтельство</l_syn>
+       <l_syn type="&gt;">обстоятельство</l_syn>
      </variants>
    </mg>
 </e>
@@ -39191,7 +39191,7 @@
      <tg xml:lang="fin">
        <t>valaistua, tulla valoisaksi;</t>
      </tg>
-     <xg><x>сцеʼна яркыт югдытӥськиз</x>
+     <xg><x>сцена яркыт югдытӥськиз</x>
        <xt xml:lang="fin">näyttämö tuli häikäisevän valoisaksi</xt>
      </xg>
 </mg>
@@ -39330,10 +39330,10 @@
      <tg xml:lang="fin">
        <t>lounas // lounais=, lounaan, lounainen;</t>
      </tg><FIXME1/>
-     <xg><x>юго-заʼпадысь</x>
+     <xg><x>юго-западысь</x>
        <xt xml:lang="fin">lounais=. lounaan, lounainen;</xt>
      </xg>
-     <xg><x>юго-заʼпадысь тӧл</x>
+     <xg><x>юго-западысь тӧл</x>
        <xt xml:lang="fin">lounaistuuli, lounainen tuuli</xt>
      </xg>
    </mg>
@@ -39364,7 +39364,7 @@
      </tg>
      <xg><x>югыт уй</x>
        <xt xml:lang="fin">valoisa yö;</xt>
-     </xg><font face="SmolenskSGR"><b>коʼмнатаʼ</b></font> <FIXME1/>
+     </xg><font face="SmolenskSGR"><b>комната</b></font> <FIXME1/>
      <xg><x>югыт</x>
        <xt xml:lang="fin">huone on valoisa;</xt>
      </xg>
@@ -39772,7 +39772,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">юзыр-кеʼзьыр</l_syn>
+       <l_syn type="&gt;">юзыр-кезьыр</l_syn>
      </variants>
    </mg>
 </e>
@@ -39979,7 +39979,7 @@
 
 <e>
    <lg>
-     <l pos="V">юʼзыр-кеʼзьыр луыны</l>
+     <l pos="V">юзыр-кезьыр луыны</l>
    </lg><font face="SmolenskSGR">(<i>дырекъяны, куалекъяны</i>)</font>
    <mg>
      <tg xml:lang="fin">
@@ -39990,7 +39990,7 @@
      </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
      <tg xml:lang="fin">
        <t>selkäpiitä karmii;</t>
-     </tg><font face="SmolenskSGR"><b>вылтыры</b> (<i>я. </i><b>мугоры) юʼ. луэ </b></font><font face="SmolenskSGR">(<i>дырекъяса, куалекъяса</i>)</font>
+     </tg><font face="SmolenskSGR"><b>вылтыры</b> (<i>я. </i><b>мугоры) юзыр-кезьыр луэ </b></font><font face="SmolenskSGR">(<i>дырекъяса, куалекъяса</i>)</font>
      <tg xml:lang="fin">
        <t>minua viluttaa;</t>
      </tg><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
@@ -40718,11 +40718,11 @@
 </e>
 
 <e>
-   <lg><l>юнмось</l><orig>юʼнмось</orig>
+   <lg><l>юнмысь</l><orig>юʼнмось</orig>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">юʼнмеʼ</l_syn>
+       <l_syn type="&gt;">юнме</l_syn>
      </variants>
    </mg>
 </e>
@@ -41082,7 +41082,7 @@
    <lg>
      <l pos="N">юрисдикци</l><orig>юрисдиʼкци</orig>
      <variants>
-       <l_syn>юрисдиʼкция</l_syn>
+       <l_syn>юрисдикция</l_syn>
      </variants>
    </lg>
    <mg><field>lak.</field>
@@ -41095,7 +41095,7 @@
      <tg xml:lang="fin">
        <t>hallintopiiri;</t>
      </tg>
-     <xg><x>со милям юрисдиʼкцимы улсын ӧвӧл</x>
+     <xg><x>со милям юрисдикцимы улсын ӧвӧл</x>
        <xt xml:lang="fin">se ei kuulu meidän hallintopiiriimme</xt>
      </xg>
    </mg>
@@ -41103,9 +41103,9 @@
 
 <e>
    <lg>
-     <l pos="N">юрисдиʼкция</l><orig>юрисдиʼкция</orig>
+     <l pos="N">юрисдикция</l><orig>юрисдиʼкция</orig>
      <variants>
-       <l_syn>юрисдиʼкци</l_syn>
+       <l_syn>юрисдикци</l_syn>
      </variants>
    </lg>
    <mg><field>lak.</field>
@@ -41118,7 +41118,7 @@
      <tg xml:lang="fin">
        <t>hallintopiiri;</t>
      </tg>
-     <xg><x>со милям юрисдиʼкцимы улсын ӧвӧл</x>
+     <xg><x>со милям юрисдикцимы улсын ӧвӧл</x>
        <xt xml:lang="fin">se ei kuulu meidän hallintopiiriimme</xt>
      </xg>
    </mg>
@@ -41127,7 +41127,7 @@
 <e>
    <lg><l>юриспруденци</l><orig>юриспрудеʼнци</orig>
      <variants>
-       <l_syn>юриспрудеʼнция</l_syn>
+       <l_syn>юриспруденция</l_syn>
      </variants>
    </lg>
    <mg>
@@ -41139,9 +41139,9 @@
 
 <e>
    <lg>
-     <l pos="N">юриспрудеʼнция</l><orig>юриспрудеʼнция</orig>
+     <l pos="N">юриспруденция</l><orig>юриспрудеʼнция</orig>
      <variants>
-       <l_syn>юриспрудеʼнци</l_syn>
+       <l_syn>юриспруденци</l_syn>
      </variants>
    </lg>
    <mg>
@@ -41208,7 +41208,7 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">юʼри</l_syn>
+       <l_syn type="&gt;">юри</l_syn>
      </variants>
    </mg>
 </e>
@@ -41220,7 +41220,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>männynpihka, männynhartsi</t>
-     </tg><font face="SmolenskSGR"><b>юрсиран</b></font>
+     </tg><font face="SmolenskSGR"><b>юрсиран</b></font><FIX2/>
    <mg ind="1th"/><defNative>юрсирен зыран</defNative>
      <tg xml:lang="fin">
        <t>männynpihkalla sively</t>
@@ -41400,10 +41400,10 @@
        <t>sijainen, lähin alainen</t>
        <re>ministerin, johtajan tms.</re>;
      </tg>
-     <xg><x>диреʼкторлэн юрттӥсез</x>
+     <xg><x>директорлэн юрттӥсез</x>
        <xt xml:lang="fin">apulaisjohtaja, varajohtaja;</xt>
      </xg>
-     <xg><x>миниʼстрлэн юрттӥсез</x>
+     <xg><x>министрлэн юрттӥсез</x>
        <xt xml:lang="fin">varaministeri;</xt>
      </xg>
      <xg><x>мыным юрттӥсь кулэ</x>
@@ -41504,7 +41504,7 @@
        <xt xml:lang="fin">sosiaaliavustus, sosiaaliturva;</xt>
      </xg>
      <variants>
-       <l_syn type="vrt0">посоʼбие<rom ind="0_1"/></l_syn>
+       <l_syn type="vrt0">пособие<rom ind="0_1"/></l_syn>
      </variants>
    </mg>
 </e>
@@ -41712,7 +41712,7 @@
      <xg><x>суй-пыд юскиськыны</x>
        <xt xml:lang="fin">masentua;</xt>
      </xg>
-     <xg><x>со учыр бере мынам суй-пыды коʼпак юскиськиз</x>
+     <xg><x>со учыр бере мынам суй-пыды копак юскиськиз</x>
        <xt xml:lang="fin">sen tapahtuman jälkeen minä olin aivan masentunut</xt>
      </xg>
    </mg>
@@ -42017,16 +42017,16 @@
 
 <e>
    <lg>
-     <l pos="Pcle">яʼва</l><orig>яʼва</orig>
+     <l pos="Pcle">ява</l><orig>яʼва</orig>
    </lg>
    <mg ind="1th"><note><i>vahv. </i></note><font face="SmolenskSGR">(<i>ук, ведь</i>)</font>
      <tg xml:lang="fin">
        <t>=han / =hän, =pa / =pä;</t>
      </tg>
-     <xg><x>вот яʼ.</x>
+     <xg><x>вот ява</x>
        <xt xml:lang="fin">kylläpä;</xt>
      </xg>
-     <xg><x>нош споръяськыны, яʼ., кыӵе усто</x>
+     <xg><x>нош споръяськыны, ява, кыӵе усто</x>
        <xt xml:lang="fin">onhan hän hanakka (t. kärkäs) kiistelemään</xt>
      </xg>
 </mg>
@@ -42034,13 +42034,13 @@
      <tg xml:lang="fin">
        <t>(onko) hyvä, sopiiko?;</t>
      </tg>
-     <xg><x>туннэ лыктыны уг быгатӥськы, яʼ.? – Я, соку ӵуказе лыкты.</x>
+     <xg><x>туннэ лыктыны уг быгатӥськы, ява? – Я, соку ӵуказе лыкты.</x>
        <xt xml:lang="fin">tänäänhän en voi tulla, enhän?</xt>
      </xg>–
      <tg xml:lang="fin">
        <t>Hyvä on, tule huomenna.;</t>
      </tg>
-     <xg><x>мон ӵуказе улыса гинэ сое быдэсто, яʼ.?</x>
+     <xg><x>мон ӵуказе улыса гинэ сое быдэсто, ява?</x>
        <xt xml:lang="fin">minä teen sen vasta ylihuomenna, sopiiko?</xt>
      </xg>
    </mg>
@@ -42048,13 +42048,13 @@
 
 <e>
    <lg>
-     <l pos="N">явлеʼние</l><orig>явлеʼние</orig>
+     <l pos="N">явление</l><orig>явлеʼние</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>ilmiö;</t>
      </tg>
-     <xg><x>инкуазь явлеʼниос</x>
+     <xg><x>инкуазь явлениос</x>
        <xt xml:lang="fin">luonnonilmiöt</xt>
      </xg>
    </mg>
@@ -42095,7 +42095,7 @@
 
 <e>
    <lg>
-     <l pos="N">яʼгель</l><orig>яʼгель</orig>
+     <l pos="N">ягель</l><orig>яʼгель</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42124,7 +42124,7 @@
 
 <e>
    <lg>
-     <l pos="N">яʼгодаʼ</l><orig>яʼгодаʼ</orig>
+     <l pos="N">ягода</l><orig>яʼгодаʼ</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42147,22 +42147,22 @@
      <xg><x>яд юыны</x>
        <xt xml:lang="fin">ottaa myrkkyä</xt>
      </xg><FIXME1/>
-     <xg><x>яʼдерной</x>
+     <xg><x>ядерной</x><FIX2/>
        <xt xml:lang="fin">ydin=, ytimen;</xt>
      </xg>
-     <xg><x>яʼ. война</x>
+     <xg><x>ядерной война</x>
        <xt xml:lang="fin">ydinsota;</xt>
-     </xg><xg><x>яʼ. кужым</x>
-<x>яʼ. энеʼргия</x>
+     </xg><xg><x>ядерной кужым</x>
+<x>ядерной энергия</x>
 <xt xml:lang="fin">ydinenergia;</xt>
 </xg>
-     <xg><x>яʼ. оражие</x>
+     <xg><x>ядерной оружие</x>
        <xt xml:lang="fin">ydinase;</xt>
      </xg>
-     <xg><x>яʼ. реаʼктор</x>
+     <xg><x>ядерной реактор</x>
        <xt xml:lang="fin">ydinreaktori;</xt>
      </xg>
-     <xg><x>яʼ. фиʼзика</x>
+     <xg><x>ядерной физика</x>
        <xt xml:lang="fin">ydinfysiikka</xt>
      </xg>
    </mg>
@@ -42201,7 +42201,7 @@
      <tg xml:lang="fin">
        <t>tuma;</t>
      </tg>
-     <xg><x>клеʼткалэн ядроез</x>
+     <xg><x>клеткалэн ядроез</x>
        <xt xml:lang="fin">solun tuma, solutuma</xt>
      </xg>
 </mg>
@@ -42234,7 +42234,7 @@
 
 <e>
    <lg>
-     <l pos="N">яʼзва</l><orig>яʼзва</orig>
+     <l pos="N">язва</l><orig>яʼзва</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42378,17 +42378,17 @@
    <mg>
      <tg xml:lang="fin">
        <t>(upotus)lukko, upotettu lukko</t>
-     </tg><font face="SmolenskSGR"><b>яʼкорь </b></font><field>mer.</field>
+     </tg><font face="SmolenskSGR"><b>якорь </b></font><field>mer.</field><FIX2/>
      <tg xml:lang="fin">
        <t>ankkuri;</t>
      </tg>
-     <xg><x>яʼ. жильы</x>
+     <xg><x>якорь жильы</x>
        <xt xml:lang="fin">ankkuriketju, ankurikettinki;</xt>
-     </xg><xg><x>яʼ. гозы</x>
-<x>яʼ. канат</x>
+     </xg><xg><x>якорь гозы</x>
+<x>якорь канат</x>
 <xt xml:lang="fin">ankkuriköysi;</xt>
 </xg>
-     <xg><x>яʼ. куштыны</x>
+     <xg><x>якорь куштыны</x>
        <xt xml:lang="fin">heittää (t. laskea) ankkuri, ankkuroida, ankkuroitua</xt>
      </xg>
    </mg>
@@ -42447,7 +42447,7 @@
      <xg><x>со ялан висе на</x>
        <xt xml:lang="fin">hän on yhä (t. edelleenkin) sairaana;</xt>
      </xg>
-     <xg><x>яʼлаʼн-а ужаськод на?</x>
+     <xg><x>ялан-а ужаськод на?</x>
        <xt xml:lang="fin">oletko yhä edelleen tehnyt työtä?</xt>
      </xg>
 </mg>
@@ -42469,9 +42469,9 @@
 
 <e>
    <lg>
-     <l pos="N">яʼлкарон</l><orig>яʼлкарон</orig>
+     <l pos="N">ялкарон</l><orig>яʼлкарон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>яʼл/карыны</stem></drvg>
+   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>ял/карыны</stem></drvg>
 </mg>
    <mg ind="2th"><defNative>шутэтскон</defNative>
      <tg xml:lang="fin">
@@ -42493,7 +42493,7 @@
 
 <e>
    <lg>
-     <l pos="V">яʼл/карыны</l><orig>яʼл/карыны</orig>
+     <l pos="V">ял/карыны</l><orig>яʼл/карыны</orig>
    </lg>
    <mg ind="1th"><defNative>шутэтскыны</defNative>
      <tg xml:lang="fin">
@@ -42509,7 +42509,7 @@
      </tg><font face="SmolenskSGR">(<i>вис карыны</i>)</font>
      <tg xml:lang="fin">
        <t>pitää tauko (t. paussi);</t>
-     </tg><font face="SmolenskSGR"><b>яʼлкарысаʼ</b></font> <FIXME1/>
+     </tg><font face="SmolenskSGR"><b>ялкарыса</b></font> <FIXME1/>
      <xg><x>ужаны</x>
        <xt xml:lang="fin">pitää työssä tauko (t. taukoja)</xt>
      </xg>
@@ -42764,7 +42764,7 @@
 
 <e>
    <lg>
-     <l pos="N">япоʼнка</l><orig>япоʼнка</orig>
+     <l pos="N">японка</l><orig>япоʼнка</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42850,7 +42850,7 @@
      <tg xml:lang="fin">
        <t>;</t>
      </tg>
-     <xg><x>уждэ ӵуказеозь лэсьты, яʼва. – Яра.</x>
+     <xg><x>уждэ ӵуказеозь лэсьты, ява. – Яра.</x>
        <xt xml:lang="fin">Teehän työsi huomiseksi.</xt>
      </xg>–
      <tg xml:lang="fin">
@@ -43027,7 +43027,7 @@
        <xt xml:lang="fin">juotavaksi kelpaamaton vesi</xt>
      </xg>
 </mg>
-   <mg ind="2th"> <font face="SmolenskSGR"><b>(яраʼнтэʼм) </b></font><font face="SmolenskSGR">(<i>укыр</i>)</font>
+   <mg ind="2th"> <font face="SmolenskSGR"><b>(ярантэм) </b></font><font face="SmolenskSGR">(<i>укыр</i>)</font>
      <tg xml:lang="fin">
        <t>hyvin, erittäin, kovin, sangen;</t>
      </tg>
@@ -43152,7 +43152,7 @@
      <xg><x>ӟырдыт яратон</x>
        <xt xml:lang="fin">tulinen (t. palava) rakkaus;</xt>
      </xg><font face="SmolenskSGR"><b>нырысь</b> (<i>я. </i></font>
-     <xg><x>нырысеʼтӥʼ) яратон</x>
+     <xg><x>нырысетӥ) яратон</x>
        <xt xml:lang="fin">ensi rakkaus;</xt>
      </xg>
      <xg><x>яратон адями</x>
@@ -43488,7 +43488,7 @@
 
 <e>
    <lg>
-     <l pos="N">яʼрус</l><orig>яʼрус</orig>
+     <l pos="N">ярус</l><orig>яʼрус</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -43614,18 +43614,18 @@
 </e>
 
 <e>
-   <lg><l>я-тэ</l><orig>яʼ-тэ</orig>
+   <lg><l>я-тэ</l><orig>я-тэ</orig>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">яʼва</l_syn>
+       <l_syn type="&gt;">ява</l_syn>
      </variants>
    </mg>
 </e>
 
 <e>
    <lg>
-     <l pos="N">яʼхта</l><orig>яʼхта</orig>
+     <l pos="N">яхта</l><orig>яʼхта</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -43650,7 +43650,7 @@
      </tg>
 </mg>
    <mg ind="2th"> <FIXME1/>
-     <xg><x>(ячеʼйка)</x>
+     <xg><x>(ячейка)</x>
        <xt xml:lang="fin">osasto, ryhmä;</xt>
      </xg><font face="SmolenskSGR"><b>комсомол ячейка </b></font><range>vanh.</range>
      <tg xml:lang="fin">
