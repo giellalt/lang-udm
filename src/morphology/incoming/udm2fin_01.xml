@@ -39476,7 +39476,7 @@
 </e>
 
 <e>
-   <lg><l>югытомон</l><orig>югытомон</orig>
+   <lg><l pos="N">югытомон</l><orig>югытомон</orig>
    </lg>
    <mg ind="1th"><defNative>ӟардон</defNative>
      <tg xml:lang="fin">
@@ -39522,7 +39522,7 @@
 </e>
 
 <e>
-   <lg><l>юг-юг</l><orig>юʼг-юг</orig>
+   <lg><l pos="A">юг-юг</l><orig>юʼг-юг</orig>
    </lg>
    <mg ind="1th"><font face="SmolenskSGR">(<i>туж юг-юг</i>)</font>
      <tg xml:lang="fin">
@@ -39622,13 +39622,13 @@
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">ед.</l_syn>
+       <l_syn type="&gt;">ед.<FIX3/></l_syn>
      </variants>
    </mg>
 </e>
 
 <e>
-   <lg><l>юж:</l><orig>юж:</orig>
+   <lg><l pos="N">юж:</l><orig>юж:</orig>
    </lg>
    <mg><note>(<i>myös </i></note><font face="SmolenskSGR"><b>юж лымы</b>)</font>
      <tg xml:lang="fin">
@@ -39691,7 +39691,7 @@
 </e>
 
 <e>
-   <lg><l>южтолэзь</l><orig>южтолэзь</orig>
+   <lg><l pos="N">южтолэзь</l><orig>южтолэзь</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -39768,7 +39768,7 @@
 
 <e>
    <lg>
-     <l pos="Descr">юз-кезь</l><orig>юз-кезь</orig>
+     <l pos="A">юз-кезь</l><orig>юз-кезь</orig>
    </lg>
    <mg>
      <variants>
@@ -39812,7 +39812,7 @@
 </e>
 
 <e>
-   <lg><l>юзматӥсь</l><orig>юзматӥсь</orig>
+   <lg><l pos="Prc;A">юзматӥсь</l><orig>юзматӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юзмытыны</stem></drvg>
 </mg>
@@ -39863,7 +39863,7 @@
 </e>
 
 <e>
-   <lg><l>юзмыт</l><orig>юзмыт</orig>
+   <lg><l pos="A">юзмыт</l><orig>юзмыт</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -39916,7 +39916,7 @@
 </e>
 
 <e>
-   <lg><l>юзрес</l><orig>юзрес</orig>
+   <lg><l pos="A">юзрес</l><orig>юзрес</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -39955,7 +39955,7 @@
 </e>
 
 <e>
-   <lg><l>юзырак: юзырак луыны</l>
+   <lg><l pos="Adv">юзырак: юзырак луыны</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -39968,7 +39968,7 @@
 </e>
 
 <e>
-   <lg><l>юзырес</l><orig>юзырес</orig>
+   <lg><l pos="A">юзырес</l><orig>юзырес</orig>
    </lg>
    <mg>
      <variants>
@@ -40029,7 +40029,7 @@
 </e>
 
 <e>
-   <lg><l>юз-юз</l><orig>юʼз-юз</orig>
+   <lg><l pos="Descr">юз-юз</l><orig>юʼз-юз</orig>
    </lg>
    <mg>
      <variants>
@@ -40039,7 +40039,7 @@
 </e>
 
 <e>
-   <lg><l>юись</l><orig>юись</orig>
+   <lg><l pos="Prc;N">юись</l><orig>юись</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юыны </stem></drvg>
 </mg>
@@ -40062,7 +40062,7 @@
 </e>
 
 <e>
-   <lg><l>юкагир</l><orig>юкагир</orig>
+   <lg><l pos="N;A">юкагир</l><orig>юкагир</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -40107,7 +40107,7 @@
 
 <e>
    <lg>
-     <l pos="N">юмал</l><orig>юмал</orig>
+     <l pos="A">юмал</l><orig>юмал</orig>
    </lg>
    <mg ind="1th"><defNative>к-сь ыльнянь</defNative>
      <tg xml:lang="fin">
@@ -40202,7 +40202,7 @@
 </e>
 
 <e>
-   <lg><l>юмалкушман</l><orig>юмалкушман</orig>
+   <lg><l pos="N">юмалкушман</l><orig>юмалкушман</orig>
    </lg>
    <mg><field>kasv.</field>
    <mg ind="1th"/><defNative>каляга</defNative>
@@ -40361,7 +40361,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">юн</l><orig>юн</orig>
+     <l pos="A;Adv">юн</l><orig>юн</orig>
    </lg>
    <mg ind="1th"><defNative>зол</defNative>
      <tg xml:lang="fin">
@@ -40488,7 +40488,7 @@
    <mg ind="3th"><defNative>тазалык с-сь</defNative>
      <tg xml:lang="fin">
        <t>parantuminen, kuntoutuminen, vahvistuminen</t>
-     </tg><font face="SmolenskSGR"><b>юнманы</b></font>
+     </tg><font face="SmolenskSGR"><b>юнманы</b></font><FIX2/>
    <mg ind="1th"/><defNative>юн луыны</defNative>
      <tg xml:lang="fin">
        <t>vahvistua, vahveta, lujittua; voimistua, yltyä, kiristyä;</t>
@@ -40555,7 +40555,7 @@
 </e>
 
 <e>
-   <lg><l>юнматӥськон</l><orig>юнматӥськон</orig>
+   <lg><l pos="N">юнматӥськон</l><orig>юнматӥськон</orig>
      <variants>
        <l_syn>юнматӥськыны</l_syn>
      </variants>
@@ -40617,7 +40617,7 @@
 </e>
 
 <e>
-   <lg><l>юнматъян</l><orig>юнматъян</orig>
+   <lg><l pos="N">юнматъян</l><orig>юнматъян</orig>
    </lg>
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>юнматъяны</stem></drvg>
    </mg>
@@ -40718,7 +40718,7 @@
 </e>
 
 <e>
-   <lg><l>юнмысь</l><orig>юʼнмось</orig>
+   <lg><l pos="Adv">юнмысь</l><orig>юʼнмось</orig>
    </lg>
    <mg>
      <variants>
@@ -40729,7 +40729,7 @@
 
 <e>
    <lg>
-     <l pos="Adv">юн-юн</l><orig>юʼн-юн</orig>
+     <l pos="A;Adv">юн-юн</l><orig>юʼн-юн</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -40816,7 +40816,7 @@
 </e>
 
 <e>
-   <lg><l>юр<rom ind="1"/></l>
+   <lg><l pos="N">юр<rom ind="1"/></l>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -40830,10 +40830,10 @@
 </e>
 
 <e>
-   <lg><l>юр<rom ind="2"/></l>
+   <lg><l pos="V">юр<rom ind="2"/></l>
    </lg>
    <mg><xg><x>: юр карыны</x>
-<x>: юр поттыны</x>
+<x>: юр поттыны</x><FIX2/>
 <xt xml:lang="fin">hälistä, meluta;</xt>
 </xg><xg><x>пиналъёс юр каро</x>
 <x>пиналъёс юр потто</x>
@@ -40850,7 +40850,7 @@
 </mg>
    <mg ind="2th"><defNative>юрго</defNative>
      <tg xml:lang="fin">
-       <t>peitsaaminen, peitsaus, (hevosen) tasakäynti, tasaastuminen, tasa-astunta;</t>
+       <t>peitsaaminen, peitsaus, (hevosen) tasakäynti, tasa-astuminen, tasa-astunta;</t>
      </tg>
      <variants>
        <l_syn type="&gt;">адыман</l_syn>
@@ -40891,7 +40891,7 @@
 </e>
 
 <e>
-   <lg><l>юргетэм</l><orig>юргетэм</orig>
+   <lg><l pos="Prc;N">юргетэм</l><orig>юргетэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юргетыны</stem></drvg>
 </mg>
@@ -40903,7 +40903,7 @@
 
 <e>
    <lg>
-     <l pos="N">юрго</l><orig>юрго</orig>
+     <l pos="N;A">юрго</l><orig>юрго</orig>
    </lg>
    <mg ind="1th"><defNative>вал ветлон сям</defNative>
      <tg xml:lang="fin">
@@ -40929,7 +40929,7 @@
 </e>
 
 <e>
-   <lg><l>юрдӥсь</l><orig>юрдӥсь</orig>
+   <lg><l pos="Prc;A;N">юрдӥсь</l><orig>юрдӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрдыны</stem></drvg>
 </mg>
@@ -40959,7 +40959,7 @@
 </e>
 
 <e>
-   <lg><l>юрдонлык</l><orig>юрдонлык</orig>
+   <lg><l pos="N">юрдонлык</l><orig>юрдонлык</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -40975,7 +40975,7 @@
 </e>
 
 <e>
-   <lg><l>юрдыт</l><orig>юрдыт</orig>
+   <lg><l pos="A;Adv">юрдыт</l><orig>юрдыт</orig>
    </lg>
    <mg>
      <variants>
@@ -40985,7 +40985,7 @@
 </e>
 
 <e>
-   <lg><l>юрӟым</l><orig>юрӟым</orig>
+   <lg><l pos="A;Adv">юрӟым</l><orig>юрӟым</orig>
    </lg>
    <mg><note><i>myös kuv. </i></note>
      <tg xml:lang="fin">
@@ -41027,7 +41027,7 @@
 </e>
 
 <e>
-   <lg><l>юридик</l><orig>юридик</orig>
+   <lg><l pos="A">юридик</l><orig>юридик</orig>
    </lg>
    <mg>
      <variants>
@@ -41125,7 +41125,7 @@
 </e>
 
 <e>
-   <lg><l>юриспруденци</l><orig>юриспрудеʼнци</orig>
+   <lg><l pos="N">юриспруденци</l><orig>юриспрудеʼнци</orig>
      <variants>
        <l_syn>юриспруденция</l_syn>
      </variants>
@@ -41389,7 +41389,7 @@
 </e>
 
 <e>
-   <lg><l>юрттӥсь</l><orig>юрттӥсь</orig>
+   <lg><l pos="Prc;N">юрттӥсь</l><orig>юрттӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттыны</stem></drvg>
 </mg>
@@ -41431,7 +41431,7 @@
 </e>
 
 <e>
-   <lg><l>юрттӥськись</l><orig>юрттӥськись</orig>
+   <lg><l pos="Prc;N">юрттӥськись</l><orig>юрттӥськись</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттӥськыны</stem></drvg>
 </mg>
@@ -41536,7 +41536,7 @@
 </e>
 
 <e>
-   <lg><l>юрттэм<rom ind="1"/></l>
+   <lg><l pos="A">юрттэм<rom ind="1"/></l>
    </lg>
    <mg><defNative>улон интытэм</defNative>
      <tg xml:lang="fin">
@@ -41893,7 +41893,7 @@
 
 <e>
    <lg>
-     <l pos="N">юэм</l><orig>юэм</orig>
+     <l pos="Prc;N">юэм</l><orig>юэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юыны</stem></drvg>
 </mg>
@@ -41912,7 +41912,7 @@
 </e>
 
 <e>
-   <lg><l>я</l><orig>я</orig>
+   <lg><l pos="Pcle;Interj;Adv;Conj">я</l><orig>я</orig>
    </lg>
    <mg ind="1th"><note><i>part. myönt. </i></note><font face="SmolenskSGR">(<i>ярам, ӵок</i>)</font>
      <tg xml:lang="fin">
@@ -41994,7 +41994,7 @@
 
 <e>
    <lg>
-     <l pos="N">яблокпу</l><orig>яблокпу</orig>
+     <l pos="N;A">яблокпу</l><orig>яблокпу</orig>
    </lg>
    <mg><field>kasv.</field>
      <tg xml:lang="fin">
@@ -42072,7 +42072,7 @@
 </e>
 
 <e>
-   <lg><l>яган: кузь яган</l><orig>яган: кузь я.</orig>
+   <lg><l pos="A">яган: кузь яган</l><orig>яган: кузь я.</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42095,7 +42095,7 @@
 
 <e>
    <lg>
-     <l pos="N">ягель</l><orig>яʼгель</orig>
+     <l pos="N;A">ягель</l><orig>яʼгель</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42234,7 +42234,7 @@
 
 <e>
    <lg>
-     <l pos="N">язва</l><orig>яʼзва</orig>
+     <l pos="N;A">язва</l><orig>яʼзва</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42250,7 +42250,7 @@
 </e>
 
 <e>
-   <lg><l>языческой</l><orig>язоческой</orig>
+   <lg><l pos="A">языческой</l><orig>язоческой</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42314,7 +42314,7 @@
 </e>
 
 <e>
-   <lg><l>яке</l><orig>яʼке</orig>
+   <lg><l pos="CC">яке</l><orig>яʼке</orig>
    </lg>
    <mg ind="1th"><note><i>disj. konj. </i></note>
      <tg xml:lang="fin">
@@ -42396,7 +42396,7 @@
 
 <e>
    <lg>
-     <l pos="N">якут</l><orig>якут</orig>
+     <l pos="N;A">якут</l><orig>якут</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42424,7 +42424,7 @@
 </e>
 
 <e>
-   <lg><l>ялан</l><orig>яʼлаʼн</orig>
+   <lg><l pos="Adv;A">ялан</l><orig>яʼлаʼн</orig>
    </lg>
    <mg ind="1th"><defNative>весь, пыр</defNative>
      <tg xml:lang="fin">
@@ -42692,7 +42692,7 @@
 </e>
 
 <e>
-   <lg><l>янгышен</l><orig>янгышен</orig>
+   <lg><l pos="N;Adv">янгышен</l><orig>янгышен</orig>
    </lg>
    <mg ind="1th"><note><i>instr. sanasta </i></note><font face="SmolenskSGR"><b>янгыш</b></font>
 </mg>
@@ -42707,7 +42707,7 @@
 </e>
 
 <e>
-   <lg><l>янгыштэм</l><orig>янгыштэм</orig>
+   <lg><l pos="A">янгыштэм</l><orig>янгыштэм</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42833,7 +42833,7 @@
 </e>
 
 <e>
-   <lg><l>яра<rom ind="2"/></l>
+   <lg><l pos="V;Pcle">яра<rom ind="2"/></l>
    </lg>
    <mg ind="1th"><font face="SmolenskSGR"><i>яраны</i></font><note><i>-verbin preesensin yksikön 3. persoona</i></note>
      <tg xml:lang="fin">
@@ -42900,7 +42900,7 @@
 
 <e>
    <lg>
-     <l pos="Pcle">яралоз</l><orig>яралоз</orig>
+     <l pos="V;Pcle">яралоз</l><orig>яралоз</orig>
    </lg>
    <mg ind="1th"><font face="SmolenskSGR"><i>яраны</i></font><note><i>-verbin futuurin yksikön 3. persoona</i></note>
      <tg xml:lang="fin">
@@ -42928,7 +42928,7 @@
      <variants>
        <l_syn type="&gt;">яра<rom ind="2"/></l_syn>
      </variants>
-     <xg><x>3; пырыны яралоз-а? – Яралоз.</x>
+     <xg><x>3<FIX3/>; пырыны яралоз-а? – Яралоз.</x>
        <xt xml:lang="fin">Saako tulla sisään?</xt>
      </xg>–
      <tg xml:lang="fin">
@@ -42939,7 +42939,7 @@
 
 <e>
    <lg>
-     <l pos="Pcle">ярам</l><orig>ярам</orig>
+     <l pos="V;Pcle;Prc">ярам</l><orig>ярам</orig>
    </lg>
    <mg ind="1th"><font face="SmolenskSGR"><i>яраны</i></font><note><i>-verbin II preteritin yksikön 3. persoona</i></note>
      <tg xml:lang="fin">
@@ -42969,7 +42969,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">ярамон</l><orig>ярамон</orig>
+     <l pos="Prc;A">ярамон</l><orig>ярамон</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42995,7 +42995,7 @@
      <l pos="N">яран</l><orig>яран</orig>
    </lg>
    <mg><inflect type="Der/Он" drv="V»N"/>
-     <xg><x>яраны яранлык</x>
+     <xg><x>яраны <FIX2/>яранлык</x>
        <xt xml:lang="fin">(käyttö)kelpoisuus, kelvollisuus</xt>
      </xg>
    </mg>
@@ -43071,13 +43071,13 @@
    <mg ind="4th">
      <variants>
        <l_syn type="&gt;">яра<rom ind="2"/></l_syn>
-     </variants><font face="SmolenskSGR"><b>3, яралоз 3</b></font>
+     </variants><font face="SmolenskSGR"><b>3<FIX3/>, яралоз 3<FIX3/></b></font>
    </mg>
 </e>
 
 <e>
    <lg>
-     <l pos="Prc">ярась</l><orig>ярась</orig>
+     <l pos="Prc;A">ярась</l><orig>ярась</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яраны</stem></drvg>
 </mg>
@@ -43091,7 +43091,7 @@
 </e>
 
 <e>
-   <lg><l>яратӥсь</l><orig>яратӥсь</orig>
+   <lg><l pos="Prc;A;N">яратӥсь</l><orig>яратӥсь</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яратыны</stem></drvg>
 </mg>
@@ -43130,7 +43130,7 @@
 
 <e>
    <lg>
-     <l pos="N">яратон</l><orig>яратон</orig>
+     <l pos="N;A">яратон</l><orig>яратон</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>яратыны</stem></drvg>
 </mg>
@@ -43153,7 +43153,7 @@
        <xt xml:lang="fin">tulinen (t. palava) rakkaus;</xt>
      </xg><font face="SmolenskSGR"><b>нырысь</b> (<i>я. </i></font>
      <xg><x>нырысетӥ) яратон</x>
-       <xt xml:lang="fin">ensi rakkaus;</xt>
+       <xt xml:lang="fin">ensirakkaus;</xt>
      </xg>
      <xg><x>яратон адями</x>
        <xt xml:lang="fin">rakas ihminen;</xt>
@@ -43185,7 +43185,7 @@
 
 <e>
    <lg>
-     <l pos="Prc">яратоно</l><orig>яратоно</orig>
+     <l pos="Prc;A;N">яратоно</l><orig>яратоно</orig>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -43225,7 +43225,7 @@
 </e>
 
 <e>
-   <lg><l>яратымон</l><orig>яратымон</orig>
+   <lg><l pos="Prc;A">яратымон</l><orig>яратымон</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -43293,7 +43293,7 @@
 
 <e>
    <lg>
-     <l pos="N">яратэм</l><orig>яратэм</orig>
+     <l pos="Prc;N">яратэм</l><orig>яратэм</orig>
    </lg>
    <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>яратыны</stem></drvg>
 </mg>
@@ -43311,7 +43311,7 @@
      <tg xml:lang="fin">
        <t>kihlaus; kihlaaminen</t>
      </tg><FIXME1/>
-     <xg><x>ярашыны</x>
+     <xg><x>ярашыны</x><FIX2/>
        <xt xml:lang="fin">kihlata</xt>
      </xg>
    </mg>
@@ -43347,7 +43347,7 @@
 </e>
 
 <e>
-   <lg><l>яркыт</l><orig>яркыт</orig>
+   <lg><l pos="A;Adv">яркыт</l><orig>яркыт</orig>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -43435,7 +43435,7 @@
 
 <e>
    <lg>
-     <l pos="N">ярмарка</l><orig>яʼрмаркаʼ</orig>
+     <l pos="N;A">ярмарка</l><orig>яʼрмаркаʼ</orig>
    </lg>
    <mg ind="1th"><defNative>базар</defNative>
      <tg xml:lang="fin">
@@ -43586,7 +43586,7 @@
 
 <e>
    <lg>
-     <l pos="N">ятыр</l><orig>ятыр</orig>
+     <l pos="Adv;Pron">ятыр</l><orig>ятыр</orig>
    </lg>
    <mg ind="1th"><defNative>лачак</defNative>
      <tg xml:lang="fin">
@@ -43614,7 +43614,7 @@
 </e>
 
 <e>
-   <lg><l>я-тэ</l><orig>я-тэ</orig>
+   <lg><l pos="Pcle">я-тэ</l><orig>я-тэ</orig>
    </lg>
    <mg>
      <variants>
