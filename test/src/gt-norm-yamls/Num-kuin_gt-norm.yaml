@@ -16,181 +16,181 @@ Tests:
 # Then: run analyser, then correct.
 
   Num -куинь: # Noun куинь 'eng /udm /fin' - full paradigm
-    куинь+N+Sg+Nom:куинь
+    куинь+Num+Card+Abs:куинь
     куинь+Num+Card+Der/MWN+N+Sg+Nom:куинь
-    куинь+Num+Card+Der/MWN+N+Sg+Acc:куиньэз
+    куинь+Num+Card+Der/MWN+N+Sg+Acc:куинез
 #    куинь+Num+Card+Der/MWN+N+Sg+Acc+Dial/North:куиньты
     куинь+Num+Card+Der/MWN+N+Sg+Gen:куиньлэн
     куинь+Num+Card+Der/MWN+N+Sg+Abl:куиньлэсь
     куинь+Num+Card+Der/MWN+N+Sg+Dat:куиньлы
-    куинь+Num+Card+Der/MWN+N+Sg+Ins:куиньэн
+    куинь+Num+Card+Der/MWN+N+Sg+Ins:куинен
     куинь+Num+Card+Der/MWN+N+Sg+Abe:куиньтэк
-    куинь+Num+Card+Der/MWN+N+Sg+Advl:куиньъя
+    куинь+Num+Card+Der/MWN+N+Sg+Advl:куинья
     куинь+Num+Card+Der/MWN+N+Sg+Ine:куиньын
-    куинь+Num+Card+Der/MWN+N+Sg+Ill:куиньэ
+    куинь+Num+Card+Der/MWN+N+Sg+Ill:куине
     куинь+Num+Card+Der/MWN+N+Sg+Ela:куиньысь
     куинь+Num+Card+Der/MWN+N+Sg+Egr:куиньысен
-    куинь+Num+Card+Der/MWN+N+Sg+Ter:куиньозь
-    куинь+Num+Card+Der/MWN+N+Sg+Prl:куиньэтӥ
+    куинь+Num+Card+Der/MWN+N+Sg+Ter:куинёзь
+    куинь+Num+Card+Der/MWN+N+Sg+Prl:куинетӥ
     куинь+Num+Card+Der/MWN+N+Sg+Apr:куиньлань
 
-    куинь+Num+Card+Der/MWN+N+Pl+Nom:куиньъёс
-    куинь+Num+Card+Der/MWN+N+Pl+Acc:куиньъёсыз
-    куинь+Num+Card+Der/MWN+N+Pl+Gen:куиньъёслэн
-    куинь+Num+Card+Der/MWN+N+Pl+Abl:куиньъёслэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Dat:куиньъёслы
-    куинь+Num+Card+Der/MWN+N+Pl+Ins:куиньъёсын
-    куинь+Num+Card+Der/MWN+N+Pl+Abe:куиньъёстэк
-    куинь+Num+Card+Der/MWN+N+Pl+Advl:куиньъёсъя
-    куинь+Num+Card+Der/MWN+N+Pl+Ine:куиньъёсын
-    куинь+Num+Card+Der/MWN+N+Pl+Ill:куиньъёсы
-    куинь+Num+Card+Der/MWN+N+Pl+Ela:куиньъёсысь
-    куинь+Num+Card+Der/MWN+N+Pl+Egr:куиньъёсысен
-    куинь+Num+Card+Der/MWN+N+Pl+Ter:куиньъёсозь
-    куинь+Num+Card+Der/MWN+N+Pl+Prl:куиньъёсэтӥ
-    куинь+Num+Card+Der/MWN+N+Pl+Apr:куиньъёслань
+    куинь+Num+Card+Der/MWN+N+Pl+Nom:куиньёс
+    куинь+Num+Card+Der/MWN+N+Pl+Acc: [куиньёсыз, куиньёсты]
+    куинь+Num+Card+Der/MWN+N+Pl+Gen:куиньёслэн
+    куинь+Num+Card+Der/MWN+N+Pl+Abl:куиньёслэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Dat:куиньёслы
+    куинь+Num+Card+Der/MWN+N+Pl+Ins:куиньёсын
+    куинь+Num+Card+Der/MWN+N+Pl+Abe:куиньёстэк
+    куинь+Num+Card+Der/MWN+N+Pl+Advl:куиньёсъя
+    куинь+Num+Card+Der/MWN+N+Pl+Ine:куиньёсын
+    куинь+Num+Card+Der/MWN+N+Pl+Ill:куиньёсы
+    куинь+Num+Card+Der/MWN+N+Pl+Ela:куиньёсысь
+    куинь+Num+Card+Der/MWN+N+Pl+Egr:куиньёсысен
+    куинь+Num+Card+Der/MWN+N+Pl+Ter:куиньёсозь
+    куинь+Num+Card+Der/MWN+N+Pl+Prl:куиньёстӥ
+    куинь+Num+Card+Der/MWN+N+Pl+Apr:куиньёслань
 
      # possessive, and Cx-Px / Px-Cx
 
-    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg1:куиньэ
-    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg2:куиньэд
-    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg3:куиньэз
+    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg1:куине
+    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg2:куинед
+    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxSg3:куинез
     куинь+Num+Card+Der/MWN+N+Sg+Nom+PxPl1:куиньмы
-    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxPl2:куиньты
-    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxPl3:куиньсы
+    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxPl2:куиньды
+    куинь+Num+Card+Der/MWN+N+Sg+Nom+PxPl3:куиньзы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg1:куиньъёсы
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg2:куиньъёсыд
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg3:куиньъёсыз
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl1:куиньъёсмы
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl2:куиньъёсты
-    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl3:куиньъёссы
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg1:куиньёсы
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg2:куиньёсыд
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxSg3:куиньёсыз
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl1:куиньёсмы
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl2:куиньёсты
+    куинь+Num+Card+Der/MWN+N+Pl+Nom+PxPl3:куиньёссы
 
     куинь+Num+Card+Der/MWN+N+Sg+Acc+PxSg1:куиньме
     куинь+Num+Card+Der/MWN+N+Sg+Acc+PxSg2:куиньтэ
     куинь+Num+Card+Der/MWN+N+Sg+Acc+PxSg3:куиньсэ
     куинь+Num+Card+Der/MWN+N+Sg+Acc+PxPl1:куиньмес
-    куинь+Num+Card+Der/MWN+N+Sg+Acc+PxPl2:куиньтэс
-    куинь+Num+Card+Der/MWN+N+Sg+Acc+PxPl3:куиньсэс
+    куинь+Num+Card+Der/MWN+N+Sg+Acc+PxPl2:куиньдэс
+    куинь+Num+Card+Der/MWN+N+Sg+Acc+PxPl3:куиньзэс
 
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg1:куиньъёсме
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg2:куиньъёстэ
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg3:куиньъёссэ
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl1:куиньъёсмес
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl2:куиньъёстэс
-    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl3:куиньъёссэс
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg1:куиньёсме
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg2:куиньёстэ
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxSg3:куиньёссэ
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl1:куиньёсмес
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl2:куиньёстэс
+    куинь+Num+Card+Der/MWN+N+Pl+Acc+PxPl3:куиньёссэс
 
-    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg1:куиньэлэн
-    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg2:куиньэдлэн
-    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg3:куиньэзлэн
+    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg1:куинелэн
+    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg2:куинедлэн
+    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxSg3:куинезлэн
     куинь+Num+Card+Der/MWN+N+Sg+Gen+PxPl1:куиньмылэн
-    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxPl2:куиньтылэн
-    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxPl3:куиньсылэн
+    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxPl2:куиньдылэн
+    куинь+Num+Card+Der/MWN+N+Sg+Gen+PxPl3:куиньзылэн
 
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg1:куиньъёсылэн
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg2:куиньъёсыдлэн
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg3:куиньъёсызлэн
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl1:куиньъёсмылэн
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl2:куиньъёстылэн
-    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl3:куиньъёссылэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg1:куиньёсылэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg2:куиньёсыдлэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxSg3:куиньёсызлэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl1:куиньёсмылэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl2:куиньёстылэн
+    куинь+Num+Card+Der/MWN+N+Pl+Gen+PxPl3:куиньёссылэн
 
-    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg1:куиньэлэсь
-    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg2:куиньэдлэсь
-    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg3:куиньэзлэсь
+    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg1:куинелэсь
+    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg2:куинедлэсь
+    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxSg3:куинезлэсь
     куинь+Num+Card+Der/MWN+N+Sg+Abl+PxPl1:куиньмылэсь
-    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxPl2:куиньтылэсь
-    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxPl3:куиньсылэсь
+    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxPl2:куиньдылэсь
+    куинь+Num+Card+Der/MWN+N+Sg+Abl+PxPl3:куиньзылэсь
 
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg1:куиньъёсылэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg2:куиньъёсыдлэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg3:куиньъёсызлэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl1:куиньъёсмылэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl2:куиньъёстылэсь
-    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl3:куиньъёссылэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg1:куиньёсылэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg2:куиньёсыдлэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxSg3:куиньёсызлэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl1:куиньёсмылэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl2:куиньёстылэсь
+    куинь+Num+Card+Der/MWN+N+Pl+Abl+PxPl3:куиньёссылэсь
 
-    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg1:куиньэлы
-    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg2:куиньэдлы
-    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg3:куиньэзлы
+    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg1:куинелы
+    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg2:куинедлы
+    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxSg3:куинезлы
     куинь+Num+Card+Der/MWN+N+Sg+Dat+PxPl1:куиньмылы
-    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxPl2:куиньтылы
-    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxPl3:куиньсылы
+    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxPl2:куиньдылы
+    куинь+Num+Card+Der/MWN+N+Sg+Dat+PxPl3:куиньзылы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg1:куиньъёсылы
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg2:куиньъёсыдлы
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg3:куиньъёсызлы
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl1:куиньъёсмылы
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl2:куиньъёстылы
-    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl3:куиньъёссылы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg1:куиньёсылы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg2:куиньёсыдлы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxSg3:куиньёсызлы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl1:куиньёсмылы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl2:куиньёстылы
+    куинь+Num+Card+Der/MWN+N+Pl+Dat+PxPl3:куиньёссылы
 
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg1:куиньэным
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg2:куиньэныд
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg3:куиньэныз
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl1:куиньэнымы
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl2:куиньэныды
-    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl3:куиньэнызы
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg1:куиненым
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg2:куиненыд
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxSg3:куиненыз
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl1:куиненымы
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl2:куиненыды
+    куинь+Num+Card+Der/MWN+N+Sg+Ins+PxPl3:куиненызы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg1:куиньъёсыным
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg2:куиньъёсыныд
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg3:куиньъёсыныз
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl1:куиньъёсынымы
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl2:куиньъёсыныды
-    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl3:куиньъёсынызы
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg1:куиньёсыным
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg2:куиньёсыныд
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxSg3:куиньёсыныз
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl1:куиньёсынымы
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl2:куиньёсыныды
+    куинь+Num+Card+Der/MWN+N+Pl+Ins+PxPl3:куиньёсынызы
 
-    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg1:куиньэтэк
-    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg2:куиньэдтэк
-    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg3:куиньэзтэк
+    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg1:куинетэк
+    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg2:куинедтэк
+    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxSg3:куинезтэк
     куинь+Num+Card+Der/MWN+N+Sg+Abe+PxPl1:куиньмытэк
-    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxPl2:куиньтытэк
-    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxPl3:куиньсытэк
+    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxPl2:куиньдытэк
+    куинь+Num+Card+Der/MWN+N+Sg+Abe+PxPl3:куиньзытэк
 
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg1:куиньъёсытэк
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg2:куиньъёсыдтэк
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg3:куиньъёсызтэк
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl1:куиньъёсмытэк
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl2:куиньъёстытэк
-    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl3:куиньъёссытэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg1:куиньёсытэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg2:куиньёсыдтэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxSg3:куиньёсызтэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl1:куиньёсмытэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl2:куиньёстытэк
+    куинь+Num+Card+Der/MWN+N+Pl+Abe+PxPl3:куиньёссытэк
 
-    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg1:куиньэя
-    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg2:куиньэдъя
-    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg3:куиньэзъя
+    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg1:куинея
+    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg2:куинедъя
+    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxSg3:куинезъя
     куинь+Num+Card+Der/MWN+N+Sg+Advl+PxPl1:куиньмыя
-    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxPl2:куиньтыя
-    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxPl3:куиньсыя
+    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxPl2:куиньдыя
+    куинь+Num+Card+Der/MWN+N+Sg+Advl+PxPl3:куиньзыя
 
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg1:куиньъёсыя
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg2:куиньъёсыдъя
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg3:куиньъёсызъя
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl1:куиньъёсмыя
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl2:куиньъёстыя
-    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl3:куиньъёссыя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg1:куиньёсыя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg2:куиньёсыдъя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxSg3:куиньёсызъя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl1:куиньёсмыя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl2:куиньёстыя
+    куинь+Num+Card+Der/MWN+N+Pl+Advl+PxPl3:куиньёссыя
 
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg1:куиньам
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg2:куиньад
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg3:куиньаз
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl1:куиньамы
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl2:куиньады
-    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl3:куиньазы
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg1:куиням
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg2:куиняд
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxSg3:куиняз
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl1:куинямы
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl2:куиняды
+    куинь+Num+Card+Der/MWN+N+Sg+Ine+PxPl3:куинязы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg1:куиньъёсам
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg2:куиньъёсад
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg3:куиньъёсаз
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl1:куиньъёсамы
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl2:куиньъёсады
-    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl3:куиньъёсазы
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg1:куиньёсам
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg2:куиньёсад
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxSg3:куиньёсаз
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl1:куиньёсамы
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl2:куиньёсады
+    куинь+Num+Card+Der/MWN+N+Pl+Ine+PxPl3:куиньёсазы
 
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg1:куиньам
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg2:куиньад
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg3:куиньаз
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl1:куиньамы
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl2:куиньады
-    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl3:куиньазы
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg1:куиням
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg2:куиняд
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxSg3:куиняз
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl1:куинямы
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl2:куиняды
+    куинь+Num+Card+Der/MWN+N+Sg+Ill+PxPl3:куинязы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg1:куиньъёсам
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg2:куиньъёсад
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg3:куиньъёсаз
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl1:куиньъёсамы
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl2:куиньъёсады
-    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl3:куиньъёсазы
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg1:куиньёсам
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg2:куиньёсад
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxSg3:куиньёсаз
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl1:куиньёсамы
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl2:куиньёсады
+    куинь+Num+Card+Der/MWN+N+Pl+Ill+PxPl3:куиньёсазы
 
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxSg1:куиньысьтым
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxSg2:куиньысьтыд
@@ -199,12 +199,12 @@ Tests:
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxPl2:куиньысьтыды
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxPl3:куиньысьтызы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg1:куиньъёсысьтым
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg2:куиньъёсысьтыд
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg3:куиньъёсысьтыз
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl1:куиньъёсысьтымы
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl2:куиньъёсысьтыды
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl3:куиньъёсысьтызы
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg1:куиньёсысьтым
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg2:куиньёсысьтыд
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg3:куиньёсысьтыз
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl1:куиньёсысьтымы
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl2:куиньёсысьтыды
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl3:куиньёсысьтызы
 
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxSg1:куиньысеным
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxSg2:куиньысеныд
@@ -213,53 +213,53 @@ Tests:
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxPl2:куиньысеныды
     куинь+Num+Card+Der/MWN+N+Sg+Ela+PxPl3:куиньысенызы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg1:куиньъёсысеным
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg2:куиньъёсысеныд
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg3:куиньъёсысеныз
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl1:куиньъёсысенымы
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl2:куиньъёсысеныды
-    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl3:куиньъёсысенызы
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg1:куиньёсысеным
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg2:куиньёсысеныд
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxSg3:куиньёсысеныз
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl1:куиньёсысенымы
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl2:куиньёсысеныды
+    куинь+Num+Card+Der/MWN+N+Pl+Ela+PxPl3:куиньёсысенызы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg1:куиньозям
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg2:куиньозяд
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg3:куиньозяз
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl1: [гуртозямы,куиньмыозь]
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl2: [гуртозяды,куиньтыозь]
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl3: [гуртозязы,куиньсыозь]
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg1:куинёзям
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg2:куинёзяд
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg3:куинёзяз
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl1: [куинёзямы,куиньмыозь]
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl2: [куинёзяды,куиньтыозь]
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl3: [куинёзязы,куиньсыозь]
 
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg1:куиньъёсозям
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg2:куиньъёсозяд
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg3:куиньъёсозяз
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl1:куиньъёсмыозь
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl2:куиньъёстыозь
-    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl3:куиньъёссыозь
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg1:куиньёсозям
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg2:куиньёсозяд
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxSg3:куиньёсозяз
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl1:куиньёсмыозь
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl2:куиньёстыозь
+    куинь+Num+Card+Der/MWN+N+Pl+Ter+PxPl3:куиньёссыозь
 
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg1:куиньэтӥм
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg2:куиньэтӥд
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg3:куиньэтӥз
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl1:куиньэтӥмы
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl2:куиньэтӥды
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl3:куиньэтӥзы
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg1:куинетӥм
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg2:куинетӥд
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg3:куинетӥз
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl1:куинетӥмы
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl2:куинетӥды
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl3:куинетӥзы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg1:куиньъёсэтӥм
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg2:куиньъёсэтӥд
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg3:куиньъёсэтӥз
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl1:куиньъёсэтӥмы
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl2:куиньъёсэтӥды
-    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl3:куиньъёсэтӥзы
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg1:куиньёстӥм
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg2:куиньёстӥд
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxSg3:куиньёстӥз
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl1:куиньёстӥмы
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl2:куиньёстӥды
+    куинь+Num+Card+Der/MWN+N+Pl+Prl+PxPl3:куиньёстӥзы
 
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg1:куиньэлань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg2:куиньэдлань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg3:куиньэзлань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg1:куинелань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg2:куинедлань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg3:куинезлань
     куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl1:куиньмылань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl2:куиньтылань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl3:куиньсылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl2:куиньдылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl3:куиньзылань
 
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg1:куиньъёсэлань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg2:куиньъёсэдлань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg3:куиньъёсэзлань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl1:куиньъёсмылань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl2:куиньъёстылань
-    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl3:куиньъёссылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg1:куиньёсылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg2:куиньёсыдлань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxSg3:куиньёсызлань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl1:куиньёсмылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl2:куиньёстылань
+    куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl3:куиньёссылань
 
 
