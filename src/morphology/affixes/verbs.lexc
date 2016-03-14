@@ -43,9 +43,9 @@ LEXICON V_MONO
 !! Lexicon __@LEXNAME@__ мыныны:мыны
 !! * Yaml: __mynyny__ , This is first declension
 ! Testing JASKA
-+V+Ind+PrtI+ConNeg+Pl:%>Е2 K ;
-+V+Ind+PrtII+Neg+Pl2:%>И2ллямтэды K ;
-+V+PrcPrfNeg:%>Е2мтэе K ;
++V+Ind+PrtI+ConNeg+Pl:%>%^Е2 K ;
++V+Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
++V+PrcPrfNeg:%>%^Е2мтэе K ;
  V_МЫНЫНЫ ;
 
 
@@ -55,7 +55,7 @@ LEXICON V_UZA
 ! testing JASKA
 +V+Ind+PrtI+ConNeg+Pl:%>лэ K ;
 +V+Ind+PrtII+Neg+Pl2:%>мтэды K ;
-+V+PrcPrfNeg:%>Е2мтэ K ;
++V+PrcPrfNeg:%>%^Е2мтэ K ;
  V_МЫНЫНЫ ;
 
 
@@ -65,36 +65,36 @@ LEXICON V_МЫНЫНЫ !! мыныны:мыны
 !! * Yaml: __mynyny__ 
 
 +V+Ind+Prs: APRS ;
-+V+Ind+Fut:%>О2 FUT-PERSON ;
-+V+Ind+Fut+Pl1:%>О2%>мы K ;
++V+Ind+Fut:%>%^О2 FUT-PERSON ;
++V+Ind+Fut+Pl1:%>%^О2%>мы K ;
 +V+Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
-+V+Ind+Fut+ConNeg+Pl:%>Е2 K ;
-+V+Ind+Fut+ConNeg+Pl:%>Е2лэ K ;
++V+Ind+Fut+ConNeg+Pl:%>%^Е2 K ;
++V+Ind+Fut+ConNeg+Pl:%>%^Е2лэ K ;
 +V+Ind+PrtI:  PRTI-PERSON ;
 +V+Ind+PrtI+ConNeg+Sg:%^ЫLoss K ;
 +V+Ind+PrtII: PRTII-PERSON ;
 +V+Cond:%>сал COND ;
 +V+Imprt: IMPRT ;
-+V+Imprt+Pl2:%>Е2 K	;!Is this only мыныны
++V+Imprt+Pl2:%>%^Е2 K	;!Is this only мыныны
 +V+Opt: OPT ;
 +V: NONFINITES ;
 
 
 LEXICON APRS
 !! Lexicon __@LEXNAME@__
-+Sg1:%>И2сько K ;
-+Sg2:%>И2ськод K ;
-+Sg3:%>Е2 K ;
-+Pl1:%>И2ськом K ;
-+Pl1:%>И2ськомы K ;
-+Pl2:%>И2ськоды K ;
-+Pl3:%>О2 K ;
-+ConNeg+Sg1:%>И2ськы K ;
-+ConNeg+Sg2:%>И2ськы K ;
++Sg1:%>%^И2сько K ;
++Sg2:%>%^И2ськод K ;
++Sg3:%>%^Е2 K ;
++Pl1:%>%^И2ськом K ;
++Pl1:%>%^И2ськомы K ;
++Pl2:%>%^И2ськоды K ;
++Pl3:%>%^О2 K ;
++ConNeg+Sg1:%>%^И2ськы K ;
++ConNeg+Sg2:%>%^И2ськы K ;
 +ConNeg+Sg3:%^ЫLossVar K ;
-+ConNeg+Pl1:%>И2ське K ;
-+ConNeg+Pl2:%>И2ське K ;
-+ConNeg+Pl3:%>О2 K ;
++ConNeg+Pl1:%>%^И2ське K ;
++ConNeg+Pl2:%>%^И2ське K ;
++ConNeg+Pl3:%>%^О2 K ;
 
 LEXICON FUT-PERSON
 !! Lexicon __@LEXNAME@__
@@ -107,37 +107,37 @@ LEXICON FUT-PERSON
 
 LEXICON PRTI-PERSON
 !! Lexicon __@LEXNAME@__
-+Sg1:%>И2 K ;
-+Sg2:%>И2д K ;
-+Sg3:%>И2з K ;
-+Pl1:%>И2мы K ;
-+Pl1:%>И2м K ;
-+Pl2:%>И2ды K ;
-+Pl3:%>И2зы K ;
++Sg1:%>%^И2 K ;
++Sg2:%>%^И2д K ;
++Sg3:%>%^И2з K ;
++Pl1:%>%^И2мы K ;
++Pl1:%>%^И2м K ;
++Pl2:%>%^И2ды K ;
++Pl3:%>%^И2зы K ;
 
 LEXICON PRTII-PERSON
 !! Lexicon __@LEXNAME@__
-+Sg1:%>И2ськем K ;
-+Sg2:%>Е2мед K ;
-+Sg3:%>Е2м K ;
-+Pl1:%>И2ськеммы K ;
-+Pl2:%>И2ллямды K ;
-+Pl3:%>И2ллямзы K ;
-+Pl3:%>И2ллям K ;
-+ConNeg+Sg1:%>И2ськем K ;
-+ConNeg+Sg2:%>Е2мед K ;
-+ConNeg+Sg3:%>Е2м K ;
-+ConNeg+Pl1:%>И2ськеммы K ;
-+ConNeg+Pl2:%>И2ллямды K ;
-+ConNeg+Pl3:%>И2ллямзы K ;
-+ConNeg+Pl3:%>И2ллям K ;
++Sg1:%>%^И2ськем K ;
++Sg2:%>%^Е2мед K ;
++Sg3:%>%^Е2м K ;
++Pl1:%>%^И2ськеммы K ;
++Pl2:%>%^И2ллямды K ;
++Pl3:%>%^И2ллямзы K ;
++Pl3:%>%^И2ллям K ;
++ConNeg+Sg1:%>%^И2ськем K ;
++ConNeg+Sg2:%>%^Е2мед K ;
++ConNeg+Sg3:%>%^Е2м K ;
++ConNeg+Pl1:%>%^И2ськеммы K ;
++ConNeg+Pl2:%>%^И2ллямды K ;
++ConNeg+Pl3:%>%^И2ллямзы K ;
++ConNeg+Pl3:%>%^И2ллям K ;
 
-+Neg+Sg1:%>И2ськымтэе K ;
++Neg+Sg1:%>%^И2ськымтэе K ;
 +Neg+Sg2:%>мтэед K ;
 +Neg+Sg3:%>мтэ K ;
-+Neg+Pl1:%>И2ськымтэмы K ;
-+Neg+Pl3:%>И2ллямтэзы K ;
-+Neg+Pl3:%>И2ллямтэ K ;
++Neg+Pl1:%>%^И2ськымтэмы K ;
++Neg+Pl3:%>%^И2ллямтэзы K ;
++Neg+Pl3:%>%^И2ллямтэ K ;
 
 
 LEXICON COND
@@ -162,27 +162,27 @@ LEXICON COND
 LEXICON IMPRT
 !! Lexicon __@LEXNAME@__
 +Sg2:%^ЫLoss K	   ;
-!+Sg3:%>О2з K	; Kozmács István 2014-05-27 => Opt
-+Pl2:%>Е2лэ K	;
-!+Pl3:%>О2зы K	; Kozmács István 2014-05-27 => Opt
+!+Sg3:%>%^О2з K	; Kozmács István 2014-05-27 => Opt
++Pl2:%>%^Е2лэ K	;
+!+Pl3:%>%^О2зы K	; Kozmács István 2014-05-27 => Opt
 +ConNeg+Sg2:%^ЫLoss K	;
-+ConNeg+Pl2:%>Е2 K	; !мыныны
-+ConNeg+Pl2:%>Е2лэ K	;
-!+ConNeg+Pl3:%>Е2 K	; !мыныны Kozmács István 2014-05-27 => Opt
-!+ConNeg+Pl3:%>Е2лэ K	; Kozmács István 2014-05-27 => Opt
++ConNeg+Pl2:%>%^Е2 K	; !мыныны
++ConNeg+Pl2:%>%^Е2лэ K	;
+!+ConNeg+Pl3:%>%^Е2 K	; !мыныны Kozmács István 2014-05-27 => Opt
+!+ConNeg+Pl3:%>%^Е2лэ K	; Kozmács István 2014-05-27 => Opt
 
 LEXICON OPT
 !! Lexicon __@LEXNAME@__
-+Sg1:О2м K ;
-+Sg2:О2д K ;
-+Sg3:О2з K ;
-+Pl1:О2мы K	;
-+Pl2:О2ды K	;
-+Pl3:О2зы K	;
++Sg1:%^О2м K ;
++Sg2:%^О2д K ;
++Sg3:%^О2з K ;
++Pl1:%^О2мы K	;
++Pl2:%^О2ды K	;
++Pl3:%^О2зы K	;
 +ConNeg+Sg:%^ЫLoss K ;
 +ConNeg+Sg3:%^ЫLossVar K	;
-+ConNeg+Pl:%>Е2 K ;
-+ConNeg+Pl:%>Е2лэ K	;
++ConNeg+Pl:%>%^Е2 K ;
++ConNeg+Pl:%>%^Е2лэ K	;
 
 LEXICON NONFINITES
     !! Lexicon __@LEXNAME@__
@@ -191,15 +191,15 @@ LEXICON NONFINITES
 +GerNeg:%>тэк  K	;
 +Der/тозь+GerTer:%>тозь  K	;
 +Der/ку+GerTemp:%>ку  K	;
-+Der/Он:О2н  N_	;
-+Der/Он+N+Der/тэм:О2н%>тэм  A_	;
-+Der/Оно:О2но  A_	;
-+PrcPrs+N+Der/тэм:%>И2сьтэм A_ ;
-+PrcPrsNeg:%>И2сьтэм K ;
-+PrcPrsPos:%>И2сь K ;
-+PrcPrfAdn:%>Е2м K ;
-+Der/Эм+PrcPrfAdn:%>Е2м N_ ;
-+PrcPrfPred:%>Е2мын K ;
++Der/Он:%^О2н  N_	;
++Der/Он+N+Der/тэм:%^О2н%>тэм  A_	;
++Der/Оно:%^О2но  A_	;
++PrcPrs+N+Der/тэм:%>%^И2сьтэм A_ ;
++PrcPrsNeg:%>%^И2сьтэм K ;
++PrcPrsPos:%>%^И2сь K ;
++PrcPrfAdn:%>%^Е2м K ;
++Der/Эм+PrcPrfAdn:%>%^Е2м N_ ;
++PrcPrfPred:%>%^Е2мын K ;
 
 
 ! vim: set ft=xfst-lexc:
