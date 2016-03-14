@@ -95,20 +95,20 @@ LEXICON ADJ_DETERM
 +Pl:%>ъёс  ADJ_SG/PL_DETERM_CASE ;
 
 LEXICON ADJ_SG/PL_DETERM_CASE
-+Nom+Det:%>Е3з K ;
-+Gen+Det:%>Е3злэн K ;
-+Abl+Det:%>Е3злэсь K ;
-+Dat+Det:%>Е3злы K ;
-+Ins+Det:%>Е3ныз K ;
-+Abe+Det:%>Е3зтэк K ;
-+Advl+Det:%>Е3зъя K ;
-+Ine+Det:%>А3з K ;
-+Ill+Det:%>А3з K ;
++Nom+Det:%>%^Е3з K ;
++Gen+Det:%>%^Е3злэн K ;
++Abl+Det:%>%^Е3злэсь K ;
++Dat+Det:%>%^Е3злы K ;
++Ins+Det:%>%^Е3ныз K ;
++Abe+Det:%>%^Е3зтэк K ;
++Advl+Det:%>%^Е3зъя K ;
++Ine+Det:%>%^А3з K ;
++Ill+Det:%>%^А3з K ;
 +Ela+Det:%>ысьтыз K ;
 +Ela+Det:%>ысеныз K ;
 +Ter+Det:%>озяз K ;
-+Prl+Det:%>Е3тӥз K ;
-+Apr+Det:%>Е3злань K ;
++Prl+Det:%>%^Е3тӥз K ;
++Apr+Det:%>%^Е3злань K ;
 
 
 

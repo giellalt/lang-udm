@@ -123,15 +123,15 @@ LEXICON PRON-PERS-MUTUAL
 +Dat:%>лы K ; !sg3
 
 !LEXICON ADJ_SG/PL_DETERM_CASE
-!+Gen+Det:%>Е3злэн K ;
-!+Abl+Det:%>Е3злэсь K ;
-!+Ins+Det:%>Е3ныз K ;
-!+Ine+Det:%>А3з K ;
-!+Ill+Det:%>А3з K ;
+!+Gen+Det:%>%^Е3злэн K ;
+!+Abl+Det:%>%^Е3злэсь K ;
+!+Ins+Det:%>%^Е3ныз K ;
+!+Ine+Det:%>%^А3з K ;
+!+Ill+Det:%>%^А3з K ;
 !+Ela+Det:%>ысьтыз K ;
 !+Ela+Det:%>ысеныз K ;
 !+Ter+Det:%>озяз K ;
-!+Prl+Det:%>Е3тӥз K ;
+!+Prl+Det:%>%^Е3тӥз K ;
 
 
 ! vim: set ft=xfst-lexc:
