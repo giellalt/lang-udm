@@ -6,7 +6,7 @@
       <lg>
          <l pos="Num">биллион</l>
          <stg>
-            <st Contlex="NUM_">биллион</st>
+            <st Contlex="NUM_НЬЫЛЬ">биллион</st>
          </stg>
       </lg>
       <mg>
@@ -39,7 +39,7 @@
       <lg>
          <l pos="Num">вить</l>
          <stg>
-            <st Contlex="NUM_">вить</st>
+            <st Contlex="NUM_НЬЫЛЬ">вить</st>
          </stg>
       </lg>
       <mg>
@@ -50,7 +50,7 @@
       <lg>
          <l pos="Num">вить-куать</l>
          <stg>
-            <st Contlex="NUM_">вить-куать</st>
+            <st Contlex="NUM_НЬЫЛЬ">вить-куать</st>
          </stg>
       </lg>
       <mg>
@@ -61,7 +61,7 @@
       <lg>
          <l pos="Num">вить сю</l>
          <stg>
-            <st Contlex="NUM_">вить сю</st>
+            <st Contlex="NUM_НЬЫЛЬ">вить сю</st>
          </stg>
       </lg>
       <mg>
@@ -72,7 +72,7 @@
       <lg>
          <l pos="Num">витьдас</l>
          <stg>
-            <st Contlex="NUM_">витьдас</st>
+            <st Contlex="NUM_НЬЫЛЬ">витьдас</st>
          </stg>
       </lg>
       <mg>
@@ -83,7 +83,7 @@
       <lg>
          <l pos="Num">витьмос</l>
          <stg>
-            <st Contlex="NUM_">витьмос</st>
+            <st Contlex="NUM_НЬЫЛЬ">витьмос</st>
          </stg>
       </lg>
       <mg>
@@ -127,7 +127,7 @@
       <lg>
          <l pos="Num">витьтон</l>
          <stg>
-            <st Contlex="NUM_">витьтон</st>
+            <st Contlex="NUM_НЬЫЛЬ">витьтон</st>
          </stg>
       </lg>
       <mg>
@@ -149,7 +149,7 @@
       <lg>
          <l pos="Num">дас</l>
          <stg>
-            <st Contlex="NUM_">дас</st>
+            <st Contlex="NUM_НЬЫЛЬ">дас</st>
          </stg>
       </lg>
       <mg>
@@ -160,7 +160,7 @@
       <lg>
          <l pos="Num">дас-кызь</l>
          <stg>
-            <st Contlex="NUM_">дас-кызь</st>
+            <st Contlex="NUM_НЬЫЛЬ">дас-кызь</st>
          </stg>
       </lg>
       <mg>
@@ -171,7 +171,7 @@
       <lg>
          <l pos="Num">дасмос</l>
          <stg>
-            <st Contlex="NUM_">дасмос</st>
+            <st Contlex="NUM_НЬЫЛЬ">дасмос</st>
          </stg>
       </lg>
       <mg>
@@ -303,7 +303,7 @@
       <lg>
          <l pos="Num">куамын</l>
          <stg>
-            <st Contlex="NUM_">куамын</st>
+            <st Contlex="NUM_НЬЫЛЬ">куамын</st>
          </stg>
       </lg>
       <mg>
@@ -347,7 +347,7 @@
       <lg>
          <l pos="Qnt">куать</l>
          <stg>
-            <st Contlex="NUM_">куать</st>
+            <st Contlex="NUM_НЬЫЛЬ">куать</st>
          </stg>
       </lg>
       <mg>
@@ -402,7 +402,7 @@
       <lg>
          <l pos="Qnt">куатьтон</l>
          <stg>
-            <st Contlex="NUM_">куатьтон</st>
+            <st Contlex="NUM_НЬЫЛЬ">куатьтон</st>
          </stg>
       </lg>
       <mg>
@@ -446,7 +446,7 @@
       <lg>
          <l pos="Qnt">куинь</l>
          <stg>
-            <st Contlex="NUM_">куинь</st>
+            <st Contlex="NUM_НЬЫЛЬ">куинь</st>
          </stg>
       </lg>
       <mg>
@@ -457,7 +457,7 @@
       <lg>
          <l pos="Qnt">куинь-ньыль</l>
          <stg>
-            <st Contlex="NUM_">куинь-ньыль</st>
+            <st Contlex="NUM_НЬЫЛЬ">куинь-ньыль</st>
          </stg>
       </lg>
       <mg>
@@ -534,7 +534,7 @@
       <lg>
          <l pos="Qnt">кызь</l>
          <stg>
-            <st Contlex="NUM_">кызь</st>
+            <st Contlex="NUM_НЬЫЛЬ">кызь</st>
          </stg>
       </lg>
       <mg>
@@ -556,7 +556,7 @@
       <lg>
          <l pos="Qnt">кык</l>
          <stg>
-            <st Contlex="NUM_">кык</st>
+            <st Contlex="NUM_НЬЫЛЬ">кык</st>
          </stg>
       </lg>
       <mg>
@@ -567,7 +567,7 @@
       <lg>
          <l pos="Qnt">кык-куинь</l>
          <stg>
-            <st Contlex="NUM_">кык-куинь</st>
+            <st Contlex="NUM_НЬЫЛЬ">кык-куинь</st>
          </stg>
       </lg>
       <mg>
@@ -655,7 +655,7 @@
       <lg>
          <l pos="Qnt">кыксю</l>
          <stg>
-            <st Contlex="NUM_">кыксю</st>
+            <st Contlex="NUM_НЬЫЛЬ">кыксю</st>
          </stg>
       </lg>
       <mg>
@@ -699,7 +699,7 @@
       <lg>
          <l pos="Qnt">кыкъямыс</l>
          <stg>
-            <st Contlex="NUM_">кыкъямыс</st>
+            <st Contlex="NUM_НЬЫЛЬ">кыкъямыс</st>
          </stg>
       </lg>
       <mg>
@@ -710,7 +710,7 @@
       <lg>
          <l pos="Qnt">кыкъямыстон</l>
          <stg>
-            <st Contlex="NUM_">кыкъямыстон</st>
+            <st Contlex="NUM_НЬЫЛЬ">кыкъямыстон</st>
          </stg>
       </lg>
       <mg>
@@ -721,7 +721,7 @@
       <lg>
          <l pos="Qnt">миллион</l>
          <stg>
-            <st Contlex="NUM_">миллион</st>
+            <st Contlex="NUM_НЬЫЛЬ">миллион</st>
          </stg>
       </lg>
       <mg>
@@ -743,7 +743,7 @@
       <lg>
          <l pos="Qnt">ноль</l>
          <stg>
-            <st Contlex="NUM_">ноль</st>
+            <st Contlex="NUM_НЬЫЛЬ">ноль</st>
          </stg>
       </lg>
       <mg>
@@ -776,7 +776,7 @@
       <lg>
          <l pos="Qnt">ньыль</l>
          <stg>
-            <st Contlex="NUM_">ньыль</st>
+            <st Contlex="NUM_НЬЫЛЬ">ньыль</st>
          </stg>
       </lg>
       <mg>
@@ -787,7 +787,7 @@
       <lg>
          <l pos="Qnt">ньыль-вить</l>
          <stg>
-            <st Contlex="NUM_">ньыль-вить</st>
+            <st Contlex="NUM_НЬЫЛЬ">ньыль-вить</st>
          </stg>
       </lg>
       <mg>
@@ -809,7 +809,7 @@
       <lg>
          <l pos="Qnt">ньыльдас</l>
          <stg>
-            <st Contlex="NUM_">ньыльдас</st>
+            <st Contlex="NUM_НЬЫЛЬ">ньыльдас</st>
          </stg>
       </lg>
       <mg>
@@ -820,7 +820,7 @@
       <lg>
          <l pos="Qnt">ньыльдон</l>
          <stg>
-            <st Contlex="NUM_">ньыльдон</st>
+            <st Contlex="NUM_НЬЫЛЬ">ньыльдон</st>
          </stg>
       </lg>
       <mg>
@@ -875,7 +875,7 @@
       <lg>
          <l pos="Qnt">ньыльсю</l>
          <stg>
-            <st Contlex="NUM_">ньыльсю</st>
+            <st Contlex="NUM_НЬЫЛЬ">ньыльсю</st>
          </stg>
       </lg>
       <mg>
@@ -908,7 +908,7 @@
       <lg>
          <l pos="Qnt">ог-кык</l>
          <stg>
-            <st Contlex="NUM_">ог-кык</st>
+            <st Contlex="NUM_НЬЫЛЬ">ог-кык</st>
          </stg>
       </lg>
       <mg>
@@ -1260,7 +1260,7 @@
       <lg>
          <l pos="Qnt">сизьым</l>
          <stg>
-            <st Contlex="NUM_">сизьым</st>
+            <st Contlex="NUM_НЬЫЛЬ">сизьым</st>
          </stg>
       </lg>
       <mg>
@@ -1271,7 +1271,7 @@
       <lg>
          <l pos="Qnt">сизьым сю</l>
          <stg>
-            <st Contlex="NUM_">сизьым сю</st>
+            <st Contlex="NUM_НЬЫЛЬ">сизьым сю</st>
          </stg>
       </lg>
       <mg>
@@ -1282,7 +1282,7 @@
       <lg>
          <l pos="Qnt">сизьымдас</l>
          <stg>
-            <st Contlex="NUM_">сизьымдас</st>
+            <st Contlex="NUM_НЬЫЛЬ">сизьымдас</st>
          </stg>
       </lg>
       <mg>
@@ -1293,7 +1293,7 @@
       <lg>
          <l pos="Qnt">сизьымдон</l>
          <stg>
-            <st Contlex="NUM_">сизьымдон</st>
+            <st Contlex="NUM_НЬЫЛЬ">сизьымдон</st>
          </stg>
       </lg>
       <mg>
@@ -1348,7 +1348,7 @@
       <lg>
          <l pos="Qnt">сю</l>
          <stg>
-            <st Contlex="NUM_">сю</st>
+            <st Contlex="NUM_НЬЫЛЬ">сю</st>
          </stg>
       </lg>
       <mg>
@@ -1359,7 +1359,7 @@
       <lg>
          <l pos="Qnt">сю сюрс</l>
          <stg>
-            <st Contlex="NUM_">сю сюрс</st>
+            <st Contlex="NUM_НЬЫЛЬ">сю сюрс</st>
          </stg>
       </lg>
       <mg>
@@ -1381,7 +1381,7 @@
       <lg>
          <l pos="Qnt">сюрс</l>
          <stg>
-            <st Contlex="NUM_">сюрс</st>
+            <st Contlex="NUM_НЬЫЛЬ">сюрс</st>
          </stg>
       </lg>
       <mg>
@@ -1392,7 +1392,7 @@
       <lg>
          <l pos="Qnt">сюрс сю</l>
          <stg>
-            <st Contlex="NUM_">сюрс сю</st>
+            <st Contlex="NUM_НЬЫЛЬ">сюрс сю</st>
          </stg>
       </lg>
       <mg>
@@ -1480,7 +1480,7 @@
       <lg>
          <l pos="Qnt">триллион</l>
          <stg>
-            <st Contlex="NUM_">триллион</st>
+            <st Contlex="NUM_НЬЫЛЬ">триллион</st>
          </stg>
       </lg>
       <mg>
@@ -1502,7 +1502,7 @@
       <lg>
          <l pos="Qnt">тямыс</l>
          <stg>
-            <st Contlex="NUM_">тямыс</st>
+            <st Contlex="NUM_НЬЫЛЬ">тямыс</st>
          </stg>
       </lg>
       <mg>
@@ -1513,7 +1513,7 @@
       <lg>
          <l pos="Qnt">тямыс сю</l>
          <stg>
-            <st Contlex="NUM_">тямыс сю</st>
+            <st Contlex="NUM_НЬЫЛЬ">тямыс сю</st>
          </stg>
       </lg>
       <mg>
@@ -1524,7 +1524,7 @@
       <lg>
          <l pos="Qnt">тямыс сюрс</l>
          <stg>
-            <st Contlex="NUM_">тямыс сюрс</st>
+            <st Contlex="NUM_НЬЫЛЬ">тямыс сюрс</st>
          </stg>
       </lg>
       <mg>
@@ -1579,7 +1579,7 @@
       <lg>
          <l pos="Qnt">тямыстон</l>
          <stg>
-            <st Contlex="NUM_">тямыстон</st>
+            <st Contlex="NUM_НЬЫЛЬ">тямыстон</st>
          </stg>
       </lg>
       <mg>
@@ -1623,7 +1623,7 @@
       <lg>
          <l pos="Qnt">укмыс</l>
          <stg>
-            <st Contlex="NUM_">укмыс</st>
+            <st Contlex="NUM_НЬЫЛЬ">укмыс</st>
          </stg>
       </lg>
       <mg>
@@ -1634,7 +1634,7 @@
       <lg>
          <l pos="Qnt">укмысдас</l>
          <stg>
-            <st Contlex="NUM_">укмысдас</st>
+            <st Contlex="NUM_НЬЫЛЬ">укмысдас</st>
          </stg>
       </lg>
       <mg>
@@ -1689,7 +1689,7 @@
       <lg>
          <l pos="Qnt">укмыстон</l>
          <stg>
-            <st Contlex="NUM_">укмыстон</st>
+            <st Contlex="NUM_НЬЫЛЬ">укмыстон</st>
          </stg>
       </lg>
       <mg>
