@@ -263,3 +263,39 @@ Tests:
     куинь+Num+Card+Der/MWN+N+Pl+Apr+PxPl3:куиньёссылань
 
 
+## Ordinals
+
+    куинь+Num+Der/Этӥ+Det+Ord+Abs:куинь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Nom:куинь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Acc:куинез
+#    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Acc+Dial/North:куиньты
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Gen:куиньлэн
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Abl:куиньлэсь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Dat:куиньлы
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Ins:куинен
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Abe:куиньтэк
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Advl:куинья
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Ine:куиньын
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Ill:куине
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Ela:куиньысь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Egr:куиньысен
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Ter:куинёзь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Prl:куинетӥ
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Sg+Apr:куиньлань
+
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Nom:куиньёс
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Acc: [куиньёсыз, куиньёсты]
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Gen:куиньёслэн
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Abl:куиньёслэсь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Dat:куиньёслы
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Ins:куиньёсын
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Abe:куиньёстэк
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Advl:куиньёсъя
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Ine:куиньёсын
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Ill:куиньёсы
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Ela:куиньёсысь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Egr:куиньёсысен
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Ter:куиньёсозь
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Prl:куиньёстӥ
+    куинь+Num+Der/Этӥ+Det+Ord+Der/MWN+N+Pl+Apr:куиньёслань
+

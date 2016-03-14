@@ -428,6 +428,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Der/тэм  !!= @CODE@ мынӥсьтэм ужасьтэм
  +Der/Эм    !!= @CODE@ мынэм ужам
  +Der/Эмтэ    !!= @CODE@ мынэмтэ ужамтэ
+ +Der/Этӥ    !!= @CODE@ ordinals
 
 !! Dialectical variation
  +Dial/North  !!≈ * @CODE@
@@ -540,6 +541,13 @@ LEXICON PO_
 
 LEXICON NUM_
 +Num: # ;
+
+LEXICON NUM_НЬЫЛЬ
++Num+Card+Abs: # ;
++Num+Card+Der/MWN: N_ ;
++Num+Der/Этӥ+Det+Ord+Abs:%>Е2тӥ # ;
++Num+Der/Этӥ+Det+Ord+Der/MWN:%>Е2тӥ N_ ;
+
 
 LEXICON K
  # ;
