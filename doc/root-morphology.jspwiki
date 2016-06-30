@@ -262,14 +262,6 @@ Question and Focus particles:
 
 
 Semantics are classified with
- * __! +Sem/Kin__  Kinship term (reflected in special PxSg2 forms),
- * __! +Sem/Divinity__  Divinity (god personified),
- * __! +Sem/Constellation__  Constellation,
- * __! +Sem/Kin	__ Kin term
- * __! +Sem/Patr 	__  Patronym
- * __! +Sem/Rvr__  name of river or water way, media of transportation,
- * __! +Sem/Inanim__  Inanimate,
- * __! +Sem/NonHum__  Nonhuman,
 
 
 Derivations are classified under the morphophonetic form of the suffix, the
@@ -349,7 +341,6 @@ word classes, or optionally from prefixes:
  *  ABBR_udm2x ;	 abbreviations
  *  N_NEWWORDS ;     These are new nouns without translations
 
-Undeveloped contlexes
 
 ABBREVIATIONS
 these still need development 2015-11-03
