@@ -11,12 +11,12 @@
 This is free and open source South Sámi morphology.
 
 Morphology
-----------
+----
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
 
 Analysis symbols
-----------------
+----
 The morphological analyses of wordforms of UDMURT language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
@@ -69,7 +69,7 @@ source and target part-of-speech.
 
 
 Morphophonology
----------------
+----
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
   %{ИӤЙ%}    
