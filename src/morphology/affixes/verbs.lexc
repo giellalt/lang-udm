@@ -48,6 +48,13 @@ LEXICON V-NEG_
 уг+V+Neg+Fut+Pl2:уд K ;
 уг+V+Neg+Fut+Pl3:уз K ;
 
+уг+V+Neg+Prs+Sg1:ӧй K ;
+уг+V+Neg+Prs+Sg2:ӧд K ;
+уг+V+Neg+Prs+Sg3:ӧз K ;
+уг+V+Neg+Prs+Pl1:ӧм K ;
+уг+V+Neg+Prs+Pl2:ӧд K ;
+уг+V+Neg+Prs+Pl3:ӧз K ;
+
 уг+V+Neg+Imprt+Sg2:эн K ;
 уг+V+Neg+Imprt+Pl2:эн K ;
 
