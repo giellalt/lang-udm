@@ -34,6 +34,24 @@
 LEXICON V_ !!= @CODE@ Verb type is still to be determined.
 +WORK+V: #;
 
+LEXICON V-NEG_
+уг+V+Neg+Prs+Sg1:уг K ;
+уг+V+Neg+Prs+Sg2:уд K ;
+уг+V+Neg+Prs+Sg3:уг K ;
+уг+V+Neg+Prs+Pl1:ум K ;
+уг+V+Neg+Prs+Pl2:уд K ;
+уг+V+Neg+Prs+Pl3:уг K ;
+уг+V+Neg+Fut+Sg1:уг K ;
+уг+V+Neg+Fut+Sg2:уд K ;
+уг+V+Neg+Fut+Sg3:уз K ;
+уг+V+Neg+Fut+Pl1:ум K ;
+уг+V+Neg+Fut+Pl2:уд K ;
+уг+V+Neg+Fut+Pl3:уз K ;
+
+уг+V+Neg+Imprt+Sg2:эн K ;
+уг+V+Neg+Imprt+Pl2:эн K ;
+
+
 !! Typical V_MONO entry is the long stem, ending on <ы>
 !!  берты, возьы
 
