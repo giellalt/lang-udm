@@ -511,6 +511,8 @@ LEXICON Root
  ABBR_udm2x ;	!!= * @CODE@ abbreviations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
 
+ V-NEG_ ;
+
 !!! Undeveloped contlexes
 
 !! ABBREVIATIONS
