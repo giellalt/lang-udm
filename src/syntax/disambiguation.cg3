@@ -29,6 +29,7 @@ LIST EOS = (<<<) (</s>); # vislcg and CG-2 together.
 
 LIST N = N ;
 LIST A = A ;
+LIST Abs = Abs ;
 LIST Adv = Adv ;
 LIST V = V ;
 LIST Pron = Pron ;
@@ -163,6 +164,7 @@ LIST Dial/North = Dial/North ;
 LIST Dial/South = Dial/South ;
 LIST A* = A* ;
 
+LIST Err/Orth = Err/Orth ;
 
 # Sets
 # ====
@@ -185,12 +187,16 @@ LIST PREN = Gen A ;
 
 SET NOT-PREN = WORD - PREN ;
 SET NOT-A = WORD - A ;
-
+SET COMMONNOUN = N - Prop ;
 
 SECTION
 
+REMOVE:Prop COMMONNOUN IF (NOT -1 BOS)(0 Prop) ;
 
 REMOVE:AN A IF (0 N + Sg + Nom)(NOT *1 N BARRIER NOT-PREN);
+
+REMOVE:AN2 N IF (0 A + Abs)(1 N);
+
 
 REMOVE:NegConNeg ConNeg IF (NOT *1 Neg) ;
 
@@ -214,6 +220,11 @@ SELECT:AccB CC IF (-1 N)(1 N);
 
 SELECT:AconjB Conj IF (-1 Prop)(1 Prop); # Remove this
 
+# VERBS
+# Imperatives
+
+SELECT:NPnotImprt N IF (-1C Gen OR A)(0 V + Imprt) ;
+
 REMOVE:IKonlyInitial Imprt IF (NOT -1 BOS OR PUNCT)(0 ("ик"));
 
-
+REMOVE:NotErr Err/Orth ;
