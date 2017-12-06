@@ -645,9 +645,9 @@
 
     <phonet>адӟыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">адзыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">адзыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -5795,9 +5795,9 @@
 
     <phonet>басьтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">босьтыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">босьтыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -6873,9 +6873,9 @@
 
     <phonet>берганы</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">бергавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">бергавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -9739,9 +9739,9 @@
 
     <phonet>будыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">быдмыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">быдмыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -13811,9 +13811,9 @@
 
     <phonet>бырыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">бырыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">бырыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -14384,9 +14384,9 @@
 
     <phonet>бӧксыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">баксыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">баксыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -14534,9 +14534,9 @@
 
     <phonet>бӧрдыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">бӧрдыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">бӧрдыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -15335,9 +15335,9 @@
 
     <phonet>вайыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вайны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вайны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -16817,9 +16817,9 @@
 
     <phonet>вандыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вундыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вундыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -20692,9 +20692,9 @@
 
     <phonet>висьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">висьны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">висьны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -20752,9 +20752,9 @@
 
     <phonet>витьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">витчыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">витчыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -20866,9 +20866,9 @@
 
     <phonet>виыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вины</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вины</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -22410,9 +22410,9 @@
 
     <phonet>возьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">видзны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">видзны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -23565,9 +23565,9 @@
 
     <phonet>вормыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вермыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вермыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -24320,9 +24320,9 @@
 
     <drv drvType="frekventatiivi">воштыны</drv>
 
-    <etymg>
-      <etym xml:lang="kpv">вежавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вежавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -24862,9 +24862,9 @@
 
     <phonet>вузаны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вузавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вузавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -25374,9 +25374,9 @@
 
     <phonet>вуныны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вунны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вунны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -25470,9 +25470,9 @@
 
     <phonet>вунэтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вунӧдны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вунӧдны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -25622,9 +25622,9 @@
 
     <phonet>вурыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вурны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вурны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -26101,9 +26101,9 @@
 
     <phonet>вуыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">воны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">воны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -26395,9 +26395,9 @@
 
     <phonet>выдыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">водны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">водны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -27125,9 +27125,9 @@
 
     <phonet>вылыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вывны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вывны</cognate>
+    </etymology>
 
     <mg>
       <m>
@@ -30143,9 +30143,9 @@
 
     <phonet>гожтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">гижны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">гижны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -30296,9 +30296,9 @@
 
     <drv drvType="frekventatiivi">гожтыны</drv>
 
-    <etymg>
-      <etym xml:lang="kpv">гижны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">гижны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -34369,9 +34369,9 @@
 
     <phonet>гырыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">гӧрны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">гӧрны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -34845,9 +34845,9 @@
 
     <phonet>данъяны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">донъявны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">донъявны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -36027,9 +36027,9 @@
 
     <phonet>дугдыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">дугдыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">дугдыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -43005,9 +43005,9 @@
 
     <phonet>зорыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">зэрны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">зэрны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -53266,9 +53266,9 @@
 
     <phonet>карыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">керны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">керны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -54897,9 +54897,9 @@
 
     <phonet>келяны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">колявны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">колявны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -58915,9 +58915,9 @@
 
     <phonet>кисьтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кисьтны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кисьтны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -65709,9 +65709,9 @@
 
     <phonet>кудӟыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">коддзыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">коддзыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -67212,9 +67212,9 @@
 
     <phonet>кулыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кувны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кувны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -69536,9 +69536,9 @@
 
     <phonet>куртчыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">курччыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">курччыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -69758,9 +69758,9 @@
 
     <phonet>курыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">корны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">корны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -71391,9 +71391,9 @@
 
     <phonet>куыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -72681,9 +72681,9 @@
 
     <phonet>кылзыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кывзыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кывзыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -72853,9 +72853,9 @@
 
     <phonet>кылльыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">куйлыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">куйлыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -73039,9 +73039,9 @@
 
     <phonet>кылыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кывны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кывны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -73099,9 +73099,9 @@
 
     <phonet>кыльыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кольны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кольны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -73935,9 +73935,9 @@
 
     <phonet>кынмыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кынмыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кынмыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -75587,9 +75587,9 @@
 
     <phonet>кыскыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">кыскыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">кыскыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -75849,9 +75849,9 @@
 
     <phonet>кысыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">косны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">косны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -81111,9 +81111,9 @@
 
     <drv drvType="frekventatiivi">лобыны</drv>
 
-    <etymg>
-      <etym xml:lang="kpv">лэбавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лэбавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -81207,9 +81207,9 @@
 
     <phonet>лобыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">лэбны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лэбны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -81249,9 +81249,9 @@
 
     <phonet>лобӟыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">лэбзьыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лэбзьыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -82768,9 +82768,9 @@
 
     <phonet>лыдӟыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">лыддьыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лыддьыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -82972,9 +82972,9 @@
 
     <phonet>лыктыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">локны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">локны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -83068,9 +83068,9 @@
 
     <phonet>лымыяны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">лымъявны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лымъявны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -83599,9 +83599,9 @@
 
     <phonet>лэзьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">лэдзны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">лэдзны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -86316,9 +86316,9 @@
 
     <phonet>мадьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">мойдны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">мойдны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -86952,9 +86952,9 @@
 
     <phonet>малпаны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">мӧвпавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">мӧвпавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -89289,9 +89289,9 @@
 
     <phonet>миськыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">мыськыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">мыськыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -92758,9 +92758,9 @@
 
     <phonet>мыныны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">мунны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">мунны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -96843,9 +96843,9 @@
 
     <phonet>нуллыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">новлыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">новлыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -97216,9 +97216,9 @@
 
     <phonet>нуыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">нуны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">нуны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -101753,9 +101753,9 @@
 
     <phonet>октыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">ӧктыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">ӧктыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -102320,9 +102320,9 @@
 
     <phonet>ортчыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">орччыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">орччыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -102545,9 +102545,9 @@
 
     <phonet>оскыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">эскыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">эскыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -106197,9 +106197,9 @@
 
     <phonet>пельтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пӧльтны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пӧльтны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -106581,9 +106581,9 @@
 
     <phonet>пересьмыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пӧрысьмыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пӧрысьмыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -110167,9 +110167,9 @@
 
     <phonet>потыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">петны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">петны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -110910,9 +110910,9 @@
 
     <phonet>пуксьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пуксьыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пуксьыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -110977,9 +110977,9 @@
 
     <phonet>пуктыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пуктыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пуктыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -115651,9 +115651,9 @@
 
     <phonet>пырыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пырны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пырны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -115810,9 +115810,9 @@
 
     <phonet>пытсаськыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">пытса</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">пытса</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -120591,9 +120591,9 @@
 
     <phonet>серекъяны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">серавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">серавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -122103,9 +122103,9 @@
 
     <phonet>сиськыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">сёйны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">сёйны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -123775,9 +123775,9 @@
 
     <phonet>султыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">сувтыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">сувтыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -125187,9 +125187,9 @@
 
     <phonet>сылыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">сулавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">сулавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -128185,9 +128185,9 @@
 
     <phonet>сётыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">сетны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">сетны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -130494,9 +130494,9 @@
 
     <phonet>тодманы</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">тӧдмавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">тӧдмавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -130830,9 +130830,9 @@
 
     <phonet>тодыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">тӧдны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">тӧдны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -135217,9 +135217,9 @@
 
     <phonet>тырмыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">тырмыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">тырмыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -136479,9 +136479,9 @@
 
     <phonet>тэрыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">тырны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">тырны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -139418,9 +139418,9 @@
 
     <phonet>ужаны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">уджавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">уджавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -139892,9 +139892,9 @@
 
     <phonet>узырмыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">озырмыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">озырмыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -141656,9 +141656,9 @@
 
     <phonet>улыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">овны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">овны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -141680,9 +141680,9 @@
 
     <phonet>улыны-вылыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">овны-вывны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">овны-вывны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -144630,9 +144630,9 @@
 
     <phonet>усьтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">восьтыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">восьтыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -144728,9 +144728,9 @@
 
     <phonet>усьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">усьны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">усьны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -146172,9 +146172,9 @@
 
     <phonet>уяны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">уявны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">уявны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -155839,9 +155839,9 @@
 
     <phonet>шедьыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">шедны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">шедны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -161159,9 +161159,9 @@
 
     <phonet>шунтыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">шонтыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">шонтыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -161869,9 +161869,9 @@
 
     <phonet>шуыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">шуны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">шуны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -165514,9 +165514,9 @@
 
     <phonet>ыстыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">ыстыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">ыстыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -165902,9 +165902,9 @@
 
     <phonet>ышыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">вошны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">вошны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -166358,9 +166358,9 @@
 
     <phonet>эктыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">йӧктыны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">йӧктыны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -167798,9 +167798,9 @@
 
     <phonet>юаны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">юавны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">юавны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -170496,9 +170496,9 @@
 
     <phonet>юыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">юны</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">юны</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
@@ -174425,9 +174425,9 @@
 
     <phonet>ӝыны</phonet>
 
-    <etymg>
-      <etym xml:lang="kpv">джын</etym>
-    </etymg>
+    <etymology>
+      <cognate xml:lang="kpv">джын</cognate>
+    </etymology>
 
     <mg>
       <defNative/>
