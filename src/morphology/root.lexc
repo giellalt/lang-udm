@@ -507,6 +507,7 @@ LEXICON Root
    conjunctors ;
 !   subjuntors	; ! not yet.
    verbs   ;
+   Punctuation ;
 
  ABBR_udm2x ;	!!= * @CODE@ abbreviations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
