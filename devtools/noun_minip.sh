@@ -16,7 +16,7 @@ GTHOME=$(echo $GTHOME)
 
 PATTERN=$1
 L_FILE="in.txt"
-cat src/morphology/stems/nouns.lexc src/morphology/stems/nouns_newwords.lexc | cut -d '!' -f1 | egrep $PATTERN | cut -d ':' -f1>$L_FILE
+cat src/morphology/stems/nouns.lexc src/morphology/stems/nouns_newwords.lexc | cut -d '!' -f1 | egrep $PATTERN | tr '+' ':'|cut -d ':' -f1>$L_FILE
 
 P_FILE="test/data/testnounparadigm.txt"
 
