@@ -277,7 +277,7 @@ LEXICON N_КОРКА
 !! TODO: +N+Sg+Ine     endings	 in "н"
 ! Testing Jaska
  NOUNSUF ;
-+N+Sg+Ine:%>н K;
++Sg+Ine:%>н K;
 
 
 LEXICON N_RUS_JA
@@ -301,27 +301,27 @@ LEXICON N_TAT
 NOUNSUF ;
 
 LEXICON N_СИН
-+N:%^М3 NOUNSUF_01_V ;
-+N: NOUNSUF_01_C ;
+:%^М3 NOUNSUF_01_V ;
+: NOUNSUF_01_C ;
 
 LEXICON N_НЮЛЭС
-+N:%^К3 NOUNSUF_01_V ;
-+N: NOUNSUF_01_C ;
+:%^К3 NOUNSUF_01_V ;
+: NOUNSUF_01_C ;
 
 LEXICON N_УРДЭС
-+N:%^SYNC NOUNSUF_01_V ; !урдсын
-+N:%^К3 NOUNSUF_01_V ; !урдэскын
-+N: NOUNSUF_01_C ;
+:%^SYNC NOUNSUF_01_V ; !урдсын
+:%^К3 NOUNSUF_01_V ; !урдэскын
+: NOUNSUF_01_C ;
 
 LEXICON N_СЮЛЭМ
-+N:%^SYNC NOUNSUF_01_V ; !сюлмын
-+N: NOUNSUF_01_V ; !сюлэмын
-+N: NOUNSUF_01_C ;
+:%^SYNC NOUNSUF_01_V ; !сюлмын
+: NOUNSUF_01_V ; !сюлэмын
+: NOUNSUF_01_C ;
 
 
 !! À la Jaska
 LEXICON NOUNSUF
-+N: NOUNSUF_01 ;
+: NOUNSUF_01 ;
 
 LEXICON NOUNSUF_01
  NOUNSUF_01_C ;
