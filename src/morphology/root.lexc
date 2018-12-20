@@ -522,34 +522,43 @@ LEXICON AB-NO-DOT-N_
 +N+ABBR: # ;
 
 LEXICON DESCR_
-+Descr: # ;
+! The initial +Descr tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON DET_
-+Det: ADJ_DETERM ;
+! The initial +Det tag is inserted in postpositions.lexc
+: ADJ_DETERM ;
 
 LEXICON GER_
-+Ger: # ;
+! The initial +Ger tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON INTERJ_
-+Interj: # ;
+! The initial +Interj tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON PCLE_
-+Pcle: # ;
+! The initial +Pcle tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON PRC_
-+Prc: # ;
+! The initial +Prc tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON PO_
-+Po: # ;
+! The initial +Po tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON NUM_
-+Num: # ;
+! The initial +Num tag is inserted in postpositions.lexc
+: # ;
 
 LEXICON NUM_НЬЫЛЬ
-+Num+Card+Abs: # ;
-+Num+Card+Der/MWN: N_ ;
-+Num+Der/Этӥ+Det+Ord+Abs:%>%^Е3тӥ # ;
-+Num+Der/Этӥ+Det+Ord+Der/MWN:%>%^Е3тӥ N_ ;
+! The initial +Num tag is inserted in postpositions.lexc
++Card+Abs: # ;
++Card+Der/MWN: N_ ;
++Der/Этӥ+Det+Ord+Abs:%>%^Е3тӥ # ;
++Der/Этӥ+Det+Ord+Der/MWN:%>%^Е3тӥ N_ ;
 
 
 LEXICON K

@@ -6,7 +6,8 @@
 
 
 LEXICON ADV_ !!= @CODE@ Undeveloped contlexes
-+Adv: # ;
+! the +Adv is inserted in the initial adverbs.lexc file
+: # ;
 
 
 
