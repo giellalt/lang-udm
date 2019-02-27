@@ -489,7 +489,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! The word forms in Udmurt language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
    adjectives  ;
    adverbs  ;
@@ -508,6 +508,8 @@ LEXICON Root
 !   subjuntors	; ! not yet.
    verbs   ;
    Punctuation ;
+    Punctuation ;
+    Symbols     ;
 
  ABBR_udm2x ;	!!= * @CODE@ abbreviations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
