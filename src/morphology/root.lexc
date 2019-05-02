@@ -523,7 +523,6 @@ LEXICON Root
 !! these still need development 2015-11-03
 LEXICON AB-NO-DOT-N_
 +N+ABBR: # ;
-+Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 
 LEXICON DESCR_
 ! The initial +Descr tag is inserted in postpositions.lexc
