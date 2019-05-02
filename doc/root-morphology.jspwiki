@@ -141,6 +141,7 @@ Other verb forms are: (TODO: Document the tags)
 
 
  * +ABBR  Abbreviation
+ * +Symbol = independent symbols in the text stream, like £, €, ©
  * +ACR  Acronym
 
 Special symbols are classified with:
@@ -335,7 +336,7 @@ given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
+The word forms in Udmurt language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
  *  ABBR_udm2x ;	 abbreviations
