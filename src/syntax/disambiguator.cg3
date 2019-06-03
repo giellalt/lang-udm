@@ -198,8 +198,8 @@ REMOVE:AN A IF (0 N + Sg + Nom)(NOT *1 N BARRIER NOT-PREN);
 
 REMOVE:AN2 N IF (0 A + Abs)(1 N);
 
-
-REMOVE:NegConNeg ConNeg IF (NOT *1 Neg) ;
+REMOVE:NegConNeg ConNeg IF (NOT -1 Neg) ;
+#REMOVE:NegConNeg ConNeg IF (NOT *1 Neg) ;
 
 REMOVE:ImprtInitially Imprt IF (NOT *-1 BOS); # All too brutal
 
