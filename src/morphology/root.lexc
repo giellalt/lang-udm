@@ -72,6 +72,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! The nominals are inflected in the following Case
 !! TODO: Document case names!
 
++Abs  !!≈ * @CODE@ Absolute form 2019-06-03
 +Nom  !!≈ * @CODE@  Nominative
 +Acc  !!≈ * @CODE@  Accusative
 +Gen  !!≈ * @CODE@  Genitive
@@ -558,10 +559,10 @@ LEXICON NUM_
 
 LEXICON NUM_НЬЫЛЬ
 ! The initial +Num tag is inserted in postpositions.lexc
-+Card+Abs: # ;
-+Card+Der/MWN: N_ ;
-+Der/Этӥ+Det+Ord+Abs:%>%^Е3тӥ # ;
-+Der/Этӥ+Det+Ord+Der/MWN:%>%^Е3тӥ N_ ;
+!+Card+Abs: # ;
++Card: N_ ;
+!+Der/Этӥ+Ord+Abs:%>%^Е3тӥ # ;
++Der/Этӥ+Ord:%>%^Е3тӥ N_ ;
 
 
 LEXICON K

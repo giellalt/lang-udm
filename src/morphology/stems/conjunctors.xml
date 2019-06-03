@@ -106,7 +106,7 @@
       <l pos="CS">айкась</l>
 
       <stg>
-        <st Contlex="CONJ_">айкась</st>
+        <st Contlex="CS_">айкась</st>
       </stg>
     </lg>
 
@@ -120,7 +120,7 @@
       <l pos="CC">али</l>
 
       <stg>
-        <st Contlex="CONJ_">али</st>
+        <st Contlex="CC_">али</st>
       </stg>
     </lg>
 
@@ -134,7 +134,7 @@
       <l pos="CC">аль</l>
 
       <stg>
-        <st Contlex="CONJ_">аль</st>
+        <st Contlex="CC_">аль</st>
       </stg>
     </lg>
 
@@ -159,10 +159,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">будьто</l>
+      <l pos="CS">будьто</l>
 
       <stg>
-        <st Contlex="CONJ_">будьто</st>
+        <st Contlex="CS_">будьто</st>
       </stg>
     </lg>
 
@@ -190,7 +190,7 @@
       <l pos="CC">да</l>
 
       <stg>
-        <st Contlex="CONJ_">да</st>
+        <st Contlex="CC_">да</st>
       </stg>
     </lg>
 
@@ -215,10 +215,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">если</l>
+      <l pos="CS">если</l>
 
       <stg>
-        <st Contlex="CONJ_">если</st>
+        <st Contlex="CS_">если</st>
       </stg>
     </lg>
 
@@ -232,7 +232,7 @@
       <l pos="CC">ито</l>
 
       <stg>
-        <st Contlex="CONJ_">ито</st>
+        <st Contlex="CC_">ито</st>
       </stg>
     </lg>
 
@@ -243,10 +243,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">ке</l>
+      <l pos="CS">ке</l>
 
       <stg>
-        <st Contlex="CONJ_">ке</st>
+        <st Contlex="CS_">ке</st>
       </stg>
     </lg>
 
@@ -274,7 +274,7 @@
       <l pos="CC">либо</l>
 
       <stg>
-        <st Contlex="CONJ_">либо</st>
+        <st Contlex="CC_">либо</st>
       </stg>
     </lg>
 
@@ -453,10 +453,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">только</l>
+      <l pos="CS">только</l>
 
       <stg>
-        <st Contlex="CONJ_">только</st>
+        <st Contlex="CS_">только</st>
       </stg>
     </lg>
 
@@ -537,10 +537,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">яке</l>
+      <l pos="CC">яке</l>
 
       <stg>
-        <st Contlex="CONJ_">яке</st>
+        <st Contlex="CC_">яке</st>
       </stg>
     </lg>
 

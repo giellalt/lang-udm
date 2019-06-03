@@ -68,9 +68,9 @@ LEXICON V_MONO
 !! Lexicon __@LEXNAME@__ мыныны:мыны
 !! * Yaml: __mynyny__ , This is first declension
 ! Testing JASKA
-+V+Ind+PrtI+ConNeg+Pl:%>%^Е2 K ;
-+V+Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
-+V+PrcPrfNeg:%>%^Е2мтэе K ;
++Ind+PrtI+ConNeg+Pl:%>%^Е2 K ;
++Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
++PrcPrfNeg:%>%^Е2мтэе K ;
  V_МЫНЫНЫ ;
 
 
@@ -78,9 +78,9 @@ LEXICON V_UZA
 !! Lexicon __@LEXNAME@__
 !! * Yaml: __uzhany__ , this is second declension
 ! testing JASKA
-+V+Ind+PrtI+ConNeg+Pl:%>лэ K ;
-+V+Ind+PrtII+Neg+Pl2:%>мтэды K ;
-+V+PrcPrfNeg:%>%^Е2мтэ K ;
++Ind+PrtI+ConNeg+Pl:%>лэ K ;
++Ind+PrtII+Neg+Pl2:%>мтэды K ;
++PrcPrfNeg:%>%^Е2мтэ K ;
  V_МЫНЫНЫ ;
 
 
@@ -89,20 +89,20 @@ LEXICON V_МЫНЫНЫ !! мыныны:мыны
 !! Lexicon __@LEXNAME@__
 !! * Yaml: __mynyny__ 
 
-+V+Ind+Prs: APRS ;
-+V+Ind+Fut:%>%^О2 FUT-PERSON ;
-+V+Ind+Fut+Pl1:%>%^О2%>мы K ;
-+V+Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
-+V+Ind+Fut+ConNeg+Pl:%>%^Е2 K ;
-+V+Ind+Fut+ConNeg+Pl:%>%^Е2лэ K ;
-+V+Ind+PrtI:  PRTI-PERSON ;
-+V+Ind+PrtI+ConNeg+Sg:%^ЫLoss K ;
-+V+Ind+PrtII: PRTII-PERSON ;
-+V+Cond:%>сал COND ;
-+V+Imprt: IMPRT ;
-+V+Imprt+Pl2:%>%^Е2 K	;!Is this only мыныны
-+V+Opt: OPT ;
-+V: NONFINITES ;
++Ind+Prs: APRS ;
++Ind+Fut:%>%^О2 FUT-PERSON ;
++Ind+Fut+Pl1:%>%^О2%>мы K ;
++Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
++Ind+Fut+ConNeg+Pl:%>%^Е2 K ;
++Ind+Fut+ConNeg+Pl:%>%^Е2лэ K ;
++Ind+PrtI:  PRTI-PERSON ;
++Ind+PrtI+ConNeg+Sg:%^ЫLoss K ;
++Ind+PrtII: PRTII-PERSON ;
++Cond:%>сал COND ;
++Imprt: IMPRT ;
++Imprt+Pl2:%>%^Е2 K	;!Is this only мыныны
++Opt: OPT ;
+: NONFINITES ;
 
 
 LEXICON APRS
@@ -222,7 +222,7 @@ LEXICON NONFINITES
 +PrcPrs+N+Der/тэм:%>%^И2сьтэм A_ ;
 +PrcPrsNeg:%>%^И2сьтэм K ;
 +PrcPrsPos:%>%^И2сь K ;
-+PrcPrfAdn:%>%^Е2м K ;
+!2019-06-03+PrcPrfAdn:%>%^Е2м K ;
 +Der/Эм+PrcPrfAdn:%>%^Е2м N_ ;
 +PrcPrfPred:%>%^Е2мын K ;
 
