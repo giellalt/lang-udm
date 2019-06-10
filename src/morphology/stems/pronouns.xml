@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ас</l>
          <stg>
@@ -13,7 +13,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслад</l>
          <stg>
@@ -24,7 +24,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслаз</l>
          <stg>
@@ -35,7 +35,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслам</l>
          <stg>
@@ -46,7 +46,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслыд</l>
          <stg>
@@ -57,7 +57,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслыз</l>
          <stg>
@@ -68,7 +68,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслым</l>
          <stg>
@@ -79,7 +79,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслэсьтыд</l>
          <stg>
@@ -90,7 +90,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслэсьтыз</l>
          <stg>
@@ -101,7 +101,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">аслэсьтым</l>
          <stg>
@@ -112,7 +112,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асме</l>
          <stg>
@@ -123,7 +123,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асняз</l>
          <stg>
@@ -134,7 +134,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асням</l>
          <stg>
@@ -145,7 +145,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ассэ</l>
          <stg>
@@ -156,7 +156,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">астэ</l>
          <stg>
@@ -167,7 +167,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьме</l>
          <stg>
@@ -178,7 +178,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьмелы</l>
          <stg>
@@ -189,7 +189,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьмелэн</l>
          <stg>
@@ -200,7 +200,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьмелэсь</l>
          <stg>
@@ -211,7 +211,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьмемыз</l>
          <stg>
@@ -222,7 +222,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьмеос</l>
          <stg>
@@ -233,7 +233,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэ</l>
          <stg>
@@ -244,7 +244,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэ коже</l>
          <stg>
@@ -255,7 +255,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэзыс</l>
          <stg>
@@ -266,7 +266,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэлы</l>
          <stg>
@@ -277,7 +277,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэлэн</l>
          <stg>
@@ -288,7 +288,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэос</l>
          <stg>
@@ -299,7 +299,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьсэёс</l>
          <stg>
@@ -310,7 +310,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэ</l>
          <stg>
@@ -321,7 +321,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэдыз</l>
          <stg>
@@ -332,7 +332,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэдын</l>
          <stg>
@@ -343,7 +343,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэлы</l>
          <stg>
@@ -354,7 +354,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэлэн</l>
          <stg>
@@ -365,7 +365,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэлэсь</l>
          <stg>
@@ -376,7 +376,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асьтэос</l>
          <stg>
@@ -387,7 +387,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">асэнызы</l>
          <stg>
@@ -398,7 +398,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ачид</l>
          <stg>
@@ -409,7 +409,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ачиз</l>
          <stg>
@@ -420,7 +420,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ачим</l>
          <stg>
@@ -431,7 +431,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ачимлэн</l>
          <stg>
@@ -442,7 +442,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">бӧрсязы</l>
          <stg>
@@ -453,7 +453,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вань</l>
          <stg>
@@ -464,7 +464,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньды</l>
          <stg>
@@ -475,7 +475,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньзы</l>
          <stg>
@@ -486,7 +486,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньзэ</l>
          <stg>
@@ -497,7 +497,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньмаз</l>
          <stg>
@@ -508,7 +508,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньмы</l>
          <stg>
@@ -519,7 +519,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньмыз</l>
          <stg>
@@ -530,7 +530,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньмыныз</l>
          <stg>
@@ -541,7 +541,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньнады</l>
          <stg>
@@ -552,7 +552,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньназы</l>
          <stg>
@@ -563,7 +563,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ваньнамы</l>
          <stg>
@@ -574,7 +574,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">витьнады</l>
          <stg>
@@ -585,7 +585,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">витьназы</l>
          <stg>
@@ -596,7 +596,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">витьнамы</l>
          <stg>
@@ -607,7 +607,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">витякой</l>
          <stg>
@@ -618,7 +618,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вичак</l>
          <stg>
@@ -629,7 +629,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вичакой</l>
          <stg>
@@ -640,7 +640,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">воч</l>
          <stg>
@@ -651,7 +651,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вочак</l>
          <stg>
@@ -662,7 +662,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вочаксы</l>
          <stg>
@@ -673,7 +673,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вочнады</l>
          <stg>
@@ -684,7 +684,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вочназы</l>
          <stg>
@@ -695,7 +695,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">вочнамы</l>
          <stg>
@@ -706,7 +706,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">всякой</l>
          <stg>
@@ -717,7 +717,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">всё</l>
          <stg>
@@ -728,7 +728,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">даснады</l>
          <stg>
@@ -739,7 +739,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">дасназы</l>
          <stg>
@@ -750,7 +750,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">даснамы</l>
          <stg>
@@ -761,7 +761,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">иссё</l>
          <stg>
@@ -772,7 +772,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">каждой</l>
          <stg>
@@ -783,7 +783,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кажной</l>
          <stg>
@@ -794,7 +794,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кин</l>
          <stg>
@@ -805,7 +805,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кин-о</l>
          <stg>
@@ -816,7 +816,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кинке-со</l>
          <stg>
@@ -827,7 +827,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кинлэнке</l>
          <stg>
@@ -838,7 +838,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькин</l>
          <stg>
@@ -849,7 +849,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькуд</l>
          <stg>
@@ -860,7 +860,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькудлань</l>
          <stg>
@@ -871,7 +871,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькудӥз</l>
          <stg>
@@ -882,7 +882,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькызьы</l>
          <stg>
@@ -893,7 +893,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытчы</l>
          <stg>
@@ -904,7 +904,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытчыозь</l>
          <stg>
@@ -915,7 +915,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытын</l>
          <stg>
@@ -926,7 +926,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытысен</l>
          <stg>
@@ -937,7 +937,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытысь</l>
          <stg>
@@ -948,7 +948,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытыӵе</l>
          <stg>
@@ -959,7 +959,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытӥ</l>
          <stg>
@@ -970,7 +970,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытӥозь</l>
          <stg>
@@ -981,7 +981,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытӥысен</l>
          <stg>
@@ -992,7 +992,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькытӥысь</l>
          <stg>
@@ -1003,7 +1003,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котькӧня</l>
          <stg>
@@ -1014,7 +1014,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котьма</l>
          <stg>
@@ -1025,7 +1025,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котьмае</l>
          <stg>
@@ -1036,7 +1036,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">котьмар</l>
          <stg>
@@ -1047,7 +1047,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ку</l>
          <stg>
@@ -1058,7 +1058,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ку-ось</l>
          <stg>
@@ -1069,7 +1069,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куатьнады</l>
          <stg>
@@ -1080,7 +1080,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куатьназы</l>
          <stg>
@@ -1091,7 +1091,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куатьнамы</l>
          <stg>
@@ -1102,7 +1102,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куд</l>
          <stg>
@@ -1113,7 +1113,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куд-куддыръя</l>
          <stg>
@@ -1124,7 +1124,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куд-ог</l>
          <stg>
@@ -1135,7 +1135,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куд-огез</l>
          <stg>
@@ -1146,7 +1146,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куд тырысь</l>
          <stg>
@@ -1157,7 +1157,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудбыдӟа</l>
          <stg>
@@ -1168,7 +1168,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куддыр</l>
          <stg>
@@ -1179,7 +1179,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куддыре</l>
          <stg>
@@ -1190,7 +1190,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куддыръя</l>
          <stg>
@@ -1201,7 +1201,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куддырын</l>
          <stg>
@@ -1212,7 +1212,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудке</l>
          <stg>
@@ -1223,7 +1223,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудкем</l>
          <stg>
@@ -1234,7 +1234,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудкеме</l>
          <stg>
@@ -1245,7 +1245,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудлань</l>
          <stg>
@@ -1256,7 +1256,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудласянь</l>
          <stg>
@@ -1267,7 +1267,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудмында</l>
          <stg>
@@ -1278,7 +1278,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудняласен</l>
          <stg>
@@ -1289,7 +1289,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куднялась</l>
          <stg>
@@ -1300,7 +1300,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудпала</l>
          <stg>
@@ -1311,7 +1311,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудпалан</l>
          <stg>
@@ -1322,7 +1322,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудпаласен</l>
          <stg>
@@ -1333,7 +1333,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудпалась</l>
          <stg>
@@ -1344,7 +1344,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудъёс</l>
          <stg>
@@ -1355,7 +1355,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз</l>
          <stg>
@@ -1366,7 +1366,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-ке</l>
          <stg>
@@ -1377,7 +1377,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-кудӥз</l>
          <stg>
@@ -1388,7 +1388,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-мукетыз</l>
          <stg>
@@ -1399,7 +1399,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-мыдыз</l>
          <stg>
@@ -1410,7 +1410,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-о</l>
          <stg>
@@ -1421,7 +1421,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кудӥз-огез</l>
          <stg>
@@ -1432,7 +1432,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куиньнады</l>
          <stg>
@@ -1443,7 +1443,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куиньназы</l>
          <stg>
@@ -1454,7 +1454,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куиньнамы</l>
          <stg>
@@ -1465,7 +1465,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">куке-соку</l>
          <stg>
@@ -1476,7 +1476,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кызьы-ке</l>
          <stg>
@@ -1487,7 +1487,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыкнады</l>
          <stg>
@@ -1498,7 +1498,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыкназы</l>
          <stg>
@@ -1509,7 +1509,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыкнамы</l>
          <stg>
@@ -1520,7 +1520,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытчы</l>
          <stg>
@@ -1531,7 +1531,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытчыке</l>
          <stg>
@@ -1542,7 +1542,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытчыозь</l>
          <stg>
@@ -1553,7 +1553,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытчыяз</l>
          <stg>
@@ -1564,7 +1564,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытын</l>
          <stg>
@@ -1575,7 +1575,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытын-отын</l>
          <stg>
@@ -1586,7 +1586,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытысен</l>
          <stg>
@@ -1597,7 +1597,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытысь</l>
          <stg>
@@ -1608,7 +1608,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытысь-отысь</l>
          <stg>
@@ -1619,7 +1619,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥ</l>
          <stg>
@@ -1630,7 +1630,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥ-кытӥ</l>
          <stg>
@@ -1641,7 +1641,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥ-мартӥ</l>
          <stg>
@@ -1652,7 +1652,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥ-матӥ</l>
          <stg>
@@ -1663,7 +1663,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥозь</l>
          <stg>
@@ -1674,7 +1674,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥтӥ</l>
          <stg>
@@ -1685,7 +1685,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥтӥз</l>
          <stg>
@@ -1696,7 +1696,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥын</l>
          <stg>
@@ -1707,7 +1707,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥысен</l>
          <stg>
@@ -1718,7 +1718,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥысь</l>
          <stg>
@@ -1729,7 +1729,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кытӥяз</l>
          <stg>
@@ -1740,7 +1740,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыӵе</l>
          <stg>
@@ -1751,7 +1751,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыӵе-ке</l>
          <stg>
@@ -1762,7 +1762,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыӵе-мар</l>
          <stg>
@@ -1773,7 +1773,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыӵе-сыӵе</l>
          <stg>
@@ -1784,7 +1784,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кыӵезэ-сыӵезэ</l>
          <stg>
@@ -1795,7 +1795,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧня</l>
          <stg>
@@ -1806,7 +1806,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧняен</l>
          <stg>
@@ -1817,7 +1817,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧняетӥ</l>
          <stg>
@@ -1828,7 +1828,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧняетӥез</l>
          <stg>
@@ -1839,7 +1839,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧняке</l>
          <stg>
@@ -1850,7 +1850,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧнямында</l>
          <stg>
@@ -1861,7 +1861,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">кӧӵе</l>
          <stg>
@@ -1872,7 +1872,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ма</l>
          <stg>
@@ -1883,7 +1883,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мае</l>
          <stg>
@@ -1894,7 +1894,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мазэ</l>
          <stg>
@@ -1905,7 +1905,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мазэ-созэ</l>
          <stg>
@@ -1916,7 +1916,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маид</l>
          <stg>
@@ -1927,7 +1927,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маид-о</l>
          <stg>
@@ -1938,7 +1938,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маидке</l>
          <stg>
@@ -1949,7 +1949,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маиз</l>
          <stg>
@@ -1960,7 +1960,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маиз-ке</l>
          <stg>
@@ -1971,7 +1971,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маин</l>
          <stg>
@@ -1982,7 +1982,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маке</l>
          <stg>
@@ -1993,7 +1993,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маке-маке</l>
          <stg>
@@ -2004,7 +2004,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маке-со</l>
          <stg>
@@ -2015,7 +2015,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">макеме</l>
          <stg>
@@ -2026,7 +2026,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">малы</l>
          <stg>
@@ -2037,7 +2037,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">малыке</l>
          <stg>
@@ -2048,7 +2048,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мамында</l>
          <stg>
@@ -2059,7 +2059,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мапасьта</l>
          <stg>
@@ -2070,7 +2070,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мар</l>
          <stg>
@@ -2081,7 +2081,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мар-о</l>
          <stg>
@@ -2092,7 +2092,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марды</l>
          <stg>
@@ -2103,7 +2103,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">маре</l>
          <stg>
@@ -2114,7 +2114,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марзы</l>
          <stg>
@@ -2125,7 +2125,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марзэ</l>
          <stg>
@@ -2136,7 +2136,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марзэ-созэ</l>
          <stg>
@@ -2147,7 +2147,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мариз</l>
          <stg>
@@ -2158,7 +2158,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марке</l>
          <stg>
@@ -2169,7 +2169,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марке-марке</l>
          <stg>
@@ -2180,7 +2180,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марлы</l>
          <stg>
@@ -2191,7 +2191,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мармында</l>
          <stg>
@@ -2202,7 +2202,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мартэк</l>
          <stg>
@@ -2213,7 +2213,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мартӥ</l>
          <stg>
@@ -2224,7 +2224,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">марысь-мар</l>
          <stg>
@@ -2235,7 +2235,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мась</l>
          <stg>
@@ -2246,7 +2246,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">матӥ</l>
          <stg>
@@ -2257,7 +2257,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ми</l>
          <stg>
@@ -2294,7 +2294,7 @@
      </xg>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милем</l>
          <stg>
@@ -2305,7 +2305,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милемды</l>
          <stg>
@@ -2316,7 +2316,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милемлы</l>
          <stg>
@@ -2327,7 +2327,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милемыз</l>
          <stg>
@@ -2338,7 +2338,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милемын</l>
          <stg>
@@ -2349,7 +2349,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">миленымы</l>
          <stg>
@@ -2360,7 +2360,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милесьтым</l>
          <stg>
@@ -2371,7 +2371,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милесьтымзэ</l>
          <stg>
@@ -2382,7 +2382,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">милям</l>
          <stg>
@@ -2393,7 +2393,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">минням</l>
          <stg>
@@ -2404,7 +2404,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мон</l>
          <stg>
@@ -2415,7 +2415,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">моння</l>
          <stg>
@@ -2426,7 +2426,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">монням</l>
          <stg>
@@ -2437,7 +2437,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">монтэк</l>
          <stg>
@@ -2448,7 +2448,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">монэ</l>
          <stg>
@@ -2459,7 +2459,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">монэн</l>
          <stg>
@@ -2470,7 +2470,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">монэным</l>
          <stg>
@@ -2481,7 +2481,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">музон</l>
          <stg>
@@ -2492,7 +2492,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мукет</l>
          <stg>
@@ -2503,7 +2503,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мукетыз</l>
          <stg>
@@ -2514,7 +2514,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мынам</l>
          <stg>
@@ -2525,7 +2525,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мынамез</l>
          <stg>
@@ -2536,7 +2536,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мыным</l>
          <stg>
@@ -2547,7 +2547,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">мынэсьтым</l>
          <stg>
@@ -2558,7 +2558,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">некин</l>
          <stg>
@@ -2569,7 +2569,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нема</l>
          <stg>
@@ -2580,7 +2580,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">немаин</l>
          <stg>
@@ -2591,7 +2591,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">немар</l>
          <stg>
@@ -2602,7 +2602,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">немыр</l>
          <stg>
@@ -2613,7 +2613,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">немырин</l>
          <stg>
@@ -2624,7 +2624,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокин</l>
          <stg>
@@ -2635,7 +2635,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">неноку</l>
          <stg>
@@ -2646,7 +2646,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокуд</l>
          <stg>
@@ -2657,7 +2657,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокытчы</l>
          <stg>
@@ -2668,7 +2668,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокытысен</l>
          <stg>
@@ -2679,7 +2679,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокытысь</l>
          <stg>
@@ -2690,7 +2690,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокытӥ</l>
          <stg>
@@ -2701,7 +2701,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокыӵе</l>
          <stg>
@@ -2712,7 +2712,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокыӵеез</l>
          <stg>
@@ -2723,7 +2723,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ненокӧня</l>
          <stg>
@@ -2734,7 +2734,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">неномыр</l>
          <stg>
@@ -2745,7 +2745,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ниномыр</l>
          <stg>
@@ -2756,7 +2756,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокин</l>
          <stg>
@@ -2767,7 +2767,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ноку</l>
          <stg>
@@ -2778,7 +2778,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокуд</l>
          <stg>
@@ -2789,7 +2789,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудды</l>
          <stg>
@@ -2800,7 +2800,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудзы</l>
          <stg>
@@ -2811,7 +2811,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудлань</l>
          <stg>
@@ -2822,7 +2822,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудласянь</l>
          <stg>
@@ -2833,7 +2833,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудмы</l>
          <stg>
@@ -2844,7 +2844,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудпала</l>
          <stg>
@@ -2855,7 +2855,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудпалан</l>
          <stg>
@@ -2866,7 +2866,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудпаласен</l>
          <stg>
@@ -2877,7 +2877,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудпалась</l>
          <stg>
@@ -2888,7 +2888,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудпалласянь</l>
          <stg>
@@ -2899,7 +2899,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокудӥз</l>
          <stg>
@@ -2910,7 +2910,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокызьы</l>
          <stg>
@@ -2921,7 +2921,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытчы</l>
          <stg>
@@ -2932,7 +2932,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытын</l>
          <stg>
@@ -2943,7 +2943,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытын-но</l>
          <stg>
@@ -2954,7 +2954,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытысен</l>
          <stg>
@@ -2965,7 +2965,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытысь</l>
          <stg>
@@ -2976,7 +2976,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокытӥ</l>
          <stg>
@@ -2987,7 +2987,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокыӵе</l>
          <stg>
@@ -2998,7 +2998,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">нокӧня</l>
          <stg>
@@ -3009,7 +3009,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">номыр</l>
          <stg>
@@ -3020,7 +3020,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">номыре</l>
          <stg>
@@ -3031,7 +3031,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">номырин</l>
          <stg>
@@ -3042,7 +3042,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ньыльнады</l>
          <stg>
@@ -3053,7 +3053,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ньыльназы</l>
          <stg>
@@ -3064,7 +3064,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ньыльнамы</l>
          <stg>
@@ -3075,7 +3075,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ог-огды</l>
          <stg>
@@ -3086,7 +3086,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ог-огзы</l>
          <stg>
@@ -3097,7 +3097,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ог-огмы</l>
          <stg>
@@ -3108,7 +3108,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огазе</l>
          <stg>
@@ -3119,7 +3119,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огвадес</l>
          <stg>
@@ -3130,7 +3130,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огды</l>
          <stg>
@@ -3141,7 +3141,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огды-огды</l>
          <stg>
@@ -3152,7 +3152,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огдылы-огды</l>
          <stg>
@@ -3163,7 +3163,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огез</l>
          <stg>
@@ -3174,7 +3174,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огез-мукетыз</l>
          <stg>
@@ -3185,7 +3185,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огез-но</l>
          <stg>
@@ -3196,7 +3196,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огезъя-огез</l>
          <stg>
@@ -3207,7 +3207,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огзы</l>
          <stg>
@@ -3218,7 +3218,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огзы-огзы</l>
          <stg>
@@ -3229,7 +3229,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огкуен</l>
          <stg>
@@ -3240,7 +3240,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огмес-огмы</l>
          <stg>
@@ -3251,7 +3251,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огмы</l>
          <stg>
@@ -3262,7 +3262,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огмы-огмы</l>
          <stg>
@@ -3273,7 +3273,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огмында</l>
          <stg>
@@ -3284,7 +3284,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огнад</l>
          <stg>
@@ -3295,7 +3295,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огнады</l>
          <stg>
@@ -3306,7 +3306,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огназ</l>
          <stg>
@@ -3317,7 +3317,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огназы</l>
          <stg>
@@ -3328,7 +3328,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огнам</l>
          <stg>
@@ -3339,7 +3339,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огнамы</l>
          <stg>
@@ -3350,7 +3350,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огнын</l>
          <stg>
@@ -3361,7 +3361,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огпала</l>
          <stg>
@@ -3372,7 +3372,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огпалагес</l>
          <stg>
@@ -3383,7 +3383,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огпалангес</l>
          <stg>
@@ -3394,7 +3394,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">огӵош</l>
          <stg>
@@ -3405,7 +3405,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥг-огез</l>
          <stg>
@@ -3416,7 +3416,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥгез</l>
          <stg>
@@ -3427,7 +3427,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥгнад</l>
          <stg>
@@ -3438,7 +3438,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥгназ</l>
          <stg>
@@ -3449,7 +3449,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥгнам</l>
          <stg>
@@ -3460,7 +3460,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">одӥгтэм</l>
          <stg>
@@ -3471,7 +3471,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">озик</l>
          <stg>
@@ -3482,7 +3482,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">озь</l>
          <stg>
@@ -3493,7 +3493,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">озь-тазь</l>
          <stg>
@@ -3504,7 +3504,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">озьыен</l>
          <stg>
@@ -3515,7 +3515,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олань</l>
          <stg>
@@ -3526,7 +3526,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олань-талань</l>
          <stg>
@@ -3537,7 +3537,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оло кин-ке</l>
          <stg>
@@ -3548,7 +3548,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокеме</l>
          <stg>
@@ -3559,7 +3559,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокемын</l>
          <stg>
@@ -3570,7 +3570,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокемысен</l>
          <stg>
@@ -3581,7 +3581,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокемысь</l>
          <stg>
@@ -3592,7 +3592,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокин</l>
          <stg>
@@ -3603,7 +3603,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокуд</l>
          <stg>
@@ -3614,7 +3614,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудзы</l>
          <stg>
@@ -3625,7 +3625,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудкеме</l>
          <stg>
@@ -3636,7 +3636,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудкемын</l>
          <stg>
@@ -3647,7 +3647,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудкемысен</l>
          <stg>
@@ -3658,7 +3658,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудкемысь</l>
          <stg>
@@ -3669,7 +3669,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудня</l>
          <stg>
@@ -3680,7 +3680,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудняла</l>
          <stg>
@@ -3691,7 +3691,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокудӥз</l>
          <stg>
@@ -3702,7 +3702,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокызьы</l>
          <stg>
@@ -3713,7 +3713,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытчы</l>
          <stg>
@@ -3724,7 +3724,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытын</l>
          <stg>
@@ -3735,7 +3735,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытысен</l>
          <stg>
@@ -3746,7 +3746,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытысь</l>
          <stg>
@@ -3757,7 +3757,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытысь-марысь</l>
          <stg>
@@ -3768,7 +3768,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытӥ</l>
          <stg>
@@ -3779,7 +3779,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытӥ-мар</l>
          <stg>
@@ -3790,7 +3790,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокытӥ-мартӥ</l>
          <stg>
@@ -3801,7 +3801,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокыӵе</l>
          <stg>
@@ -3812,7 +3812,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олокӧня</l>
          <stg>
@@ -3823,7 +3823,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">олома</l>
          <stg>
@@ -3834,7 +3834,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакем</l>
          <stg>
@@ -3845,7 +3845,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакема</l>
          <stg>
@@ -3856,7 +3856,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакеме</l>
          <stg>
@@ -3867,7 +3867,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакемын</l>
          <stg>
@@ -3878,7 +3878,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакемысен</l>
          <stg>
@@ -3889,7 +3889,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломакемысь</l>
          <stg>
@@ -3900,7 +3900,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломалы</l>
          <stg>
@@ -3911,7 +3911,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломар</l>
          <stg>
@@ -3922,7 +3922,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломаркем</l>
          <stg>
@@ -3933,7 +3933,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломаркеме</l>
          <stg>
@@ -3944,7 +3944,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломаркемын</l>
          <stg>
@@ -3955,7 +3955,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломаркемысен</l>
          <stg>
@@ -3966,7 +3966,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">оломаркемысь</l>
          <stg>
@@ -3977,7 +3977,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отчыозь</l>
          <stg>
@@ -3988,7 +3988,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отын</l>
          <stg>
@@ -3999,7 +3999,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отын-отын</l>
          <stg>
@@ -4010,7 +4010,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отын-татын</l>
          <stg>
@@ -4021,7 +4021,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отысен</l>
          <stg>
@@ -4032,7 +4032,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отысь</l>
          <stg>
@@ -4043,7 +4043,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отысь-татысь</l>
          <stg>
@@ -4054,7 +4054,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥ</l>
          <stg>
@@ -4065,7 +4065,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥ-татӥ</l>
          <stg>
@@ -4076,7 +4076,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥозь</l>
          <stg>
@@ -4087,7 +4087,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥысен</l>
          <stg>
@@ -4098,7 +4098,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥысь</l>
          <stg>
@@ -4109,7 +4109,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">отӥяз</l>
          <stg>
@@ -4120,7 +4120,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">самой</l>
          <stg>
@@ -4131,7 +4131,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сек</l>
          <stg>
@@ -4142,7 +4142,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">со</l>
          <stg>
@@ -4303,7 +4303,7 @@
      </xg>
    </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">со-та</l>
          <stg>
@@ -4314,7 +4314,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соберезэ</l>
          <stg>
@@ -4325,7 +4325,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сое</l>
          <stg>
@@ -4336,7 +4336,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">созь</l>
          <stg>
@@ -4347,7 +4347,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">созэ</l>
          <stg>
@@ -4358,7 +4358,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соиз</l>
          <stg>
@@ -4369,7 +4369,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соин</l>
          <stg>
@@ -4380,7 +4380,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соин-таин</l>
          <stg>
@@ -4391,7 +4391,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соин асэныз</l>
          <stg>
@@ -4402,7 +4402,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокабен</l>
          <stg>
@@ -4413,7 +4413,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокем</l>
          <stg>
@@ -4424,7 +4424,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокема</l>
          <stg>
@@ -4435,7 +4435,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокеме</l>
          <stg>
@@ -4446,7 +4446,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокемес</l>
          <stg>
@@ -4457,7 +4457,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокемын</l>
          <stg>
@@ -4468,7 +4468,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокемысен</l>
          <stg>
@@ -4479,7 +4479,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокемысь</l>
          <stg>
@@ -4490,7 +4490,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соку</l>
          <stg>
@@ -4501,7 +4501,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соку ик</l>
          <stg>
@@ -4512,7 +4512,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокуен</l>
          <stg>
@@ -4523,7 +4523,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сокы</l>
          <stg>
@@ -4534,7 +4534,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">солань</l>
          <stg>
@@ -4545,7 +4545,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">солань-талань</l>
          <stg>
@@ -4556,7 +4556,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соласянь</l>
          <stg>
@@ -4567,7 +4567,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">солы</l>
          <stg>
@@ -4578,7 +4578,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">солэн</l>
          <stg>
@@ -4589,7 +4589,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">солэсь</l>
          <stg>
@@ -4600,7 +4600,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сомында</l>
          <stg>
@@ -4611,7 +4611,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соне</l>
          <stg>
@@ -4622,7 +4622,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сонняла</l>
          <stg>
@@ -4633,7 +4633,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соньын</l>
          <stg>
@@ -4644,7 +4644,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соня</l>
          <stg>
@@ -4655,7 +4655,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сонякеме</l>
          <stg>
@@ -4666,7 +4666,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сонямында</l>
          <stg>
@@ -4677,7 +4677,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соняӵоже</l>
          <stg>
@@ -4688,7 +4688,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соос</l>
          <stg>
@@ -4707,7 +4707,7 @@
 
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соослы</l>
          <stg>
@@ -4718,7 +4718,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соослэн</l>
          <stg>
@@ -4729,7 +4729,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соослэсь</l>
          <stg>
@@ -4740,7 +4740,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соосне</l>
          <stg>
@@ -4751,7 +4751,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соостэк</l>
          <stg>
@@ -4762,7 +4762,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соосыз</l>
          <stg>
@@ -4773,7 +4773,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соосын</l>
          <stg>
@@ -4784,7 +4784,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сотын</l>
          <stg>
@@ -4795,7 +4795,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сотысен</l>
          <stg>
@@ -4806,7 +4806,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сотэк</l>
          <stg>
@@ -4817,7 +4817,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сотӥ</l>
          <stg>
@@ -4828,7 +4828,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соя</l>
          <stg>
@@ -4839,7 +4839,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сояз</l>
          <stg>
@@ -4850,7 +4850,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">соёсыз асьсэзыз</l>
          <stg>
@@ -4861,7 +4861,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сыӵе</l>
          <stg>
@@ -4872,7 +4872,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сыӵе-сыӵе</l>
          <stg>
@@ -4883,7 +4883,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сыӵе-таӵе</l>
          <stg>
@@ -4894,7 +4894,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">сякой</l>
          <stg>
@@ -4905,7 +4905,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">та</l>
          <stg>
@@ -4916,7 +4916,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таберезэ</l>
          <stg>
@@ -4927,7 +4927,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тазь</l>
          <stg>
@@ -4938,7 +4938,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таиз</l>
          <stg>
@@ -4949,7 +4949,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таин</l>
          <stg>
@@ -4960,7 +4960,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">такем</l>
          <stg>
@@ -4971,7 +4971,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таку</l>
          <stg>
@@ -4982,7 +4982,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">такуен</l>
          <stg>
@@ -4993,7 +4993,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">такы</l>
          <stg>
@@ -5004,7 +5004,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">талань</l>
          <stg>
@@ -5015,7 +5015,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">талась</l>
          <stg>
@@ -5026,7 +5026,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тамында</l>
          <stg>
@@ -5037,7 +5037,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тамындала</l>
          <stg>
@@ -5048,7 +5048,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тань</l>
          <stg>
@@ -5070,7 +5070,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">танямында</l>
          <stg>
@@ -5081,7 +5081,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таняӵоже</l>
          <stg>
@@ -5092,7 +5092,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тарезэ</l>
          <stg>
@@ -5103,7 +5103,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">татчыозь</l>
          <stg>
@@ -5114,7 +5114,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">татын</l>
          <stg>
@@ -5125,7 +5125,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">татысен</l>
          <stg>
@@ -5136,7 +5136,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">татысь</l>
          <stg>
@@ -5147,7 +5147,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">татӥ</l>
          <stg>
@@ -5158,7 +5158,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">таӵе</l>
          <stg>
@@ -5169,7 +5169,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тон</l>
          <stg>
@@ -5183,7 +5183,7 @@
      </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тон-ачид</l>
          <stg>
@@ -5194,7 +5194,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тонэ</l>
          <stg>
@@ -5205,7 +5205,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тонэныд</l>
          <stg>
@@ -5216,7 +5216,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">трос</l>
          <stg>
@@ -5227,7 +5227,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">трослы</l>
          <stg>
@@ -5238,7 +5238,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тынад</l>
          <stg>
@@ -5249,7 +5249,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тынадэтӥ</l>
          <stg>
@@ -5260,7 +5260,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тыныд</l>
          <stg>
@@ -5271,7 +5271,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тыныд аслыд</l>
          <stg>
@@ -5282,7 +5282,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тынэсьтыд</l>
          <stg>
@@ -5293,7 +5293,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тямыснады</l>
          <stg>
@@ -5304,7 +5304,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тямысназы</l>
          <stg>
@@ -5315,7 +5315,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тямыснамы</l>
          <stg>
@@ -5326,7 +5326,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тӥ</l>
          <stg>
@@ -5337,7 +5337,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тӥледыз асьтэдыз</l>
          <stg>
@@ -5348,7 +5348,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тӥлесьтыд</l>
          <stg>
@@ -5359,7 +5359,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тӥляд</l>
          <stg>
@@ -5370,7 +5370,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">тӥнь</l>
          <stg>
@@ -5381,7 +5381,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">укмыснады</l>
          <stg>
@@ -5392,7 +5392,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">укмысназы</l>
          <stg>
@@ -5403,7 +5403,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">укмыснамы</l>
          <stg>
@@ -5414,7 +5414,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">уно</l>
          <stg>
@@ -5425,7 +5425,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">что</l>
          <stg>
@@ -5436,7 +5436,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">шайна</l>
          <stg>
@@ -5447,7 +5447,7 @@
          <defNative/>
       </mg>
    </e>
-   <e>
+   <e exclude="fst">
       <lg>
          <l pos="Pron">ыӵе</l>
          <stg>

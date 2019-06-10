@@ -32,6 +32,7 @@ Alphabet
 %^А3:0	       !!= * @CODE@ Ine а, я
 %^К3:0	       !!= * @CODE@ нюлэс:нюлэс%^К3
 %^М3:0	       !!= * @CODE@ син:син%^М3
+%{еэ%}:е	       !!= * @CODE@ morpheme initial vowel е э , e.g. Acc
 
 
 !! !!Boundary symbols
@@ -110,6 +111,11 @@ Rules
 !!€ мыны%>%^Е2
 !!€ мын0%>э
 
+"Depalatalized %{еэ%} "
+!! __@RULENAME@__
+%{еэ%}:э <=> [ CnsPair | у ] ы: %>  _ ;
+!!€ укмысназ%>%{еэ%}с
+
 "Depalatalize и"
 !! __@RULENAME@__
  %^И2:ӥ <=> CnsPair ы: %>  _ ;
@@ -186,14 +192,14 @@ Rules
 !! !!VOWEL LOSS
 "Stem vowel loss ы:0 LEFT" !! Is this really necessary
 !! __@RULENAME@__
- ы:0 <= _ %> [ %^Е2: | %^И2: | %^О2: ] ;
+ ы:0 <= _ %> [ %^Е2: | %{еэ%}: | %^И2: | %^О2: ] ;
 !!€# луы%>%^Е2м
 !!€0 лу00эм
         Vow Cns _ [ %^ЫLoss: | %^О2: ] ;
 
 "Stem vowel loss Ы2:0 RIGHT"
 !! __@RULENAME@__
- ы:0 => _  %> [ %^Е2: | %^И2: | %^О2: ] ;
+ ы:0 => _  %> [ %^Е2: | %{еэ%}: | %^И2: | %^О2: ] ;
 !!€# луы%>%^Е2м
 !!€0 лу00эм
          Vow :Cns (ь:) _ [ %^ЫLossVar: | %^ЫLoss: | %^О2: ] ; 

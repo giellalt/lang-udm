@@ -112,6 +112,7 @@ LIST PrcPrsPos = PrcPrsPos ;
 LIST PrcPrfAdn = PrcPrfAdn ;
 LIST PrcPrfPred = PrcPrfPred ;
 LIST PrcPrfNeg = PrcPrfNeg ;
+LIST Prc = Prc ; # for removal 2019-06-04
 LIST GerPos = GerPos ;
 LIST GerNeg = GerNeg ;
 LIST GerTer = GerTer ;
@@ -186,9 +187,12 @@ LIST NOMINALHEAD = N Num Pers Refl Recipr "Pron Interr" "Pron Indef" ;
 
 LIST PREN = Gen A ;
 
+LIST REALPRC = PrcPrsPos PrcPrfAdn PrcPrfPred PrcPrfNeg ;
+
 SET NOT-PREN = WORD - PREN ;
 SET NOT-A = WORD - A ;
 SET COMMONNOUN = N - Prop ;
+
 
 SECTION
 
@@ -197,6 +201,8 @@ REMOVE:Prop COMMONNOUN IF (NOT -1 BOS)(0 Prop) ;
 REMOVE:AN A IF (0 N + Sg + Nom)(NOT *1 N BARRIER NOT-PREN);
 
 REMOVE:AN2 N IF (0 A + Abs)(1 N);
+
+REMOVE:PrcRemove Prc IF (0 REALPRC) ;
 
 REMOVE:NegConNeg ConNeg IF (NOT -1 Neg) ;
 #REMOVE:NegConNeg ConNeg IF (NOT *1 Neg) ;
