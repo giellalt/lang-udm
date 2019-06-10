@@ -139,6 +139,7 @@ Other verb forms are: (TODO: Document the tags)
  * +VGen 	  Verbal genitive
  * +VAbess 	  Verbal abesive
 
+ * +Prc		 This is only for the dictionary at present 2019-06-04
 
 
  * +ABBR  Abbreviation
@@ -300,6 +301,8 @@ symbols in the lexicon files:
  * %^А3	 Ine а, я
  * %^К3	 нюлэс:нюлэсК3
  * %^М3	 син:синМ3
+
+ * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
 
 And following triggers to control variation

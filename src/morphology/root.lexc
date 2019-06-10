@@ -154,6 +154,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +VGen         	!!≈ * @CODE@  Verbal genitive
  +VAbess       	!!≈ * @CODE@  Verbal abesive
 
++Prc		!!≈ * @CODE@ This is only for the dictionary at present 2019-06-04
 
 ! Abbreviated words are classified with:
 
@@ -452,6 +453,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 %^К3	       !!≈ * @CODE@ нюлэс:нюлэсК3
 %^М3	       !!≈ * @CODE@ син:синМ3
 
+%{еэ%}	       !!= * @CODE@ morpheme initial vowel е э , e.g. Acc
+
 
 !! And following triggers to control variation
 
@@ -512,6 +515,7 @@ LEXICON Root
    Punctuation ;
     Punctuation ;
     Symbols     ;
+        PRONOUN-TYPES ; ! in affixes/pronouns.lexc 2019-06-06
 
  ABBR_udm2x ;	!!= * @CODE@ abbreviations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations

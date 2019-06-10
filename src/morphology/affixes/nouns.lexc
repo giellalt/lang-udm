@@ -339,14 +339,14 @@ LEXICON NOUNSUF_01_V
 +Sg+Ter+PxPl3:%>озязы K ; !Sg
 
 LEXICON AFTER-SG/PL-CASE_C
-+Nom:%> K;
+ NOM-K ;
 +Acc+Dial/North:%>ты K;
-+Gen:%>лэн K;
-+Abl:%>лэсь K;
-+Dat:%>лы K;
-+Abe:%>тэк K;
+ GEN-K ;
+ ABL-K ;
+ DAT-K ;
+ ABE-K ;
+ APR-K ;
 +Advl:%>ъя K;
-+Apr:%>лань K;
 ! with possession
 +Nom+PxPl1:%>мы K ;
 +Nom+PxPl2:%>ды K ;
@@ -471,6 +471,24 @@ LEXICON AFTER-SG/PL-CASE_V
 +Apr+PxSg1:%>элань K ;
 +Apr+PxSg2:%>эдлань K ;
 +Apr+PxSg3:%>эзлань K ;
+
+LEXICON ABE-K
++Abe:%>тэк K ;
+
+LEXICON ABL-K
++Abl:%>лэсь K ;
+
+LEXICON APR-K
++Apr:%>лань K ;
+
+LEXICON DAT-K
++Dat:%>лы K ;
+
+LEXICON GEN-K
++Gen:%>лэн K ;
+
+LEXICON NOM-K
++Nom: K ;
 
 
 LEXICON ACRONDELIMITER
