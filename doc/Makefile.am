@@ -7,8 +7,6 @@
 #
 # dir/filename.lexc => filename-dir.jspwiki
 
-if CAN_DOCC
-
 JSP_PAGES=root-morphology.jspwiki \
 		  nouns-affixes.jspwiki \
 		  adverbs-affixes.jspwiki \
@@ -34,10 +32,4 @@ JSP_PAGES=root-morphology.jspwiki \
 # adjectives-affixes.jspwiki       \
 # propernouns-stems.jspwiki      \
 # udm-phon-phonology.jspwiki       \
-ALLINONE_JSP_PAGE=$(srcdir)/$(GTLANG).jspwiki
-
-LINKS=$(srcdir)/Links.jspwiki
-
-endif # CAN_DOCC
-
 include $(top_srcdir)/am-shared/doc-dir-include.am
