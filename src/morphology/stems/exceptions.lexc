@@ -101,3 +101,10 @@ LEXICON EXCEPTIONS
 эмалировать # ;
 эмигрировать # ;
 
+!! Proper names from Bible
+Иерусалим+N+Prop:Иерусалим PROP_ ;
+
+Пилат+N+Prop:Пилат PROP_ ;
+Океания+N+Prop:Океания PROP_RUS_JA ;
+Япония+N+Prop:Япония PROP_RUS_JA ;
+Колумбия+N+Prop:Колумбия PROP_RUS_JA ;
