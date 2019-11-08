@@ -518,13 +518,18 @@ LEXICON Root
         PRONOUN-TYPES ; ! in affixes/pronouns.lexc 2019-06-06
 
  ABBR_udm2x ;	!!= * @CODE@ abbreviations
+ Acronym ;!! Testing 2019-11-07
+ urj-Cyrl-ProperNouns ; !! Testing 2019-11-07
+
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
 
  V-NEG_ ;
+ EXCEPTIONS ;
 
 !!! Undeveloped contlexes
 
 !! ABBREVIATIONS
+Abbreviation ; !2019-11-07
 !! these still need development 2015-11-03
 LEXICON AB-NO-DOT-N_
 +N+ABBR: # ;

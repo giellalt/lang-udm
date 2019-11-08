@@ -57,6 +57,8 @@ LEXICON V-NEG_
 
 уг+V+Neg+Imprt+Sg2:эн K ;
 уг+V+Neg+Imprt+Pl2:эн K ;
+!CHECKME 2019-11-07
+ӧвӧл+V+Neg+Sg:ӧвӧл K ;
 
 
 !! Typical V_MONO entry is the long stem, ending on <ы>

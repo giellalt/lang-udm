@@ -319,6 +319,22 @@ LEXICON N_СЮЛЭМ
 : NOUNSUF_01_C ;
 
 
+!! according to kpv temporary 2019-11-07
+LEXICON CASEPOSSLEX !!≈ * __@CODE@__
+! DERIVEDADJ ;    ! Deriving prenominal adjectives, республикаса
+CASEPOSSLEX-afterDerivation ;
+
+LEXICON CASEPOSSLEX-afterDerivation
+AFTER-SG/PL-CASE_C ;
+AFTER-SG/PL-CASE_V ;
+
+LEXICON NMN_END-IN-Ч/ДЗ !!= * @CODE@ водз:водз
+!+Cmp: R ;
++Sg: AFTER-SG/PL-CASE_C ;
++Sg: AFTER-SG/PL-CASE_V ;
++Pl:%>ьяс CASEPOSSLEX ;
+
+
 !! À la Jaska
 LEXICON NOUNSUF
 : NOUNSUF_01 ;

@@ -194,8 +194,6 @@ LEXICON PROP_KUDO_MAL
 LEXICON PROP_KUDO_PATRFEM
 +Sem/Patr-Fem+Sg: CASEPOSSLEX ; 
 
-!2018-10-21!LEXICON PROP_KUDO_PATRMAL
-!2018-10-21!+Sem/Patr-Mal+Sg: CASEPOSSLEX ; 
 LEXICON PROP_LAK_MAL
 +Sem/Mal+Sg: CASEPOSSLEX ;
 LEXICON PROP_OSH_FEM
@@ -297,10 +295,10 @@ LEXICON PropSur-kudo
 
 
 !This might need some working on 2012-01-23
-LEXICON PROP-MAL-DERIVABLE !Patronyms
-ович+Sem/Patr-Mal+Sg:%>ович CASEPOSSLEX ; ! Владимирович
-овна+Sem/Patr-Fem+Sg:%>овна CASEPOSSLEX ; ! Владимировна
- PROP-MAL ; ! Владимир
+!LEXICON PROP-MAL-DERIVABLE !Patronyms
+!ович+Sem/Patr-Mal+Sg:%>ович CASEPOSSLEX ; ! Владимирович
+!овна+Sem/Patr-Fem+Sg:%>овна CASEPOSSLEX ; ! Владимировна
+! PROP-MAL ; ! Владимир
 
 !! FEMALE NAMES FROM TEMPLATE
 !2018-10-21!LEXICON Prop-kal_fem
@@ -319,14 +317,14 @@ LEXICON PROP-MAL-DERIVABLE !Patronyms
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-LEXICON PROP-PLC ! Inanimate proper nouns. Place names
-+Sg: CASEPOSSLEX-afterDerivation ;
-+Sg: DENOMINAL-LOCATIVE-ADJECTIVES ; !!= * __@CODE@__ This requires down-casing
+!LEXICON PROP-PLC ! Inanimate proper nouns. Place names
+!+Sg: CASEPOSSLEX-afterDerivation ;
+!+Sg: DENOMINAL-LOCATIVE-ADJECTIVES ; !!= * __@CODE@__ This requires down-casing
 
 
-LEXICON PROP-PLC-KPV ! Inanimate proper nouns. Place names
-+Sem/Plc+EOLang/KPV+Sg: CASEPOSSLEX-afterDerivation ;
-@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Sg:@U.Cap.Opt@ DENOMINAL-LOCATIVE-ADJECTIVES ; !!= * __@CODE@__ This requires down-casing
+!LEXICON PROP-PLC-KPV ! Inanimate proper nouns. Place names
+!+Sem/Plc+EOLang/KPV+Sg: CASEPOSSLEX-afterDerivation ;
+!@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Sg:@U.Cap.Opt@ DENOMINAL-LOCATIVE-ADJECTIVES ; !!= * __@CODE@__ This requires down-casing
 
 !2018-10-21!LEXICON PROP-PLC-RUS ! Inanimate proper nouns. Place names
 !2018-10-21!+Sem/Plc+Src/F+Sg: CASEPOSSLEX ;
@@ -340,25 +338,25 @@ LEXICON PROP-PLC-KPV ! Inanimate proper nouns. Place names
 !2018-10-21!+EOLang/RUS+Sg: CASEPOSSLEX ;
 !2018-10-21!+EOLang/RUS+Der+Der/са@U.Cap.Opt@:%>са@U.Cap.Opt@ A_ ; !!= * __@CODE@__ This requires down-casing
 
-LEXICON PROP-PLC_SUB ! Inanimate proper nouns. Place names
-+Sem/Plc+Err/Orth+Sg: CASEPOSSLEX ;
-@U.Cap.Opt@+Sem/Plc+Err/Orth+Der+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!LEXICON PROP-PLC_SUB ! Inanimate proper nouns. Place names
+!+Sem/Plc+Err/Orth+Sg: CASEPOSSLEX ;
+!@U.Cap.Opt@+Sem/Plc+Err/Orth+Der+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
-LEXICON PROP-ORG ! Inanimate proper nouns. Name of organization
-+Sem/Org+Sg: CASEPOSSLEX ;
+!LEXICON PROP-ORG ! Inanimate proper nouns. Name of organization
+!+Sem/Org+Sg: CASEPOSSLEX ;
 
-LEXICON Prop-Sur
-Prop-Sur-Mal ;
-Prop-Sur-Fem ;
+!LEXICON Prop-Sur
+!Prop-Sur-Mal ;
+!Prop-Sur-Fem ;
 
-LEXICON Prop-Sur-Mal ! Basic nouns.
-+Sem/Sur-Mal+Sg: CASEPOSSLEX ;
+!LEXICON Prop-Sur-Mal ! Basic nouns.
+!+Sem/Sur-Mal+Sg: CASEPOSSLEX ;
 
-LEXICON PROP-MAL ! Male given names
-+Sem/Mal+Sg: CASEPOSSLEX ;
+!LEXICON PROP-MAL ! Male given names
+!+Sem/Mal+Sg: CASEPOSSLEX ;
 
-LEXICON Prop-Sur-Fem ! Basic nouns.
-+Sem/Sur-Fem+Sg: CASEPOSSLEX ;
+!LEXICON Prop-Sur-Fem ! Basic nouns.
+!+Sem/Sur-Fem+Sg: CASEPOSSLEX ;
 
 
 

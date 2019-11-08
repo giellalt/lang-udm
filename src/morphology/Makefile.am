@@ -26,6 +26,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
+			 stems/exceptions.lexc      \
 			 stems/nouns_newwords.lexc       \
 			 affixes/adjectives.lexc  \
 			 affixes/adverbs.lexc     \
@@ -53,6 +54,7 @@ GT_LEXC_L2_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
+			 generated_files/urj-Cyrl-propernouns.lexc \
 			 $(srcdir)/stems/ABBR_udm2x.lexc \
 			 $(srcdir)/stems/adjectives.lexc \
 			 $(srcdir)/stems/adverbs.lexc \
@@ -99,7 +101,9 @@ GT_LOCAL_SRCS=
 GT_LOCAL_XFSCRIPT_SRCS=
 
 # Define here any additional sources just included in the distro:
-GT_DISTRO_SRCS=
+GT_DISTRO_SRCS=stems/$(GTLANG)-propernouns.lexc \
+                $(top_srcdir)/src/scripts/urj-Cyrl-$(GTLANG)-conversion.pl
+
 
 ### BEGIN: Local processing: ###
 
@@ -115,6 +119,24 @@ generated_files/urj-Cyrl-propernouns.lexc: \
 	$(GIELLA_SHARED)/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
 	$(AM_V_at)$(MKDIR_P) generated_files
 	$(AM_V_CP)cp -f $< $@
+
+generated_files/urj-Cyrl-$(GTLANG)-propernouns.lexc: \
+		generated_files/urj-Cyrl-propernouns.lexc \
+		$(srcdir)/stems/$(GTLANG)-propernouns.lexc
+	$(AM_V_GEN)rm -f $@ && \
+	cp -f $(srcdir)/stems/$(GTLANG)-propernouns.lexc $@ && \
+	echo "" >> $@ && \
+	echo "! <--- Dump from URJ-CYRL -->" >> $@ && \
+	echo "" >> $@ && \
+	$(top_srcdir)/src/scripts/urj-Cyrl-$(GTLANG)-conversion.pl $< >> $@
+
+
+generated_files/%.lexc: \
+			$(GIELLA_SHARED)/urj-Cyrl/src/morphology/stems/%.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_GEN)cp -f $< $@
+
+
 
 
 ### END: Local processing: ###
