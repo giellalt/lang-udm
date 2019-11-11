@@ -41,8 +41,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Pcle    !!≈ * @CODE@  Particle
 +Num     !!≈ * @CODE@  Numeral
 
-
-
++Conj	 !!≈ * @CODE@ FIXME
++Recip
 
 !! The parts of speech are further split up into:
 
@@ -142,6 +142,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +ConNegII   	!!≈ * @CODE@  Connegative (used with verb of negation) ?Does this apply to Udmurt?
 +Neg	    	!!≈ * @CODE@  Negation, (used to mark verb of negation)
 +ImprtII   	!!≈ * @CODE@  Imperative II, ?Does this apply to Udmurt?
+ +PrcPrs	!CHECKME
  +PrcPrsPos    	!!= @CODE@  Participle present positive
  +PrcPrfAdn    	!!= @CODE@  Participle perfect adnominal
  +PrcPrfPred   	!!= @CODE@  Participle perfect predicative
@@ -181,6 +182,28 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! Question and Focus particles:
  +Qst  !!≈ * @CODE@  Question
  +Foc  !!≈ * @CODE@  Focus
+
+!! !Tags distinguishing different versions of the same lemma (before POS)
++v1   !!≈ * @CODE@
++v2   !!≈ * @CODE@
++v3   !!≈ * @CODE@
++v4   !!≈ * @CODE@
++v5   !!≈ * @CODE@
++v6   !!≈ * @CODE@
++v7   !!≈ * @CODE@
++v8   !!≈ * @CODE@
++v9   !!≈ * @CODE@
++v10  !!≈ * @CODE@
++v11  !!≈ * @CODE@
++v12  !!≈ * @CODE@
++v13  !!≈ * @CODE@
++v14  !!≈ * @CODE@
++v15  !!≈ * @CODE@
++v16  !!≈ * @CODE@
++v17  !!≈ * @CODE@
++v18  !!≈ * @CODE@
++v19  !!≈ * @CODE@
++v20  !!≈ * @CODE@
 
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
@@ -264,6 +287,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Sem/State-sick      !!≈ * __@CODE@__ Illness
  +Sem/Substnc     !!≈ * __@CODE@__ Substance, like Air and Water
  +Sem/Sur         !!≈ * __@CODE@__ Surname
+ +Sem/Sur-Fem         !!≈ * __@CODE@__ Surname
+ +Sem/Sur-Mal         !!≈ * __@CODE@__ Surname
  +Sem/Symbol      !!≈ * __@CODE@__ Symbol
  +Sem/Time        !!≈ * __@CODE@__ Time
  +Sem/Tool        !!≈ * __@CODE@__ Prototypical tool for repairing things
@@ -433,6 +458,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Der/Эмтэ    !!= @CODE@ мынэмтэ ужамтэ
  +Der/Этӥ    !!= @CODE@ ordinals
 
+ +AssocColl
+
 !! Dialectical variation
  +Dial/North  !!≈ * @CODE@
  +Dial/South  !!≈ * @CODE@
@@ -461,9 +488,19 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 {front}
 {back}
 %^RusJa      !!≈ * @CODE@ Эстония:Эстониез
+%^RusJaErr   !!= * @CODE@ Эстония:Эстонияез
+%^NotRusJa   !!= * @CODE@ no words in ия ие
 %^SYNC	     !!≈ * @CODE@
 %^ЫLossVar   !!≈ * @CODE@ This is used for мыныны: мыны ~ мын
 %^ЫLoss      !!≈ * @CODE@ This is used for мыныны: мын
+
+!! !Symbols that need to be escaped on the lower side (towards twolc):
+
+ »7     !! * »
+ «7     !! * «
+ %[%>%] !! * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+ %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
