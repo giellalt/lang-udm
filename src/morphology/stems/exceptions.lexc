@@ -103,16 +103,15 @@ LEXICON EXCEPTIONS
 
 !! Proper names from Bible
 Иерусалим+N+Prop:Иерусалим PROP_ ;
-
 Пилат+N+Prop:Пилат PROP_ ;
-Океания+N+Prop:Океания PROP_RUS_JA ;
-Япония+N+Prop:Япония PROP_RUS_JA ;
-Колумбия+N+Prop:Колумбия PROP_RUS_JA ;
 Библия+N+Prop:Библи PROP_RUS_JA  "" ;
-Эфиопия+N+Prop:Эфиопия PROP_RUS_JA  "XXX" ;
+
 Иоанн+N+Prop:Иоанн PROP_ ;
 Иаков+N+Prop:Иаков PROP_ ;
 Иак+N+Prop:Иак PROP_ ;
 Петр+N+Prop:Петр PROP_ ;
 Иисус+N+Prop:Иисус PROP_ ;
 Xристос+N+Prop:Xристос PROP_ ;
+
+! move to urj-Cyrl
+Эфиопия+N+Prop:Эфиопия PROP_RUS_JA  "XXX" ;
