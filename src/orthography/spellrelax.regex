@@ -20,6 +20,7 @@
 ӣ (->) и, # Cyrillic for sjd
 ˊ (->) ´, # 00B4 ACUTE ACCENT for Skolt 02CA MIDIFIER LETTER ACUTE ACCENT
 #' (->) 0, # Inari optional ' mark
+%- (->) ­, # hyphen accepts soft hyphen
 Ï (->) I 
 ;
 

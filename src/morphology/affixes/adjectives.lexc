@@ -88,7 +88,7 @@ LEXICON ABSCOMP
  ADJ_COMP ;
 
 LEXICON ADJ_ABS
- +Abs:  K ; !This may need something else 2019-06-03
++Cmpl:  K ; !This may need something else 2019-06-03
 
 LEXICON ADJ_DETERM
 +Sg:      ADJ_SG/PL_DETERM_CASE ;

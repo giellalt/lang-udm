@@ -74,6 +74,19 @@ LEXICON V_MONO
 +Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
 +PrcPrfNeg:%>%^Е2мтэе K ;
  V_МЫНЫНЫ ;
++Ind+Fut:%>%^О2 FUT-PERSON ;
++Ind+Fut+Pl1:%>%^О2%>мы K ;
++Ind+Prs+Pl3:%>%^О2 K ;
++Ind+Prs+ConNeg+Pl3:%>%^О2 K ;
++Opt+Sg1:%>%^О2м K ;
++Opt+Sg2:%>%^О2д K ;
++Opt+Sg3:%>%^О2з K ;
++Opt+Pl1:%>%^О2мы K	;
++Opt+Pl2:%>%^О2ды K	;
++Opt+Pl3:%>%^О2зы K	;
++Der/Он:%>%^О2н  N_	;
++Der/Он+N+Der/тэм:%>%^О2н%>тэм  A_	;
++Der/Оно:%>%^О2но  A_	;
 
 
 LEXICON V_UZA
@@ -84,6 +97,19 @@ LEXICON V_UZA
 +Ind+PrtII+Neg+Pl2:%>мтэды K ;
 +PrcPrfNeg:%>%^Е2мтэ K ;
  V_МЫНЫНЫ ;
++Ind+Fut:%>%^Л3%^О2 FUT-PERSON ;
++Ind+Fut+Pl1:%>%^Л3%^О2%>мы K ;
++Ind+Prs+Pl3:%>%^Л3%^О2 K ;
++Ind+Prs+ConNeg+Pl3:%>%^Л3%^О2 K ;
++Opt+Sg1:%>%^Л3%^О2м K ;
++Opt+Sg2:%>%^Л3%^О2д K ;
++Opt+Sg3:%>%^Л3%^О2з K ;
++Opt+Pl1:%>%^Л3%^О2мы K	;
++Opt+Pl2:%>%^Л3%^О2ды K	;
++Opt+Pl3:%>%^Л3%^О2зы K	;
++Der/Он:%>%^Л3%^О2н  N_	;
++Der/Он+N+Der/тэм:%>%^Л3%^О2н%>тэм  A_	;
++Der/Оно:%>%^Л3%^О2но  A_	;
 
 
 !! Mutual à la Jaska
@@ -92,8 +118,6 @@ LEXICON V_МЫНЫНЫ !! мыныны:мыны
 !! * Yaml: __mynyny__ 
 
 +Ind+Prs: APRS ;
-+Ind+Fut:%>%^О2 FUT-PERSON ;
-+Ind+Fut+Pl1:%>%^О2%>мы K ;
 +Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
 +Ind+Fut+ConNeg+Pl:%>%^Е2 K ;
 +Ind+Fut+ConNeg+Pl:%>%^Е2лэ K ;
@@ -115,13 +139,11 @@ LEXICON APRS
 +Pl1:%>%^И2ськом K ;
 +Pl1:%>%^И2ськомы K ;
 +Pl2:%>%^И2ськоды K ;
-+Pl3:%>%^О2 K ;
 +ConNeg+Sg1:%>%^И2ськы K ;
 +ConNeg+Sg2:%>%^И2ськы K ;
 +ConNeg+Sg3:%^ЫLossVar K ;
 +ConNeg+Pl1:%>%^И2ське K ;
 +ConNeg+Pl2:%>%^И2ське K ;
-+ConNeg+Pl3:%>%^О2 K ;
 
 LEXICON FUT-PERSON
 !! Lexicon __@LEXNAME@__
@@ -200,12 +222,6 @@ LEXICON IMPRT
 
 LEXICON OPT
 !! Lexicon __@LEXNAME@__
-+Sg1:%^О2м K ;
-+Sg2:%^О2д K ;
-+Sg3:%^О2з K ;
-+Pl1:%^О2мы K	;
-+Pl2:%^О2ды K	;
-+Pl3:%^О2зы K	;
 +ConNeg+Sg:%^ЫLoss K ;
 +ConNeg+Sg3:%^ЫLossVar K	;
 +ConNeg+Pl:%>%^Е2 K ;
@@ -218,9 +234,6 @@ LEXICON NONFINITES
 +GerNeg:%>тэк  K	;
 +Der/тозь+GerTer:%>тозь  K	;
 +Der/ку+GerTemp:%>ку  K	;
-+Der/Он:%^О2н  N_	;
-+Der/Он+N+Der/тэм:%^О2н%>тэм  A_	;
-+Der/Оно:%^О2но  A_	;
 +PrcPrs+N+Der/тэм:%>%^И2сьтэм A_ ;
 +PrcPrsNeg:%>%^И2сьтэм K ;
 +PrcPrsPos:%>%^И2сь K ;

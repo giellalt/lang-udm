@@ -55,6 +55,9 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Rel	     !!≈ * @CODE@  Relative
 +Indef	     !!≈ * @CODE@  Indefinite
 
+ +Descr
+ +Neg
+
 
 !! The Usage extents are marked using following tags:
 
@@ -72,7 +75,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! The nominals are inflected in the following Case
 !! TODO: Document case names!
 
-+Abs  !!≈ * @CODE@ Absolute form 2019-06-03
++Cmpl  !!≈ * @CODE@ Absolute form 2019-06-03 is complement of following head 2019-11-21 do we want this
+
 +Nom  !!≈ * @CODE@  Nominative
 +Acc  !!≈ * @CODE@  Accusative
 +Gen  !!≈ * @CODE@  Genitive
@@ -115,6 +119,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Imprt	!!= @CODE@ Imperative
  +Ind	!!= @CODE@ Indicative
  +Opt	!!= @CODE@ Optional
+
+
 
 !! Verb tenses are:
  +Fut !!= @CODE@   Future
@@ -459,6 +465,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Der/Этӥ    !!= @CODE@ ordinals
 
  +AssocColl
+ +Aux
 
 !! Dialectical variation
  +Dial/North  !!≈ * @CODE@
@@ -477,6 +484,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 %^О2	       !!≈ * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
 %^Е3	       !!≈ * @CODE@ Acc, Ill е э ы
 %^А3	       !!≈ * @CODE@ Ine а, я
+%^Л3	       !!= * @CODE@ ужаны:ужало
 %^К3	       !!≈ * @CODE@ нюлэс:нюлэсК3
 %^М3	       !!≈ * @CODE@ син:синМ3
 
@@ -605,13 +613,14 @@ LEXICON NUM_
 
 LEXICON NUM_НЬЫЛЬ
 ! The initial +Num tag is inserted in postpositions.lexc
-!+Card+Abs: # ;
+!+Card: # ;
 +Card: N_ ;
-!+Der/Этӥ+Ord+Abs:%>%^Е3тӥ # ;
+!+Der/Этӥ+Ord:%>%^Е3тӥ # ;
 +Der/Этӥ+Ord:%>%^Е3тӥ N_ ;
 
 
 LEXICON K
++Qst:%-а # ;
  # ;
 
 !2013-01-23

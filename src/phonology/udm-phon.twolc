@@ -33,6 +33,7 @@ Alphabet
 %^О2:о	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
 %^Е3:е %^Е3:э %^Е3:ы       !!= * @CODE@ Acc, Ill е э ы
 %^А3:0	       !!= * @CODE@ Ine а, я
+%^Л3:0	       !!= * @CODE@ ужаны:ужало
 %^К3:0	       !!= * @CODE@ нюлэс:нюлэс%^К3
 %^М3:0	       !!= * @CODE@ син:син%^М3
 %{еэ%}:е	       !!= * @CODE@ morpheme initial vowel е э , e.g. Acc
@@ -163,7 +164,7 @@ Rules
 
 "%^О2:о"
 !! __@RULENAME@__
- %^О2:о <=> [ Cns ы: (%>) | Vow %> 0: ] _ ;
+ %^О2:о <=> [ [Cns|Vow] ы: (%>) | [Vow - [ ы: | й: ]] %> ( %^Л3:0 ) ] _ ;
 !!€ мыны%>%^О2
 !!€ мын0%>о
 !!€ ужа%>0%^О2
@@ -203,7 +204,7 @@ Rules
  ы:0 <= _ %> [ %^Е2: | %{еэ%}: | %^И2: | %^О2: ] ;
 !!€ луы%>%^Е2м
 !!€ лу0%>эм
-        Vow Cns _ [ %^ЫLoss: | %^О2: ] ;
+         Vow Cns _ [ %^ЫLoss: | %^О2: ] ;
 
 "Stem vowel loss Ы2:0 RIGHT"
 !! __@RULENAME@__
@@ -270,10 +271,10 @@ Rules
      [ ь | й ] %> _ [ я | ё ] ;
 
 !! !!ZERO TO CONSONANT
-"0:л"
+"%^Л3:л"
 !! __@RULENAME@__
- 0:л <=> Vow %> _ %^О2: ;
-!!€ ужа%>0%^О2
+ %^Л3:л <=> Vow %> _ %^О2: ;
+!!€ ужа%>%^Л3%^О2
 !!€ ужа%>ло
 
 !! !!CONSONANTS
