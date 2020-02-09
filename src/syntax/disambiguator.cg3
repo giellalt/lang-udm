@@ -209,6 +209,16 @@ REMOVE:NegConNeg ConNeg IF (NOT -1 Neg) ;
 
 REMOVE:ImprtInitially Imprt IF (NOT *-1 BOS); # All too brutal
 
+# эн кариське
+REMOVE:NegPcleWhenNegVerb Pcle IF (0 ("эн")) (1 ConNeg) ;
+
+# эн кариське
+REMOVE:NoIndWhenPreceededByNegImprt Ind IF (-1 V + Neg + Imprt) (0 V + Imprt + ConNeg) ;
+
+#  эн кариське
+SELECT:ConNegWhenPreceededByVNeg ConNeg IF (-1 V + Neg) (0 V) ;
+
+
 REMOVE:GenPxSg3 PxSg3 IF (NOT *-1 Nom)(0 Acc);
 
 SELECT:NomPo Nom IF (1C Po);

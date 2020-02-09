@@ -153,6 +153,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +PrcPrfAdn    	!!= @CODE@  Participle perfect adnominal
  +PrcPrfPred   	!!= @CODE@  Participle perfect predicative
  +PrcPrfNeg    	!!= @CODE@  Participle perfect negative 
+ +PrcPrsNeg    	!!= @CODE@  Participle present negative CHECKME
  +GerPos       	!!= @CODE@ мыныса    Gerund positive
  +GerNeg       	!!= @CODE@ мынытэк   Gerund negative
  +GerTer       	!!= @CODE@ мынытозь  Gerund terminative
