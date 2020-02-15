@@ -88,6 +88,10 @@ LEXICON V_MONO
 +Der/Он+N+Der/тэм:%>%^О2н%>тэм  A_	;
 +Der/Оно:%>%^О2но  A_	;
 
+LEXICON V-WITH-KARON
+!! words that do not occur alone
+!! Russian verbs are often followed by the Udmurt карыны OR карон
++Pcle+OLang/RUS+RusV: # ;
 
 LEXICON V_UZA
 !! Lexicon __@LEXNAME@__
