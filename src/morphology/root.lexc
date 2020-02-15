@@ -64,6 +64,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Err/Orth     !!≈ * @CODE@ Not in norm
 +Use/-Spell  !!≈ * @CODE@ Not in speller
 
++OLang/RUS !!≈ * @CODE@ - Russian
++RusV     !!≈ * @CODE@ this is for Russian verbs followed by Udmurt  карыны OR карон
 
 !! The nominals are inflected in the following Number
 

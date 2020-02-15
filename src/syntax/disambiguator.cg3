@@ -211,6 +211,17 @@ REMOVE:ImprtInitially Imprt IF (NOT *-1 BOS); # All too brutal
 
 # эн кариське
 REMOVE:NegPcleWhenNegVerb Pcle IF (0 ("эн")) (1 ConNeg) ;
+# уг нуы
+REMOVE:NoNegInterjWhenNegVerb Interj IF (0 ("уг")) (1 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoPrtWhenNegVerbElse PrtI IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoImprtWhenNegVerbElse Imprt IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoOptWhenNegVerbElse Opt IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
 
 # эн кариське
 REMOVE:NoIndWhenPreceededByNegImprt Ind IF (-1 V + Neg + Imprt) (0 V + Imprt + ConNeg) ;
