@@ -1,0 +1,16 @@
+!! !!!Adverbs
+!  --------------------
+!! Udmurt (Votyak) .
+
+!! The adverbs have a minimal morphology, just the tag +Adv.
+
+
+LEXICON ADV_ !!= @CODE@ Undeveloped contlexes
+! the +Adv is inserted in the initial adverbs.lexc file
+: # ;
+
+
+
+
+! vim: set ft=xfst-lexc:
+

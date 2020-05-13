@@ -1,0 +1,10 @@
++A+Sg+Nom
++A+Sg+Gen
++A+Sg+Ill
++A+Sg+Loc
++A+Sg+Com
++A+Ess  
++A+Attr
++A+Pl+Nom  
++A+Comp+Pl+Nom
++A+Superl+Pl+Nom

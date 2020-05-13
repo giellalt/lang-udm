@@ -1,0 +1,3756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Po">азе</l>
+         <stg>
+            <st Contlex="PO_">азе</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азелы</l>
+         <stg>
+            <st Contlex="PO_">азелы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьланьын</l>
+         <stg>
+            <st Contlex="PO_">азьланьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьлон</l>
+         <stg>
+            <st Contlex="PO_">азьлон</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьтӥ</l>
+         <stg>
+            <st Contlex="PO_">азьтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьын</l>
+         <stg>
+            <st Contlex="PO_">азьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьысен</l>
+         <stg>
+            <st Contlex="PO_">азьысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьысь</l>
+         <stg>
+            <st Contlex="PO_">азьысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азьёсын</l>
+         <stg>
+            <st Contlex="PO_">азьёсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азям</l>
+         <stg>
+            <st Contlex="PO_">азям</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">азёзь</l>
+         <stg>
+            <st Contlex="PO_">азёзь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">аркаын</l>
+         <stg>
+            <st Contlex="PO_">аркаын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">асняд</l>
+         <stg>
+            <st Contlex="PO_">асняд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бер</l>
+         <stg>
+            <st Contlex="PO_">бер</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берад</l>
+         <stg>
+            <st Contlex="PO_">берад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бераз</l>
+         <stg>
+            <st Contlex="PO_">бераз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">беразы</l>
+         <stg>
+            <st Contlex="PO_">беразы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берам</l>
+         <stg>
+            <st Contlex="PO_">берам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бервылаз</l>
+         <stg>
+            <st Contlex="PO_">бервылаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бере</l>
+         <stg>
+            <st Contlex="PO_">бере</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берланьын</l>
+         <stg>
+            <st Contlex="PO_">берланьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берозь</l>
+         <stg>
+            <st Contlex="PO_">берозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бертӥ</l>
+         <stg>
+            <st Contlex="PO_">бертӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">беры</l>
+         <stg>
+            <st Contlex="PO_">беры</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берын</l>
+         <stg>
+            <st Contlex="PO_">берын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берысен</l>
+         <stg>
+            <st Contlex="PO_">берысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">берысь</l>
+         <stg>
+            <st Contlex="PO_">берысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордад</l>
+         <stg>
+            <st Contlex="PO_">бордад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордаз</l>
+         <stg>
+            <st Contlex="PO_">бордаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордам</l>
+         <stg>
+            <st Contlex="PO_">бордам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордозь</l>
+         <stg>
+            <st Contlex="PO_">бордозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордтӥ</l>
+         <stg>
+            <st Contlex="PO_">бордтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">борды</l>
+         <stg>
+            <st Contlex="PO_">борды</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордын</l>
+         <stg>
+            <st Contlex="PO_">бордын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордысен</l>
+         <stg>
+            <st Contlex="PO_">бордысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордысь</l>
+         <stg>
+            <st Contlex="PO_">бордысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордытӥ</l>
+         <stg>
+            <st Contlex="PO_">бордытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бордэ</l>
+         <stg>
+            <st Contlex="PO_">бордэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">быдэ</l>
+         <stg>
+            <st Contlex="PO_">быдэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">быдӟа</l>
+         <stg>
+            <st Contlex="PO_">быдӟа</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсьы</l>
+         <stg>
+            <st Contlex="PO_">бӧрсьы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсьын</l>
+         <stg>
+            <st Contlex="PO_">бӧрсьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсьысь</l>
+         <stg>
+            <st Contlex="PO_">бӧрсьысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсьытӥ</l>
+         <stg>
+            <st Contlex="PO_">бӧрсьытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсяд</l>
+         <stg>
+            <st Contlex="PO_">бӧрсяд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсяз</l>
+         <stg>
+            <st Contlex="PO_">бӧрсяз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">бӧрсям</l>
+         <stg>
+            <st Contlex="PO_">бӧрсям</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадескозь</l>
+         <stg>
+            <st Contlex="PO_">вадескозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадескы</l>
+         <stg>
+            <st Contlex="PO_">вадескы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадескысен</l>
+         <stg>
+            <st Contlex="PO_">вадескысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадескысь</l>
+         <stg>
+            <st Contlex="PO_">вадескысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадескытӥ</l>
+         <stg>
+            <st Contlex="PO_">вадескытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадесозь</l>
+         <stg>
+            <st Contlex="PO_">вадесозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадестӥ</l>
+         <stg>
+            <st Contlex="PO_">вадестӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадесы</l>
+         <stg>
+            <st Contlex="PO_">вадесы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадесын</l>
+         <stg>
+            <st Contlex="PO_">вадесын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадесысен</l>
+         <stg>
+            <st Contlex="PO_">вадесысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадесысь</l>
+         <stg>
+            <st Contlex="PO_">вадесысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсозь</l>
+         <stg>
+            <st Contlex="PO_">вадьсозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсы</l>
+         <stg>
+            <st Contlex="PO_">вадьсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсын</l>
+         <stg>
+            <st Contlex="PO_">вадьсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсысен</l>
+         <stg>
+            <st Contlex="PO_">вадьсысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсысь</l>
+         <stg>
+            <st Contlex="PO_">вадьсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вадьсытӥ</l>
+         <stg>
+            <st Contlex="PO_">вадьсытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вактам</l>
+         <stg>
+            <st Contlex="PO_">вактам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вакытаз</l>
+         <stg>
+            <st Contlex="PO_">вакытаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">валлин</l>
+         <stg>
+            <st Contlex="PO_">валлин</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">валысен</l>
+         <stg>
+            <st Contlex="PO_">валысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">валысь</l>
+         <stg>
+            <st Contlex="PO_">валысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вискы</l>
+         <stg>
+            <st Contlex="PO_">вискы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вискысен</l>
+         <stg>
+            <st Contlex="PO_">вискысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вискысь</l>
+         <stg>
+            <st Contlex="PO_">вискысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вискытӥ</l>
+         <stg>
+            <st Contlex="PO_">вискытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вистӥ</l>
+         <stg>
+            <st Contlex="PO_">вистӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">выжыяз</l>
+         <stg>
+            <st Contlex="PO_">выжыяз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылады</l>
+         <stg>
+            <st Contlex="PO_">вылады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылаз</l>
+         <stg>
+            <st Contlex="PO_">вылаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылазы</l>
+         <stg>
+            <st Contlex="PO_">вылазы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылам</l>
+         <stg>
+            <st Contlex="PO_">вылам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">выламы</l>
+         <stg>
+            <st Contlex="PO_">выламы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылланьын</l>
+         <stg>
+            <st Contlex="PO_">вылланьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылозь</l>
+         <stg>
+            <st Contlex="PO_">вылозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылтӥ</l>
+         <stg>
+            <st Contlex="PO_">вылтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылтӥз</l>
+         <stg>
+            <st Contlex="PO_">вылтӥз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылын</l>
+         <stg>
+            <st Contlex="PO_">вылын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылысен</l>
+         <stg>
+            <st Contlex="PO_">вылысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылысь</l>
+         <stg>
+            <st Contlex="PO_">вылысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вылэ</l>
+         <stg>
+            <st Contlex="PO_">вылэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзады</l>
+         <stg>
+            <st Contlex="PO_">вӧзады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзаз</l>
+         <stg>
+            <st Contlex="PO_">вӧзаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзам</l>
+         <stg>
+            <st Contlex="PO_">вӧзам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзозь</l>
+         <stg>
+            <st Contlex="PO_">вӧзозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзтӥ</l>
+         <stg>
+            <st Contlex="PO_">вӧзтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзы</l>
+         <stg>
+            <st Contlex="PO_">вӧзы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзын</l>
+         <stg>
+            <st Contlex="PO_">вӧзын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзысен</l>
+         <stg>
+            <st Contlex="PO_">вӧзысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзысь</l>
+         <stg>
+            <st Contlex="PO_">вӧзысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">вӧзэ</l>
+         <stg>
+            <st Contlex="PO_">вӧзэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорад</l>
+         <stg>
+            <st Contlex="PO_">дорад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дораз</l>
+         <stg>
+            <st Contlex="PO_">дораз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорам</l>
+         <stg>
+            <st Contlex="PO_">дорам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорозь</l>
+         <stg>
+            <st Contlex="PO_">дорозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дортӥ</l>
+         <stg>
+            <st Contlex="PO_">дортӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">доры</l>
+         <stg>
+            <st Contlex="PO_">доры</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорын</l>
+         <stg>
+            <st Contlex="PO_">дорын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорысен</l>
+         <stg>
+            <st Contlex="PO_">дорысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дорысь</l>
+         <stg>
+            <st Contlex="PO_">дорысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дуре</l>
+         <stg>
+            <st Contlex="PO_">дуре</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дурозь</l>
+         <stg>
+            <st Contlex="PO_">дурозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дуртӥ</l>
+         <stg>
+            <st Contlex="PO_">дуртӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дурын</l>
+         <stg>
+            <st Contlex="PO_">дурын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дурысен</l>
+         <stg>
+            <st Contlex="PO_">дурысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дурысь</l>
+         <stg>
+            <st Contlex="PO_">дурысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дырозь</l>
+         <stg>
+            <st Contlex="PO_">дырозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дыръя</l>
+         <stg>
+            <st Contlex="PO_">дыръя</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дыръяд</l>
+         <stg>
+            <st Contlex="PO_">дыръяд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дыръяз</l>
+         <stg>
+            <st Contlex="PO_">дыръяз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дыръям</l>
+         <stg>
+            <st Contlex="PO_">дыръям</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дырын</l>
+         <stg>
+            <st Contlex="PO_">дырын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дырысен</l>
+         <stg>
+            <st Contlex="PO_">дырысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дырысь</l>
+         <stg>
+            <st Contlex="PO_">дырысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥне</l>
+         <stg>
+            <st Contlex="PO_">дӥне</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥньтӥ</l>
+         <stg>
+            <st Contlex="PO_">дӥньтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥньын</l>
+         <stg>
+            <st Contlex="PO_">дӥньын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥньысен</l>
+         <stg>
+            <st Contlex="PO_">дӥньысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥньысь</l>
+         <stg>
+            <st Contlex="PO_">дӥньысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥняд</l>
+         <stg>
+            <st Contlex="PO_">дӥняд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥняз</l>
+         <stg>
+            <st Contlex="PO_">дӥняз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥням</l>
+         <stg>
+            <st Contlex="PO_">дӥням</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">дӥнёзь</l>
+         <stg>
+            <st Contlex="PO_">дӥнёзь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">зӧкта</l>
+         <stg>
+            <st Contlex="PO_">зӧкта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылаз</l>
+         <stg>
+            <st Contlex="PO_">йылаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылам</l>
+         <stg>
+            <st Contlex="PO_">йылам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылозь</l>
+         <stg>
+            <st Contlex="PO_">йылозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылтӥ</l>
+         <stg>
+            <st Contlex="PO_">йылтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылтӥд</l>
+         <stg>
+            <st Contlex="PO_">йылтӥд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылтӥм</l>
+         <stg>
+            <st Contlex="PO_">йылтӥм</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылъёсад</l>
+         <stg>
+            <st Contlex="PO_">йылъёсад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылын</l>
+         <stg>
+            <st Contlex="PO_">йылын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылысен</l>
+         <stg>
+            <st Contlex="PO_">йылысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йылэ</l>
+         <stg>
+            <st Contlex="PO_">йылэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">йырин</l>
+         <stg>
+            <st Contlex="PO_">йырин</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кадь</l>
+         <stg>
+            <st Contlex="PO_">кадь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">калозь</l>
+         <stg>
+            <st Contlex="PO_">калозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">калэ</l>
+         <stg>
+            <st Contlex="PO_">калэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кемдае</l>
+         <stg>
+            <st Contlex="PO_">кемдае</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кеме</l>
+         <stg>
+            <st Contlex="PO_">кеме</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кеметӥ</l>
+         <stg>
+            <st Contlex="PO_">кеметӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кемын</l>
+         <stg>
+            <st Contlex="PO_">кемын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кемысен</l>
+         <stg>
+            <st Contlex="PO_">кемысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">коже</l>
+         <stg>
+            <st Contlex="PO_">коже</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кожын</l>
+         <stg>
+            <st Contlex="PO_">кожын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кожысен</l>
+         <stg>
+            <st Contlex="PO_">кожысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кожысь</l>
+         <stg>
+            <st Contlex="PO_">кожысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котырад</l>
+         <stg>
+            <st Contlex="PO_">котырад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котыраз</l>
+         <stg>
+            <st Contlex="PO_">котыраз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котыре</l>
+         <stg>
+            <st Contlex="PO_">котыре</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котырозь</l>
+         <stg>
+            <st Contlex="PO_">котырозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котыртӥ</l>
+         <stg>
+            <st Contlex="PO_">котыртӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котырын</l>
+         <stg>
+            <st Contlex="PO_">котырын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">котырысен</l>
+         <stg>
+            <st Contlex="PO_">котырысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кузьда</l>
+         <stg>
+            <st Contlex="PO_">кузьда</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кузя</l>
+         <stg>
+            <st Contlex="PO_">кузя</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кузятӥ</l>
+         <stg>
+            <st Contlex="PO_">кузятӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куре</l>
+         <stg>
+            <st Contlex="PO_">куре</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспады</l>
+         <stg>
+            <st Contlex="PO_">куспады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспазы</l>
+         <stg>
+            <st Contlex="PO_">куспазы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспам</l>
+         <stg>
+            <st Contlex="PO_">куспам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспамы</l>
+         <stg>
+            <st Contlex="PO_">куспамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспетӥ</l>
+         <stg>
+            <st Contlex="PO_">куспетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспозь</l>
+         <stg>
+            <st Contlex="PO_">куспозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспы</l>
+         <stg>
+            <st Contlex="PO_">куспы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспын</l>
+         <stg>
+            <st Contlex="PO_">куспын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспысен</l>
+         <stg>
+            <st Contlex="PO_">куспысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспысь</l>
+         <stg>
+            <st Contlex="PO_">куспысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">куспытӥ</l>
+         <stg>
+            <st Contlex="PO_">куспытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кусыптӥ</l>
+         <stg>
+            <st Contlex="PO_">кусыптӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">кызда</l>
+         <stg>
+            <st Contlex="PO_">кызда</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ласянь</l>
+         <stg>
+            <st Contlex="PO_">ласянь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">луыса</l>
+         <stg>
+            <st Contlex="PO_">луыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">лэсяна</l>
+         <stg>
+            <st Contlex="PO_">лэсяна</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">марда</l>
+         <stg>
+            <st Contlex="PO_">марда</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">матам</l>
+         <stg>
+            <st Contlex="PO_">матам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мурда</l>
+         <stg>
+            <st Contlex="PO_">мурда</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мында</l>
+         <stg>
+            <st Contlex="PO_">мында</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мындала</l>
+         <stg>
+            <st Contlex="PO_">мындала</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мышказ</l>
+         <stg>
+            <st Contlex="PO_">мышказ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мышкын</l>
+         <stg>
+            <st Contlex="PO_">мышкын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мышкысен</l>
+         <stg>
+            <st Contlex="PO_">мышкысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">мышкысь</l>
+         <stg>
+            <st Contlex="PO_">мышкысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пал</l>
+         <stg>
+            <st Contlex="PO_">пал</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пала</l>
+         <stg>
+            <st Contlex="PO_">пала</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">палан</l>
+         <stg>
+            <st Contlex="PO_">палан</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">паласен</l>
+         <stg>
+            <st Contlex="PO_">паласен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">палась</l>
+         <stg>
+            <st Contlex="PO_">палась</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">палозь</l>
+         <stg>
+            <st Contlex="PO_">палозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">палтӥ</l>
+         <stg>
+            <st Contlex="PO_">палтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">палэнын</l>
+         <stg>
+            <st Contlex="PO_">палэнын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пасьта</l>
+         <stg>
+            <st Contlex="PO_">пасьта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">понна</l>
+         <stg>
+            <st Contlex="PO_">понна</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">поннады</l>
+         <stg>
+            <st Contlex="PO_">поннады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">поннамы</l>
+         <stg>
+            <st Contlex="PO_">поннамы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пужет</l>
+         <stg>
+            <st Contlex="PO_">пужет</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пужит</l>
+         <stg>
+            <st Contlex="PO_">пужит</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пулсы</l>
+         <stg>
+            <st Contlex="PO_">пулсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пулсын</l>
+         <stg>
+            <st Contlex="PO_">пулсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пулсысь</l>
+         <stg>
+            <st Contlex="PO_">пулсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пулсытӥ</l>
+         <stg>
+            <st Contlex="PO_">пулсытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пуме</l>
+         <stg>
+            <st Contlex="PO_">пуме</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумит</l>
+         <stg>
+            <st Contlex="PO_">пумит</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумитад</l>
+         <stg>
+            <st Contlex="PO_">пумитад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумитаз</l>
+         <stg>
+            <st Contlex="PO_">пумитаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумитам</l>
+         <stg>
+            <st Contlex="PO_">пумитам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумозь</l>
+         <stg>
+            <st Contlex="PO_">пумозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумтӥ</l>
+         <stg>
+            <st Contlex="PO_">пумтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумын</l>
+         <stg>
+            <st Contlex="PO_">пумын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пумысен</l>
+         <stg>
+            <st Contlex="PO_">пумысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пушкы</l>
+         <stg>
+            <st Contlex="PO_">пушкы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пушкын</l>
+         <stg>
+            <st Contlex="PO_">пушкын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пушкысен</l>
+         <stg>
+            <st Contlex="PO_">пушкысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пушкысь</l>
+         <stg>
+            <st Contlex="PO_">пушкысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пушкытӥ</l>
+         <stg>
+            <st Contlex="PO_">пушкытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пыр</l>
+         <stg>
+            <st Contlex="PO_">пыр</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пыртӥ</l>
+         <stg>
+            <st Contlex="PO_">пыртӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пыртӥз</l>
+         <stg>
+            <st Contlex="PO_">пыртӥз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧлады</l>
+         <stg>
+            <st Contlex="PO_">пӧлады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧлазы</l>
+         <stg>
+            <st Contlex="PO_">пӧлазы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧлтӥ</l>
+         <stg>
+            <st Contlex="PO_">пӧлтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧлын</l>
+         <stg>
+            <st Contlex="PO_">пӧлын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧлысь</l>
+         <stg>
+            <st Contlex="PO_">пӧлысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧнна</l>
+         <stg>
+            <st Contlex="PO_">пӧнна</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">пӧрат</l>
+         <stg>
+            <st Contlex="PO_">пӧрат</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сеен</l>
+         <stg>
+            <st Contlex="PO_">сеен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">секта</l>
+         <stg>
+            <st Contlex="PO_">секта</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкам</l>
+         <stg>
+            <st Contlex="PO_">серкам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкозь</l>
+         <stg>
+            <st Contlex="PO_">серкозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкы</l>
+         <stg>
+            <st Contlex="PO_">серкы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкын</l>
+         <stg>
+            <st Contlex="PO_">серкын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкысен</l>
+         <stg>
+            <st Contlex="PO_">серкысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкысь</l>
+         <stg>
+            <st Contlex="PO_">серкысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">серкытӥ</l>
+         <stg>
+            <st Contlex="PO_">серкытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрад</l>
+         <stg>
+            <st Contlex="PO_">сьӧрад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧраз</l>
+         <stg>
+            <st Contlex="PO_">сьӧраз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрам</l>
+         <stg>
+            <st Contlex="PO_">сьӧрам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧркозь</l>
+         <stg>
+            <st Contlex="PO_">сьӧркозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧркын</l>
+         <stg>
+            <st Contlex="PO_">сьӧркын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧркысен</l>
+         <stg>
+            <st Contlex="PO_">сьӧркысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧркысь</l>
+         <stg>
+            <st Contlex="PO_">сьӧркысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧркытӥ</l>
+         <stg>
+            <st Contlex="PO_">сьӧркытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрозь</l>
+         <stg>
+            <st Contlex="PO_">сьӧрозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧртӥ</l>
+         <stg>
+            <st Contlex="PO_">сьӧртӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧры</l>
+         <stg>
+            <st Contlex="PO_">сьӧры</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрын</l>
+         <stg>
+            <st Contlex="PO_">сьӧрын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрысен</l>
+         <stg>
+            <st Contlex="PO_">сьӧрысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сьӧрысь</l>
+         <stg>
+            <st Contlex="PO_">сьӧрысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сэрен</l>
+         <stg>
+            <st Contlex="PO_">сэрен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сяин</l>
+         <stg>
+            <st Contlex="PO_">сяин</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сямен</l>
+         <stg>
+            <st Contlex="PO_">сямен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сяна</l>
+         <stg>
+            <st Contlex="PO_">сяна</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">сярысь</l>
+         <stg>
+            <st Contlex="PO_">сярысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">тырысен</l>
+         <stg>
+            <st Contlex="PO_">тырысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">тӥнняд</l>
+         <stg>
+            <st Contlex="PO_">тӥнняд</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улаз</l>
+         <stg>
+            <st Contlex="PO_">улаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улам</l>
+         <stg>
+            <st Contlex="PO_">улам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улланьын</l>
+         <stg>
+            <st Contlex="PO_">улланьын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсозь</l>
+         <stg>
+            <st Contlex="PO_">улсозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсы</l>
+         <stg>
+            <st Contlex="PO_">улсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсын</l>
+         <stg>
+            <st Contlex="PO_">улсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсысен</l>
+         <stg>
+            <st Contlex="PO_">улсысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсысь</l>
+         <stg>
+            <st Contlex="PO_">улсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улсытӥ</l>
+         <stg>
+            <st Contlex="PO_">улсытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ултӥ</l>
+         <stg>
+            <st Contlex="PO_">ултӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улын</l>
+         <stg>
+            <st Contlex="PO_">улын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улысен</l>
+         <stg>
+            <st Contlex="PO_">улысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улысь</l>
+         <stg>
+            <st Contlex="PO_">улысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">улэ</l>
+         <stg>
+            <st Contlex="PO_">улэ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсозь</l>
+         <stg>
+            <st Contlex="PO_">урдсозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсы</l>
+         <stg>
+            <st Contlex="PO_">урдсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсын</l>
+         <stg>
+            <st Contlex="PO_">урдсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсысен</l>
+         <stg>
+            <st Contlex="PO_">урдсысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсысь</l>
+         <stg>
+            <st Contlex="PO_">урдсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсытӥ</l>
+         <stg>
+            <st Contlex="PO_">урдсытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдсэтӥ</l>
+         <stg>
+            <st Contlex="PO_">урдсэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэс</l>
+         <stg>
+            <st Contlex="PO_">урдэс</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсад</l>
+         <stg>
+            <st Contlex="PO_">урдэсад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсаз</l>
+         <stg>
+            <st Contlex="PO_">урдэсаз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсам</l>
+         <stg>
+            <st Contlex="PO_">урдэсам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскозь</l>
+         <stg>
+            <st Contlex="PO_">урдэскозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскы</l>
+         <stg>
+            <st Contlex="PO_">урдэскы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскын</l>
+         <stg>
+            <st Contlex="PO_">урдэскын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскысен</l>
+         <stg>
+            <st Contlex="PO_">урдэскысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскысь</l>
+         <stg>
+            <st Contlex="PO_">урдэскысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэскытӥ</l>
+         <stg>
+            <st Contlex="PO_">урдэскытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсозь</l>
+         <stg>
+            <st Contlex="PO_">урдэсозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэстӥ</l>
+         <stg>
+            <st Contlex="PO_">урдэстӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсы</l>
+         <stg>
+            <st Contlex="PO_">урдэсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсын</l>
+         <stg>
+            <st Contlex="PO_">урдэсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсысен</l>
+         <stg>
+            <st Contlex="PO_">урдэсысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">урдэсысь</l>
+         <stg>
+            <st Contlex="PO_">урдэсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">уртсы</l>
+         <stg>
+            <st Contlex="PO_">уртсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">уртсын</l>
+         <stg>
+            <st Contlex="PO_">уртсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорад</l>
+         <stg>
+            <st Contlex="PO_">шорад</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорады</l>
+         <stg>
+            <st Contlex="PO_">шорады</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шораз</l>
+         <stg>
+            <st Contlex="PO_">шораз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шоразы</l>
+         <stg>
+            <st Contlex="PO_">шоразы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорам</l>
+         <stg>
+            <st Contlex="PO_">шорам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шоре</l>
+         <stg>
+            <st Contlex="PO_">шоре</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорозь</l>
+         <stg>
+            <st Contlex="PO_">шорозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шортӥ</l>
+         <stg>
+            <st Contlex="PO_">шортӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шортӥз</l>
+         <stg>
+            <st Contlex="PO_">шортӥз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шоры</l>
+         <stg>
+            <st Contlex="PO_">шоры</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорын</l>
+         <stg>
+            <st Contlex="PO_">шорын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорысен</l>
+         <stg>
+            <st Contlex="PO_">шорысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шорысь</l>
+         <stg>
+            <st Contlex="PO_">шорысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">шуксам</l>
+         <stg>
+            <st Contlex="PO_">шуксам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ысъя</l>
+         <stg>
+            <st Contlex="PO_">ысъя</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">эрказ</l>
+         <stg>
+            <st Contlex="PO_">эрказ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">эркам</l>
+         <stg>
+            <st Contlex="PO_">эркам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскозь</l>
+         <stg>
+            <st Contlex="PO_">ёроскозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскы</l>
+         <stg>
+            <st Contlex="PO_">ёроскы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскын</l>
+         <stg>
+            <st Contlex="PO_">ёроскын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскысен</l>
+         <stg>
+            <st Contlex="PO_">ёроскысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскысь</l>
+         <stg>
+            <st Contlex="PO_">ёроскысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёроскытӥ</l>
+         <stg>
+            <st Contlex="PO_">ёроскытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёросозь</l>
+         <stg>
+            <st Contlex="PO_">ёросозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёростӥ</l>
+         <stg>
+            <st Contlex="PO_">ёростӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёросы</l>
+         <stg>
+            <st Contlex="PO_">ёросы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёросын</l>
+         <stg>
+            <st Contlex="PO_">ёросын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёросысен</l>
+         <stg>
+            <st Contlex="PO_">ёросысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёросысь</l>
+         <stg>
+            <st Contlex="PO_">ёросысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсозь</l>
+         <stg>
+            <st Contlex="PO_">ёрсозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсы</l>
+         <stg>
+            <st Contlex="PO_">ёрсы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсын</l>
+         <stg>
+            <st Contlex="PO_">ёрсын</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсысен</l>
+         <stg>
+            <st Contlex="PO_">ёрсысен</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсысь</l>
+         <stg>
+            <st Contlex="PO_">ёрсысь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ёрсытӥ</l>
+         <stg>
+            <st Contlex="PO_">ёрсытӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ӝужда</l>
+         <stg>
+            <st Contlex="PO_">ӝужда</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ӵож</l>
+         <stg>
+            <st Contlex="PO_">ӵож</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ӵоже</l>
+         <stg>
+            <st Contlex="PO_">ӵоже</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ӵожелы</l>
+         <stg>
+            <st Contlex="PO_">ӵожелы</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ӵӧжозь</l>
+         <stg>
+            <st Contlex="PO_">ӵӧжозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+</r>

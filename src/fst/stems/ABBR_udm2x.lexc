@@ -1,0 +1,14 @@
+
+LEXICON ABBR_udm2x
+
+ЭВМ+N:ЭВМ AB-NO-DOT-N_  "tietokone" ;
+АПН+N:АПН AB-NO-DOT-N_  "" ;
+ВЦСПС+N:ВЦСПС AB-NO-DOT-N_  "" ;
+МТС+N:МТС AB-NO-DOT-N_  "" ;
+ОНО+N+Prop:ОНО AB-NO-DOT-N_  "Yhdistyneet kansakunnat" ;
+ООН+N+Prop:ООН AB-NO-DOT-N_  "Yhdistyneet kansakunnat" ;
+СССР+N:СССР AB-NO-DOT-N_  "" ;
+ЦК+N:ЦК AB-NO-DOT-N_  "" ;
+ТАСС+N:ТАСС AB-NO-DOT-N_  "" ;
+ШИТ+N:ШИТ AB-NO-DOT-N_  "AIDS" ;
+СПИД+N:СПИД AB-NO-DOT-N_  "AIDS" ;

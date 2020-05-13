@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+  <e>
+          <lg>
+             <l pos="N">ЭВМ</l>
+	     <variants>
+	       <l_longForm>электронно-вычислительной машина</l_longForm>
+	     </variants>
+             <stg>
+                <st Contlex="AB-NO-DOT-N_">ЭВМ</st>
+             </stg>
+<orig>электроʼнно-вычислиʼтельной машина</orig>
+          </lg>
+          <mg>
+	    <defNative></defNative>
+<tg xml:lang="fin"><t pos="N" type="Prop">tietokone</t></tg>
+     <tg xml:lang="hun">
+       <t pos="N">számítógép</t>
+     </tg>
+          </mg>
+       </e>
+<e order="2">
+   <lg>
+     <l pos="N">АПН</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">АПН</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">Politikai Hírügynökség</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="N">ВЦСПС</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">ВЦСПС</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">Szovjet Szakszervezetek Össz-szövetségi Központi Tanácsa</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="N">МТС</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">МТС</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">Mobil TeleSystems</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e><lg><l pos="N" type="Prop">ОНО</l><variants><l_longForm>Огазеяськем Нациослэн Организацизы</l_longForm></variants><stg><st Contlex="AB-NO-DOT-N_">ОНО</st></stg>
+<orig>Огазеяськем Наʼциослэн Организаʼцизы, ОНО</orig></lg><mg><tg xml:lang="fin">
+<t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
+<t pos="N" type="Prop">YK</t>
+</tg></mg></e>
+<e><lg><l pos="N" type="Prop">ООН</l><variants><l_syn>ОНО</l_syn><l_syn>Огазеяськем Нациослэн Организацизы</l_syn></variants><stg><st Contlex="AB-NO-DOT-N_">ООН</st></stg>
+<orig>ООН</orig></lg><mg><tg xml:lang="fin">
+<t pos="N" type="Prop">Yhdistyneet kansakunnat</t>
+<t pos="N" type="Prop">YK</t>
+</tg>     <tg xml:lang="hun">
+       <t pos="N">ENSZ</t>
+     </tg>
+</mg></e>
+<e order="2">
+   <lg>
+     <l pos="N">СССР</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">СССР</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">Szovjetunió</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="N">ЦК</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">ЦК</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">KB</t>
+       <t pos="N">Központi Bizottság</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="N">ТАСС</l>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">ТАСС</st>
+     </stg>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N">TASZSZ</t>
+     </tg>
+   </mg>
+   <mg> <defNative/>
+   </mg>
+</e>
+<e><lg><l pos="N">ШИТ</l><variants><l_longForm>шедьтэм иммунодефицитлэн тодмосэз</l_longForm></variants><stg><st Contlex="AB-NO-DOT-N_">ШИТ</st></stg><orig>ШИТ, шедьтэм иммунодефицитлэн тодмосэз</orig></lg><mg><tg xml:lang="fin">
+<t pos="N">AIDS</t>
+<t pos="N">aids</t>
+<t pos="N">immuunikato</t>
+</tg></mg></e>
+<e><lg><l pos="N">СПИД</l><variants><l_syn>ШИТ</l_syn></variants><stg><st Contlex="AB-NO-DOT-N_">СПИД</st></stg><orig>СПИД</orig></lg><mg><tg xml:lang="fin">
+<t pos="N">AIDS</t>
+<t pos="N">aids</t>
+<t pos="N">immuunikato</t>
+</tg></mg></e>
+</r>

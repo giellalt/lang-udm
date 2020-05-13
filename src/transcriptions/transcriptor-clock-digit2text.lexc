@@ -1,0 +1,292 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or feedback@divvun.no
+
+! ==================== !
+! The Udumurt clock !
+! ==================== !
+
+! The order of number and digit is NOT correct
+
+! Note! This is NOT checked with native speakers nor
+! textbooks, just based upon guessing from a dictionary.
+
+Multichar_Symbols
+
+@U.TIME.1@ 
+@U.TIME.2@ 
+@U.TIME.3@ 
+@U.TIME.4@ 
+@U.TIME.5@ 
+@U.TIME.6@ 
+@U.TIME.7@ 
+@U.TIME.8@ 
+@U.TIME.9@ 
+@U.TIME.10@ 
+@U.TIME.11@ 
+@U.TIME.12@ 
+
++Use/NG
++Use/NA
+
+LEXICON Root
+
+BEFORE ; ! 31-59
+!HALF ;
+REST ; ! 1-30
+
+LEXICON BEFORE
+:%0 beforesmallhours ;
+:+Use/NA beforesmallhours ;
+beforelargehours ;
+ 
+LEXICON beforesmallhours
+@U.TIME.2@:1@U.TIME.2@ BEFpunkt ; !01:31 - 01:59
+@U.TIME.3@:2@U.TIME.3@ BEFpunkt ; !02:31 - 02:59
+@U.TIME.4@:3@U.TIME.4@ BEFpunkt ; !03:31 - 03:59
+@U.TIME.5@:4@U.TIME.5@ BEFpunkt ; !04:31 - 04:59
+@U.TIME.6@:5@U.TIME.6@ BEFpunkt ; !05:31 - 05:59
+@U.TIME.7@:6@U.TIME.7@ BEFpunkt ; !06:31 - 06:59
+@U.TIME.8@:7@U.TIME.8@ BEFpunkt ; !07:31 - 07:59
+@U.TIME.9@:8@U.TIME.9@ BEFpunkt ; !08:31 - 08:59
+@U.TIME.10@:9@U.TIME.10@ BEFpunkt ; !09:31 - 09:59
+
+LEXICON beforelargehours
+@U.TIME.11@:1%0@U.TIME.11@ BEFpunkt ; !10:31 - 10:59
+@U.TIME.12@:11@U.TIME.12@ BEFpunkt ; !11:29 - 11:59
+@U.TIME.1@:12@U.TIME.1@ BEFpunkt ; !12:29 - 12:59
+@U.TIME.2@:13@U.TIME.2@ BEFpunkt ; !13:29 - 13:59
+@U.TIME.3@:14@U.TIME.3@ BEFpunkt ; !14:29 - 14:59
+@U.TIME.4@:15@U.TIME.4@ BEFpunkt ; !15:29 - 15:59
+@U.TIME.5@:16@U.TIME.5@ BEFpunkt ; !16:29 - 16:59
+@U.TIME.6@:17@U.TIME.6@ BEFpunkt ; !17:29 - 17:59
+@U.TIME.7@:18@U.TIME.7@ BEFpunkt ; !18:29 - 18:59
+@U.TIME.8@:19@U.TIME.8@ BEFpunkt ; !19:31 - 19:59
+@U.TIME.9@:2%0@U.TIME.9@ BEFpunkt ; !20:31 - 20:59
+@U.TIME.10@:21@U.TIME.10@ BEFpunkt ; !21:31 - 21:59
+@U.TIME.11@:22@U.TIME.11@ BEFpunkt ; !22:29 - 22:59
+@U.TIME.12@:23@U.TIME.12@ BEFpunkt ; !23:29 - 23:59
+@U.TIME.1@:%0%0@U.TIME.1@ BEFpunkt ; !00:29 - 00:59
+
+LEXICON REST
+одӥг@U.TIME.1@:%01@U.TIME.1@ AFTpunkt ;
+кык@U.TIME.2@:%02@U.TIME.2@ AFTpunkt ;
+куинь@U.TIME.3@:%03@U.TIME.3@ AFTpunkt ;
+ньыль@U.TIME.4@:%04@U.TIME.4@ AFTpunkt ;
+вить@U.TIME.5@:%05@U.TIME.5@ AFTpunkt ;
+куать@U.TIME.6@:%06@U.TIME.6@ AFTpunkt ;
+сизьым@U.TIME.7@:%07@U.TIME.7@ AFTpunkt ;
+тямыс@U.TIME.8@:%08@U.TIME.8@ AFTpunkt ;
+укмыс@U.TIME.9@:%09@U.TIME.9@ AFTpunkt ;
+дас@U.TIME.10@:1%0@U.TIME.10@ AFTpunkt ;
+дас% одӥг@U.TIME.11@:11@U.TIME.11@ AFTpunkt ;
+дас% кык@U.TIME.12@:12@U.TIME.12@ AFTpunkt ;
+
+одӥг@U.TIME.1@:13@U.TIME.1@ AFTpunkt ;
+кык@U.TIME.2@:14@U.TIME.2@ AFTpunkt ;
+куинь@U.TIME.3@:15@U.TIME.3@ AFTpunkt ;
+ньыль@U.TIME.4@:16@U.TIME.4@ AFTpunkt ;
+вить@U.TIME.5@:17@U.TIME.5@ AFTpunkt ;
+куать@U.TIME.6@:18@U.TIME.6@ AFTpunkt ;
+сизьым@U.TIME.7@:19@U.TIME.7@ AFTpunkt ;
+тямыс@U.TIME.8@:2%0@U.TIME.8@ AFTpunkt ;
+укмыс@U.TIME.9@:21@U.TIME.9@ AFTpunkt ;
+дас@U.TIME.10@:22@U.TIME.10@ AFTpunkt ;
+дас% одӥг@U.TIME.11@:23@U.TIME.11@ AFTpunkt ;
+дас% кык@U.TIME.12@:%0%0@U.TIME.12@ AFTpunkt ;
+
+
+
+
+LEXICON BEFpunkt
+:%:+Use/NA BEF ;
+:%.+Use/NA BEF ;
+
+LEXICON AFTpunkt
+% час% но% :%:+Use/NA H-MAFT_minutes ; ! 2:00 = göökte
+% час% :%:%0%0 # ;
+!:%.+Use/NA AFT ; ! 2.00 = göökte
+:+Use/NA HOUR ; ! 2 = göökte
+
+
+
+LEXICON H-MAFT_minutes
+одӥг% :%01 ANDMINUTES ;
+кык% :%02 ANDMINUTES ;
+куинь% :%03 ANDMINUTES ;
+ньыль% :%04 ANDMINUTES ;
+вить% :%05 ANDMINUTES ;
+куать% :%06 ANDMINUTES ;
+сизьым% :%07 ANDMINUTES ;
+тямыс% :%08 ANDMINUTES ;
+укмыс% :%09 ANDMINUTES ;
+дас% :1%0 ANDMINUTES ;
+дас% одӥг% :11 ANDMINUTES ;
+дас% кык% :12 ANDMINUTES ;
+дас% куинь% :13 ANDMINUTES ;
+дас% ньыль% :14 ANDMINUTES ;
+дас% вить% :15 ANDMINUTES ; 
+дас% куать% :16 ANDMINUTES ;
+дас% сизьым% :17 ANDMINUTES ;
+дас% тямыс% :18 ANDMINUTES ;
+дас% укмыс% :19 ANDMINUTES ;
+кызь% :20 ANDMINUTES ;
+кызь% одӥг% :21 ANDMINUTES ;
+кызь% кык% :22 ANDMINUTES ;
+кызь% куинь% :23 ANDMINUTES ;
+кызь% ньыль% :24 ANDMINUTES ;
+кызь% вить% :25 ANDMINUTES ;
+кызь% куать% :26 ANDMINUTES ;
+кызь% сизьым% :27 ANDMINUTES ;
+кызь% тямыс% :28 ANDMINUTES ;
+кызь% укмыс% :29 ANDMINUTES ;
+ӝыны% :3%0 # ;
+куамын% одӥг% :31 ANDMINUTES ;
+куамын% кык% :32 ANDMINUTES ;
+куамын% куинь% :33 ANDMINUTES ;
+куамын% ньыль% :34 ANDMINUTES ;
+куамын% вить% :35 ANDMINUTES ;
+куамын% куать% :36 ANDMINUTES ;
+куамын% сизьым% :37 ANDMINUTES ;
+куамын% тямыс% :38 ANDMINUTES ; 
+куамын% укмыс% :39 ANDMINUTES ;
+ньыльдон% :4%0 ANDMINUTES ;
+ньыльдон% одӥг% :41 ANDMINUTES ;
+ньыльдон% кык% :42 ANDMINUTES ;
+ньыльдон% куинь% :43 ANDMINUTES ;
+ньыльдон% ньыль% :44 ANDMINUTES ;
+ньыльдон% вить% :45 ANDMINUTES ;
+ньыльдон% куать% :46 ANDMINUTES ;
+ньыльдон% сизьым% :47 ANDMINUTES ;
+ньыльдон% тямыс% :48 ANDMINUTES ;
+ньыльдон% укмыс% :49 ANDMINUTES ;
+витьтон% :5%0 ANDMINUTES ;
+витьтон% одӥг% :51 ANDMINUTES ;
+витьтон% кык% :52 ANDMINUTES ;
+витьтон% куинь% :53 ANDMINUTES ;
+витьтон% ньыль% :54 ANDMINUTES ;
+витьтон% вить% :55 ANDMINUTES ; 
+витьтон% куать% :56 ANDMINUTES ;
+витьтон% сизьым% :57 ANDMINUTES ;
+витьтон% тямыс% :58 ANDMINUTES ; 
+витьтон% укмыс% :59 ANDMINUTES ;
+
+LEXICON ANDMINUTES
+минут: # ;
+
+LEXICON BEF
+вить% :25+Use/NG TOHALF ; 
+ньыль% :26 TOHALF ; 
+куинь% :27 TOHALF ;
+кык% :28 TOHALF ; 
+одӥг% :29 TOHALF ;
+кызь% укмыс% :31 TO ;
+кызь% тямыс% :32 TO ;
+кызь% сизьым% :33 TO ;
+кызь% куать% :34 TO ;
+кызь% вить% :35 TO ;
+кызь% ньыль% :36 TO ;
+кызь% куинь% :37 TO ;
+кызь% кык% :38 TO ; 
+кызь% одӥг% :39 TO ;
+кызь% :4%0 TO ;
+дас% укмыс% :41 TO ;
+дас% тямыс% :42 TO ;
+дас% сизьым% :43 TO ;
+дас% куать% :44 TO ;
+дас% вить% :45 TO ;
+дас% ньыль% :46 TO ;
+дас% куинь% :47 TO ;
+дас% кык% :48 TO ;
+дас% одӥг% :49 TO ;
+дас% :5%0 TO ;
+укмыс% :51 TO ;
+тямыс% :52 TO ;
+сизьым% :53 TO ;
+куать% :54 TO ;
+вить% :55 TO ; 
+ньыль% :56 TO ;
+куинь% :57 TO ;
+кык% :58 TO ; 
+одӥг% :59 TO ;
+
+!LEXICON AFT
+!одӥг% :%01 ANDMINUTES_first ;
+!кык% :%02 ANDMINUTES_first ;
+!куинь% :%03 ANDMINUTES_first ;
+!ньыль% :%04 ANDMINUTES_first ;
+!вить% :%05 ANDMINUTES_first ;
+!куать% :%06 ANDMINUTES_first ;
+!сизьым% :%07 ANDMINUTES_first ;
+!тямыс% :%08 ANDMINUTES_first ;
+!укмыс% :%09 ANDMINUTES_first ;
+!дас% :1%0 ANDMINUTES_first ;
+!дас% одӥг% :11 ANDMINUTES_first ;
+!дас% кык% :12 ANDMINUTES_first ;
+!дас% куинь% :13 ANDMINUTES_first ;
+!дас% ньыль% :14 ANDMINUTES_first ;
+!дас% вить% :15 ANDMINUTES_first ; 
+!дас% куать% :16 ANDMINUTES_first ;
+!дас% сизьым% :17 ANDMINUTES_first ;
+!дас% тямыс% :18 ANDMINUTES_first ;
+!дас% укмыс% :19 ANDMINUTES_first ;
+!кызь% :20 ANDMINUTES_first ;
+!кызь% одӥг% :21 ANDMINUTES_first ;
+!кызь% кык% :22 ANDMINUTES_first ;
+!кызь% куинь% :23 ANDMINUTES_first ;
+!кызь% ньыль% :24 ANDMINUTES_first ;
+!кызь% вить% :25 ANDMINUTES_first ;
+!кызь% куать% :26+Use/NG ANDMINUTES_first ;
+!кызь% сизьым% :27+Use/NG ANDMINUTES_first ;
+!кызь% тямыс% :28+Use/NG ANDMINUTES_first ;
+!кызь% укмыс% :29+Use/NG ANDMINUTES_first ;
+!
+!LEXICON ANDMINUTES_first
+!минута% марто% :+Use/NG HOUR ;
+
+LEXICON TOHALF
+минуттэк% : HOUR-AND-HALF ;
+
+LEXICON TO
+минуттэк% : HOUR ; ! variant
+
+LEXICON HOUR
+одӥг@U.TIME.1@:@U.TIME.1@ # ;
+кык@U.TIME.2@:@U.TIME.2@ # ;
+куинь@U.TIME.3@:@U.TIME.3@ # ;
+ньыль@U.TIME.4@:@U.TIME.4@ # ;
+вить@U.TIME.5@:@U.TIME.5@ # ;
+куать@U.TIME.6@:@U.TIME.6@ # ;
+сизьым@U.TIME.7@:@U.TIME.7@ # ;
+тямыс@U.TIME.8@:@U.TIME.8@ # ;
+укмыс@U.TIME.9@:@U.TIME.9@ # ;
+дас@U.TIME.10@:@U.TIME.10@ # ;
+дас% одӥг@U.TIME.11@:@U.TIME.11@ # ;
+дас% кык@U.TIME.12@:@U.TIME.12@ # ;
+
+LEXICON HOUR-AND-HALF
+одӥг@U.TIME.2@:@U.TIME.2@ AND-HALF ;
+кык@U.TIME.3@:@U.TIME.3@ AND-HALF ;
+куинь@U.TIME.4@:@U.TIME.4@ AND-HALF ;
+ньыль@U.TIME.5@:@U.TIME.5@ AND-HALF ;
+вить@U.TIME.6@:@U.TIME.6@ AND-HALF ;
+куать@U.TIME.7@:@U.TIME.7@ AND-HALF ;
+сизьым@U.TIME.8@:@U.TIME.8@ AND-HALF ;
+тямыс@U.TIME.9@:@U.TIME.9@ AND-HALF ;
+укмыс@U.TIME.10@:@U.TIME.10@ AND-HALF ;
+дас@U.TIME.11@:@U.TIME.11@ AND-HALF ;
+дас% одӥг@U.TIME.12@:@U.TIME.12@ AND-HALF ;
+дас% кык@U.TIME.1@:@U.TIME.1@ AND-HALF ;
+
+LEXICON AND-HALF
+% но% ӝыны: # ;

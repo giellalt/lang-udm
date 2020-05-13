@@ -1,0 +1,38 @@
+
+LEXICON conjunctors
+
+а+CC:а CC_  "mutta" ;
+а+CS:а CS_  "joko ... tai" ;
+агар+CS:агар CS_  "" ;
+айкась+CS:айкась CS_  "" ;
+али+CC:али CC_  "" ;
+аль+CC:аль CC_  "" ;
+бере+Conj:бере CONJ_  "" ;
+будьто+CS:будьто CS_  "" ;
+гинэ+Conj:гинэ CONJ_  "" ;
+да+CC:да CC_  "" ;
+дыръя+Conj:дыръя CONJ_  "" ;
+если+CS:если CS_  "" ;
+ито+CC:ито CC_  "" ;
+ке+CS:ке CS_  "" ;
+кудъёс+Conj:кудъёс CONJ_  "" ;
+либо+CC:либо CC_  "" ;
+макем+Conj:макем CONJ_  "" ;
+маркем+Conj:маркем CONJ_  "" ;
+не+Conj:не CONJ_  "" ;
+но+CC:но CC_  "" ;
+ной+Conj:ной CONJ_  "" ;
+нош+Conj:нош CONJ_  "" ;
+однако+Conj:однако CONJ_  "" ;
+однако-однако+Conj:однако-однако CONJ_  "" ;
+оло+Conj:оло CONJ_  "" ;
+понна+Conj:понна CONJ_  "" ;
+раз+Conj:раз CONJ_  "" ;
+сокутэк+Conj:сокутэк CONJ_  "" ;
+только+CS:только CS_  "" ;
+уго+Conj:уго CONJ_  "" ;
+шуыса+Conj:шуыса CONJ_  "" ;
+эсьма+Conj:эсьма CONJ_  "" ;
+эсьмаса+Conj:эсьмаса CONJ_  "" ;
+я+Conj:я CONJ_  "" ;
+яке+CC:яке CC_  "" ;

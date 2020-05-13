@@ -1,0 +1,250 @@
+!! !!! Udmurt verb inflection
+!!
+!! Udmurt verbs are mainly split into two types: 
+!!  * conjugation I, whose stems mostly end on ''ы'' (ex. ''мыны-ны'' 'go', ''юы-ны'' 'drink', ''вераськы-ны'' 'speak')
+!!  * conjugation II, whose stems mostly end on ''а/я'' (ex. ''ужа.ны'' 'work', ''келя.ны'' 'send, put', ''кырӟа.ны'' 'sing')
+
+!! Conjugation I verbs also may have a 'short' stem, which subtracts the final
+!! ''ы''. The rule is not necessarily as simple as suffixes that begin on
+!! consonants require a vowel-ending stem, because there are some exceptions.
+!! Following is a list of things that use the short stem (so far
+!! incomplete, but feel free to add to it)
+!!
+!!  * All forms of the ''present affirmative''
+!!  * All forms of the ''present negative''
+!!  * All forms of the ''future affirmative''
+!!  * All forms of the ''future negative''
+!!  * Preterite II Negative? 
+!!  * Caritive gerund? 
+!!  
+!! And the long stem:
+!!
+!!  * Infinitive
+!!  * Conditional affirmative, negative
+!!  * basic gerund, temporal gerund, fourth gerund ?
+!!  * gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
+
+!! There are some orthographic things to consider, and they show up in the way
+!! verbs are inflected. The palatizing series [[d z l n s t] is represented 
+!! in two ways: vowel letters following, or by the palatizing symbol. 
+
+!!      возьыны    ..   возе    ..   возисько
+!!      бертыны    ..   бертэ   ..   бертӥсько
+
+LEXICON V_ !!= @CODE@ Verb type is still to be determined.
++WORK+V: #;
+
+LEXICON V-NEG_
+уг+V+Neg+Prs+Sg1:уг K ;
+уг+V+Neg+Prs+Sg2:уд K ;
+уг+V+Neg+Prs+Sg3:уг K ;
+уг+V+Neg+Prs+Pl1:ум K ;
+уг+V+Neg+Prs+Pl2:уд K ;
+уг+V+Neg+Prs+Pl3:уг K ;
+уг+V+Neg+Fut+Sg1:уг K ;
+уг+V+Neg+Fut+Sg2:уд K ;
+уг+V+Neg+Fut+Sg3:уз K ;
+уг+V+Neg+Fut+Pl1:ум K ;
+уг+V+Neg+Fut+Pl2:уд K ;
+уг+V+Neg+Fut+Pl3:уз K ;
+
+уг+V+Neg+Prs+Sg1:ӧй K ;
+уг+V+Neg+Prs+Sg2:ӧд K ;
+уг+V+Neg+Prs+Sg3:ӧз K ;
+уг+V+Neg+Prs+Pl1:ӧм K ;
+уг+V+Neg+Prs+Pl2:ӧд K ;
+уг+V+Neg+Prs+Pl3:ӧз K ;
+
+уг+V+Neg+Imprt+Sg2:эн K ;
+уг+V+Neg+Imprt+Pl2:эн K ;
+!CHECKME 2019-11-07
+ӧвӧл+V+Neg+Sg:ӧвӧл K ;
+
+
+!! Typical V_MONO entry is the long stem, ending on <ы>
+!!  берты, возьы
+
+!!  бертыны:берт V_MONO  "mennä kotiin" ;
+
+LEXICON V_MONO
+!! Lexicon __@LEXNAME@__ мыныны:мыны
+!! * Yaml: __mynyny__ , This is first declension
+! Testing JASKA
++Ind+PrtI+ConNeg+Pl:%>%^Е2 K ;
++Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
++PrcPrfNeg:%>%^Е2мтэе K ;
+ V_МЫНЫНЫ ;
++Ind+Fut:%>%^О2 FUT-PERSON ;
++Ind+Fut+Pl1:%>%^О2%>мы K ;
++Ind+Prs+Pl3:%>%^О2 K ;
++Ind+Prs+ConNeg+Pl3:%>%^О2 K ;
++Opt+Sg1:%>%^О2м K ;
++Opt+Sg2:%>%^О2д K ;
++Opt+Sg3:%>%^О2з K ;
++Opt+Pl1:%>%^О2мы K	;
++Opt+Pl2:%>%^О2ды K	;
++Opt+Pl3:%>%^О2зы K	;
++Der/Он:%>%^О2н  N_	;
++Der/Он+N+Der/тэм:%>%^О2н%>тэм  A_	;
++Der/Оно:%>%^О2но  A_	;
+
+LEXICON V-WITH-KARON
+!! words that do not occur alone
+!! Russian verbs are often followed by the Udmurt карыны OR карон
++Pcle+OLang/RUS+RusV: # ;
+
+LEXICON V_UZA
+!! Lexicon __@LEXNAME@__
+!! * Yaml: __uzhany__ , this is second declension
+! testing JASKA
++Ind+PrtI+ConNeg+Pl:%>лэ K ;
++Ind+PrtII+Neg+Pl2:%>мтэды K ;
++PrcPrfNeg:%>%^Е2мтэ K ;
+ V_МЫНЫНЫ ;
++Ind+Fut:%>%^Л3%^О2 FUT-PERSON ;
++Ind+Fut+Pl1:%>%^Л3%^О2%>мы K ;
++Ind+Prs+Pl3:%>%^Л3%^О2 K ;
++Ind+Prs+ConNeg+Pl3:%>%^Л3%^О2 K ;
++Opt+Sg1:%>%^Л3%^О2м K ;
++Opt+Sg2:%>%^Л3%^О2д K ;
++Opt+Sg3:%>%^Л3%^О2з K ;
++Opt+Pl1:%>%^Л3%^О2мы K	;
++Opt+Pl2:%>%^Л3%^О2ды K	;
++Opt+Pl3:%>%^Л3%^О2зы K	;
++Der/Он:%>%^Л3%^О2н  N_	;
++Der/Он+N+Der/тэм:%>%^Л3%^О2н%>тэм  A_	;
++Der/Оно:%>%^Л3%^О2но  A_	;
+
+
+!! Mutual à la Jaska
+LEXICON V_МЫНЫНЫ !! мыныны:мыны
+!! Lexicon __@LEXNAME@__
+!! * Yaml: __mynyny__ 
+
++Ind+Prs: APRS ;
++Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
++Ind+Fut+ConNeg+Pl:%>%^Е2 K ;
++Ind+Fut+ConNeg+Pl:%>%^Е2лэ K ;
++Ind+PrtI:  PRTI-PERSON ;
++Ind+PrtI+ConNeg+Sg:%^ЫLoss K ;
++Ind+PrtII: PRTII-PERSON ;
++Cond:%>сал COND ;
++Imprt: IMPRT ;
++Imprt+Pl2:%>%^Е2 K	;!Is this only мыныны
++Opt: OPT ;
+: NONFINITES ;
+
+
+LEXICON APRS
+!! Lexicon __@LEXNAME@__
++Sg1:%>%^И2сько K ;
++Sg2:%>%^И2ськод K ;
++Sg3:%>%^Е2 K ;
++Pl1:%>%^И2ськом K ;
++Pl1:%>%^И2ськомы K ;
++Pl2:%>%^И2ськоды K ;
++ConNeg+Sg1:%>%^И2ськы K ;
++ConNeg+Sg2:%>%^И2ськы K ;
++ConNeg+Sg3:%^ЫLossVar K ;
++ConNeg+Pl1:%>%^И2ське K ;
++ConNeg+Pl2:%>%^И2ське K ;
+
+LEXICON FUT-PERSON
+!! Lexicon __@LEXNAME@__
++Sg1: K ;
++Sg2:%>д K ;
++Sg3:%>з K ;
++Pl1:%>м K ;
++Pl2:%>ды K ;
++Pl3:%>зы K ;
+
+LEXICON PRTI-PERSON
+!! Lexicon __@LEXNAME@__
++Sg1:%>%^И2 K ;
++Sg2:%>%^И2д K ;
++Sg3:%>%^И2з K ;
++Pl1:%>%^И2мы K ;
++Pl1:%>%^И2м K ;
++Pl2:%>%^И2ды K ;
++Pl3:%>%^И2зы K ;
+
+LEXICON PRTII-PERSON
+!! Lexicon __@LEXNAME@__
++Sg1:%>%^И2ськем K ;
++Sg2:%>%^Е2мед K ;
++Sg3:%>%^Е2м K ;
++Pl1:%>%^И2ськеммы K ;
++Pl2:%>%^И2ллямды K ;
++Pl3:%>%^И2ллямзы K ;
++Pl3:%>%^И2ллям K ;
++ConNeg+Sg1:%>%^И2ськем K ;
++ConNeg+Sg2:%>%^Е2мед K ;
++ConNeg+Sg3:%>%^Е2м K ;
++ConNeg+Pl1:%>%^И2ськеммы K ;
++ConNeg+Pl2:%>%^И2ллямды K ;
++ConNeg+Pl3:%>%^И2ллямзы K ;
++ConNeg+Pl3:%>%^И2ллям K ;
+
++Neg+Sg1:%>%^И2ськымтэе K ;
++Neg+Sg2:%>мтэед K ;
++Neg+Sg3:%>мтэ K ;
++Neg+Pl1:%>%^И2ськымтэмы K ;
++Neg+Pl3:%>%^И2ллямтэзы K ;
++Neg+Pl3:%>%^И2ллямтэ K ;
+
+
+LEXICON COND
+!! Lexicon __@LEXNAME@__
++Sg1:          K ;
++Sg2:          K ;
++Sg2:ыд        K ;
++Sg3:          K ;
++Sg3:ыз       K ;
++Pl1:мы        K ;
++Pl2:ды        K ;
++Pl3:зы        K ;
++ConNeg+Sg1:   K ;
++ConNeg+Sg2:   K ;
++ConNeg+Sg2:ыд K ;
++ConNeg+Sg3:   K ;
++ConNeg+Sg3:ыз K ;
++ConNeg+Pl1:мы K ;
++ConNeg+Pl2:ды K ;
++ConNeg+Pl3:зы K ;
+
+LEXICON IMPRT
+!! Lexicon __@LEXNAME@__
++Sg2:%^ЫLoss K	   ;
+!+Sg3:%>%^О2з K	; Kozmács István 2014-05-27 => Opt
++Pl2:%>%^Е2лэ K	;
+!+Pl3:%>%^О2зы K	; Kozmács István 2014-05-27 => Opt
++ConNeg+Sg2:%^ЫLoss K	;
++ConNeg+Pl2:%>%^Е2 K	; !мыныны
++ConNeg+Pl2:%>%^Е2лэ K	;
+!+ConNeg+Pl3:%>%^Е2 K	; !мыныны Kozmács István 2014-05-27 => Opt
+!+ConNeg+Pl3:%>%^Е2лэ K	; Kozmács István 2014-05-27 => Opt
+
+LEXICON OPT
+!! Lexicon __@LEXNAME@__
++ConNeg+Sg:%^ЫLoss K ;
++ConNeg+Sg3:%^ЫLossVar K	;
++ConNeg+Pl:%>%^Е2 K ;
++ConNeg+Pl:%>%^Е2лэ K	;
+
+LEXICON NONFINITES
+    !! Lexicon __@LEXNAME@__
++Inf:ны  K	;
++GerPos:%>са  K	;
++GerNeg:%>тэк  K	;
++Der/тозь+GerTer:%>тозь  K	;
++Der/ку+GerTemp:%>ку  K	;
++PrcPrs+N+Der/тэм:%>%^И2сьтэм A_ ;
++PrcPrsNeg:%>%^И2сьтэм K ;
++PrcPrsPos:%>%^И2сь K ;
+!2019-06-03+PrcPrfAdn:%>%^Е2м K ;
++Der/Эм+PrcPrfAdn:%>%^Е2м N_ ;
++PrcPrfPred:%>%^Е2мын K ;
+
+
+! vim: set ft=xfst-lexc:
+

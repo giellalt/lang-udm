@@ -1,0 +1,264 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct.
+
+  Noun - корка: # Noun  корка 'eng /udm /fin' - full paradigm
+     корка+N+Sg+Nom: корка
+     корка+N+Sg+Acc: коркаэз
+#     корка+N+Sg+Acc+Dial/North: коркаты
+     корка+N+Sg+Gen: коркалэн
+     корка+N+Sg+Abl: коркалэсь
+     корка+N+Sg+Dat: коркалы
+     корка+N+Sg+Ins: коркаэн
+     корка+N+Sg+Abe: коркатэк
+     корка+N+Sg+Advl: коркаъя
+     корка+N+Sg+Ine: коркаын
+     корка+N+Sg+Ill: коркаэ
+     корка+N+Sg+Ela: коркаысь
+     корка+N+Sg+Egr: коркаысен
+     корка+N+Sg+Ter: коркаозь
+     корка+N+Sg+Prl: коркаэтӥ
+     корка+N+Sg+Apr: коркалань
+
+     корка+N+Pl+Nom: коркаос
+     корка+N+Pl+Acc: коркаосыз
+     корка+N+Pl+Gen: коркаослэн
+     корка+N+Pl+Abl: коркаослэсь
+     корка+N+Pl+Dat: коркаослы
+     корка+N+Pl+Ins: коркаосэн
+     корка+N+Pl+Abe: коркаостэк
+     корка+N+Pl+Advl: коркаосъя
+     корка+N+Pl+Ine: коркаосын
+     корка+N+Pl+Ill: коркаосы
+     корка+N+Pl+Ela: коркаосысь
+     корка+N+Pl+Egr: коркаосысен
+     корка+N+Pl+Ter: коркаосозь
+     корка+N+Pl+Prl: коркаосэтӥ
+     корка+N+Pl+Apr: коркаослань
+
+     # possessive, and Cx-Px / Px-Cx
+
+     корка+N+Sg+Nom+PxSg1: коркаэ
+     корка+N+Sg+Nom+PxSg2: коркаэд
+     корка+N+Sg+Nom+PxSg3: коркаэз
+     корка+N+Sg+Nom+PxPl1: коркамы
+     корка+N+Sg+Nom+PxPl2: коркаты
+     корка+N+Sg+Nom+PxPl3: коркасы
+
+     корка+N+Pl+Nom+PxSg1: коркаосы
+     корка+N+Pl+Nom+PxSg2: коркаосыд
+     корка+N+Pl+Nom+PxSg3: коркаосыз
+     корка+N+Pl+Nom+PxPl1: коркаосмы
+     корка+N+Pl+Nom+PxPl2: коркаосты
+     корка+N+Pl+Nom+PxPl3: коркаоссы
+
+     корка+N+Sg+Acc+PxSg1: коркаме
+     корка+N+Sg+Acc+PxSg2: коркатэ
+     корка+N+Sg+Acc+PxSg3: коркасэ
+     корка+N+Sg+Acc+PxPl1: коркамес
+     корка+N+Sg+Acc+PxPl2: коркатэс
+     корка+N+Sg+Acc+PxPl3: коркасэс
+
+     корка+N+Pl+Acc+PxSg1: коркаосме
+     корка+N+Pl+Acc+PxSg2: коркаостэ
+     корка+N+Pl+Acc+PxSg3: коркаоссэ
+     корка+N+Pl+Acc+PxPl1: коркаосмес
+     корка+N+Pl+Acc+PxPl2: коркаостэс
+     корка+N+Pl+Acc+PxPl3: коркаоссэс
+
+     корка+N+Sg+Gen+PxSg1: коркаэлэн
+     корка+N+Sg+Gen+PxSg2: коркаэдлэн
+     корка+N+Sg+Gen+PxSg3: коркаэзлэн
+     корка+N+Sg+Gen+PxPl1: коркамылэн
+     корка+N+Sg+Gen+PxPl2: коркатылэн
+     корка+N+Sg+Gen+PxPl3: коркасылэн
+
+     корка+N+Pl+Gen+PxSg1: коркаосылэн
+     корка+N+Pl+Gen+PxSg2: коркаосыдлэн
+     корка+N+Pl+Gen+PxSg3: коркаосызлэн
+     корка+N+Pl+Gen+PxPl1: коркаосмылэн
+     корка+N+Pl+Gen+PxPl2: коркаостылэн
+     корка+N+Pl+Gen+PxPl3: коркаоссылэн
+
+     корка+N+Sg+Abl+PxSg1: коркаэлэсь
+     корка+N+Sg+Abl+PxSg2: коркаэдлэсь
+     корка+N+Sg+Abl+PxSg3: коркаэзлэсь
+     корка+N+Sg+Abl+PxPl1: коркамылэсь
+     корка+N+Sg+Abl+PxPl2: коркатылэсь
+     корка+N+Sg+Abl+PxPl3: коркасылэсь
+
+     корка+N+Pl+Abl+PxSg1: коркаосылэсь
+     корка+N+Pl+Abl+PxSg2: коркаосыдлэсь
+     корка+N+Pl+Abl+PxSg3: коркаосызлэсь
+     корка+N+Pl+Abl+PxPl1: коркаосмылэсь
+     корка+N+Pl+Abl+PxPl2: коркаостылэсь
+     корка+N+Pl+Abl+PxPl3: коркаоссылэсь
+
+     корка+N+Sg+Dat+PxSg1: коркаэлы
+     корка+N+Sg+Dat+PxSg2: коркаэдлы
+     корка+N+Sg+Dat+PxSg3: коркаэзлы
+     корка+N+Sg+Dat+PxPl1: коркамылы
+     корка+N+Sg+Dat+PxPl2: коркатылы
+     корка+N+Sg+Dat+PxPl3: коркасылы
+
+     корка+N+Pl+Dat+PxSg1: коркаосылы
+     корка+N+Pl+Dat+PxSg2: коркаосыдлы
+     корка+N+Pl+Dat+PxSg3: коркаосызлы
+     корка+N+Pl+Dat+PxPl1: коркаосмылы
+     корка+N+Pl+Dat+PxPl2: коркаостылы
+     корка+N+Pl+Dat+PxPl3: коркаоссылы
+
+     корка+N+Sg+Ins+PxSg1: коркаэным
+     корка+N+Sg+Ins+PxSg2: коркаэныд
+     корка+N+Sg+Ins+PxSg3: коркаэныз
+     корка+N+Sg+Ins+PxPl1: коркаэнымы
+     корка+N+Sg+Ins+PxPl2: коркаэныды
+     корка+N+Sg+Ins+PxPl3: коркаэнызы
+
+     корка+N+Pl+Ins+PxSg1: коркаосыным
+     корка+N+Pl+Ins+PxSg2: коркаосыныд
+     корка+N+Pl+Ins+PxSg3: коркаосыныз
+     корка+N+Pl+Ins+PxPl1: коркаосынымы
+     корка+N+Pl+Ins+PxPl2: коркаосыныды
+     корка+N+Pl+Ins+PxPl3: коркаосынызы
+
+     корка+N+Sg+Abe+PxSg1: коркаэтэк
+     корка+N+Sg+Abe+PxSg2: коркаэдтэк
+     корка+N+Sg+Abe+PxSg3: коркаэзтэк
+     корка+N+Sg+Abe+PxPl1: коркамытэк
+     корка+N+Sg+Abe+PxPl2: коркатытэк
+     корка+N+Sg+Abe+PxPl3: коркасытэк
+
+     корка+N+Pl+Abe+PxSg1: коркаосытэк
+     корка+N+Pl+Abe+PxSg2: коркаосыдтэк
+     корка+N+Pl+Abe+PxSg3: коркаосызтэк
+     корка+N+Pl+Abe+PxPl1: коркаосмытэк
+     корка+N+Pl+Abe+PxPl2: коркаостытэк
+     корка+N+Pl+Abe+PxPl3: коркаоссытэк
+
+     корка+N+Sg+Advl+PxSg1: коркаэя
+     корка+N+Sg+Advl+PxSg2: коркаэдъя
+     корка+N+Sg+Advl+PxSg3: коркаэзъя
+     корка+N+Sg+Advl+PxPl1: коркамыя
+     корка+N+Sg+Advl+PxPl2: коркатыя
+     корка+N+Sg+Advl+PxPl3: коркасыя
+
+     корка+N+Pl+Advl+PxSg1: коркаосыя
+     корка+N+Pl+Advl+PxSg2: коркаосыдъя
+     корка+N+Pl+Advl+PxSg3: коркаосызъя
+     корка+N+Pl+Advl+PxPl1: коркаосмыя
+     корка+N+Pl+Advl+PxPl2: коркаостыя
+     корка+N+Pl+Advl+PxPl3: коркаоссыя
+
+     корка+N+Sg+Ine+PxSg1: коркаам
+     корка+N+Sg+Ine+PxSg2: коркаад
+     корка+N+Sg+Ine+PxSg3: коркааз
+     корка+N+Sg+Ine+PxPl1: коркаамы
+     корка+N+Sg+Ine+PxPl2: коркаады
+     корка+N+Sg+Ine+PxPl3: коркаазы
+
+     корка+N+Pl+Ine+PxSg1: коркаосам
+     корка+N+Pl+Ine+PxSg2: коркаосад
+     корка+N+Pl+Ine+PxSg3: коркаосаз
+     корка+N+Pl+Ine+PxPl1: коркаосамы
+     корка+N+Pl+Ine+PxPl2: коркаосады
+     корка+N+Pl+Ine+PxPl3: коркаосазы
+
+     корка+N+Sg+Ill+PxSg1: коркаам
+     корка+N+Sg+Ill+PxSg2: коркаад
+     корка+N+Sg+Ill+PxSg3: коркааз
+     корка+N+Sg+Ill+PxPl1: коркаамы
+     корка+N+Sg+Ill+PxPl2: коркаады
+     корка+N+Sg+Ill+PxPl3: коркаазы
+
+     корка+N+Pl+Ill+PxSg1: коркаосам
+     корка+N+Pl+Ill+PxSg2: коркаосад
+     корка+N+Pl+Ill+PxSg3: коркаосаз
+     корка+N+Pl+Ill+PxPl1: коркаосамы
+     корка+N+Pl+Ill+PxPl2: коркаосады
+     корка+N+Pl+Ill+PxPl3: коркаосазы
+
+     корка+N+Sg+Ela+PxSg1: коркаысьтым
+     корка+N+Sg+Ela+PxSg2: коркаысьтыд
+     корка+N+Sg+Ela+PxSg3: коркаысьтыз
+     корка+N+Sg+Ela+PxPl1: коркаысьтымы
+     корка+N+Sg+Ela+PxPl2: коркаысьтыды
+     корка+N+Sg+Ela+PxPl3: коркаысьтызы
+
+     корка+N+Pl+Ela+PxSg1: коркаосысьтым
+     корка+N+Pl+Ela+PxSg2: коркаосысьтыд
+     корка+N+Pl+Ela+PxSg3: коркаосысьтыз
+     корка+N+Pl+Ela+PxPl1: коркаосысьтымы
+     корка+N+Pl+Ela+PxPl2: коркаосысьтыды
+     корка+N+Pl+Ela+PxPl3: коркаосысьтызы
+
+     корка+N+Sg+Ela+PxSg1: коркаысеным
+     корка+N+Sg+Ela+PxSg2: коркаысеныд
+     корка+N+Sg+Ela+PxSg3: коркаысеныз
+     корка+N+Sg+Ela+PxPl1: коркаысенымы
+     корка+N+Sg+Ela+PxPl2: коркаысеныды
+     корка+N+Sg+Ela+PxPl3: коркаысенызы
+
+     корка+N+Pl+Ela+PxSg1: коркаосысеным
+     корка+N+Pl+Ela+PxSg2: коркаосысеныд
+     корка+N+Pl+Ela+PxSg3: коркаосысеныз
+     корка+N+Pl+Ela+PxPl1: коркаосысенымы
+     корка+N+Pl+Ela+PxPl2: коркаосысеныды
+     корка+N+Pl+Ela+PxPl3: коркаосысенызы
+
+     корка+N+Pl+Ter+PxSg1: коркаозям
+     корка+N+Pl+Ter+PxSg2: коркаозяд
+     корка+N+Pl+Ter+PxSg3: коркаозяз
+     корка+N+Pl+Ter+PxPl1: [коркаозямы, коркамыозь]
+     корка+N+Pl+Ter+PxPl2: [коркаозяды, коркатыозь]
+     корка+N+Pl+Ter+PxPl3: [коркаозязы, коркасыозь]
+
+     корка+N+Pl+Ter+PxSg1: коркаосозям
+     корка+N+Pl+Ter+PxSg2: коркаосозяд
+     корка+N+Pl+Ter+PxSg3: коркаосозяз
+     корка+N+Pl+Ter+PxPl1: коркаосмыозь
+     корка+N+Pl+Ter+PxPl2: коркаостыозь
+     корка+N+Pl+Ter+PxPl3: коркаоссыозь
+
+     корка+N+Pl+Prl+PxSg1: коркаэтӥм
+     корка+N+Pl+Prl+PxSg2: коркаэтӥд
+     корка+N+Pl+Prl+PxSg3: коркаэтӥз
+     корка+N+Pl+Prl+PxPl1: коркаэтӥмы
+     корка+N+Pl+Prl+PxPl2: коркаэтӥды
+     корка+N+Pl+Prl+PxPl3: коркаэтӥзы
+
+     корка+N+Pl+Prl+PxSg1: коркаосэтӥм
+     корка+N+Pl+Prl+PxSg2: коркаосэтӥд
+     корка+N+Pl+Prl+PxSg3: коркаосэтӥз
+     корка+N+Pl+Prl+PxPl1: коркаосэтӥмы
+     корка+N+Pl+Prl+PxPl2: коркаосэтӥды
+     корка+N+Pl+Prl+PxPl3: коркаосэтӥзы
+
+     корка+N+Pl+Apr+PxSg1: коркаэлань
+     корка+N+Pl+Apr+PxSg2: коркаэдлань
+     корка+N+Pl+Apr+PxSg3: коркаэзлань
+     корка+N+Pl+Apr+PxPl1: коркамылань
+     корка+N+Pl+Apr+PxPl2: коркатылань
+     корка+N+Pl+Apr+PxPl3: коркасылань
+
+     корка+N+Pl+Apr+PxSg1: коркаосэлань
+     корка+N+Pl+Apr+PxSg2: коркаосэдлань
+     корка+N+Pl+Apr+PxSg3: коркаосэзлань
+     корка+N+Pl+Apr+PxPl1: коркаосмылань
+     корка+N+Pl+Apr+PxPl2: коркаостылань
+     корка+N+Pl+Apr+PxPl3: коркаоссылань
+
+

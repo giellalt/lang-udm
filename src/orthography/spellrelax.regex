@@ -1,0 +1,28 @@
+І (->) I, # Komi cyrillic (->) latin
+і (->) i, # Komi etc
+Ӧ (->) Ö, # Komi
+Ӧ (->) Ö, # Komi
+ӧ (->) ö, # Komi
+ӧ (->) ö, # Komi
+ӯ (->) ӯ, # Cyrillic у + U+0304 (->) precomposed
+ӣ (->) ӣ, # Cyrillic и + U+0304 (->) precomposed
+ӯ (->) у, # Cyrillic у + U+0304 (->) basic
+ӣ (->) и, # Cyrillic и + U+0304 (->) basic
+          # We use composing letters, may get precomposed input
+          # (No other long Cyrillic vowels precomposed)
+а̄ (->) а, # Cyrillic for sjd
+е̄ (->) е, # Cyrillic for sjd
+о̄ (->) о, # Cyrillic for sjd
+ӯ (->) у, # Cyrillic for sjd
+ы̄ (->) ы, # Cyrillic for sjd
+ю̄ (->) ю, # Cyrillic for sjd
+я̄ (->) я, # Cyrillic for sjd
+ӣ (->) и, # Cyrillic for sjd
+ˊ (->) ´, # 00B4 ACUTE ACCENT for Skolt 02CA MIDIFIER LETTER ACUTE ACCENT
+#' (->) 0, # Inari optional ' mark
+%- (->) ­, # hyphen accepts soft hyphen
+Ï (->) I 
+;
+
+# Explanation:
+# lexical side (->) input 

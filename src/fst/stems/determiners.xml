@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="udm">
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">витетӥ</l>
+         <stg>
+            <st Contlex="DET_">витетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">витьтонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">витьтонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">дасэтӥ</l>
+         <stg>
+            <st Contlex="DET_">дасэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">куамынэтӥ</l>
+         <stg>
+            <st Contlex="DET_">куамынэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">куатетӥ</l>
+         <stg>
+            <st Contlex="DET_">куатетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">куатьтонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">куатьтонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">куинетӥ</l>
+         <stg>
+            <st Contlex="DET_">куинетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">куиньметӥ</l>
+         <stg>
+            <st Contlex="DET_">куиньметӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">кызетӥ</l>
+         <stg>
+            <st Contlex="DET_">кызетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">кыкетӥ</l>
+         <stg>
+            <st Contlex="DET_">кыкетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">кыктэтӥ</l>
+         <stg>
+            <st Contlex="DET_">кыктэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">нырысетӥ</l>
+         <stg>
+            <st Contlex="DET_">нырысетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">ньылетӥ</l>
+         <stg>
+            <st Contlex="DET_">ньылетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">ньыльдонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">ньыльдонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">одӥгетӥ</l>
+         <stg>
+            <st Contlex="DET_">одӥгетӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">сизьымдонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">сизьымдонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">сизьыметӥ</l>
+         <stg>
+            <st Contlex="DET_">сизьыметӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">сюрсэтӥ</l>
+         <stg>
+            <st Contlex="DET_">сюрсэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">сюэтӥ</l>
+         <stg>
+            <st Contlex="DET_">сюэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">тямыстонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">тямыстонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">тямысэтӥ</l>
+         <stg>
+            <st Contlex="DET_">тямысэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Ord">укмыстонэтӥ</l>
+         <stg>
+            <st Contlex="DET_">укмыстонэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">укмысэтӥ</l>
+         <stg>
+            <st Contlex="DET_">укмысэтӥ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Det" type="Qnt">уно</l>
+         <stg>
+            <st Contlex="DET_">уно</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="Det">вань</l>
+         <stg>
+            <st Contlex="DET_">вань</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+      </mg>
+   </e>
+  <e>
+    <lg>
+      <l pos="Det">мукет</l>
+      <stg>
+        <st Contlex="DET_">мукет</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Det">весь</l>
+      <stg>
+        <st Contlex="DET_">весь</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+</r>

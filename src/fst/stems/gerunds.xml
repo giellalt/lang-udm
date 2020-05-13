@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Ger">быгатыса</l>
+         <stg>
+            <st Contlex="GER_">быгатыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">быгатыса</l>
+         <stg>
+            <st Contlex="ADV_">быгатыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">бызьыса</l>
+         <stg>
+            <st Contlex="GER_">бызьыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">бызьыса</l>
+         <stg>
+            <st Contlex="ADV_">бызьыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">бызьытэк</l>
+         <stg>
+            <st Contlex="GER_">бызьытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">валатэк</l>
+         <stg>
+            <st Contlex="GER_">валатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">ваменскыса</l>
+         <stg>
+            <st Contlex="GER_">ваменскыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ваменскыса</l>
+         <stg>
+            <st Contlex="ADV_">ваменскыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">вамышъяса</l>
+         <stg>
+            <st Contlex="GER_">вамышъяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">вамышъяса</l>
+         <stg>
+            <st Contlex="ADV_">вамышъяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">вераса-вератэк</l>
+         <stg>
+            <st Contlex="GER_">вераса-вератэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">визаськыса</l>
+         <stg>
+            <st Contlex="GER_">визаськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">визаськыса</l>
+         <stg>
+            <st Contlex="ADV_">визаськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">вожпотыса</l>
+         <stg>
+            <st Contlex="GER_">вожпотыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">вожпотыса</l>
+         <stg>
+            <st Contlex="ADV_">вожпотыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">выжыятъяса</l>
+         <stg>
+            <st Contlex="GER_">выжыятъяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">выжыятъяса</l>
+         <stg>
+            <st Contlex="ADV_">выжыятъяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">гордэктытозь</l>
+         <stg>
+            <st Contlex="GER_">гордэктытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">дӥсьтыса</l>
+         <stg>
+            <st Contlex="GER_">дӥсьтыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">дӥсьтыса</l>
+         <stg>
+            <st Contlex="ADV_">дӥсьтыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">дӥсьтытэк</l>
+         <stg>
+            <st Contlex="GER_">дӥсьтытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">дугдылытэк</l>
+         <stg>
+            <st Contlex="GER_">дугдылытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">дыртыса</l>
+         <stg>
+            <st Contlex="GER_">дыртыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">дыртыса</l>
+         <stg>
+            <st Contlex="ADV_">дыртыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">дыртытэк</l>
+         <stg>
+            <st Contlex="GER_">дыртытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">жадьылытэк</l>
+         <stg>
+            <st Contlex="GER_">жадьылытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">жадьытозь</l>
+         <stg>
+            <st Contlex="GER_">жадьытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">жадьытэк</l>
+         <stg>
+            <st Contlex="GER_">жадьытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">жаляса-жалятэк</l>
+         <stg>
+            <st Contlex="GER_">жаляса-жалятэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">жалятэк</l>
+         <stg>
+            <st Contlex="GER_">жалятэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">ӝожаса</l>
+         <stg>
+            <st Contlex="GER_">ӝожаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ӝожаса</l>
+         <stg>
+            <st Contlex="ADV_">ӝожаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">кӧсатытозь</l>
+         <stg>
+            <st Contlex="GER_">кӧсатытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">куанытозь</l>
+         <stg>
+            <st Contlex="GER_">куанытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">куспатыса</l>
+         <stg>
+            <st Contlex="GER_">куспатыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">куспатыса</l>
+         <stg>
+            <st Contlex="ADV_">куспатыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">луыса</l>
+         <stg>
+            <st Contlex="GER_">луыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">луыса</l>
+         <stg>
+            <st Contlex="PO_">луыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">луытозь</l>
+         <stg>
+            <st Contlex="GER_">луытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">малпаса</l>
+         <stg>
+            <st Contlex="GER_">малпаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">малпаса</l>
+         <stg>
+            <st Contlex="ADV_">малпаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">малпаськытэк</l>
+         <stg>
+            <st Contlex="GER_">малпаськытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">малпатэк</l>
+         <stg>
+            <st Contlex="GER_">малпатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">медъяськыса</l>
+         <stg>
+            <st Contlex="GER_">медъяськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">медъяськыса</l>
+         <stg>
+            <st Contlex="ADV_">медъяськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">медыса</l>
+         <stg>
+            <st Contlex="GER_">медыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">медыса</l>
+         <stg>
+            <st Contlex="ADV_">медыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">мыльытозь</l>
+         <stg>
+            <st Contlex="GER_">мыльытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">пазяса</l>
+         <stg>
+            <st Contlex="GER_">пазяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">пазяса</l>
+         <stg>
+            <st Contlex="ADV_">пазяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">пӧртэмъяськыса</l>
+         <stg>
+            <st Contlex="GER_">пӧртэмъяськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">пӧртэмъяськыса</l>
+         <stg>
+            <st Contlex="ADV_">пӧртэмъяськыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">пӧяса</l>
+         <stg>
+            <st Contlex="GER_">пӧяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">пӧяса</l>
+         <stg>
+            <st Contlex="ADV_">пӧяса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">пумитъяськытэк</l>
+         <stg>
+            <st Contlex="GER_">пумитъяськытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">серекъятэк</l>
+         <stg>
+            <st Contlex="GER_">серекъятэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">сиытозь-юытозь</l>
+         <stg>
+            <st Contlex="GER_">сиытозь-юытозь</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тодыса</l>
+         <stg>
+            <st Contlex="GER_">тодыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">тодыса</l>
+         <stg>
+            <st Contlex="ADV_">тодыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тупаса</l>
+         <stg>
+            <st Contlex="GER_">тупаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">тупаса</l>
+         <stg>
+            <st Contlex="ADV_">тупаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тупатэк</l>
+         <stg>
+            <st Contlex="GER_">тупатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">турнатэк</l>
+         <stg>
+            <st Contlex="GER_">турнатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тыршыса</l>
+         <stg>
+            <st Contlex="GER_">тыршыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">тыршыса</l>
+         <stg>
+            <st Contlex="ADV_">тыршыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тэтчаса</l>
+         <stg>
+            <st Contlex="GER_">тэтчаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">тэтчаса</l>
+         <stg>
+            <st Contlex="ADV_">тэтчаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">тяпайтыса</l>
+         <stg>
+            <st Contlex="GER_">тяпайтыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">тяпайтыса</l>
+         <stg>
+            <st Contlex="ADV_">тяпайтыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">уйлатэк</l>
+         <stg>
+            <st Contlex="GER_">уйлатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">улыса</l>
+         <stg>
+            <st Contlex="GER_">улыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">улыса</l>
+         <stg>
+            <st Contlex="ADV_">улыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">улыса-улыса</l>
+         <stg>
+            <st Contlex="GER_">улыса-улыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">улыса-улыса</l>
+         <stg>
+            <st Contlex="ADV_">улыса-улыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">чукатэк</l>
+         <stg>
+            <st Contlex="GER_">чукатэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">шӧдтэк</l>
+         <stg>
+            <st Contlex="GER_">шӧдтэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">шӧдылытэк</l>
+         <stg>
+            <st Contlex="GER_">шӧдылытэк</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">шуыса</l>
+         <stg>
+            <st Contlex="GER_">шуыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Conj">шуыса</l>
+         <stg>
+            <st Contlex="CONJ_">шуыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">ыбыса</l>
+         <stg>
+            <st Contlex="GER_">ыбыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ыбыса</l>
+         <stg>
+            <st Contlex="ADV_">ыбыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">эктыса</l>
+         <stg>
+            <st Contlex="GER_">эктыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">эктыса</l>
+         <stg>
+            <st Contlex="ADV_">эктыса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Ger">эриктэмаса</l>
+         <stg>
+            <st Contlex="GER_">эриктэмаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">эриктэмаса</l>
+         <stg>
+            <st Contlex="ADV_">эриктэмаса</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t/>
+         </tg>
+         <tg xml:lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+</r>

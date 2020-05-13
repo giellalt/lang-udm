@@ -1,0 +1,37 @@
+! =============================== !
+!   Hyphenator for Udmurt  !
+! =============================== !
+
+echo << defining Cns and Vow... >>
+
+define Vow [ а | е | ё | и | ӥ | о | ӧ | у | ы | э | ю | я | 
+             А | Е | Ё | И | Ӥ | О | Ӧ| У | Ы | Э | Ю | Я ] ;
+
+define Cns [ б | в | г | д | ж | з | й | к | л | м | н | п | 
+             р | с | т | ф | х | ц | ч | ш | щ | ь | ъ | ӝ | ӟ | ӵ |
+             Б | В | Г | Д | Ж | З | Й | К | Л | М | Н | П | 
+             Р | С | Т | Ф | Х | Ц | Ч | Ш | Щ | Ь | Ъ Ӝ | Ӟ | Ӵ ] ;
+
+
+define Sgm [ Cns | Vow ] ;
+define Sign [ ь | Ь | ъ | Ъ ] ;
+             
+define JVow [ e | ё | ю | я | Е | Ё | Ю | Я ] ;           
+define S [ с | С | ш | Ш ] ;
+
+echo << and now the rules >>
+
+define beforeSign  [..] -> %^  || Cns Sign _ Segm+ Vow ; ! Галь-кин
+define beforeJV    [..] -> %^  || Vow Sgm* _ JVow ;      ! ка-я
+define beforeCV    [..] -> %^  || Vow Sgm* _ Cns   Vow ; ! хэ-рэг-лэ
+define CsCV        [..] -> %^  || Vow Cns  _ S Cns Vow ; ! Крон-штадт
+
+echo <<Combining...>>
+
+read regex [ 
+    beforeSign 
+.o. beforeJV 
+.o. beforeCV 
+.o. CsCV 
+] ;
+

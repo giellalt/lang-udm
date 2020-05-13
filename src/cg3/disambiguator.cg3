@@ -1,0 +1,258 @@
+# -*- cg-pre-pipe: "$GTHOME/giella-core/scripts/preprocess --abbr=$GTHOME/langs/udm/tools/preprocess/abbr.txt | hfst-optimised-lookup  $GTHOME/langs/udm/src/analyser-disamb-gt-desc.hfstol | $GTHOME/giella-core/scripts/lookup2cg" -*-
+
+
+# ===================== #
+# Faroese disambiguator #
+# ===================== #
+
+
+# ========== #
+# Delimiters #
+# ========== #
+
+
+DELIMITERS = "<.>" "<!>" "<?>" "<¶>";
+
+
+
+# ============= #
+# Tags and sets #
+# ============= #
+
+
+# ========
+   SETS
+# ========
+
+LIST BOS = (>>>) (<s>); 
+LIST EOS = (<<<) (</s>); # vislcg and CG-2 together.
+
+LIST N = N ;
+LIST A = A ;
+LIST Abs = Abs ;
+LIST Adv = Adv ;
+LIST Abs = Abs ;
+LIST V = V ;
+LIST Pron = Pron ;
+LIST CS = CS ;
+LIST CC = CC ;
+LIST Conj = Conj ; # To be removed, this is CC / CS
+LIST Adp = Adp ;
+LIST Po = Po ;
+LIST Pr = Pr ;
+LIST Interj = Interj ;
+LIST Pcle = Pcle ;
+LIST Num = Num ;
+LIST Prop = Prop ;
+LIST Pers = Pers ;
+LIST Dem = Dem ;
+LIST Interr = Interr ;
+LIST Refl = Refl ;
+LIST Recipr = Recipr ;
+LIST Rel = Rel ;
+LIST Indef = Indef ;
+LIST Err/Sub = Err/Sub ;
+LIST Use/-Spell = Use/-Spell ;
+LIST Sg = Sg ;
+LIST Du = Du ;
+LIST Pl = Pl ;
+LIST Nom = Nom ;
+LIST Acc = Acc ;
+LIST Gen = Gen ;
+LIST Abl = Abl ;
+LIST Dat = Dat ;
+LIST Ins = Ins ;
+LIST Abe = Abe ;
+LIST Advl = Advl ;
+LIST Ine = Ine ;
+LIST Ill = Ill ;
+LIST Ela = Ela ;
+LIST Egr = Egr ;
+LIST Ter = Ter ;
+LIST Prl = Prl ;
+LIST Apr = Apr ;
+LIST PxSg1 = PxSg1 ;
+LIST PxSg2 = PxSg2 ;
+LIST PxSg3 = PxSg3 ;
+LIST PxDu1 = PxDu1 ;
+LIST PxDu2 = PxDu2 ;
+LIST PxDu3 = PxDu3 ;
+LIST PxPl1 = PxPl1 ;
+LIST PxPl2 = PxPl2 ;
+LIST PxPl3 = PxPl3 ;
+LIST Comp = Comp ;
+LIST Superl = Superl ;
+LIST Attr = Attr ;
+LIST Card = Card ;
+LIST Ord = Ord ;
+LIST Cond = Cond ;
+LIST Imprt = Imprt ;
+LIST Ind = Ind ;
+LIST Opt = Opt ;
+LIST Fut = Fut ;
+LIST Prs = Prs ;
+LIST PrtI = PrtI ;
+LIST PrtII = PrtII ;
+LIST Sg1 = Sg1 ;
+LIST Sg2 = Sg2 ;
+LIST Sg3 = Sg3 ;
+LIST Du1 = Du1 ;
+LIST Du2 = Du2 ;
+LIST Du3 = Du3 ;
+LIST Pl1 = Pl1 ;
+LIST Pl2 = Pl2 ;
+LIST Pl3 = Pl3 ;
+LIST Inf = Inf ;
+LIST Ger = Ger ;
+LIST ConNeg = ConNeg ;
+LIST ConNegII = ConNegII ;
+LIST Neg = Neg ;
+LIST ImprtII = ImprtII ;
+LIST PrcPrsPos = PrcPrsPos ;
+LIST PrcPrfAdn = PrcPrfAdn ;
+LIST PrcPrfPred = PrcPrfPred ;
+LIST PrcPrfNeg = PrcPrfNeg ;
+LIST Prc = Prc ; # for removal 2019-06-04
+LIST GerPos = GerPos ;
+LIST GerNeg = GerNeg ;
+LIST GerTer = GerTer ;
+LIST GerTemp = GerTemp ;
+LIST Sup = Sup ;
+LIST VGen = VGen ;
+LIST VAbess = VAbess ;
+LIST ABBR = ABBR ;
+LIST ACR = ACR ;
+LIST CLB = CLB ;
+LIST PUNCT = PUNCT ;
+LIST LEFT = LEFT ;
+LIST RIGHT = RIGHT ;
+LIST TV = TV ;
+LIST IV = IV ;
+LIST Multi = Multi ;
+LIST Guess = Guess ;
+LIST Qst = Qst ;
+LIST Foc = Foc ;
+LIST Mal = Mal ;
+LIST Fem = Fem ;
+LIST Sur = Sur ;
+LIST Patr = Patr ;
+LIST Plc = Plc ;
+LIST Org = Org ;
+LIST Obj = Obj ;
+LIST Ani = Ani ;
+LIST Hum = Hum ;
+LIST Plant = Plant ;
+LIST Group = Group ;
+LIST Time = Time ;
+LIST Txt = Txt ;
+LIST Route = Route ;
+LIST Measr = Measr ;
+LIST Wthr = Wthr ;
+LIST Build = Build ;
+LIST Edu = Edu ;
+LIST Veh = Veh ;
+LIST Clth = Clth ;
+LIST V→N = V→N ;
+LIST V→V = V→V ;
+LIST V→A = V→A ;
+LIST Der/ку = Der/ку ;
+LIST Der/ны = Der/ны ;
+LIST Der/Он = Der/Он ;
+LIST Der/Оно = Der/Оно ;
+LIST Der/тозь = Der/тозь ;
+LIST Der/тэм = Der/тэм ;
+LIST Der/Эм = Der/Эм ;
+LIST Dial/North = Dial/North ;
+LIST Dial/South = Dial/South ;
+LIST A* = A* ;
+
+LIST Err/Orth = Err/Orth ;
+
+# Sets
+# ====
+
+SET WORD = N | V | A | Pr | Pron  | Adv | CC | CS | Interj | Num | ("\?") ;
+
+
+# Noun sets
+
+# Adjective sets
+
+SET REALADJ = A OR A* ;
+
+
+# Nominal sets
+
+LIST NOMINALHEAD = N Num Pers Refl Recipr "Pron Interr" "Pron Indef" ;
+
+LIST PREN = Gen A ;
+
+LIST REALPRC = PrcPrsPos PrcPrfAdn PrcPrfPred PrcPrfNeg ;
+
+SET NOT-PREN = WORD - PREN ;
+SET NOT-A = WORD - A ;
+SET COMMONNOUN = N - Prop ;
+
+
+SECTION
+
+REMOVE:Prop COMMONNOUN IF (NOT -1 BOS)(0 Prop) ;
+
+REMOVE:AN A IF (0 N + Sg + Nom)(NOT *1 N BARRIER NOT-PREN);
+
+REMOVE:AN2 N IF (0 A + Abs)(1 N);
+
+REMOVE:PrcRemove Prc IF (0 REALPRC) ;
+
+REMOVE:NegConNeg ConNeg IF (NOT -1 Neg) ;
+#REMOVE:NegConNeg ConNeg IF (NOT *1 Neg) ;
+
+REMOVE:ImprtInitially Imprt IF (NOT *-1 BOS); # All too brutal
+
+# эн кариське
+REMOVE:NegPcleWhenNegVerb Pcle IF (0 ("эн")) (1 ConNeg) ;
+# уг нуы
+REMOVE:NoNegInterjWhenNegVerb Interj IF (0 ("уг")) (1 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoPrtWhenNegVerbElse PrtI IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoImprtWhenNegVerbElse Imprt IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
+
+#уг нуы-а
+REMOVE:NoOptWhenNegVerbElse Opt IF (-1 ("уг") + V + Neg + Prs) (0 ConNeg) ;
+
+# эн кариське
+REMOVE:NoIndWhenPreceededByNegImprt Ind IF (-1 V + Neg + Imprt) (0 V + Imprt + ConNeg) ;
+
+#  эн кариське
+SELECT:ConNegWhenPreceededByVNeg ConNeg IF (-1 V + Neg) (0 V) ;
+
+
+REMOVE:GenPxSg3 PxSg3 IF (NOT *-1 Nom)(0 Acc);
+
+SELECT:NomPo Nom IF (1C Po);
+
+REMOVE:PoIfN Po IF (NOT -1 Nom);
+
+
+SELECT:PxNP PxSg3 IF (*-1 Gen BARRIER NOT-A)(NOT *0 V);
+
+REMOVE:NoFut1WoPron Fut + Sg1 IF (0 Prs + Pl3)(NOT *-1 Pron + Nom + Sg1);
+
+SELECT:AdvNotAOutsideNP Adv IF (0 A)(NOT 1 N OR A);
+
+SELECT:AccB CC IF (-1 Prop)(1 Prop);
+SELECT:AccB CC IF (-1 N)(1 N);
+
+SELECT:AconjB Conj IF (-1 Prop)(1 Prop); # Remove this
+
+# VERBS
+# Imperatives
+
+SELECT:NPnotImprt N IF (-1C Gen OR A)(0 V + Imprt) ;
+
+REMOVE:IKonlyInitial Imprt IF (NOT -1 BOS OR PUNCT)(0 ("ик"));
+
+REMOVE:NotErr Err/Orth ;

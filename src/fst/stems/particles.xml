@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l hid="Hom1" pos="Pcle">а</l> <stg> <st Contlex="PCLE_">а</st> </stg> </lg>
+<mg ind="1th"> <defNative/> <posType>interr.</posType>
+     <tg xml:lang="fin">
+       <t>entä(s), entäpä(s);</t>
+     </tg>
+     <xg><x>а тон мар ӵуказе кариськод?</x>
+       <xt xml:lang="fin">entä(s) mitä sinä teet huomenna?</xt>
+     </xg>
+</mg>   <mg ind="2th"> 
+     <tg xml:lang="fin">
+<re>interr. ja vahv.</re>
+       <t>mitä, hä(h);</t>
+     </tg>
+     <xg><x>мар тон верад, а?</x>
+       <xt xml:lang="fin">mitä oikein sanoit, häh?</xt>
+     </xg>
+</mg>
+   <mg ind="3th">
+     <tg xml:lang="fin">
+ <re>vahv.</re>
+       <t>entä (sitten), =pa / =pä;</t>
+     </tg>
+     <xg><x>а мар карод на?</x>
+       <xt xml:lang="fin">entä mitä sitten sille tehtäisiin?;</xt>
+     </xg>
+     <xg><x>а тон мын берты ни</x>
+       <xt xml:lang="fin">lähdepä sinä jo kotiin</xt>
+     </xg>
+</mg> </e>
+<e> <lg> <l hid="Hom2" pos="Pcle">а</l> <stg> <st Contlex="PCLE_">а</st> </stg> </lg>
+   <mg ind="1th"> <defNative>-а; -а ... -а </defNative>
+<posType>interr.</posType>
+     <tg xml:lang="fin">
+       <t>=ko / =kö; =ko / =kö ... vai;</t>
+     </tg>
+     <xg><x>вань-а тынад чылкыт бумагаед?</x>
+       <xt xml:lang="fin">onko sinulla puhdasta paperia?;</xt>
+     </xg>
+     <xg><x>лыктод-а, уд-а туннэ?</x>
+       <xt xml:lang="fin">tuletko tänään vai et?</xt>
+     </xg>
+   </mg>
+</e>
+<e> <lg> <l pos="Pcle">адске</l> <stg> <st Contlex="PCLE_">адске</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ай</l> <stg> <st Contlex="PCLE_">ай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">айбат</l> <stg> <st Contlex="PCLE_">айбат</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">айда</l> <stg> <st Contlex="PCLE_">айда</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">айко</l> <stg> <st Contlex="PCLE_">айко</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">акак</l> <stg> <st Contlex="PCLE_">акак</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">акры</l> <stg> <st Contlex="PCLE_">акры</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">акыр</l> <stg> <st Contlex="PCLE_">акыр</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">алай</l> <stg> <st Contlex="PCLE_">алай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">али</l> <stg> <st Contlex="PCLE_">али</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">аль</l> <stg> <st Contlex="PCLE_">аль</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">аминь</l> <stg> <st Contlex="PCLE_">аминь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">арна</l> <stg> <st Contlex="PCLE_">арна</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бадӟын инмаре лудэ</l> <stg> <st Contlex="PCLE_">бадӟын инмаре лудэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бен</l> <stg> <st Contlex="PCLE_">бен</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бо</l> <stg> <st Contlex="PCLE_">бо</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бон</l> <stg> <st Contlex="PCLE_">бон</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бӧбӧ</l> <stg> <st Contlex="PCLE_">бӧбӧ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бугай</l> <stg> <st Contlex="PCLE_">бугай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">буди</l> <stg> <st Contlex="PCLE_">буди</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">будьто</l> <stg> <st Contlex="PCLE_">будьто</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">быгай</l> <stg> <st Contlex="PCLE_">быгай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">быдысь ик</l> <stg> <st Contlex="PCLE_">быдысь ик</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">бык</l> <stg> <st Contlex="PCLE_">бык</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">быри-быри</l> <stg> <st Contlex="PCLE_">быри-быри</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вае</l> <stg> <st Contlex="PCLE_">вае</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ваелэ</l> <stg> <st Contlex="PCLE_">ваелэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вай</l> <stg> <st Contlex="PCLE_">вай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вай-ка</l> <stg> <st Contlex="PCLE_">вай-ка</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ведь</l> <stg> <st Contlex="PCLE_">ведь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">веть</l> <stg> <st Contlex="PCLE_">веть</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">во</l> <stg> <st Contlex="PCLE_">во</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вот</l> <stg> <st Contlex="PCLE_">вот</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">всё-таки</l> <stg> <st Contlex="PCLE_">всё-таки</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вылды</l> <stg> <st Contlex="PCLE_">вылды</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">вылэм</l> <stg> <st Contlex="PCLE_">вылэм</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">гетэ</l> <stg> <st Contlex="PCLE_">гетэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">гинэ</l> <stg> <st Contlex="PCLE_">гинэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">гитэ</l> <stg> <st Contlex="PCLE_">гитэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">гой</l> <stg> <st Contlex="PCLE_">гой</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">гынэк</l> <stg> <st Contlex="PCLE_">гынэк</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">да</l> <stg> <st Contlex="PCLE_">да</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">давай</l> <stg> <st Contlex="PCLE_">давай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">даже</l> <stg> <st Contlex="PCLE_">даже</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">дай</l> <stg> <st Contlex="PCLE_">дай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">дак</l> <stg> <st Contlex="PCLE_">дак</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">дари</l> <stg> <st Contlex="PCLE_">дари</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">драк</l> <stg> <st Contlex="PCLE_">драк</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">дыр</l> <stg> <st Contlex="PCLE_">дыр</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">етэ</l> <stg> <st Contlex="PCLE_">етэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӝык</l> <stg> <st Contlex="PCLE_">ӝык</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">замлакаш</l> <stg> <st Contlex="PCLE_">замлакаш</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">занглакаш</l> <stg> <st Contlex="PCLE_">занглакаш</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">зэм</l> <stg> <st Contlex="PCLE_">зэм</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟан-ӟан</l> <stg> <st Contlex="PCLE_">ӟан-ӟан</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟечбур</l> <stg> <st Contlex="PCLE_">ӟечбур</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟечбуресь</l> <stg> <st Contlex="PCLE_">ӟечбуресь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟечесь</l> <stg> <st Contlex="PCLE_">ӟечесь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟечесь-буресь</l> <stg> <st Contlex="PCLE_">ӟечесь-буресь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӟечом-буром</l> <stg> <st Contlex="PCLE_">ӟечом-буром</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ик</l> <stg> <st Contlex="PCLE_">ик</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">индэ</l> <stg> <st Contlex="PCLE_">индэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ини</l> <stg> <st Contlex="PCLE_">ини</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">иське</l> <stg> <st Contlex="PCLE_">иське</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">кадь</l> <stg> <st Contlex="PCLE_">кадь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">как</l> <stg> <st Contlex="PCLE_">как</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ке</l> <stg> <st Contlex="PCLE_">ке</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">кем</l> <stg> <st Contlex="PCLE_">кем</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">кемзэ</l> <stg> <st Contlex="PCLE_">кемзэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">керек</l> <stg> <st Contlex="PCLE_">керек</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">керет</l> <stg> <st Contlex="PCLE_">керет</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">коть</l> <stg> <st Contlex="PCLE_">коть</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">кылсярысь</l> <stg> <st Contlex="PCLE_">кылсярысь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ла</l> <stg> <st Contlex="PCLE_">ла</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">лабаса</l> <stg> <st Contlex="PCLE_">лабаса</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">луоз</l> <stg> <st Contlex="PCLE_">луоз</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">луэмен</l> <stg> <st Contlex="PCLE_">луэмен</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">лык</l> <stg> <st Contlex="PCLE_">лык</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">лэся</l> <stg> <st Contlex="PCLE_">лэся</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">марым</l> <stg> <st Contlex="PCLE_">марым</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ме</l> <stg> <st Contlex="PCLE_">ме</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">мед</l> <stg> <st Contlex="PCLE_">мед</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">меда</l> <stg> <st Contlex="PCLE_">меда</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медад</l> <stg> <st Contlex="PCLE_">медад</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медаз</l> <stg> <st Contlex="PCLE_">медаз</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медак</l> <stg> <st Contlex="PCLE_">медак</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медам</l> <stg> <st Contlex="PCLE_">медам</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медло</l> <stg> <st Contlex="PCLE_">медло</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">медось</l> <stg> <st Contlex="PCLE_">медось</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">мелэ</l> <stg> <st Contlex="PCLE_">мелэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">мия</l> <stg> <st Contlex="PCLE_">мия</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">на</l> <stg> <st Contlex="PCLE_">на</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">небось</l> <stg> <st Contlex="PCLE_">небось</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">незнай</l> <stg> <st Contlex="PCLE_">незнай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">неужели</l> <stg> <st Contlex="PCLE_">неужели</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">неужто</l> <stg> <st Contlex="PCLE_">неужто</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">нёшто</l> <stg> <st Contlex="PCLE_">нёшто</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ни</l> <stg> <st Contlex="PCLE_">ни</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">но</l> <stg> <st Contlex="PCLE_">но</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">нош</l> <stg> <st Contlex="PCLE_">нош</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">нугы</l> <stg> <st Contlex="PCLE_">нугы</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ну-ка</l> <stg> <st Contlex="PCLE_">ну-ка</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">о</l> <stg> <st Contlex="PCLE_">о</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">о-веть</l> <stg> <st Contlex="PCLE_">о-веть</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ого</l> <stg> <st Contlex="PCLE_">ого</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ойдолэ</l> <stg> <st Contlex="PCLE_">ойдолэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">окмоз</l> <stg> <st Contlex="PCLE_">окмоз</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">око</l> <stg> <st Contlex="PCLE_">око</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">оло</l> <stg> <st Contlex="PCLE_">оло</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">оло-керек</l> <stg> <st Contlex="PCLE_">оло-керек</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">оло-но</l> <stg> <st Contlex="PCLE_">оло-но</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">о-о</l> <stg> <st Contlex="PCLE_">о-о</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">о-о-ведь</l> <stg> <st Contlex="PCLE_">о-о-ведь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">осто</l> <stg> <st Contlex="PCLE_">осто</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">осто быри</l> <stg> <st Contlex="PCLE_">осто быри</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">остэ</l> <stg> <st Contlex="PCLE_">остэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">отэ</l> <stg> <st Contlex="PCLE_">отэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӧзтэ</l> <stg> <st Contlex="PCLE_">ӧзтэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">пе</l> <stg> <st Contlex="PCLE_">пе</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">погоди</l> <stg> <st Contlex="PCLE_">погоди</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">поди</l> <stg> <st Contlex="PCLE_">поди</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">пожалуй</l> <stg> <st Contlex="PCLE_">пожалуй</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">пожалуйста</l> <stg> <st Contlex="PCLE_">пожалуйста</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">пӧй</l> <stg> <st Contlex="PCLE_">пӧй</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">привет</l> <stg> <st Contlex="PCLE_">привет</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">пук</l> <stg> <st Contlex="PCLE_">пук</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ракмат</l> <stg> <st Contlex="PCLE_">ракмат</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">сётаки</l> <stg> <st Contlex="PCLE_">сётаки</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">сябась</l> <stg> <st Contlex="PCLE_">сябась</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тани</l> <stg> <st Contlex="PCLE_">тани</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тани-тани</l> <stg> <st Contlex="PCLE_">тани-тани</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тау</l> <stg> <st Contlex="PCLE_">тау</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тауэлэ</l> <stg> <st Contlex="PCLE_">тауэлэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тӥни</l> <stg> <st Contlex="PCLE_">тӥни</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тӥни-тани</l> <stg> <st Contlex="PCLE_">тӥни-тани</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тожо</l> <stg> <st Contlex="PCLE_">тожо</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">только</l> <stg> <st Contlex="PCLE_">только</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">тото</l> <stg> <st Contlex="PCLE_">тото</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">уго</l> <stg> <st Contlex="PCLE_">уго</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">угой</l> <stg> <st Contlex="PCLE_">угой</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">угось</l> <stg> <st Contlex="PCLE_">угось</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ук</l> <stg> <st Contlex="PCLE_">ук</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">уске</l> <stg> <st Contlex="PCLE_">уске</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">чӧк</l> <stg> <st Contlex="PCLE_">чӧк</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">что</l> <stg> <st Contlex="PCLE_">что</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">чырккемесь</l> <stg> <st Contlex="PCLE_">чырккемесь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ӵок</l> <stg> <st Contlex="PCLE_">ӵок</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">шай</l> <stg> <st Contlex="PCLE_">шай</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">шат</l> <stg> <st Contlex="PCLE_">шат</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">шол</l> <stg> <st Contlex="PCLE_">шол</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">шӧдске</l> <stg> <st Contlex="PCLE_">шӧдске</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">шуом</l> <stg> <st Contlex="PCLE_">шуом</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ыкы</l> <stg> <st Contlex="PCLE_">ыкы</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ы-ы</l> <stg> <st Contlex="PCLE_">ы-ы</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эйла</l> <stg> <st Contlex="PCLE_">эйла</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эке</l> <stg> <st Contlex="PCLE_">эке</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эн</l> <stg> <st Contlex="PCLE_">эн</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эсь</l> <stg> <st Contlex="PCLE_">эсь</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эсьма</l> <stg> <st Contlex="PCLE_">эсьма</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эсьмаса</l> <stg> <st Contlex="PCLE_">эсьмаса</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">эшшо</l> <stg> <st Contlex="PCLE_">эшшо</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">э-э</l> <stg> <st Contlex="PCLE_">э-э</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">я</l> <stg> <st Contlex="PCLE_">я</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ява</l> <stg> <st Contlex="PCLE_">ява</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">явалэ</l> <stg> <st Contlex="PCLE_">явалэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">яватэ</l> <stg> <st Contlex="PCLE_">яватэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">я-ка</l> <stg> <st Contlex="PCLE_">я-ка</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">яке</l> <stg> <st Contlex="PCLE_">яке</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ялэ</l> <stg> <st Contlex="PCLE_">ялэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ялэ-ка</l> <stg> <st Contlex="PCLE_">ялэ-ка</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">яра</l> <stg> <st Contlex="PCLE_">яра</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">яралоз</l> <stg> <st Contlex="PCLE_">яралоз</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ярам</l> <stg> <st Contlex="PCLE_">ярам</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ятэ</l> <stg> <st Contlex="PCLE_">ятэ</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">я-я</l> <stg> <st Contlex="PCLE_">я-я</st> </stg> </lg> <mg> <defNative/> <tg xml:lang="eng"> <t/> </tg> <tg xml:lang="fin"> <t/> </tg> </mg> </e>
+</r>

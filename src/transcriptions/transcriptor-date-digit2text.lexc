@@ -1,0 +1,115 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or feedback@divvun.no
+
+! ================= !
+! The Udmurt dates  !
+! ================= !
+
+
+! 12.8.
+! Гудырикошконлэн дас кыкетӥ нуналыз
+
+Multichar_Symbols
+
+@U.MONTH.1@ 
+@U.MONTH.2@ 
+@U.MONTH.3@ 
+@U.MONTH.4@ 
+@U.MONTH.5@ 
+@U.MONTH.6@ 
+@U.MONTH.7@ 
+@U.MONTH.8@ 
+@U.MONTH.9@ 
+@U.MONTH.10@ 
+@U.MONTH.11@ 
+@U.MONTH.12@ 
+
++Use/NG ! For substandard month names used in Oahpa
+! They will be accepted but not generated.
+ 
+LEXICON Root
+ 
+@U.MONTH.1@:толшорлэн% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.2@:тулыспаллэн% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.3@:южтолэзьлэн% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.4@:оштолэзьлэн% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.5@:куартолэзьлэн% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.6@:инвожолэн% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.7@:пӧсьтолэзьлэн% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.8@:гудырикошконлэн% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.9@:куарусёнлэн% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.10@:коньывуонлэн% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.11@:шуркынмонлэн% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.12@:толсурлэн% @U.MONTH.12@ 31DAYS ;
+ 
+ 
+LEXICON 29DAYS
+1:нырысетӥ B ;
+2:кыкетӥ B ;
+3:куинетӥ B ;
+4:ньылетӥ B ;
+5:витетэӥ B ;
+6:куатетэӥ B ;
+7:сизьыметэӥ B ;
+8:тямысэтӥ B ;
+9:укмысэтӥ B ;
+1%0:дасэтэӥ B ;
+11:дас% одӥгетӥ B ;
+12:дас% кыкетӥ B ;
+13:дас% куинетӥ B ;
+14:дас% ньылетӥ B ;
+15:дас% витетӥ B ;
+16:дас% куатетӥ B ;
+17:дас% сизьыметӥ B ;
+18:дас% тямысэтӥ B ;
+19:дас% укмысэтӥ B ;
+2%0:кызетӥ B ;
+21:кызь% одИгетӥ B ;
+22:кызь% кыкетӥ B ;
+23:кызь% куинетӥ B ;
+24:кызь% ньылетӥ B ;
+25:кызь% витетӥ B ;
+26:кызь% куатетӥ B ;
+27:кызь% сизьыметӥ B ;
+28:кызь% тямысэтӥ B ;
+29:кызь% укмысэтӥ B ;
+ 
+LEXICON 30DAYS
+3%0:куамынетӥ B ;
+29DAYS ;
+ 
+LEXICON 31DAYS
+31:куамын% одӥгетӥ B ;
+30DAYS ;
+ 
+LEXICON B
+%.:% нуналыз MONTH ;
+ 
+LEXICON MONTH
+1@U.MONTH.1@:@U.MONTH.1@ X ;
+2@U.MONTH.2@:@U.MONTH.2@ X ;
+3@U.MONTH.3@:@U.MONTH.3@ X ;
+4@U.MONTH.4@:@U.MONTH.4@ X ;
+5@U.MONTH.5@:@U.MONTH.5@ X ;
+6@U.MONTH.6@:@U.MONTH.6@ X ;
+7@U.MONTH.7@:@U.MONTH.7@ X ;
+8@U.MONTH.8@:@U.MONTH.8@ X ;
+9@U.MONTH.9@:@U.MONTH.9@ X ;
+1%0@U.MONTH.10@:@U.MONTH.10@ X ;
+11@U.MONTH.11@:@U.MONTH.11@ X ;
+12@U.MONTH.12@:@U.MONTH.12@ X ;
+ 
+LEXICON X
+%.: # ;
+! # ; ! sloppy punctuation

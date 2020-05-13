@@ -1,0 +1,150 @@
+!! Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+!! Then just:
+!! $ make
+!! $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+
+!! Issues:
+!! - [X] Ambiguous input
+!!   - Seems to work fine
+!! - [X] Ambiguous multiword expessions with ambiguous tokenisation
+!!   - Seems to work – represented within lexc now; hfst-tokenise also
+!!     supports forms on the analyses now
+!! - [X] Ambiguous multiword expessions need reorganising after CG
+!!   - The module cg-mwesplit takes wordforms from readings and turns them into
+!!     new cohorts
+!! - [X] Unknown words
+!!   - The set-difference method only works for words without
+!!     flag diacritics (even though we should be working only on the form-side?)
+!!     and leads to binary blow-up: With only lower unknowns, we get 45M;
+!!     lower+upper gives 67M, while no unknowns gives 27M
+!!   - Fixed instead by treating empty analyses as unknown-tokens in
+!!     hfst-tokenise, and outputting unmatched strings with a prefix
+!! - [ ] Treat input that's within superblanks as unmatched
+!!   - probably requires a change in hfst-tokenise itself
+!! - [X] Try >1 space for ambiguous MWE's? – represented within lexc now
+!! - [ ] Try set-difference-unknowns method with regular hfst commands?
+
+!! More usage examples:
+!! $ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+!! $ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+!! $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+
+!! Pmatch documentation:
+!! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
+
+set need-separators off
+
+Define lexmorph @bin"analyser_relabelled-disamb-gt-desc.hfst" ;
+
+Define morphology [ lexmorph | UpCase(lexmorph, U) ] ;
+
+Define url @bin"analyser-url-gt-desc.hfst" ;
+
+! explicit list of flags, since `?` does not match flags; the list is dynamically built, since it is language dep:
+Define flags @bin"filters/disamb-tokeniser-flags.hfst" ;
+Define inputmark    [ 0:"@PMATCH_INPUT_MARK@" | 0:"@PMATCH_BACKTRACKING@" ];
+
+! Characters which have analyses in the lexicon, but can appear without spaces
+! before/after, that is, with no context conditions, and adjacent to words:
+Define incondform      Punct|{„}|{“}|{”}|{…}|{‚}|{‘}|{’}|{–}|{—}|{­}|{_}|{<}|{>}|{«}|{»}|{@}|{'}|{‹}|{›}|{➤}|{•} ;
+
+Define blank           Whitespace | incondform
+                       | { } ! U+2000    En Quad                    &#8192;
+                       | { } ! U+2001    Em Quad                    &#8193;
+                       | { } ! U+2002    En Space                   &#8194;
+                       | { } ! U+2003    Em Space                   &#8195;
+                       | { } ! U+2004    Three-Per-Em Space         &#8196;
+                       | { } ! U+2005    Four-Per-Em Space          &#8197;
+                       | { } ! U+2006    Six-Per-Em Space           &#8198;
+                       | { } ! U+2007    Figure Space               &#8199;
+                       | { } ! U+2008    Punctuation Space          &#8200;
+                       | { } ! U+2009    Thin Space                 &#8201;
+                       | { } ! U+200A    Hair Space                 &#8202;
+                       | {​}  ! U+200B    Zero-Width Space           &#8203;
+                       | {‌}  ! U+200C    Zero Width Non-Joiner      &#8204;
+                       | {‍}  ! U+200D    Zero Width Joiner          &#8205; 
+!                      | {}  ! U+200E    Left-To-Right Mark         &#8206; ! Causes syntax error in pmatch
+!                      | {}  ! U+200F    Right-To-Left Mark         &#8207; ! Causes syntax error in pmatch
+!                      | {}  ! U+2028    Line separator             &#8232; ! Causes syntax error in pmatch
+!                      | {}  ! U+2029    Paragraph separator        &#8233; ! Causes syntax error in pmatch
+!                      | {}  ! U+202A    Left-to-right embedding    &#8234; ! Causes syntax error in pmatch
+!                      | {}  ! U+202B    Right-to-left embedding    &#8235; ! Causes syntax error in pmatch
+!                      | {}  ! U+202C    Pop Directional Formatting &#8236; ! Causes syntax error in pmatch
+!                      | {}  ! U+202D    Left-to-right override     &#8237; ! Causes syntax error in pmatch
+!                      | {}  ! U+202E    Right-to-left override     &#8238; ! Causes syntax error in pmatch
+                       | { } ! U+202F    Narrow No-Break Space      &#8239;
+                       | { } ! U+205F    Medium Mathematical Space  &#8287;
+                       | {⁠}  ! U+2060    Word Joiner                &#8288;
+                       ;
+
+Define nonprintable [ 0:? | inputmark | flags ];
+Define any          [ ? | nonprintable ];
+
+Define incondword       morphology & [ any* incondform:[?*] nonprintable* ] ; ! Ends in punctuation – no context condition
+
+Define morphoword       morphology                   LC([blank | #]) RC([blank | # ]);
+Define urlword          url                          LC([blank | #]) RC([blank | # ]);
+
+!! Apart from what's in our morphology, there are
+!! 1) unknown word-like forms, and
+!! 2) unmatched strings
+!! We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+Define alphabet "a-z"
+               |"A-Z"
+               |{à}|{á}|{â}|{ã}|{ā}|{ă}|{ȧ}|{ä}|{ả}|{å}|{ǎ}|{ȁ}|{ȃ}|{ą}|{ạ}|{ḁ}
+               |{æ}|{ǽ}|{ǣ}|{è}|{é}|{ê}|{ẽ}|{ē}|{ĕ}|{ė}|{ë}|{ẻ}|{ě}|{ȅ}|{ȇ}|{ẹ}
+               |{ȩ}|{ę}|{ḙ}|{ḛ}|{ì}|{í}|{î}|{ĩ}|{ī}|{ī}|{ĭ}|{i̇}|{ï}|{ỉ}|{ǐ}|{ị}
+               |{į}|{ȉ}|{ȋ}|{ḭ}|{ɨ}|{ò}|{ó}|{ô}|{õ}|{ō}|{ŏ}|{ȯ}|{ö}|{ỏ}|{ő}|{ǒ}
+               |{ȍ}|{ȏ}|{ơ}|{ǫ}|{ọ}|{ɵ}|{ø}|{ờ}|{ớ}|{ỡ}|{ở}|{ợ}|{ǭ}|{ộ}|{ǿ}|{œ}
+               |{ù}|{ú}|{û}|{ũ}|{ū}|{ŭ}|{ü}|{ủ}|{ů}|{ű}|{ǔ}|{ȕ}|{ȗ}|{ư}|{ụ}|{ṳ}
+               |{ų}|{ṷ}|{ṵ}|{ừ}|{ứ}|{ữ}|{ử}|{ự}|{ʉ}|{ỳ}|{ý}|{ŷ}|{ỹ}|{ȳ}|{ẏ}|{ÿ}
+               |{ỷ}|{ƴ}|{ỵ}|{ɏ}
+               |{À}|{Á}|{Â}|{Ã}|{Ā}|{Ă}|{Ȧ}|{Ä}|{Ả}|{Å}|{Ǎ}|{Ȁ}|{Ȃ}|{Ą}|{Ạ}|{Ḁ}
+               |{Æ}|{Ǽ}|{Ǣ}|{È}|{É}|{Ê}|{Ẽ}|{Ē}|{Ĕ}|{Ė}|{Ë}|{Ẻ}|{Ě}|{Ȅ}|{Ȇ}|{Ẹ}
+               |{Ȩ}|{Ę}|{Ḙ}|{Ḛ}|{Ì}|{Í}|{Î}|{Ĩ}|{Ī}|{Ī}|{Ĭ}|{İ}|{Ï}|{Ỉ}|{Ǐ}|{Ị}
+               |{Į}|{Ȉ}|{Ȋ}|{Ḭ}|{Ɨ}|{Ò}|{Ó}|{Ô}|{Õ}|{Ō}|{Ŏ}|{Ȯ}|{Ö}|{Ỏ}|{Ő}|{Ǒ}
+               |{Ȍ}|{Ȏ}|{Ơ}|{Ǫ}|{Ọ}|{Ɵ}|{Ø}|{Ờ}|{Ớ}|{Ỡ}|{Ở}|{Ợ}|{Ǭ}|{Ộ}|{Ǿ}|{Œ}
+               |{Ù}|{Ú}|{Û}|{Ũ}|{Ū}|{Ŭ}|{Ü}|{Ủ}|{Ů}|{Ű}|{Ǔ}|{Ȕ}|{Ȗ}|{Ư}|{Ụ}|{Ṳ}
+               |{Ų}|{Ṷ}|{Ṵ}|{Ừ}|{Ứ}|{Ữ}|{Ử}|{Ự}|{Ʉ}|{Ỳ}|{Ý}|{Ŷ}|{Ỹ}|{Ȳ}|{Ẏ}|{Ÿ}
+               |{Ỷ}|{Ƴ}|{Ỵ}|{Ɏ}
+               |{š}|{ž}|{č}|{đ}|{í}|{ŋ}|{ň}|{ŧ}|{ň}
+               |{Š}|{Ž}|{Č}|{Đ}|{Í}|{Ŋ}|{Ň}|{Ŧ}|{Ň}
+               |{а}|{б}|{в}|{г}|{д}|{е}|{ё}|{ж}|{ӝ}|{з}|{ӟ}|{и}|{ӥ}|{й}|{к}
+               |{А}|{Б}|{В}|{Г}|{Д}|{Е}|{Ё}|{Ж}|{Ӝ}|{З}|{Ӟ}|{И}|{Ӥ}|{Й}|{К}
+               |{л}|{м}|{н}|{о}|{п}|{р}|{с}|{т}|{у}|{ф}|{х}|{ц}|{ч}|{ӵ}|{ш}
+               |{Л}|{М}|{Н}|{О}|{П}|{Р}|{С}|{Т}|{У}|{Ф}|{Х}|{Ц}|{Ч}|{Ӵ}|{Ш}
+               |{щ}|{ъ}|{ы}|{ь}|{э}|{ю}|{я}|{і}|{ӧ}
+               |{Щ}|{Ъ}|{Ы}|{Ь}|{Э}|{Ю}|{Я}|{І}|{Ӧ}
+               | "0-9"
+               |{_}|{§}|{°}
+               ;
+Define alphamiddle {'}|{-} ; ! Treat foo-bar as one big unknown, but -foo (or bar-) as two tokens
+Define alphaword alphabet+ ( alphamiddle alphabet+ );
+!! TODO: Could use something like this, but built-in's don't include šžđčŋ:
+! Define MixCase(X) [OptCap(X) | UpCase(X)];
+! Define alphaword MixCase(alphabet+);
+
+
+!!! Unknown handling:
+Define unknownform [alphaword].u ;
+!! Simply give an empty reading when something is unknown:
+Define unknownwordEmpty unknownform:0 LC([blank | #]) RC([[blank ] | # ]);
+!! hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+!! remove empty analyses from other readings. Empty readings are also
+!! legal in CG, they get a default baseform equal to the wordform, but
+!! no tag to check, so it's safer to let hfst-tokenise handle them.
+
+
+!!! Superblank handling (TODO):
+! Define anyExceptEsc [ ? - [ %\ ] ];
+! Define unescaped [ anyExceptEsc | %\ ? | # ]+;
+! Define anyExceptSuperendEsc [ ? - [ %\ | %] ] ];
+! Define notSuperend [ %\ ? | anyExceptSuperendEsc ];
+! Define superblank %[ notSuperend* %] EndTag(superblank) LC(unescaped) ;
+! Define tokenOrBlank [ token | superblank ];
+!! Needs hfst-tokenise to output things differently depending on the tag they get
+
+
+Define token [ morphoword | unknownwordEmpty | incondword | Ins(urlword) ] EndTag(token);
+
+regex token ;

@@ -1,0 +1,11702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="">
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Азьмурт</l>
+
+     <stg>
+
+       <st Contlex="N_">Азьмурт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">elnök</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Валтӥсь прокурор</l>
+
+     <stg>
+
+       <st Contlex="N_">Валтӥсь прокурор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">főügyész</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Вылӥ Кенеш</l>
+
+     <stg>
+
+       <st Contlex="N_">Вылӥ Кенеш</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Legfelső Tanács</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Вылӥ Кенешлэн Тӧроез</l>
+
+     <stg>
+
+       <st Contlex="N_">Вылӥ Кенешлэн Тӧроез</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Legfelső Tanács Elnöke</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Вылӥ люкись суд</l>
+
+     <stg>
+
+       <st Contlex="N_">Вылӥ люкись суд</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Legfelsőbb Választott Bíróság</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Вылӥ суд</l>
+
+     <stg>
+
+       <st Contlex="N_">Вылӥ суд</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Kúria</t>
+
+       <t pos="N">Legfelsőbb Bíróság</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Калык Ӧтчам</l>
+
+     <stg>
+
+       <st Contlex="N_">Калык Ӧтчам</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Népi gyűlés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кивалтэт ёзчиос</l>
+
+     <stg>
+
+       <st Contlex="N_">Кивалтэт ёзчиос</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kormánytagok</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кузё-Инмар</l>
+
+     <stg>
+
+       <st Contlex="N_">Кузё-Инмар</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Úristen</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кун Кенеш</l>
+
+     <stg>
+
+       <st Contlex="N_">Кун Кенеш</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">országgyűlés</t>
+
+       <t pos="N">parlament</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кун кункрезь</l>
+
+     <stg>
+
+       <st Contlex="N_">Кун кункрезь</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">himnusz</t>
+
+       <t pos="N">nemzeti himnusz</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кун кунпус</l>
+
+     <stg>
+
+       <st Contlex="N_">Кун кунпус</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">állami címer</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кун куншет</l>
+
+     <stg>
+
+       <st Contlex="N_">Кун куншет</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">állami zászló</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кункат</l>
+
+     <stg>
+
+       <st Contlex="N_">Кункат</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">alkotmány</t>
+
+       <t pos="N">alaptörvény</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кункатысь дӥньетъёс</l>
+
+     <stg>
+
+       <st Contlex="N_">Кункатысь дӥньетъёс</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">az alkotmány rednelkezései</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Кунпуш ужъёсъя министерство</l>
+
+     <stg>
+
+       <st Contlex="N_">Кунпуш ужъёсъя министерство</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Belügyminisztérium</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Министръёслэн Кенешсылэн Тӧроез</l>
+
+     <stg>
+
+       <st Contlex="N_">Министръёслэн Кенешсылэн Тӧроез</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">a minisztertanács elnöke</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Удмурт Элькун Кивалтэт</l>
+
+     <stg>
+
+       <st Contlex="N_">Удмурт Элькун Кивалтэт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">az Udmurt Köztársaság kormánya</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Утиськонъя министерство</l>
+
+     <stg>
+
+       <st Contlex="N_">Утиськонъя министерство</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">Védelmi Minisztérium</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">Элькун Йыр</l>
+
+     <stg>
+
+       <st Contlex="N_">Элькун Йыр</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">államfő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аба</l>
+
+     <stg>
+
+       <st Contlex="N_">аба</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">nagymama</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абага</l>
+
+     <stg>
+
+       <st Contlex="N_">абага</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">réti legyezőfű</t>
+
+       <t pos="N">legyezőbajnóca</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> erdei hölgypáfrány</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> erdei pajzsika</t>
+
+       <t pos="N">hímharaszt</t>
+
+       <t pos="N">harasztfű</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абажур</l>
+     <stg>
+       <st Contlex="N_">абажур</st>
+     </stg><orig>абажур</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(lampun)varjostin</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абажур</l>
+
+     <stg>
+
+       <st Contlex="N_">абажур</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">lámpaernyő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абак</l>
+
+     <stg>
+
+       <st Contlex="N_">абак</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abakusz</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абалгы</l>
+     <stg>
+       <st Contlex="N_">абалгы</st>
+     </stg><orig>абалгы</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>saniainen, sananjalka</t>
+       <re>Filices</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">кикыньӧл</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абалгы</l>
+
+     <stg>
+
+       <st Contlex="N_">абалгы</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">erdei hölgypáfrány</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> erdei pajzsika</t>
+
+       <t pos="N">hímharaszt</t>
+
+       <t pos="N">harasztfű</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абалгытурын</l>
+
+     <stg>
+
+       <st Contlex="N_">абалгытурын</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">erdei hölgypáfrány</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> erdei pajzsika</t>
+
+       <t pos="N">hímharaszt</t>
+
+       <t pos="N">harasztfű</t>
+
+     </tg>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аббревиатура</l>
+
+     <stg>
+
+       <st Contlex="N_">аббревиатура</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mozaikszó</t>
+
+       <t pos="N">rövidítés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдраллян</l>
+
+     <stg>
+
+       <st Contlex="N_">абдраллян</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">csodálkozás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> elragadtatás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдраллятон</l>
+
+     <stg>
+
+       <st Contlex="N_">абдраллятон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">meglepetés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдрам</l>
+
+     <stg>
+
+       <st Contlex="N_">абдрам</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">meglepetés</t>
+
+       <t pos="N">csodálkozás</t>
+
+       <t pos="N">csodálat</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдрамон маке</l>
+
+     <stg>
+
+       <st Contlex="N_">абдрамон маке</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">csodás dolog</t>
+
+       <t pos="N">elképesztő dolog</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абдран</l>
+     <stg>
+       <st Contlex="N_">абдран</st>
+     </stg><orig>абдран</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hämmästys, ihmettely, ihme</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдран</l>
+
+     <stg>
+
+       <st Contlex="N_">абдран</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">meglepetés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> csoda</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абдратон</l>
+     <stg>
+       <st Contlex="N_">абдратон</st>
+     </stg><orig>абдратон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hämmästyttäminen, ihmetyttäminen, hämmästys, ihmetys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдратон</l>
+
+     <stg>
+
+       <st Contlex="N_">абдратон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">meglepetés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> csodálat</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдратъян</l>
+
+     <stg>
+
+       <st Contlex="N_">абдратъян</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">”meglepetés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абдратылон</l>
+
+     <stg>
+
+       <st Contlex="N_">абдратылон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">meglepetés</t>
+
+       <t pos="N">meglepés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абентурын</l>
+
+     <stg>
+
+       <st Contlex="N_">абентурын</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">réti legyezőfű</t>
+
+       <t pos="N">legyezőbajnóca</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абзац</l>
+     <stg>
+       <st Contlex="N_">абзац</st>
+     </stg><orig>абзац</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>kappale</t>
+       <re>tekstissä</re>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>выль чур</defNative>
+     <tg xml:lang="fin">
+       <t>(uuden) kappaleen alku</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абзац</l>
+
+     <stg>
+
+       <st Contlex="N_">абзац</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">bekezdés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аби</l>
+     <stg>
+       <st Contlex="N_">аби</st>
+     </stg><orig>аби</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>песянай, ӵужанай</defNative>
+     <tg xml:lang="fin">
+       <t>isoäiti, mummo</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>пересь кышномурт</defNative>
+     <tg xml:lang="fin">
+       <t>(vanha) eukko, mummo</t>
+     </tg>
+   <mg ind="3th"/><defNative>картлэн я. кышнолэн анаез</defNative>
+     <tg xml:lang="fin">
+       <t>anoppi</t>
+     </tg>
+   <mg ind="4th"/><defNative>гогымумы</defNative>
+     <tg xml:lang="fin">
+       <t>lapsenpäästäjä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аби</l>
+
+     <stg>
+
+       <st Contlex="N_">аби</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">öreg asszony</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> anyós</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> bábaasszony</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абиссаль</l>
+
+     <stg>
+
+       <st Contlex="N_">абиссаль</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mélytengeri</t>
+
+       <t pos="N">abisszikus</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абитуриент</l>
+     <stg>
+       <st Contlex="N_">абитуриент</st>
+     </stg><orig>абитуриент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>korkeakouluun pyrkijä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абля</l>
+
+     <stg>
+
+       <st Contlex="N_">абля</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">fecsegő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абляци</l>
+
+     <stg>
+
+       <st Contlex="N_">абляци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abláció</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">абляция</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">абляци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abláció</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абонемент</l>
+     <stg>
+       <st Contlex="N_">абонемент</st>
+     </stg><orig>абонемент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sarjalippu; tilaus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абонемент</l>
+
+     <stg>
+
+       <st Contlex="N_">абонемент</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">bérlet</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> kölcsönzés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абонент</l>
+
+     <stg>
+
+       <st Contlex="N_">абонент</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">bérletes</t>
+
+       <t pos="N">előfizető</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абориген</l>
+     <stg>
+       <st Contlex="N_">абориген</st>
+     </stg><orig>абориген</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alkuasukas</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абориген</l>
+
+     <stg>
+
+       <st Contlex="N_">абориген</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">bennszülött</t>
+
+       <t pos="N">őslakos</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аборт</l>
+     <stg>
+       <st Contlex="N_">аборт</st>
+     </stg><orig>аборт</orig>
+   </lg>
+   <mg><field>lääk.</field>
+     <tg xml:lang="fin">
+       <t>abortti, raskaudenkeskeytys;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>сӧриськон, нылпи усён</i>)</font>
+     <tg xml:lang="fin">
+       <t>keskenmeno</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аборт</l>
+
+     <stg>
+
+       <st Contlex="N_">аборт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abortusz</t>
+
+       <t pos="N">terhességmegszakítás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абрази</l>
+
+     <stg>
+
+       <st Contlex="N_">абрази</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">erózió</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">абразия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">абрази</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">erózió</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абрикос</l>
+     <stg>
+       <st Contlex="N_">абрикос</st>
+     </stg><orig>абрикос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>aprikoosi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абрикос</l>
+
+     <stg>
+
+       <st Contlex="N_">абрикос</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">barack</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абрикоспу</l>
+
+     <stg>
+
+       <st Contlex="N_">абрикоспу</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">barackfa</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абсолютизм</l>
+
+     <stg>
+
+       <st Contlex="N_">абсолютизм</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abszolutizmus</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абсолютной величина</l>
+
+     <stg>
+
+       <st Contlex="N_">абсолютной величина</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abszolút érték</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абсолютной монархия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">абсолютной монархи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abszolút monarchia</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абсолютной нуль</l>
+
+     <stg>
+
+       <st Contlex="N_">абсолютной нуль</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abszolút nulla</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абсолютной чемпион</l>
+
+     <stg>
+
+       <st Contlex="N_">абсолютной чемпион</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abszolút győztes</t>
+
+       <t pos="N">abszolút bajnok</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абхаз</l>
+     <stg>
+       <st Contlex="N_">абхаз</st>
+     </stg><orig>абхаз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>abhaasi // abhaasilainen, Abhasian;</t>
+     </tg>
+     <xg><x>абхаз кыл</x>
+       <xt xml:lang="fin">abhaasi(n kieli)</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абхаз</l>
+
+     <stg>
+
+       <st Contlex="N_">абхаз</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abház férfi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абхаз ныл</l>
+
+     <stg>
+
+       <st Contlex="N_">абхаз ныл</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abház lány</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абхазка</l>
+
+     <stg>
+
+       <st Contlex="N_">абхазка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">abház nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">абыз</l>
+     <stg>
+       <st Contlex="N_">абыз</st>
+     </stg><orig>абыз</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>puoskari, tietäjä;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>кышномурт с-сь ои</i>)</font>
+     <tg xml:lang="fin">
+       <t>parantajaeukko;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">пелляськись<rom ind="0_3"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абыз</l>
+
+     <stg>
+
+       <st Contlex="N_">абыз</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kuruzsló</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> varázsló</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> jós</t>
+
+       <t pos="N">jósnő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абызаськись</l>
+
+     <stg>
+
+       <st Contlex="N_">абызаськись</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kuruzsló</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> varázsló</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> jós</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абызаськон</l>
+
+     <stg>
+
+       <st Contlex="N_">абызаськон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kuruzslás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> varázslás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> jóslás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">абызлык</l>
+
+     <stg>
+
+       <st Contlex="N_">абызлык</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mágia</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авангард</l>
+     <stg>
+       <st Contlex="N_">авангард</st>
+     </stg><orig>авангард</orig>
+   </lg>
+   <mg ind="1th"><field>sot.</field>
+     <tg xml:lang="fin">
+       <t>etujoukko</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>азьветлӥсьёс</defNative>
+     <tg xml:lang="fin">
+       <t>kärkijoukko</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авангард</l>
+
+     <stg>
+
+       <st Contlex="N_">авангард</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">avantgárd</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аванс</l>
+     <stg>
+       <st Contlex="N_">аванс</st>
+     </stg><orig>аванс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ennakko(maksu), etumaksu;</t>
+     </tg>
+     <xg><x>аванс басьтыны</x>
+       <xt xml:lang="fin">saada ennakkoa;</xt>
+     </xg>
+     <xg><x>аванс сётыны</x>
+       <xt xml:lang="fin">antaa ennakkoa</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аванс</l>
+
+     <stg>
+
+       <st Contlex="N_">аванс</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">előleg</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авансировать карон</l>
+
+     <stg>
+
+       <st Contlex="N_">авансировать карон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">megelőlegezés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авантюра</l>
+     <stg>
+       <st Contlex="N_">авантюра</st>
+     </stg><orig>авантюʼра</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>seikkailu, uhkayritys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авантюра</l>
+
+     <stg>
+
+       <st Contlex="N_">авантюра</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kaland</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авантюризм</l>
+
+     <stg>
+
+       <st Contlex="N_">авантюризм</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kalandorság</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авантюрист</l>
+     <stg>
+       <st Contlex="N_">авантюрист</st>
+     </stg><orig>авантюрист</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>seikkailija, onnenonkija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авантюрист</l>
+
+     <stg>
+
+       <st Contlex="N_">авантюрист</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kalandor</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авантюристка</l>
+
+     <stg>
+
+       <st Contlex="N_">авантюристка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kalandornő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аванчан</l>
+
+     <stg>
+
+       <st Contlex="N_">аванчан</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ámítás</t>
+
+       <t pos="N">csalás</t>
+
+       <t pos="N">becsapás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авар</l>
+     <stg>
+       <st Contlex="N_">авар</st>
+     </stg><orig>авар</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>avaari // avarialainen, avaarien;</t>
+     </tg>
+     <xg><x>авар кыл</x>
+       <xt xml:lang="fin">avaari(n kieli)</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авар</l>
+
+     <stg>
+
+       <st Contlex="N_">авар</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">avar férfi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авари</l>
+     <stg>
+       <st Contlex="N_">авари</st>
+     </stg><orig>аваʼри</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>onnettomuus, kolari // hätä=, vara=</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авария</l>
+     <stg>
+       <st Contlex="N_">авария</st>
+     </stg><orig>аваʼрия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>onnettomuus, kolari;</t>
+     </tg>
+     <xg><x>аварие сюрыны</x> <x>аварие шедьыны</x>
+       <xt xml:lang="fin">joutua onnettomuuteen</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">авария</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">авари</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">baleset</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аварка</l>
+
+     <stg>
+
+       <st Contlex="N_">аварка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">avar nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">август</l>
+     <stg>
+       <st Contlex="N_">август</st>
+     </stg><orig>аʼвгуст</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>август=</b>)</font>
+     <tg xml:lang="fin">
+       <t>elokuu;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">гудырикошкон</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">август</l>
+
+     <stg>
+
+       <st Contlex="N_">август</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">augusztus</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиабаза</l>
+     <stg>
+       <st Contlex="N_">авиабаза</st>
+     </stg><orig>авиабаʼза</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentotukikohta</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиабаза</l>
+
+     <stg>
+
+       <st Contlex="N_">авиабаза</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">légitámaszpont</t>
+
+       <t pos="N">légibázis</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиабомба</l>
+
+     <stg>
+
+       <st Contlex="N_">авиабомба</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">bomba</t>
+
+       <t pos="N">légibomba</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиазавод</l>
+
+     <stg>
+
+       <st Contlex="N_">авиазавод</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülőgépgyár</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиакомпани</l>
+     <stg>
+       <st Contlex="N_">авиакомпани</st>
+     </stg><orig>авиакомпаʼни</orig>
+     <variants>
+       <l_syn>авиакомпания</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentoyhtiö</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиакомпания</l>
+     <stg>
+       <st Contlex="N_">авиакомпания</st>
+     </stg><orig>авиакомпаʼния</orig>
+     <variants>
+       <l_syn>авиакомпани</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentoyhtiö</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиаконструктор</l>
+
+     <stg>
+
+       <st Contlex="N_">авиаконструктор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülőgéptervező</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиамодель</l>
+     <stg>
+       <st Contlex="N_">авиамодель</st>
+     </stg><orig>авиамодель</orig> <font face="SmolenskSGR">[-дэ-]</font>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t> lennokki</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиамодель</l>
+
+     <stg>
+
+       <st Contlex="N_">авиамодель</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülőgépmodell</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авианосец</l>
+
+     <stg>
+
+       <st Contlex="N_">авианосец</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülőgép-hordozó anyahajó</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиапочта</l>
+     <stg>
+       <st Contlex="N_">авиапочта</st>
+     </stg><orig>авиапоʼчта</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentoposti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиапочта</l>
+
+     <stg>
+
+       <st Contlex="N_">авиапочта</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">légiposta</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиатор</l>
+
+     <stg>
+
+       <st Contlex="N_">авиатор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">aviátor</t>
+
+       <t pos="N">repülős</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиаци</l>
+     <stg>
+       <st Contlex="N_">авиаци</st>
+     </stg><orig>авиаʼци</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>ilmailu</t>
+       <re>toimiala</re>
+     </tg>
+   </mg>
+   <mg ind="2th"> <field>sot.</field>
+     <tg xml:lang="fin">
+       <t>ilmavoimat // lento=, lentokone=</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авиация</l>
+     <stg>
+       <st Contlex="N_">авиация</st>
+     </stg><orig>авиаʼция</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>ilmailu</t>
+       <re>toimiala</re>
+     </tg>
+   </mg>
+   <mg ind="2th"> <field>sot.</field>
+     <tg xml:lang="fin">
+       <t>ilmavoimat</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">авиация</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">авиаци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авиашкола</l>
+
+     <stg>
+
+       <st Contlex="N_">авиашкола</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">repülőiskola</t>
+
+       <t pos="N">pilótaképző</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">австралиец</l>
+     <stg>
+       <st Contlex="N_">австралиец</st>
+     </stg><orig>австралиʼец</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>australialainen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">австралиец</l>
+
+     <stg>
+
+       <st Contlex="N_">австралиец</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ausztrál férfi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">австралийка</l>
+
+     <stg>
+
+       <st Contlex="N_">австралийка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">asuztrál nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">австриец</l>
+     <stg>
+       <st Contlex="N_">австриец</st>
+     </stg><orig>австриʼец</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itävaltalainen</t>
+       <re>ihminen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">австриец</l>
+
+     <stg>
+
+       <st Contlex="N_">австриец</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">osztrák férfi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">австрийка</l>
+     <stg>
+       <st Contlex="N_">австрийка</st>
+     </stg><orig>австриʼйка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itävaltalainen</t>
+       <re>nainen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">австрийка</l>
+
+     <stg>
+
+       <st Contlex="N_">австрийка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">osztrák nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автобаза</l>
+     <stg>
+       <st Contlex="N_">автобаза</st>
+     </stg><orig>автобаʼза</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>autovarikko</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автобиографи</l>
+     <stg>
+       <st Contlex="N_">автобиографи</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>omaelämäkerta</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автобиография</l>
+     <stg>
+       <st Contlex="N_">автобиография</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>omaelämäkerta</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">автобиография</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">автобиографи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">önéletrajz</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автобус</l>
+     <stg>
+       <st Contlex="N_">автобус</st>
+     </stg><orig>автоʼбус</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>bussi,</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>рейсовой</i>)</font>
+     <tg xml:lang="fin">
+       <t>linja-auto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автобус</l>
+
+     <stg>
+
+       <st Contlex="N_">автобус</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autóbusz</t>
+
+       <t pos="N">busz</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автовокзал</l>
+     <stg>
+       <st Contlex="N_">автовокзал</st>
+     </stg><orig>автовокзал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>linja-autoasema</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автогенной резка</l>
+
+     <stg>
+
+       <st Contlex="N_">автогенной резка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autogén hegesztés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автогенной сварка</l>
+
+     <stg>
+
+       <st Contlex="N_">автогенной сварка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autogén hegesztés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автограф</l>
+     <stg>
+       <st Contlex="N_">автограф</st>
+     </stg><orig>автоʼграф</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>nimikirjoitus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автограф</l>
+
+     <stg>
+
+       <st Contlex="N_">автограф</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autogram</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автозавод</l>
+     <stg>
+       <st Contlex="N_">автозавод</st>
+     </stg><orig>автозавод</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>autotehdas</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автозавод</l>
+
+     <stg>
+
+       <st Contlex="N_">автозавод</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autógyár</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автоинспектор</l>
+
+     <stg>
+
+       <st Contlex="N_">автоинспектор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">közlekedési ellenőr</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">автоинспекция</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">автоинспекци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">közlekedési ellenőrzés</t>
+
+       <t pos="N">közlekedésellenőrzés</t>
+
+       <t pos="N">közúti ellenőrzés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автоколонна</l>
+
+     <stg>
+
+       <st Contlex="N_">автоколонна</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">gépkocsioszlop</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автокран</l>
+
+     <stg>
+
+       <st Contlex="N_">автокран</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autódaru</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автол</l>
+
+     <stg>
+
+       <st Contlex="N_">автол</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">motorolaj</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автолавка</l>
+
+     <stg>
+
+       <st Contlex="N_">автолавка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mozgóbolt</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автомат</l>
+     <stg>
+       <st Contlex="N_">автомат</st>
+     </stg><orig>автомат</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>automaatti // automaattinen, itsetoimiva</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <field>sot.</field>
+     <tg xml:lang="fin">
+       <t>konepistooli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автоматизаци</l>
+     <stg>
+       <st Contlex="N_">автоматизаци</st>
+     </stg><orig>автоматизаʼци</orig>
+     <variants>
+       <l_syn>автоматизация</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>automaatio, automatisointi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автоматизация</l>
+     <stg>
+       <st Contlex="N_">автоматизация</st>
+     </stg><orig>автоматизаʼция</orig>
+     <variants>
+       <l_syn>автоматизаци</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>automaatio, automatisointi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автоматизировать карон</l>
+     <stg>
+       <st Contlex="N_">автоматизировать карон</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>automatisointi;</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автоматизировать карон</l>
+
+     <stg>
+
+       <st Contlex="N_">автоматизировать карон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">automatizálás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автомашина</l>
+     <stg>
+       <st Contlex="N_">автомашина</st>
+     </stg><orig>автомашиʼнаʼ</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">автомобиль</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автомашина</l>
+
+     <stg>
+
+       <st Contlex="N_">автомашина</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autó</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автомеханик</l>
+     <stg>
+       <st Contlex="N_">автомеханик</st>
+     </stg><orig>автомехаʼник</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>autonasentaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автомобиль</l>
+     <stg>
+       <st Contlex="N_">автомобиль</st>
+     </stg><orig>автомобиль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>auto;</t>
+     </tg>
+     <xg><x>груз ворттӥсь автомобиль</x><x>груз нуллӥсь автомобиль</x>
+       <xt xml:lang="fin">kuorma-auto;</xt>
+     </xg>
+     <xg><x>капчи автомобиль</x>
+       <xt xml:lang="fin">henkilöauto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автомобиль</l>
+
+     <stg>
+
+       <st Contlex="N_">автомобиль</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autó</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автономи</l>
+     <stg>
+       <st Contlex="N_">автономи</st>
+     </stg><orig>автоноʼми</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>autonomia // autonominen, itsenäinen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автономия</l>
+     <stg>
+       <st Contlex="N_">автономия</st>
+     </stg><orig>автоноʼмия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>autonomia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">автономия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">автономи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autonómia</t>
+
+       <t pos="N">önállóság</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автоответчик</l>
+     <stg>
+       <st Contlex="N_">автоответчик</st>
+     </stg><orig>автоотвеʼтчик</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>puhelinvastaaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автопоилка</l>
+
+     <stg>
+
+       <st Contlex="N_">автопоилка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">önitató</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автопортрет</l>
+     <stg>
+       <st Contlex="N_">автопортрет</st>
+     </stg><orig>автопортрет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>omakuva</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автор</l>
+     <stg>
+       <st Contlex="N_">автор</st>
+     </stg><orig>аʼвтор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tekijä, laatija;</t>
+     </tg>
+     <xg><x>автор лист</x>
+       <xt xml:lang="fin">tekijänarkki</xt><xre>40 000 kirjainmerkkiä</xre>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автор</l>
+
+     <stg>
+
+       <st Contlex="N_">автор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">szerző</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авторефрижератор</l>
+
+     <stg>
+
+       <st Contlex="N_">авторефрижератор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">hűtőautó</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">авторитет</l>
+     <stg>
+       <st Contlex="N_">авторитет</st>
+     </stg><orig>авторитет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arvovalta, auktoriteetti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авторитет</l>
+
+     <stg>
+
+       <st Contlex="N_">авторитет</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">autoritás</t>
+
+       <t pos="N">tekintély</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">авторучка</l>
+
+     <stg>
+
+       <st Contlex="N_">авторучка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">töltőtoll</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">автострада</l>
+     <stg>
+       <st Contlex="N_">автострада</st>
+     </stg><orig>автостраʼда</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>moottoritie</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">автотранспорт</l>
+
+     <stg>
+
+       <st Contlex="N_">автотранспорт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">országúti szállítás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">ага</l>
+
+     <stg>
+
+       <st Contlex="N_">ага</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">apa</t>
+
+       <t pos="N">papa</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> ahá</t>
+
+       <t pos="N">igen</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агаен-вын</l>
+
+     <stg>
+
+       <st Contlex="N_">агаен-вын</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">fivér</t>
+
+       <t pos="N">fiú testvér</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агай</l>
+     <stg>
+       <st Contlex="N_">агай</st>
+     </stg><orig>агай</orig>
+   </lg>
+   <mg ind="1th"><defNative>бадӟымез брат</defNative>
+     <tg xml:lang="fin">
+       <t>isoveli, (vanhempi) veli</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>дядя</defNative>
+     <tg xml:lang="fin">
+       <t>setä</t>
+     </tg>
+   <mg ind="3th"/><defNative>картлэн агаез</defNative>
+     <tg xml:lang="fin">
+       <t>lanko</t>
+       <re>miehen vanhempi veli</re>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агай</l>
+
+     <stg>
+
+       <st Contlex="N_">агай</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">báty</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> nagybácsi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> bácsi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агай-вын</l>
+     <stg>
+       <st Contlex="N_">агай-вын</st>
+     </stg><orig>агай-вын</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font><font face="SmolenskSGR"><b>: </b></font><font face="SmolenskSGR">(<b>агай-вынъёс</b>)</font> <note><i>koll. </i></note>
+     <tg xml:lang="fin">
+       <t>veljekset</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агай-вынъёс</l>
+
+     <stg>
+
+       <st Contlex="N_">агай-вынъёс</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">fivérek</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агайзы</l>
+
+     <stg>
+
+       <st Contlex="N_">агайзы</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">sógor</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агат</l>
+
+     <stg>
+
+       <st Contlex="N_">агат</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">achát</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агачак</l>
+
+     <stg>
+
+       <st Contlex="N_">агачак</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ragadozó őn</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агаё-вынъёс</l>
+
+     <stg>
+
+       <st Contlex="N_">агаё-вынъёс</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">testvérek</t>
+
+       <t pos="N">fivérek</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аггломерировать карон</l>
+
+     <stg>
+
+       <st Contlex="N_">аггломерировать карон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">felhalmozás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> tömörítés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агент</l>
+     <stg>
+       <st Contlex="N_">агент</st>
+     </stg><orig>агент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>asiamies, agentti, edustaja;</t>
+     </tg>
+     <xg><x>страховать каронъя агент</x>
+       <xt xml:lang="fin">vakuutusasiamies</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агент</l>
+
+     <stg>
+
+       <st Contlex="N_">агент</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ügynök</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агентство</l>
+     <stg>
+       <st Contlex="N_">агентство</st>
+     </stg><orig>агеʼнтство</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>toimisto, agentuuri;</t>
+     </tg>
+     <xg><x>ивор вӧлмытонъя агентство</x>
+       <xt xml:lang="fin">tietotoimisto;</xt>
+     </xg>
+     <xg><x>рекламая агентство</x>
+       <xt xml:lang="fin">mainostoimisto;</xt>
+     </xg>
+     <xg><x>телеграф агентство</x>
+       <xt xml:lang="fin">tietotoimisto, uutistoimisto;</xt>
+     </xg>
+     <xg><x>туризмъя агентство</x>
+       <xt xml:lang="fin">matkatoimisto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агентство</l>
+
+     <stg>
+
+       <st Contlex="N_">агентство</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ügynökség</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агентура</l>
+
+     <stg>
+
+       <st Contlex="N_">агентура</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ügynökség</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агитатор</l>
+     <stg>
+       <st Contlex="N_">агитатор</st>
+     </stg><orig>агитаʼтор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>agitaattori, kiihottaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агитатор</l>
+
+     <stg>
+
+       <st Contlex="N_">агитатор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agitátor</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агитаци</l>
+     <stg>
+       <st Contlex="N_">агитаци</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>agitaatio</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">ӧтён-ӝуткан<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агитация</l>
+     <stg>
+       <st Contlex="N_">агитация</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>agitaatio</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">ӧтён-ӝуткан<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">агитация</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">агитаци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agitáció</t>
+
+       <t pos="N">rábeszélés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агитировать карись</l>
+     <stg>
+       <st Contlex="N_">агитировать карись</st>
+     </stg><orig>агитиʼровать карись</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>agitaattori, kiihottaja;</t>
+     </tg>
+     <xg><x>агитировать карон</x>
+       <xt xml:lang="fin">agitointi, agitaatio, kiihottaminen;</xt>
+     </xg>
+     <xg><x>агитировать карыны</x>
+       <xt xml:lang="fin">agitoida;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">ӧтьыны-ӝутканы</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агитировать карон</l>
+
+     <stg>
+
+       <st Contlex="N_">агитировать карон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agitáció</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агитколлектив</l>
+
+     <stg>
+
+       <st Contlex="N_">агитколлектив</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agitációs csoport</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агитпункт</l>
+
+     <stg>
+
+       <st Contlex="N_">агитпункт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agitációs pont</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агломерат</l>
+
+     <stg>
+
+       <st Contlex="N_">агломерат</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">törmelékes közet</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агломерировать карон</l>
+
+     <stg>
+
+       <st Contlex="N_">агломерировать карон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">felhalmozás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> tömörítés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агрегат</l>
+
+     <stg>
+
+       <st Contlex="N_">агрегат</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">aggregát</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агрессия</l>
+     <stg>
+       <st Contlex="N_">агрессия</st>
+     </stg><orig>агреʼссия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>aggressio, hyökkäys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">агрессия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">агресси</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agresszió</t>
+
+       <t pos="N">erőszak</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агрессор</l>
+     <stg>
+       <st Contlex="N_">агрессор</st>
+     </stg><orig>агреʼссор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hyökkääjä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агрессор</l>
+
+     <stg>
+
+       <st Contlex="N_">агрессор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agresszor</t>
+
+       <t pos="N">támadó</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агроклиматологи</l>
+
+     <stg>
+
+       <st Contlex="N_">агроклиматологи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agroklimatológia</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">агроклиматология</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">агроклиматологи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agroklimatológia</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агроминимум</l>
+
+     <stg>
+
+       <st Contlex="N_">агроминимум</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agrominimum</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">агроном</l>
+     <stg>
+       <st Contlex="N_">агроном</st>
+     </stg><orig>агроном</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>agronomi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агроном</l>
+
+     <stg>
+
+       <st Contlex="N_">агроном</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agronómus</t>
+
+       <t pos="N">mezőgazdász</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">агрономия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">агрономи</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mezőgazdaság</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агротехника</l>
+
+     <stg>
+
+       <st Contlex="N_">агротехника</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mezőgazdasági technika</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агрофизика</l>
+
+     <stg>
+
+       <st Contlex="N_">агрофизика</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agrofizika</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">агрохимия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">агрохими</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">agrokémia</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агрошкола</l>
+
+     <stg>
+
+       <st Contlex="N_">агрошкола</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">mezőgazdasági iskola</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агу</l>
+
+     <stg>
+
+       <st Contlex="N_">агу</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">méreg</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">агыкай</l>
+
+     <stg>
+
+       <st Contlex="N_">агыкай</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">báty</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> barát</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ад</l>
+     <stg>
+       <st Contlex="N_">ад</st>
+     </stg><orig>ад</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>helvetti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">ад</l>
+
+     <stg>
+
+       <st Contlex="N_">ад</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">pokol</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адаш</l>
+     <stg>
+       <st Contlex="N_">адаш</st>
+     </stg><orig>адаш</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kaima;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">паньтэм</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адаш</l>
+
+     <stg>
+
+       <st Contlex="N_">адаш</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">drusza</t>
+
+     </tg>
+
+   </mg>
+
+   <mg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N"> egykorú nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адвекци</l>
+
+     <stg>
+
+       <st Contlex="N_">адвекци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">advekció</t>
+
+       <t pos="N">levegő vízszintes mozgása</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">адвекция</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">адвекци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">advekció</t>
+
+       <t pos="N">levegő vízszintes mozgás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адвокат</l>
+     <stg>
+       <st Contlex="N_">адвокат</st>
+     </stg><orig>адвокат</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>asianajaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адвокат</l>
+
+     <stg>
+
+       <st Contlex="N_">адвокат</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">ügyvéf</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адгези</l>
+
+     <stg>
+
+       <st Contlex="N_">адгези</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adhézió</t>
+
+       <t pos="N">tapadás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">адгезия</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">адгези</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adhézió</t>
+
+       <t pos="N">tapadás</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аджар</l>
+
+     <stg>
+
+       <st Contlex="N_">аджар</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adzsár férfi</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аджарецъёс</l>
+
+     <stg>
+
+       <st Contlex="N_">аджарецъёс</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adzsárok</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">аджарка</l>
+
+     <stg>
+
+       <st Contlex="N_">аджарка</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adzsár nő</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адиабатической мынэт</l>
+
+     <stg>
+
+       <st Contlex="N_">адиабатической мынэт</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adiabetikus folyamat</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">администратор</l>
+     <stg>
+       <st Contlex="N_">администратор</st>
+     </stg><orig>администраʼтор</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>hallintomies, hallintovirkamies;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>радъясь</i>)</font>
+     <tg xml:lang="fin">
+       <t>järjestäjä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>гостиницаын</defNative>
+     <tg xml:lang="fin">
+       <t>vastaanottovirkailija, vuoropäällikkö</t>
+       <re>hotellissa</re>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">администратор</l>
+
+     <stg>
+
+       <st Contlex="N_">администратор</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adminisztrátor</t>
+
+       <t pos="N">ügyintéző</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">администраци</l>
+     <stg>
+       <st Contlex="N_">администраци</st>
+     </stg><orig>администраʼци</orig>
+     <variants>
+       <l_syn>администрация</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><defNative>орган</defNative>
+     <tg xml:lang="fin">
+       <t>hallinto(elimet)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кивалтӥсьёс</defNative>
+     <tg xml:lang="fin">
+       <t>johto(kunta);</t>
+     </tg>
+     <xg><x>заводлэн администрациез</x>
+       <xt xml:lang="fin">tehtaan johto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">администрация</l>
+     <stg>
+       <st Contlex="N_">администрация</st>
+     </stg><orig>администраʼция</orig>
+     <variants>
+       <l_syn>администраци</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><defNative>орган</defNative>
+     <tg xml:lang="fin">
+       <t>hallinto(elimet)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кивалтӥсьёс</defNative>
+     <tg xml:lang="fin">
+       <t>johto(kunta);</t>
+     </tg>
+     <xg><x>заводлэн администрациез</x>
+       <xt xml:lang="fin">tehtaan johto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l loan="rus" pos="N">администрация</l>
+
+     <stg>
+
+       <st Contlex="N_RUS_JA">администраци</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">adminisztráció</t>
+
+       <t pos="N">ügyintézés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адмирал</l>
+     <stg>
+       <st Contlex="N_">адмирал</st>
+     </stg><orig>адмирал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>amiraali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адмирал</l>
+
+     <stg>
+
+       <st Contlex="N_">адмирал</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">admirális</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адрас гыль</l>
+
+     <stg>
+
+       <st Contlex="N_">адрас гыль</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">begónia</t>
+
+     </tg>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адрес</l>
+     <stg>
+       <st Contlex="N_">адрес</st>
+     </stg><orig>аʼдрес</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>osoite</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адрес</l>
+
+     <stg>
+
+       <st Contlex="N_">адрес</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">lakcím</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адресаллян</l>
+
+     <stg>
+
+       <st Contlex="N_">адресаллян</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">címzés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адресам</l>
+
+     <stg>
+
+       <st Contlex="N_">адресам</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">címzett</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адресан</l>
+     <stg>
+       <st Contlex="N_">адресан</st>
+     </stg><orig>адресан</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>osoittaminen</t>
+       <re>kirjeen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адресан</l>
+
+     <stg>
+
+       <st Contlex="N_">адресан</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">címzés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адресатон</l>
+
+     <stg>
+
+       <st Contlex="N_">адресатон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">címeztetés</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адресной бюро</l>
+
+     <stg>
+
+       <st Contlex="N_">адресной бюро</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">lakcímnyilvántartási hivatal</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">адрестон</l>
+
+     <stg>
+
+       <st Contlex="N_">адрестон</st>
+
+     </stg>
+
+   </lg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">cím nélküli</t>
+
+     </tg>
+
+   </mg>
+
+   <mg> <defNative/>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адскон</l>
+     <stg>
+       <st Contlex="N_">адскон</st>
+     </stg><orig>адскон</orig>
+     <variants>
+       <l_syn>адскись</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">адӟиськись</l_syn>
+       <l_syn>адӟиськон</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адыман</l>
+     <stg>
+       <st Contlex="N_">адыман</st>
+     </stg><orig>адыман</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>peitsaaminen, peitsaus, (hevosen) tasakäynti, tasa-astuminen, tasa-astunta</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адымась</l>
+     <stg>
+       <st Contlex="N_">адымась</st>
+     </stg><orig>адымась</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>адыманы</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>peitsari, tasa-astuja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адями</l>
+     <stg>
+       <st Contlex="N_">адями</st>
+     </stg><orig>адями</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ihminen, henkilö;</t>
+     </tg>
+     <xg><x>ас адями</x>
+       <xt xml:lang="fin">oma ihminen (t. henkilö);</xt>
+     </xg>
+     <xg><x>мурт адями</x>
+       <xt xml:lang="fin">vieras ihminen;</xt>
+     </xg>
+     <xg><x>оскымон адями</x>
+       <xt xml:lang="fin">luotettava ihminen;</xt>
+     </xg>
+     <xg><x>адями выжы</x>
+       <xt xml:lang="fin">ihmissuku, ihmiskunta</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟем</l>
+     <stg>
+       <st Contlex="N_">адӟем</st>
+     </stg><orig>адӟем</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>адӟыны</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>näkemä, nähty;</t>
+     </tg>
+     <xg><x>ас адӟемме верасько</x>
+       <xt xml:lang="fin">kerron omia näkemiäni</xt>
+     </xg>
+   <mg ind="3th"/><defNative>адӟыса улон</defNative>
+     <tg xml:lang="fin">
+       <t>näkeminen</t>
+     </tg>◊
+     <xg><x>адӟем карись</x>
+       <xt xml:lang="fin">jäljittelevä, jäljittelijä;</xt>
+     </xg>
+     <xg><x>адӟем карон</x>
+       <xt xml:lang="fin">jäljittely, jäljitteleminen;</xt>
+     </xg>
+     <xg><x>адӟем карымон</x>
+       <xt xml:lang="fin">esikuvaksi kelpaava;</xt>
+     </xg>
+     <xg><x>адӟем карыны</x>
+       <xt xml:lang="fin">jäljitellä, seurata;</xt>
+     </xg><font face="SmolenskSGR"><b>адӟем но уг кар</b></font><font face="SmolenskSGR">(<b>ы</b>)</font>
+     <tg xml:lang="fin">
+       <t>hän ei kiinnitä huomiota, hän ei ota huomioon;</t>
+     </tg>
+     <xg><x>адӟем потыны</x>
+       <xt xml:lang="fin">haluta nähdä;</xt>
+     </xg>
+     <xg><x>тонэ адӟеме потэ</x>
+       <xt xml:lang="fin">haluan nähdä sinut</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟемпотон</l>
+     <stg>
+       <st Contlex="N_">адӟемпотон</st>
+     </stg><orig>адӟемпотон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>halu nähdä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="A">адӟемпотонтэм</l>
+     <stg>
+       <st Contlex="A_">адӟемпотонтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vihattava, vastenmielinen, inhottava</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="A">адӟемпотостэм</l>
+     <stg>
+       <st Contlex="A_">адӟемпотостэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vihattava, vastenmielinen, inhottava</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟемпотостэмъяськон</l>
+     <stg>
+       <st Contlex="N_">адӟемпотостэмъяськон</st>
+     </stg><orig>адӟемпотостэмъяськон</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>адӟемпотостэмъяськыны</stem></drvg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟись</l>
+     <stg>
+       <st Contlex="N_">адӟись</st>
+     </stg><orig>адӟись</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>адӟыны</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>silminnäkijä, todistaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟиськон</l>
+     <stg>
+       <st Contlex="N_">адӟиськон</st>
+     </stg><orig>адӟиськон</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>адӟиськыны</stem></drvg>
+   </mg>
+   <mg ind="2th"><defNative>адскись луон</defNative>
+     <tg xml:lang="fin">
+       <t>näkyvyys, näkyväisyys</t>
+     </tg>
+   <mg ind="3th"/><defNative>пумиськон</defNative>
+     <tg xml:lang="fin">
+       <t>kohtaus, kohtaaminen, tapaaminen;</t>
+     </tg>
+     <xg><x>эшъёсын адӟиськон</x>
+       <xt xml:lang="fin">ystävien tapaaminen</xt>
+     </xg>
+   <mg ind="4th"/><defNative>ишан выллем маке</defNative>
+     <tg xml:lang="fin">
+       <t>näky, aave</t>
+       <re>kuviteltu näköaistimus</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟон</l>
+     <stg>
+       <st Contlex="N_">адӟон</st>
+     </stg><orig>адӟон</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>näkeminen, näkemys;</t>
+     </tg>
+     <xg><x>азьланез адӟон</x>
+       <xt xml:lang="fin">tulevaisuuden näkemys</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>адӟыны быгатон</defNative>
+     <tg xml:lang="fin">
+       <t>(näkö)kyky, näkeminen</t>
+     </tg>
+   <mg ind="3th"/><defNative>ишан</defNative>
+     <tg xml:lang="fin">
+       <t>näky, aave</t>
+       <re>kuviteltu näköaistimus</re>
+     </tg>
+   <mg ind="4th"/><defNative>секытэз адӟон</defNative>
+     <tg xml:lang="fin">
+       <t>kohtalo; onnettomuus, murhe;</t>
+     </tg>
+     <xg><x>адӟонлэсь уд пегӟы </x><genre>sp.</genre>
+       <xt xml:lang="fin">kohtaloa ei voi väistää;</xt>
+     </xg><font face="SmolenskSGR"><b>адӟон огназ уг луы </b></font><genre>sp.</genre>
+     <tg xml:lang="fin">
+       <t>= onnettomuus (t. murhe) ei kulje yksin;</t>
+     </tg><font face="SmolenskSGR"><b>адӟон пыд улысь потэ </b></font><genre>sp.</genre>
+     <tg xml:lang="fin">
+       <t>onnettomuus ei tule kello kaulassa (= onnettomuus (t. murhe) ilmaantuu jalkojen alta)</t>
+     </tg>◊ <font face="SmolenskSGR"><b>адӟон падеж </b></font><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>akkusatiivi;</t>
+     </tg><font face="SmolenskSGR"><b>кылпумо адӟон падеж </b></font><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>päätteellinen akkusatiivi;</t>
+     </tg><font face="SmolenskSGR"><b>кылпумтэм адӟон падеж </b></font><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>päätteetön akkusatiivi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟос-чаклос</l>
+     <stg>
+       <st Contlex="N_">адӟос-чаклос</st>
+     </stg><orig>адӟос-чаклос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kokemus;</t>
+     </tg>
+     <xg><x>улон адӟос-чаклос</x>
+       <xt xml:lang="fin">elämänkokemus;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">опыт<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">адӟытон</l>
+     <stg>
+       <st Contlex="N_">адӟытон</st>
+     </stg><orig>адӟытон</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>адӟытыны</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>esitys, näyttö, näyttäminen</t>
+     </tg>
+   <mg ind="3th"/><defNative>выставка</defNative>
+     <tg xml:lang="fin">
+       <t>näyttely</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азарт</l>
+     <stg>
+       <st Contlex="N_">азарт</st>
+     </stg><orig>азарт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kiihko, into</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азбар</l>
+     <stg>
+       <st Contlex="N_">азбар</st>
+     </stg><orig>азбар</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>piha(maa);</t>
+     </tg>
+     <xg><x>гид азбар</x>
+       <xt xml:lang="fin">karjasuoja;</xt>
+     </xg>
+     <xg><x>пудо азбар</x>
+       <xt xml:lang="fin">karjapiha, karjatarha;</xt>
+     </xg><font face="SmolenskSGR"><b>азбар гид</b></font>
+     <variants>
+       <l_syn type="&gt;">гид азбар</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азбука</l>
+     <stg>
+       <st Contlex="N_">азбука</st>
+     </stg><orig>аʼзбука</orig>
+   </lg>
+   <mg ind="1th"><defNative>алфавит</defNative>
+     <tg xml:lang="fin">
+       <t>aakkoset, aakkosto</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>букварь</defNative>
+     <tg xml:lang="fin">
+       <t>aapinen, aapiskirja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азвесян</l>
+     <stg>
+       <st Contlex="N_">азвесян</st>
+     </stg><orig>азвесян</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hopeointi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азгынмон</l>
+     <stg>
+       <st Contlex="N_">азгынмон</st>
+     </stg><orig>азгынмон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьтэммон</defNative>
+     <tg xml:lang="fin">
+       <t>laiskistuminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>огсямен улон, кыжмон</defNative>
+     <tg xml:lang="fin">
+       <t>piintyminen, kaavoihinsa kangistuminen</t>
+     </tg>
+   <mg ind="3th"/><defNative>сӧриськон, урод луон – адями с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>rappeutuminen, pilaantuminen, turmeltuminen, turmelus</t>
+       <re>ihmisen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азинлык</l>
+     <stg>
+       <st Contlex="N_">азинлык</st>
+     </stg><orig>азинлык</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>menestyksellisyys; tuottavuus, tuotteliaisuus;</t>
+     </tg>
+     <xg><x>ужлэн азинлыкез</x>
+       <xt xml:lang="fin">työn tuottavuus</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азинскон</l>
+     <stg>
+       <st Contlex="N_">азинскон</st>
+     </stg><orig>азинскон</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>азинскыны</stem></drvg>
+   </mg>
+   <mg ind="2th"><defNative>будон, ӝутскон</defNative>
+     <tg xml:lang="fin">
+       <t>edistys, kehitys</t>
+     </tg>
+   <mg ind="3th"/><defNative>вормонъёс басьтон</defNative>
+     <tg xml:lang="fin">
+       <t>menestys, saavutus;</t>
+     </tg>
+     <xg><x>азинсконъёс басьтыны</x>
+       <xt xml:lang="fin">saavuttaa menestystä</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азинтон</l>
+     <stg>
+       <st Contlex="N_">азинтон</st>
+     </stg><orig>азинтон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьлань карон, донгон</defNative>
+     <tg xml:lang="fin">
+       <t>eteenpäin työntäminen (t. siirtäminen)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>экономикаез, наукаез</defNative>
+     <tg xml:lang="fin">
+       <t>kehittäminen, edistäminen</t>
+     </tg>
+   <mg ind="3th"/><defNative>кинэ ке ортчон, азьпалтон</defNative>
+     <tg xml:lang="fin">
+       <t>ohittaminen, ohitus, sivuuttaminen, sivuutus</t>
+     </tg>
+   <mg ind="4th"/><defNative>выльысь кутскон</defNative>
+     <tg xml:lang="fin">
+       <t>jatkaminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азитэт</l>
+     <stg>
+       <st Contlex="N_">азитэт</st>
+     </stg><orig>азитэт</orig>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>prefiksi;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">приставка</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азмон</l>
+     <stg>
+       <st Contlex="N_">азмон</st>
+     </stg><orig>азмон</orig>
+   </lg>
+   <mg>
+       <l_syn type="&gt;">азон</l_syn>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азон</l>
+     <stg>
+       <st Contlex="N_">азон</st>
+     </stg><orig>азон</orig>
+   </lg>
+   <mg ind="1th"><defNative>вожектон</defNative>
+     <tg xml:lang="fin">
+       <t>ajettuminen, märkimään rupeaminen, märkiminen; tulehtuminen, tulehdus</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>векчи, начар кылён – будосъёс, пудо с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>rappeutuminen</t>
+       <re>kasvien, karjan</re>;
+     </tg><font face="SmolenskSGR">(<i>начармон – бусы, му с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>laihtuminen, köyhtyminen, ehtyminen</t>
+       <re>pellon, maan</re>
+     </tg>
+   <mg ind="3th"/><defNative>аналмон, куштӥськон – бусы с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>rikkaruohottuminen, villiintyminen</t>
+       <re>pellon</re>
+     </tg>
+   <mg ind="4th"/> <senseType>kuv.</senseType><font face="SmolenskSGR">(<i>азгынмон, кыжмон</i>)</font>
+     <tg xml:lang="fin">
+       <t>piintyminen, kaavoihinsa kangistuminen</t>
+     </tg>
+   <mg ind="5th"/> <senseType>kuv.</senseType><font face="SmolenskSGR">(<i>сӧриськон – адями с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>pilaantuminen, turmeltuminen, turmelus</t>
+       <re>ihmisen</re>;
+     </tg><font face="SmolenskSGR">(<i>калгыны лэзькон</i>)</font>
+     <tg xml:lang="fin">
+       <t>haureuteen vajoaminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азот</l>
+     <stg>
+       <st Contlex="N_">азот</st>
+     </stg><orig>азот</orig>
+   </lg>
+   <mg><field>kem.</field>
+     <tg xml:lang="fin">
+       <t>typpi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азь</l>
+     <stg>
+       <st Contlex="N_">азь</st>
+     </stg><orig>азь</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+   <mg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>etupuoli, etuosa, edusta, jnk edessä oleva paikka; julkisivu // esi=, etu=, etumainen;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR"><b>азь колёса</b> (<i>я. </i><b>питран</b>)</font>
+     <tg xml:lang="fin">
+       <t>eturatas, etupyörä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>алвыл</defNative>
+     <tg xml:lang="fin">
+       <t>syli, polvet;</t>
+     </tg>
+     <xg><x>азяз пуксьыны</x>
+       <xt xml:lang="fin">istuutua jnk polvelle</xt>
+     </xg>
+   <mg ind="3th"/><defNative>инты</defNative>
+     <tg xml:lang="fin">
+       <t>paikka;</t>
+     </tg>
+     <xg><x>мукет азе поныны</x>
+       <xt xml:lang="fin">panna toiselle paikalle;</xt>
+     </xg>
+     <xg><x>пеймыт азьын</x>
+       <xt xml:lang="fin">pimeässä paikassa</xt>
+     </xg>
+   <mg ind="4th"/> <pos ind="Po_Stem"/>
+     <variants>
+       <l_syn type="&gt;">азе</l_syn>
+       <l_syn>азёзь</l_syn>
+       <l_syn>азьтӥ</l_syn>
+       <l_syn>азьын</l_syn>
+       <l_syn>азьысен</l_syn>
+       <l_syn>азьысь</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьбасьтон</l>
+     <stg>
+       <st Contlex="N_">азьбасьтон</st>
+     </stg><orig>азьбасьтон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьпалтон</defNative>
+     <tg xml:lang="fin">
+       <t>ohittaminen, ohitus, sivuuttaminen, sivuutus</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>вормон</defNative>
+     <tg xml:lang="fin">
+       <t>yliotteen saaminen jstak</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьвалтэт</l>
+     <stg>
+       <st Contlex="N_">азьвалтэт</st>
+     </stg><orig>азьвалтэт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>puhemiehistö;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">президиум</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьветлӥсь</l>
+     <stg>
+       <st Contlex="N_">азьветлӥсь</st>
+     </stg><orig>азьветлӥсь</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьпалаз ветлӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>etumainen, edessä kulkeva, etu= // edelläkulkija, johtaja</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>азьмынӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>edistyksellinen // eturivin työntekijä</t>
+     </tg>
+   <mg ind="3th"/><defNative>сюанын</defNative>
+     <tg xml:lang="fin">
+       <t>edeskäypä</t>
+       <re>häissä</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьворттӥсь</l>
+     <stg>
+       <st Contlex="N_">азьворттӥсь</st>
+     </stg><orig>азьворттӥсь</orig>
+   </lg>
+   <mg ind="1th"><defNative>йыр, кивалтӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>johtaja</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>сюанын</defNative>
+     <tg xml:lang="fin">
+       <t>edeskäypä</t>
+       <re>häissä</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьвылскон</l>
+     <stg>
+       <st Contlex="N_">азьвылскон</st>
+     </stg><orig>азьвылскон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>edelle pääseminen (t. pääsy), ennen (toista) ehtiminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьвылтон</l>
+     <stg>
+       <st Contlex="N_">азьвылтон</st>
+     </stg><orig>азьвылтон</orig>
+     <variants>
+       <l_syn>азьвылтыны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">азьпалтон</l_syn>
+       <l_syn>азьпалтыны</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьвылтӥськон</l>
+     <stg>
+       <st Contlex="N_">азьвылтӥськон</st>
+     </stg><orig>азьвылтӥськон</orig>
+     <variants>
+       <l_syn>азьвылтӥськыны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">азьвылскон</l_syn>
+       <l_syn>азьвылскыны</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азькыл</l>
+     <stg>
+       <st Contlex="N_">азькыл</st>
+     </stg><orig>азькыл</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <tg xml:lang="fin">
+       <t>esipuhe, alkulause</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азькышет</l>
+     <stg>
+       <st Contlex="N_">азькышет</st>
+     </stg><orig>азькышет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>esiliina</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьланез</l>
+     <stg>
+       <st Contlex="N_">азьланез</st>
+     </stg><orig>азьланез</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulevaisuus, vastaisuus</t>
+     </tg>◊
+     <xg><x>чик азьланез ӧвӧл</x>
+       <xt xml:lang="fin">ei ole menestystä ollenkaan</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьланьскон</l>
+     <stg>
+       <st Contlex="N_">азьланьскон</st>
+     </stg><orig>азьланьскон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьлань мынон</defNative>
+     <tg xml:lang="fin">
+       <t>eteneminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>будон, ӝутскон</defNative>
+     <tg xml:lang="fin">
+       <t>edistyminen, edistys, kehittyminen, kehitys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьланьтон</l>
+     <stg>
+       <st Contlex="N_">азьланьтон</st>
+     </stg><orig>азьланьтон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьлань нуон, донгон</defNative>
+     <tg xml:lang="fin">
+       <t>eteenpäin työntäminen (t. siirtäminen)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>экономикаез, наукаез</defNative>
+     <tg xml:lang="fin">
+       <t>kehittäminen, kehittely, kehitys</t>
+     </tg>
+   <mg ind="3th"/><defNative>выльысь кутскон</defNative>
+     <tg xml:lang="fin">
+       <t>jatkaminen, pidentäminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьмурт</l>
+     <stg>
+       <st Contlex="N_">азьмурт</st>
+     </stg><orig>азьмурт</orig>
+   </lg>
+   <mg ind="1th"><defNative>йыр, кивалтӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>johtava (t. johdossa oleva) henkilö</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>курась, ӝутӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>naittajaeukko;</t>
+     </tg><font face="SmolenskSGR">(<i>пиосмурт</i>)</font>
+     <tg xml:lang="fin">
+       <t>puhemies, kosiomies</t>
+     </tg>
+   <mg ind="3th"/><defNative>президент</defNative>
+     <tg xml:lang="fin">
+       <t>presidentti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьпалскон</l>
+     <stg>
+       <st Contlex="N_">азьпалскон</st>
+     </stg><orig>азьпалскон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>edelle pääseminen, edellepääsy, ennen (toista) ehtiminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьпалтон</l>
+     <stg>
+       <st Contlex="N_">азьпалтон</st>
+     </stg><orig>азьпалтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ohittaminen, ohitus, sivuuttaminen, sivuutus;</t>
+     </tg>
+     <xg><x>юлтоштэ азьпалтон</x>
+       <xt xml:lang="fin">kaverinsa (t. kaverisi) ohittaminen (t. sivuuttaminen)</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьпалэз</l>
+     <stg>
+       <st Contlex="N_">азьпалэз</st>
+     </stg><orig>азьпалэз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulevaisuus, vastaisuus;</t>
+     </tg>
+     <xg><x>азьпалзэ адӟыны</x>
+       <xt xml:lang="fin">nähdä tuleva(isuus);</xt>
+     </xg>
+   </mg>
+   <mg><font face="SmolenskSGR"><b>азьпалзэ учкыны </b></font><mwemg ind="1th"/> <font face="SmolenskSGR">(<i>инты с-сь) </i></font>
+     <tg xml:lang="fin">
+       <t>katsoa etupuoli</t>
+     </tg><mwemg ind="2th"/><defNative>дыр с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>katsoa tulevaisuuteen;</t>
+     </tg>
+     <xg><x>азьпалэз сярысь малпаськыны</x>
+       <xt xml:lang="fin">miettiä tulevaisuutta, huolestua tulevaisuudesta</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьпинь</l>
+     <stg>
+       <st Contlex="N_">азьпинь</st>
+     </stg><orig>азьпинь</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <tg xml:lang="fin">
+       <t>etuhammas</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьтэммон</l>
+     <stg>
+       <st Contlex="N_">азьтэммон</st>
+     </stg><orig>азьтэммон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>laiskistuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьтэмскон</l>
+     <stg>
+       <st Contlex="N_">азьтэмскон</st>
+     </stg><orig>азьтэмскон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>laiskaksi heittäytyminen, laiskistuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьтэмъяськись</l>
+     <stg>
+       <st Contlex="N_">азьтэмъяськись</st>
+     </stg><orig>азьтэмъяськись</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>азьтэмъяськыны</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>laiskottelija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьтэмъяськон</l>
+     <stg>
+       <st Contlex="N_">азьтэмъяськон</st>
+     </stg><orig>азьтэмъяськон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>laiskottelu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">азьчиньы</l>
+     <stg>
+       <st Contlex="N_">азьчиньы</st>
+     </stg><orig>азьчиньы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>etusormi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аист</l>
+     <stg>
+       <st Contlex="N_">аист</st>
+     </stg><orig>аʼист</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>(katto)haikara</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аймурт</l>
+     <stg>
+       <st Contlex="N_">аймурт</st>
+     </stg><orig>аймурт</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">айымурт</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айсберг</l>
+     <stg>
+       <st Contlex="N_">айсберг</st>
+     </stg><orig>аʼйсберг</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>jäävuori</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айшет</l>
+     <stg>
+       <st Contlex="N_">айшет</st>
+     </stg><orig>айшет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>esiliina;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">азькышет</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айшон</l>
+     <stg>
+       <st Contlex="N_">айшон</st>
+     </stg><orig>айшон</orig>
+   </lg>
+   <mg><field>kansat.</field>
+     <tg xml:lang="fin">
+       <t>ajšon</t>
+       <re>sorokantyyppinen naisen kansallispuvun päähine</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айы</l>
+     <stg>
+       <st Contlex="N_">айы</st>
+     </stg><orig>айы</orig>
+   </lg>
+   <mg ind="1th"><font face="SmolenskSGR">(<b>айиз</b>)</font>
+     <tg xml:lang="fin">
+       <t>isä;</t>
+     </tg>
+     <xg><x>айи дышетӥсьын ужа</x>
+       <xt xml:lang="fin">isäni toimii opettajana;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">атай;
+   <mg ind="2th"/></l_syn>
+     </variants>
+   </mg>
+   <mg><font face="SmolenskSGR">(<b>айыез</b>)</font>
+     <tg xml:lang="fin">
+       <t>uros, koiras;</t>
+     </tg>
+     <xg><x>айы ӟазег</x>
+       <xt xml:lang="fin">uroshanhi;</xt>
+     </xg><font face="SmolenskSGR"><b>айы коӵыш</b> (<i>я. </i><b>писэй</b>)</font>
+     <tg xml:lang="fin">
+       <t>kollikissa;</t>
+     </tg>
+     <xg><x>айы пуны</x>
+       <xt xml:lang="fin">uroskoira;</xt>
+     </xg>
+     <xg><x>айы ӵӧж</x>
+       <xt xml:lang="fin">ankkakukko, urossorsa</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айы-мумы</l>
+     <stg>
+       <st Contlex="N_">айы-мумы</st>
+     </stg><orig>айы-мумы</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>айиз-мумиз</b>)</font>
+     <tg xml:lang="fin">
+       <t>vanhemmat;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">анай-атай</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">айымурт</l>
+     <stg>
+       <st Contlex="N_">айымурт</st>
+     </stg><orig>айымурт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>appi</t>
+       <re>miehen isä</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ака</l>
+     <stg>
+       <st Contlex="N_">ака</st>
+     </stg><orig>ака</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><font face="SmolenskSGR">(<i>бадӟымез сестра) </i></font>
+     <tg xml:lang="fin">
+       <t>isosisko, (vanhempi) sisar</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>тётя</defNative>
+     <tg xml:lang="fin">
+       <t>täti /</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">апай<rom ind="0_1"/></l_syn>
+       <l_syn>апай<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">академик</l>
+     <stg>
+       <st Contlex="N_">академик</st>
+     </stg><orig>акадеʼмик</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akateemikko</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">академия</l>
+     <stg>
+       <st Contlex="N_">академия</st>
+     </stg><orig>акадеʼмия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akatemia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акар</l>
+     <stg>
+       <st Contlex="N_">акар</st>
+     </stg><orig>акар</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>дуриськон кис</defNative>
+     <tg xml:lang="fin">
+       <t>(paja)pihdit;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>кис, кискачи</i>)</font>
+     <tg xml:lang="fin">
+       <t>hohtimet</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>сьӧсь</defNative>
+     <tg xml:lang="fin">
+       <t>peto, raatelija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акаци</l>
+     <stg>
+       <st Contlex="N_">акаци</st>
+     </stg><orig>акаʼци</orig>
+     <variants>
+       <l_syn>акация</l_syn>
+     </variants>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>akasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акация</l>
+     <stg>
+       <st Contlex="N_">акация</st>
+     </stg><orig>акаʼция</orig>
+     <variants>
+       <l_syn>акаци</l_syn>
+     </variants>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>akasia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акач-тукач</l>
+     <stg>
+       <st Contlex="N_">акач-тукач</st>
+     </stg><orig>акач-тукач</orig>
+   </lg>
+   <mg><range>murt.</range><field>el.</field>
+     <tg xml:lang="fin">
+       <t>etana, kotilo</t>
+       <re>Gastropoda</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">куалялюльы</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акашка</l>
+     <stg>
+       <st Contlex="N_">акашка</st>
+     </stg><orig>акашка</orig>
+   </lg>
+   <mg> <field>kansat.</field> <defNative>геры поттон</defNative>
+     <tg xml:lang="fin">
+       <t>juhla ennen toukotöitä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акаяшка</l>
+     <stg>
+       <st Contlex="N_">акаяшка</st>
+     </stg><orig>акаяшка</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">акашка<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акваланг</l>
+     <stg>
+       <st Contlex="N_">акваланг</st>
+     </stg><orig>акваланг</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>happilaite</t>
+       <re>sukeltajan</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аквалангист</l>
+     <stg>
+       <st Contlex="N_">аквалангист</st>
+     </stg><orig>аквалангист</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sukeltaja, sammakkomies</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акварель</l>
+     <stg>
+       <st Contlex="N_">акварель</st>
+     </stg><orig>акварель</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akvarelli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аквариум</l>
+     <stg>
+       <st Contlex="N_">аквариум</st>
+     </stg><orig>акваʼриум</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akvaario</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аккорд</l>
+     <stg>
+       <st Contlex="N_">аккорд</st>
+     </stg><orig>аккорд</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sointu, akordi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аккордеон</l>
+     <stg>
+       <st Contlex="N_">аккордеон</st>
+     </stg><orig>аккордеон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pianoharmonikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аккумулятор</l>
+     <stg>
+       <st Contlex="N_">аккумулятор</st>
+     </stg><orig>аккумуляʼтор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akku</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акробат</l>
+     <stg>
+       <st Contlex="N_">акробат</st>
+     </stg><orig>акробат</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>akrobaatti, taitovoimistelija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акт</l>
+     <stg>
+       <st Contlex="N_">акт</st>
+     </stg><orig>акт</orig>
+   </lg>
+   <mg ind="1th"><defNative>маке карем</defNative>
+     <tg xml:lang="fin">
+       <t>toiminta, teko</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>ужкагаз</defNative>
+     <tg xml:lang="fin">
+       <t>asiakirja, akti</t>
+     </tg>
+   <mg ind="3th"/><defNative>спектакльлэн люкетэз</defNative>
+     <tg xml:lang="fin">
+       <t>näytös</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">актриса</l>
+     <stg>
+       <st Contlex="N_">актриса</st>
+     </stg><orig>актриʼса</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>näyttelijä(tär)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">актёр</l>
+     <stg>
+       <st Contlex="N_">актёр</st>
+     </stg><orig>актёр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>näyttelijä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акула</l>
+     <stg>
+       <st Contlex="N_">акула</st>
+     </stg><orig>акуʼла</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>hai</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акушер</l>
+     <stg>
+       <st Contlex="N_">акушер</st>
+     </stg><orig>акушер</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>synnytyslääkäri</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акушерка</l>
+     <stg>
+       <st Contlex="N_">акушерка</st>
+     </stg><orig>акушеʼркаʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kätilö</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акцент</l>
+     <stg>
+       <st Contlex="N_">акцент</st>
+     </stg><orig>акцент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(vieras) korostus;</t>
+     </tg>
+     <xg><x>акцентэн вераськыны</x>
+       <xt xml:lang="fin">puhua murtaen</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акци</l>
+     <stg>
+       <st Contlex="N_">акци</st>
+     </stg><orig>аʼкци</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>osake</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акция</l>
+     <stg>
+       <st Contlex="N_">акция</st>
+     </stg><orig>аʼкция</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">акци</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акшан</l>
+     <stg>
+       <st Contlex="N_">акшан</st>
+     </stg><orig>акшан</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(ilta)hämärä;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR"><b>акшан вакыт</b> (<i>я. </i><b>дыр</b>)</font>
+     <tg xml:lang="fin">
+       <t>iltahämärän aika;</t>
+     </tg>
+     <xg><x>акшан лэзьке</x>
+       <xt xml:lang="fin">hämärtyy, hämärtää;</xt>
+     </xg><font face="SmolenskSGR"><b>акылес</b></font>
+     <variants>
+       <l_syn type="&gt;">аклес</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акылляськон</l>
+     <stg>
+       <st Contlex="N_">акылляськон</st>
+     </stg><orig>акылляськон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ikävystyttäminen, kyllästyttäminen, kiusaaminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акыльтон</l>
+     <stg>
+       <st Contlex="N_">акыльтон</st>
+     </stg><orig>акыльтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ikävystyminen, kyllästyminen; ikävystyttäminen, kyllästyttäminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">акылян</l>
+     <stg>
+       <st Contlex="N_">акылян</st>
+     </stg><orig>акылян</orig>
+     <variants>
+       <l_syn>акыляны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">акыльтон</l_syn>
+       <l_syn>акыльтыны</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ал</l>
+     <stg>
+       <st Contlex="N_">ал</st>
+     </stg><orig>ал</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <tg xml:lang="fin">
+       <t>polvet, syli;</t>
+     </tg>
+     <xg><x>ал вылаз пукыны</x>
+       <xt xml:lang="fin">istua jnk polvilla (t. sylissä)</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алангасар</l>
+     <stg>
+       <st Contlex="N_">алангасар</st>
+     </stg><orig>алангасар</orig>
+   </lg>
+   <mg><field>myt.</field>
+     <tg xml:lang="fin">
+       <t>alangasar</t>
+       <re>mytologinen jätti</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аландец</l>
+     <stg>
+       <st Contlex="N_">аландец</st>
+     </stg><orig>алаʼндец</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ahvenanmaalainen</t>
+       <re>ihminen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аландка</l>
+     <stg>
+       <st Contlex="N_">аландка</st>
+     </stg><orig>алаʼндка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ahvenanmaalainen</t>
+       <re>nainen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алача</l>
+     <stg>
+       <st Contlex="N_">алача</st>
+     </stg><orig>алача</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kirjava kangas</t>
+       <re>karkea kotikutoinen</re>;
+     </tg>
+     <xg><x>алача дэрем</x>
+       <xt xml:lang="fin">kirjava paita (t. leninki)</xt><xre>karkeasta kotikutoisesta kankaasta</xre>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">албасты</l>
+     <stg>
+       <st Contlex="N_">албасты</st>
+     </stg><orig>албасты</orig>
+   </lg>
+   <mg ind="1th"><field>myt.</field>
+     <tg xml:lang="fin">
+       <t>paha henki;</t>
+     </tg>
+     <xg><x>мунчо албасты</x>
+       <xt xml:lang="fin">paha saunahenki</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>haukk. </i></note><font face="SmolenskSGR">(<i>урод адями с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>hirviö</t>
+     </tg>
+   <mg ind="3th"/> <note><i>kiros. </i></note><font face="SmolenskSGR">(<i>тышкаськон кыл</i>)</font>
+     <tg xml:lang="fin">
+       <t>piru vieköön!</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алвыл</l>
+     <stg>
+       <st Contlex="N_">алвыл</st>
+     </stg><orig>алвыл</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <variants>
+       <l_syn type="&gt;">ал</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдан</l>
+     <stg>
+       <st Contlex="N_">алдан</st>
+     </stg><orig>алдан</orig>
+   </lg>
+   <mg ind="1th"><defNative>пӧян</defNative>
+     <tg xml:lang="fin">
+       <t>petkuttaminen, petkutus, pettäminen, petos</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range> <font face="SmolenskSGR">(<i>ыштон</i>)</font>
+     <tg xml:lang="fin">
+       <t>kadottaminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдар</l>
+     <stg>
+       <st Contlex="N_">алдар</st>
+     </stg><orig>алдар</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>petturi, petkuttaja, valehtelija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдаськем</l>
+     <stg>
+       <st Contlex="N_">алдаськем</st>
+     </stg><orig>алдаськем</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>алдаськыны</stem></drvg>
+   </mg>
+   <mg ind="2th"><defNative>пӧяськем, ӧрекчаськем</defNative>
+     <tg xml:lang="fin">
+       <t>valhe, valehtelu; petkutus, petkuttaminen, petos</t>
+     </tg>
+   <mg ind="3th"/><defNative>сураськем, янгышам</defNative>
+     <tg xml:lang="fin">
+       <t>erehdys, erehtyminen, hairahtuminen</t>
+     </tg>
+   <mg ind="4th"/> <range>murt.</range><font face="SmolenskSGR">(<i>йыромем</i>)</font>
+     <tg xml:lang="fin">
+       <t>eksyminen, harhautuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдаськись</l>
+     <stg>
+       <st Contlex="N_">алдаськись</st>
+     </stg><orig>алдаськись</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>алдаськыны</stem></drvg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>valehtelija, petkuttaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдаськон</l>
+     <stg>
+       <st Contlex="N_">алдаськон</st>
+     </stg><orig>алдаськон</orig>
+   </lg>
+   <mg ind="1th"><defNative>пӧяськон, ӧрекчаськон</defNative>
+     <tg xml:lang="fin">
+       <t>valehtelu, valhe; petkuttaminen, petkutus, pettäminen, petos</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>сураськон, янгы шан</defNative>
+     <tg xml:lang="fin">
+       <t>erehtyminen, erehdys, hairahtuminen</t>
+     </tg>
+   <mg ind="3th"/> <range>murt.</range><font face="SmolenskSGR">(<i>йыромон</i>)</font>
+     <tg xml:lang="fin">
+       <t>eksyminen, harhautuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алдэт</l>
+     <stg>
+       <st Contlex="N_">алдэт</st>
+     </stg><orig>алдэт</orig>
+   </lg>
+   <mg ind="1th"><note><i>myös kuv. </i></note><font face="SmolenskSGR">(<i>пӧйшуръёсты кутон понна сиён</i>)</font>
+     <tg xml:lang="fin">
+       <t>houkutin, (houkutus)syötti</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>к-сь нальык</defNative>
+     <tg xml:lang="fin">
+       <t>sadin, ansa</t>
+     </tg>
+   <mg ind="3th"/><defNative>пӧет, пӧям</defNative>
+     <tg xml:lang="fin">
+       <t>petos, petkutus; valhe; harhakuva</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алектон</l>
+     <stg>
+       <st Contlex="N_">алектон</st>
+     </stg><orig>алектон</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>алектыны</stem></drvg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алекъяськон</l>
+     <stg>
+       <st Contlex="N_">алекъяськон</st>
+     </stg><orig>алекъяськон</orig>
+   </lg>
+   <mg ind="1th"><defNative>керӟегъяськон</defNative>
+     <tg xml:lang="fin">
+       <t>hermoilu, ärtyminen, ärsyyntyminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>маин ке туж вырон</defNative>
+     <tg xml:lang="fin">
+       <t>liian (t. kovin) innostuminen (t. viehättyminen)</t>
+     </tg>
+   <mg ind="3th"/><defNative>урттылӥськон</defNative>
+     <tg xml:lang="fin">
+       <t>kantelu, kieliminen</t>
+     </tg>
+   <mg ind="4th"/><defNative>сюлмаськон, кин ке котыртӥ берган</defNative>
+     <tg xml:lang="fin">
+       <t>turhuus; huolet; touhu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алимент</l>
+     <stg>
+       <st Contlex="N_">алимент</st>
+     </stg><orig>алимент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>elatusapu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алкоголик</l>
+     <stg>
+       <st Contlex="N_">алкоголик</st>
+     </stg><orig>алкогоʼлик</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alkoholisti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алкоголь</l>
+     <stg>
+       <st Contlex="N_">алкоголь</st>
+     </stg><orig>алкоголь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alkoholi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аллея</l>
+     <stg>
+       <st Contlex="N_">аллея</st>
+     </stg><orig>аллеʼя</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lehtikuja, puistokuja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алляськон</l>
+     <stg>
+       <st Contlex="N_">алляськон</st>
+     </stg><orig>алляськон</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>маин ке каллен шонаськон</defNative>
+     <tg xml:lang="fin">
+       <t>leyhyttäminen, leyhyttely, löyhyttely</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>каллен лопыръяськон, шонаськон</defNative>
+     <tg xml:lang="fin">
+       <t>hulmuaminen, liehuminen, leyhyminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алмаз</l>
+     <stg>
+       <st Contlex="N_">алмаз</st>
+     </stg><orig>алмаз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>timantti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алон</l>
+     <stg>
+       <st Contlex="N_">алон</st>
+     </stg><orig>алон</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>estäminen, estely</t>
+       <re>puhumalla</re>;
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t> kieltäminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>тодэ уськытон</defNative>
+     <tg xml:lang="fin">
+       <t>muistuttaminen, muistutus, varoitus, huomautus, nuhtelu</t>
+     </tg>
+   <mg ind="3th"/><defNative>буйгатон</defNative>
+     <tg xml:lang="fin">
+       <t>rauhoittaminen, rauhoitus, lohduttaminen, lohdutus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алтарь</l>
+     <stg>
+       <st Contlex="N_">алтарь</st>
+     </stg><orig>алтарь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alttari</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алфавит</l>
+     <stg>
+       <st Contlex="N_">алфавит</st>
+     </stg><orig>алфавит</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>aakkoset // aakkosellinen, aakkos=;</t>
+     </tg>
+     <xg><x>алфавит рад</x>
+       <xt xml:lang="fin">aakkosjärjestys;</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алышмон</l>
+     <stg>
+       <st Contlex="N_">алышмон</st>
+     </stg><orig>алышмон</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>алышмыны</stem></drvg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">альбом</l>
+     <stg>
+       <st Contlex="N_">альбом</st>
+     </stg><orig>альбом</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>albumi, kansio</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">альманах</l>
+     <stg>
+       <st Contlex="N_">альманах</st>
+     </stg><orig>альманах</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>almanakka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">альпинизм</l>
+     <stg>
+       <st Contlex="N_">альпинизм</st>
+     </stg><orig>альпинизм</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuoristokiipeily</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">альпинист</l>
+     <stg>
+       <st Contlex="N_">альпинист</st>
+     </stg><orig>альпинист</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuoristokiipeilijä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">альчика</l>
+     <stg>
+       <st Contlex="N_">альчика</st>
+     </stg><orig>альчика</orig>
+   </lg>
+   <mg><range>murt.</range><font face="SmolenskSGR">(<i>картлэн апаез</i>)</font>
+     <tg xml:lang="fin">
+       <t>käly</t>
+       <re>aviomiehen vanhempi sisar</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">апай<rom ind="0_3"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алюмень</l>
+     <stg>
+       <st Contlex="N_">алюмень</st>
+     </stg><orig>алюмень</orig>
+   </lg>
+   <mg><range>puhek.</range><font face="TimesNewRomanPS" type="&gt;"><b>алюминий </b></font>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алюминий</l>
+     <stg>
+       <st Contlex="N_">алюминий</st>
+     </stg><orig>алюмиʼний</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alumiini</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">алян</l>
+     <stg>
+       <st Contlex="N_">алян</st>
+     </stg><orig>алян</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>аляны</stem></drvg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амал</l>
+     <stg>
+       <st Contlex="N_">амал</st>
+     </stg><orig>амал</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+   <mg ind="1th"/><defNative>ужан сям</defNative>
+     <tg xml:lang="fin">
+       <t>tapa, keino, väline;</t>
+     </tg>
+     <xg><x>амал ӧвӧл </x><x>амал ӧвӧл ни</x>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ei ole (muuta) keinoa</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кибашлы луон, быгатонлык</defNative>
+     <tg xml:lang="fin">
+       <t>näppäryys, taito, kätevyys;</t>
+     </tg><font face="SmolenskSGR"><b>амалыз уг сузьы</b> (<i>я. </i><b>тырмы</b>)</font>
+     <tg xml:lang="fin">
+       <t>hänellä ei ole näppäryyttä (t. taitoa);</t>
+     </tg>
+     <xg><x>амалыз чик ӧвӧл</x>
+       <xt xml:lang="fin">hänellä ei ole näppäryyttä (t. taitoa) lainkaan</xt>
+     </xg>
+   <mg ind="3th"/><defNative>визьнод, йӧндырон</defNative>
+     <tg xml:lang="fin">
+       <t>neuvokkuus, hoksaavuus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амаллык</l>
+     <stg>
+       <st Contlex="N_">амаллык</st>
+     </stg><orig>амаллык</orig>
+   </lg>
+   <mg ind="1th"><defNative>кибашлы луон, быгатонлык</defNative>
+     <tg xml:lang="fin">
+       <t>näppäryys, taito, kätevyys</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>визьнод, йӧндырон</defNative>
+     <tg xml:lang="fin">
+       <t>neuvokkuus, kekseliäisyys, nokkeluus</t>
+     </tg>
+   <mg ind="3th"/><defNative>кескич луон</defNative>
+     <tg xml:lang="fin">
+       <t>viekkaus, oveluus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амалтон</l>
+     <stg>
+       <st Contlex="N_">амалтон</st>
+     </stg><orig>амалтон</orig>
+   </lg>
+   <mg ind="1th"><defNative>валатскон</defNative>
+     <tg xml:lang="fin">
+       <t>oivaltaminen, älyäminen, ymmärtäminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>пӧяны быгатон</defNative>
+     <tg xml:lang="fin">
+       <t>viekkaudessa voittaminen (t. voitto)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амалтэк</l>
+     <stg>
+       <st Contlex="N_">амалтэк</st>
+     </stg><orig>амалтэк</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect>abess. s:sta</inflect><stem>амал</stem></drvg>
+   </mg>
+   <mg ind="2th"><defNative>эриктэк</defNative>
+     <tg xml:lang="fin">
+       <t>vasten tahtoa, pakosta;</t>
+     </tg>
+     <xg><x>амалтэк лыктоно луиз</x>
+       <xt xml:lang="fin">oli pakostakin tultava</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амбулатори</l>
+     <stg>
+       <st Contlex="N_">амбулатори</st>
+     </stg><orig>амбулатоʼри</orig>
+     <variants>
+       <l_syn>амбулатория</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>poliklinikka</t>
+       <re>pienehkö</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амбулатория</l>
+     <stg>
+       <st Contlex="N_">амбулатория</st>
+     </stg><orig>амбулатоʼрия</orig>
+     <variants>
+       <l_syn>амбулатори</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>poliklinikka</t>
+       <re>pienehkö</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амезь</l>
+     <stg>
+       <st Contlex="N_">амезь</st>
+     </stg><orig>амезь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vannas</t>
+       <re>auran</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">американец</l>
+     <stg>
+       <st Contlex="N_">американец</st>
+     </stg><orig>америкаʼнец</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>amerikkalainen</t>
+       <re>ihminen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">американка</l>
+     <stg>
+       <st Contlex="N_">американка</st>
+     </stg><orig>америкаʼнка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>amerikkalainen</t>
+       <re>nainen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амнисти</l>
+     <stg>
+       <st Contlex="N_">амнисти</st>
+     </stg><orig>амниʼсти</orig>
+     <variants>
+       <l_syn>амнистия</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>armahdus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">амнистия</l>
+     <stg>
+       <st Contlex="N_">амнистия</st>
+     </stg><orig>амниʼстия</orig>
+     <variants>
+       <l_syn>амнисти</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>armahdus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e> <rom ind="1"/>
+   <lg>
+     <l pos="N">ан</l>
+     <stg>
+       <st Contlex="N_">ан</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <field>anat.</field><font face="SmolenskSGR">(<i>анлы</i>)</font>
+     <tg xml:lang="fin">
+       <t>leukaluu, leukapieli;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>бамлы</i>)</font>
+     <tg xml:lang="fin">
+       <t>poskiluu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e><rom ind="2"/>
+   <lg>
+     <l pos="N">ан</l>
+     <stg>
+       <st Contlex="N_">ан</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR"><b>: кись ан </b></font><field>tekst.</field>
+     <tg xml:lang="fin">
+       <t>pirrankehys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ана</l>
+     <stg>
+       <st Contlex="N_">ана</st>
+     </stg><orig>ана</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>peltosarka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анабур</l>
+     <stg>
+       <st Contlex="N_">анабур</st>
+     </stg><orig>анабур</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(pellon)piennar, (pellon-)pientare;</t>
+     </tg>
+     <variants>
+       <l_syn type="vrt0">межа</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анай</l>
+     <stg>
+       <st Contlex="N_">анай</st>
+     </stg><orig>анай</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>äiti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анай-атай</l>
+     <stg>
+       <st Contlex="N_">анай-атай</st>
+     </stg><orig>анай-атай</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>анай-атаез, анаез-атаез</b>)</font>
+     <tg xml:lang="fin">
+       <t>vanhemmat;</t>
+     </tg>
+     <xg><x>анай-атае дорын</x>
+       <xt xml:lang="fin">vanhempani luona</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анайзы</l>
+     <stg>
+       <st Contlex="N_">анайзы</st>
+     </stg><orig>анайзы</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>heidän äitinsä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>картлэн анаез</defNative>
+     <tg xml:lang="fin">
+       <t>anoppi</t>
+       <re>aviomiehen äiti</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анайлык</l>
+     <stg>
+       <st Contlex="N_">анайлык</st>
+     </stg><orig>анайлык</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>äitiys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анализ</l>
+     <stg>
+       <st Contlex="N_">анализ</st>
+     </stg><orig>анаʼлиз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>analyysi, erittely; jäsennys;</t>
+     </tg><font face="SmolenskSGR"><b>вир</b></font><font face="SmolenskSGR">(<b>лы</b>)</font>
+     <xg><x>анализ, вирлэн анализэз</x>
+       <xt xml:lang="fin">verikoe</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анализировать карон</l>
+     <stg>
+       <st Contlex="N_">анализировать карон</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>analysointi, erittely; jäsentäminen, jäsennys;</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аналмон</l>
+     <stg>
+       <st Contlex="N_">аналмон</st>
+     </stg><orig>аналмон</orig>
+   </lg>
+   <mg ind="1th"><defNative>быдэсмытэк кылён</defNative>
+     <tg xml:lang="fin">
+       <t>kesken (t. keskeneräiseksi) jääminen;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>утялтытэк кылён</i>)</font>
+     <tg xml:lang="fin">
+       <t>hoitamattomaksi jääminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кема пукон, улон</defNative>
+     <tg xml:lang="fin">
+       <t>kauan viipyminen, pitkäksi aikaa (t. ajaksi) jääminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аналскон</l>
+     <stg>
+       <st Contlex="N_">аналскон</st>
+     </stg><orig>аналскон</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьтэмскон</defNative>
+     <tg xml:lang="fin">
+       <t>laiskaksi heittäytyminen, laiskistuminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>куштӥськон, дугдон</defNative>
+     <tg xml:lang="fin">
+       <t>kieltäytyminen, luopuminen</t>
+       <re>jnk tekemisestä</re>
+     </tg>
+     <tg xml:lang="fin">
+       <t>, lakkaaminen</t>
+     </tg>
+   <mg ind="3th"/>
+     <tg xml:lang="fin">
+       <t>heittäytyminen</t>
+       <re>jksik</re>
+     </tg>
+     <tg xml:lang="fin">
+       <t>, teeskentely;</t>
+     </tg>
+     <xg><x>висем улэ аналскон</x>
+       <xt xml:lang="fin">sairaaksi heittäytyminen</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аналтон</l>
+     <stg>
+       <st Contlex="N_">аналтон</st>
+     </stg><orig>аналтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>jättäminen, hylkääminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аналтӥськон</l>
+     <stg>
+       <st Contlex="N_">аналтӥськон</st>
+     </stg><orig>аналтӥськон</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">аналскон</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ананас</l>
+     <stg>
+       <st Contlex="N_">ананас</st>
+     </stg><orig>ананас</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ananas</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анархи</l>
+     <stg>
+       <st Contlex="N_">анархи</st>
+     </stg><orig>анаʼрхи</orig>
+     <variants>
+       <l_syn>анархия</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anarkia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анархия</l>
+     <stg>
+       <st Contlex="N_">анархия</st>
+     </stg><orig>анаʼрхия</orig>
+     <variants>
+       <l_syn>анархи</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anarkia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анатоми</l>
+     <stg>
+       <st Contlex="N_">анатоми</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anatomia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анатоми</l>
+     <stg>
+       <st Contlex="N_">анатоми</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anatomia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анатомия</l>
+     <stg>
+       <st Contlex="N_">анатомия</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anatomia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анатомия</l>
+     <stg>
+       <st Contlex="N_">анатомия</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>anatomia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ангес</l>
+     <stg>
+       <st Contlex="N_">ангес</st>
+     </stg><orig>ангес</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>leuka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ангеслы</l>
+     <stg>
+       <st Contlex="N_">ангеслы</st>
+     </stg><orig>ангеслы</orig>
+   </lg>
+   <mg><field>anat.</field>
+     <tg xml:lang="fin">
+       <t>alaleuanluu, alaleuka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ангина</l>
+     <stg>
+       <st Contlex="N_">ангина</st>
+     </stg><orig>ангиʼна</orig>
+   </lg>
+   <mg><field>lääk.</field>
+     <tg xml:lang="fin">
+       <t>angiina</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">англичанин</l>
+     <stg>
+       <st Contlex="N_">англичанин</st>
+     </stg><orig>англичаʼнин</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>englantilainen</t>
+       <re>mies</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">англичанка</l>
+     <stg>
+       <st Contlex="N_">англичанка</st>
+     </stg><orig>англичаʼнка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>englantilainen</t>
+       <re>nainen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анекдот</l>
+     <stg>
+       <st Contlex="N_">анекдот</st>
+     </stg><orig>анекдот</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kasku, vitsi, anekdootti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анис</l>
+     <stg>
+       <st Contlex="N_">анис</st>
+     </stg><orig>анис</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>anis</t>
+       <re>Anisum</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анкета</l>
+     <stg>
+       <st Contlex="N_">анкета</st>
+     </stg><orig>анкеʼта</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(kysely)lomake, kaavake</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анлы</l>
+     <stg>
+       <st Contlex="N_">анлы</st>
+     </stg><orig>анлы</orig>
+   </lg>
+   <mg><field>anat.</field>
+     <tg xml:lang="fin">
+       <t>leukaluu, leukapieli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ансамбль</l>
+     <stg>
+       <st Contlex="N_">ансамбль</st>
+     </stg><orig>ансаʼмбль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yhtye;</t>
+     </tg>
+     <xg><x>кырӟанъя но эктонъя ансамбль</x>
+       <xt xml:lang="fin">laulu- ja tanssiyhtye</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">антенна</l>
+     <stg>
+       <st Contlex="N_">антенна</st>
+     </stg><orig>антеʼнна</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>antenni</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">антициклон</l>
+     <stg>
+       <st Contlex="N_">антициклон</st>
+     </stg><orig>антициклон</orig>
+   </lg>
+   <mg><note><i>meteor. </i></note>
+     <tg xml:lang="fin">
+       <t>korkeapaine, antisykloni</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анткыл</l>
+     <stg>
+       <st Contlex="N_">анткыл</st>
+     </stg><orig>анткыл</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <tg xml:lang="fin">
+       <t>vala;</t>
+     </tg>
+     <xg><x>анткыл сётыны</x>
+       <xt xml:lang="fin">vannoa vala;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">присяга</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">антоним</l>
+     <stg>
+       <st Contlex="N_">антоним</st>
+     </stg><orig>антоʼним</orig>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>antonyymi, vastakohta(sana)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">антракт</l>
+     <stg>
+       <st Contlex="N_">антракт</st>
+     </stg><orig>антракт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>väliaika</t>
+       <re>teatterissa</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аныкай</l>
+     <stg>
+       <st Contlex="N_">аныкай</st>
+     </stg><orig>аныкай</orig>
+   </lg>
+   <mg><note><i>dem. </i></note>
+     <tg xml:lang="fin">
+       <t>mamma, äiti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аньы</l>
+     <stg>
+       <st Contlex="N_">аньы</st>
+     </stg><orig>аньы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lyhde</t>
+       <re>hamppu=, pellava=</re>;
+     </tg>
+     <xg><x>етӥн аньы</x>
+       <xt xml:lang="fin">pellavalyhde</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анӟыран</l>
+     <stg>
+       <st Contlex="N_">анӟыран</st>
+     </stg><orig>анӟыран</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>menehtyminen, nääntyminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">анӥ</l>
+     <stg>
+       <st Contlex="N_">анӥ</st>
+     </stg><orig>анӥ</orig>
+   </lg>
+   <mg><note><i>dem. </i></note>
+     <tg xml:lang="fin">
+       <t>mamma, äiti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апа</l>
+     <stg>
+       <st Contlex="N_">апа</st>
+     </stg><orig>апа</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">seur.</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апай</l>
+     <stg>
+       <st Contlex="N_">апай</st>
+     </stg><orig>апай</orig>
+   </lg>
+   <mg ind="1th"><defNative>бадӟымез сестра</defNative>
+     <tg xml:lang="fin">
+       <t>isosisko, (vanhempi) sisar</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>тётя</defNative>
+     <tg xml:lang="fin">
+       <t>täti</t>
+     </tg>
+   <mg ind="3th"/><defNative>картлэн апаез</defNative>
+     <tg xml:lang="fin">
+       <t>käly</t>
+       <re>aviomiehen vanhempi sisar</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апай-сузэр:</l>
+     <stg>
+       <st Contlex="N_">апай-сузэр:</st>
+     </stg><orig>апай-сузэр:</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>апай-сузэръёс</b>)</font> <note><i>koll. </i></note>
+     <tg xml:lang="fin">
+       <t>sisarukset</t>
+       <re>sisaret</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апелляци</l>
+     <stg>
+       <st Contlex="N_">апелляци</st>
+     </stg><orig>апелляʼци</orig>
+     <variants>
+       <l_syn>апелляция</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>veto, appellaatio;</t>
+     </tg>
+     <xg><x>апелляцие сётыны</x>
+       <xt xml:lang="fin">vedota</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апелляция</l>
+     <stg>
+       <st Contlex="N_">апелляция</st>
+     </stg><orig>апелляʼция</orig>
+     <variants>
+       <l_syn>апелляци</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>veto, appellaatio;</t>
+     </tg>
+     <xg><x>апелляцие сётыны</x>
+       <xt xml:lang="fin">vedota</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апельсин</l>
+     <stg>
+       <st Contlex="N_">апельсин</st>
+     </stg><orig>апельсин</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>appelsiini</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апи</l>
+     <stg>
+       <st Contlex="N_">апи</st>
+     </stg><orig>апи</orig>
+   </lg>
+   <mg><note><i>dem. </i></note>
+     <tg xml:lang="fin">
+       <t>isosisko</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апок</l>
+     <stg>
+       <st Contlex="N_">апок</st>
+     </stg><orig>апок</orig>
+   </lg>
+   <mg ind="1th">
+     <variants>
+       <l_syn type="&gt;">апи
+   <mg ind="2th"/></l_syn>
+     </variants> <note><i>puhutt. </i></note>
+     <tg xml:lang="fin">
+       <t>tyttö, neiti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аппарат</l>
+     <stg>
+       <st Contlex="N_">аппарат</st>
+     </stg><orig>аппарат</orig>
+   </lg>
+   <mg ind="1th"><defNative>прибор</defNative>
+     <tg xml:lang="fin">
+       <t>koje, kone, laite</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кивалтӥсьёс</defNative>
+     <tg xml:lang="fin">
+       <t>koneisto, apparaatti;</t>
+     </tg>
+     <xg><x>кун аппарат</x>
+       <xt xml:lang="fin">valtiokoneisto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аппендицит</l>
+     <stg>
+       <st Contlex="N_">аппендицит</st>
+     </stg><orig>аппендицит</orig>
+   </lg>
+   <mg><field>lääk.</field>
+     <tg xml:lang="fin">
+       <t>umpilisäkkeen tulehdus, appendisiitti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аппетит</l>
+     <stg>
+       <st Contlex="N_">аппетит</st>
+     </stg><orig>аппетит</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ruokahalu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">апрель</l>
+     <stg>
+       <st Contlex="N_">апрель</st>
+     </stg><orig>апрель</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>huhtikuu;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">южтолэзь</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аптека</l>
+     <stg>
+       <st Contlex="N_">аптека</st>
+     </stg><orig>аптеʼка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>apteekki</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ар</l>
+     <stg>
+       <st Contlex="N_">ар</st>
+     </stg><orig>ар</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuosi;</t>
+     </tg>
+     <xg><x>арлы быдэ</x>
+       <xt xml:lang="fin">joka vuosi;</xt>
+     </xg>
+     <xg><x>арлэн дыръёсыз</x>
+       <xt xml:lang="fin">vuodenajat;</xt>
+     </xg>
+     <xg><x>кык арскын</x>
+       <xt xml:lang="fin">kahdessa vuodessa;</xt>
+     </xg>
+     <xg><x>арысь аре</x>
+       <xt xml:lang="fin">vuodesta toiseen</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аракы</l>
+     <stg>
+       <st Contlex="N_">аракы</st>
+     </stg><orig>аракы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viina;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>пӧзьтэм вина</i>)</font>
+     <tg xml:lang="fin">
+       <t>pontikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арам-сюрам</l>
+     <stg>
+       <st Contlex="N_">арам-сюрам</st>
+     </stg><orig>арам-сюрам</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<i>изъян</i>)</font>
+     <tg xml:lang="fin">
+       <t>vahinko, tappio;</t>
+     </tg>
+     <xg><x>арам-сюрам карыны</x>
+       <xt xml:lang="fin">tuhlata, hukata, panna menemään;</xt>
+     </xg>
+     <xg><x>арам-сюрам луыны</x>
+       <xt xml:lang="fin">tuhlautua, mennä hukkaan</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арама</l>
+     <stg>
+       <st Contlex="N_">арама</st>
+     </stg><orig>арама</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lehto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e><rom ind="1"/>
+   <lg>
+     <l pos="N">аран</l>
+     <stg>
+       <st Contlex="N_">аран</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR">(<i>ю-нянез</i>)</font>
+     <tg xml:lang="fin">
+       <t>viljankorjuu, elonkorjuu</t>
+     </tg>
+   </mg>
+</e>
+
+ <e><rom ind="2"/>
+   <lg>
+     <l pos="N">аран</l>
+     <stg>
+       <st Contlex="N_">аран</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR">(<i>гомӟон, кенжон</i>)</font>
+     <tg xml:lang="fin">
+       <t>tuleen (t. palamaan) syttyminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e><rom ind="1"/>
+   <lg>
+     <l pos="N">аратон</l>
+     <stg>
+       <st Contlex="N_">аратон</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR">(<i>ю-нянез</i>)</font>
+     <tg xml:lang="fin">
+       <t>viljan korjauttaminen (t. leikkauttaminen)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e><rom ind="2"/>
+   <lg>
+     <l pos="N">аратон</l>
+     <stg>
+       <st Contlex="N_">аратон</st>
+     </stg>
+   </lg>
+   <mg><font face="SmolenskSGR">(<i>ӝуатон</i>)</font>
+     <tg xml:lang="fin">
+       <t>tuleen (t. palamaan) sytyttäminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арахис</l>
+     <stg>
+       <st Contlex="N_">арахис</st>
+     </stg><orig>араʼхис</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>maapähkinä(t)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арбери</l>
+     <stg>
+       <st Contlex="N_">арбери</st>
+     </stg><orig>арбери</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>esine, tarvike, tavara, kalu; väline;</t>
+     </tg>
+     <xg><x>ужан арбериос</x>
+       <xt xml:lang="fin">työvälineet</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арбитр</l>
+     <stg>
+       <st Contlex="N_">арбитр</st>
+     </stg><orig>арбиʼтр</orig>
+   </lg>
+   <mg ind="1th"><field>lak.</field>
+     <tg xml:lang="fin">
+       <t>välimies, välitystuomari</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <field>urh.</field>
+     <tg xml:lang="fin">
+       <t>(ero)tuomari</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арбуз</l>
+     <stg>
+       <st Contlex="N_">арбуз</st>
+     </stg><orig>арбуз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vesimeloni</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арган</l>
+     <stg>
+       <st Contlex="N_">арган</st>
+     </stg><orig>арган</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>harmonikka, haitari</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арганчи</l>
+     <stg>
+       <st Contlex="N_">арганчи</st>
+     </stg><orig>арганчи</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>harmonikansoittaja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ардана</l>
+     <stg>
+       <st Contlex="N_">ардана</st>
+     </stg><orig>ардана</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>halkopino, puupino</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ардо</l>
+     <stg>
+       <st Contlex="N_">ардо</st>
+     </stg><orig>ардо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>suonsilmä(ke)</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ареал</l>
+     <stg>
+       <st Contlex="N_">ареал</st>
+     </stg><orig>ареал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(levinneisyys)alue, areaali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арена</l>
+     <stg>
+       <st Contlex="N_">арена</st>
+     </stg><orig>ареʼна</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>areena, näyttämö</t>
+       <re>sirkuksessa</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аренда</l>
+     <stg>
+       <st Contlex="N_">аренда</st>
+     </stg><orig>ареʼнда</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuokra(us);</t>
+     </tg>
+     <xg><x>арендае басьтыны</x>
+       <xt xml:lang="fin">ottaa vuokralle;</xt>
+     </xg>
+     <xg><x>арендае сётыны</x>
+       <xt xml:lang="fin">antaa vuokralle</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арендатор</l>
+     <stg>
+       <st Contlex="N_">арендатор</st>
+     </stg><orig>арендаʼтор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuokraaja, vuokramies</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арест</l>
+     <stg>
+       <st Contlex="N_">арест</st>
+     </stg><orig>арест</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vangitseminen, pidätys, aresti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арифметика</l>
+     <stg>
+       <st Contlex="N_">арифметика</st>
+     </stg><orig>арифмеʼтика</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>laskuoppi, laskento, aritmetiikka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арка</l>
+     <stg>
+       <st Contlex="N_">арка</st>
+     </stg><orig>аʼрка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(holvi)kaari</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арлан</l>
+     <stg>
+       <st Contlex="N_">арлан</st>
+     </stg><orig>арлан</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>hamsteri;</t>
+     </tg>
+     <xg><x>арлан кадь пумитъяське</x>
+       <xt xml:lang="fin">tiuskii (t. ärähtelee) kuin hamsteri</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арлыд</l>
+     <stg>
+       <st Contlex="N_">арлыд</st>
+     </stg><orig>арлыд</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <tg xml:lang="fin">
+       <t>ikä; ikäkausi;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR"><b>арлыдаз вуыны</b> (<i>я. </i><b>пырыны</b>)</font>
+     <tg xml:lang="fin">
+       <t>täysi-ikäistyä, tulla täysi-ikäiseksi; miehistyä, tulla mieheksi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">армес</l>
+     <stg>
+       <st Contlex="N_">армес</st>
+     </stg><orig>армес</orig>
+   </lg>
+   <mg ind="1th"><defNative>сыръясь инты</defNative>
+     <tg xml:lang="fin">
+       <t>letto, hete, hetteikkö, neva</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>ярдур ошмес</defNative>
+     <tg xml:lang="fin">
+       <t>lähde</t>
+       <re>joen rannalla</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арми</l>
+     <stg>
+       <st Contlex="N_">арми</st>
+     </stg><orig>аʼрми</orig>
+     <variants>
+       <l_syn>армия</l_syn>
+     </variants>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>арми=</b>)</font>
+     <tg xml:lang="fin">
+       <t>armeija;</t>
+     </tg>
+     <xg><x>армие басьтон</x>
+       <xt xml:lang="fin">kutsunta;</xt>
+     </xg>
+     <xg><x>армие басьтыны</x>
+       <xt xml:lang="fin">kutsua asepalvelukseen (t. armeijaan);</xt>
+     </xg>
+     <xg><x>армие мыныны</x>
+       <xt xml:lang="fin">mennä asepalvelukseen (t. armeijaan);</xt>
+     </xg>
+     <xg><x>армиын служить карыны</x>
+       <xt xml:lang="fin">suorittaa asepalvelusta, olla armeijassa</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">армия</l>
+     <stg>
+       <st Contlex="N_">армия</st>
+     </stg><orig>аʼрмия</orig>
+     <variants>
+       <l_syn>арми</l_syn>
+     </variants>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>арми=</b>)</font>
+     <tg xml:lang="fin">
+       <t>armeija;</t>
+     </tg>
+     <xg><x>армие басьтон</x>
+       <xt xml:lang="fin">kutsunta;</xt>
+     </xg>
+     <xg><x>армие басьтыны</x>
+       <xt xml:lang="fin">kutsua asepalvelukseen (t. armeijaan);</xt>
+     </xg>
+     <xg><x>армие мыныны</x>
+       <xt xml:lang="fin">mennä asepalvelukseen (t. armeijaan);</xt>
+     </xg>
+     <xg><x>армиын служить карыны</x>
+       <xt xml:lang="fin">suorittaa asepalvelusta, olla armeijassa</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">армон</l>
+     <stg>
+       <st Contlex="N_">армон</st>
+     </stg><orig>армон</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>армыны</stem></drvg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арня</l>
+     <stg>
+       <st Contlex="N_">арня</st>
+     </stg><orig>арня</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>viikko;</t>
+     </tg>
+     <xg><x>арня вискын</x>
+       <xt xml:lang="fin">viikon keskellä; arkipäivinä, arkisin;</xt>
+     </xg>
+     <xg><x>арня куспын</x>
+       <xt xml:lang="fin">viikossa, viikon kuluessa;</xt>
+     </xg>
+     <xg><x>арня пӧрат</x>
+       <xt xml:lang="fin">joka toinen viikko;</xt>
+     </xg>
+     <xg><x>арня пум</x>
+       <xt xml:lang="fin">viikonloppu;</xt>
+     </xg>
+     <xg><x>арня ӵоже</x>
+       <xt xml:lang="fin">viikon kuluessa, viikon, viikkokauden;</xt>
+     </xg>
+     <xg><x>арнялы быдэ</x>
+       <xt xml:lang="fin">joka viikko</xt>
+     </xg>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">арнянунал</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арнянунал</l>
+     <stg>
+       <st Contlex="N_">арнянунал</st>
+     </stg><orig>арнянунал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sunnuntai</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арсенал</l>
+     <stg>
+       <st Contlex="N_">арсенал</st>
+     </stg><orig>арсенал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>asevarasto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артана</l>
+     <stg>
+       <st Contlex="N_">артана</st>
+     </stg><orig>артана</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ардана</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артери</l>
+     <stg>
+       <st Contlex="N_">артери</st>
+     </stg><orig>артеʼри</orig>
+     <variants>
+       <l_syn>артерия</l_syn>
+     </variants>
+   </lg>
+   <mg><field>anat.</field>
+     <tg xml:lang="fin">
+       <t>valtimo</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артерия</l>
+     <stg>
+       <st Contlex="N_">артерия</st>
+     </stg><orig>артеʼрия</orig>
+     <variants>
+       <l_syn>артери</l_syn>
+     </variants>
+   </lg>
+   <mg><field>anat.</field>
+     <tg xml:lang="fin">
+       <t>valtimo</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артикль</l>
+     <stg>
+       <st Contlex="N_">артикль</st>
+     </stg><orig>артиʼкль</orig>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>artikkeli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артиллери</l>
+     <stg>
+       <st Contlex="N_">артиллери</st>
+     </stg><orig>артиллеʼри</orig>
+   </lg>
+   <mg><note>(<i>myös määritteenä</i>)</note>
+     <tg xml:lang="fin">
+       <t> tykistö</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артиллерист</l>
+     <stg>
+       <st Contlex="N_">артиллерист</st>
+     </stg><orig>артиллерист</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tykkimies</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артиллерия</l>
+     <stg>
+       <st Contlex="N_">артиллерия</st>
+     </stg><orig>артиллеʼрия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tykistö</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">артист</l>
+     <stg>
+       <st Contlex="N_">артист</st>
+     </stg><orig>артист</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>taiteilija, artisti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">археолог</l>
+     <stg>
+       <st Contlex="N_">археолог</st>
+     </stg><orig>археоʼлог</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkeologi, muinaistutkija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">археологи</l>
+     <stg>
+       <st Contlex="N_">археологи</st>
+     </stg><orig>археолоʼги</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkeologia // arkeologinen, muinaistieteellinen; muinais=;</t>
+     </tg>
+     <xg><x>археологи гудӥськон</x>
+       <xt xml:lang="fin">arkeologinen kaivaus;</xt>
+     </xg>
+     <xg><x>археологи шедьтос</x>
+       <xt xml:lang="fin">muinaislöytö</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">археология</l>
+     <stg>
+       <st Contlex="N_">археология</st>
+     </stg><orig>археолоʼгия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkeologia</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">архив</l>
+     <stg>
+       <st Contlex="N_">архив</st>
+     </stg><orig>архив</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkisto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">архипелаг</l>
+     <stg>
+       <st Contlex="N_">архипелаг</st>
+     </stg><orig>архипелаг</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>saaristo, arkipelagi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">архитектор</l>
+     <stg>
+       <st Contlex="N_">архитектор</st>
+     </stg><orig>архитеʼктор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkkitehti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">архитектура</l>
+     <stg>
+       <st Contlex="N_">архитектура</st>
+     </stg><orig>архитектуʼра</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>arkkitehtuuri, rakennustaide</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аршин</l>
+     <stg>
+       <st Contlex="N_">аршин</st>
+     </stg><orig>аршин</orig>
+   </lg>
+   <mg><range>vanh.</range>
+     <tg xml:lang="fin">
+       <t>arsina</t>
+       <re>28 tuumaa</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аръян</l>
+     <stg>
+       <st Contlex="N_">аръян</st>
+     </stg><orig>аръян</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kirnupiimä;</t>
+     </tg>
+     <xg><x>аръян шуккыны</x>
+       <xt xml:lang="fin">kirnuta voita</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аръён</l>
+     <stg>
+       <st Contlex="N_">аръён</st>
+     </stg><orig>аръён</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>vuoden viettäminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арык</l>
+     <stg>
+       <st Contlex="N_">арык</st>
+     </stg><orig>арык</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kastelukanava</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арыкман</l>
+     <stg>
+       <st Contlex="N_">арыкман</st>
+     </stg><orig>арыкман</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>takiainen</t>
+       <re>Arctium</re>;
+     </tg>
+     <xg><x>арыкман люгы</x>
+       <xt xml:lang="fin">takiaisen mykerö</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">арыслан</l>
+     <stg>
+       <st Contlex="N_">арыслан</st>
+     </stg><orig>арыслан</orig>
+   </lg>
+   <mg ind="1th"><field>el.</field>
+     <tg xml:lang="fin">
+       <t>leijona;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">лев
+   <mg ind="2th"/></l_syn>
+     </variants>
+   </mg>
+   <mg><font face="SmolenskSGR">(<b>Арыслан</b>)</font> <note><i>täht. </i></note>
+     <tg xml:lang="fin">
+       <t>Leijona</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асвалан</l>
+     <stg>
+       <st Contlex="N_">асвалан</st>
+     </stg><orig>асвалан</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itsetunto;</t>
+     </tg>
+     <xg><x>йӧскалык асвалан</x>
+       <xt xml:lang="fin">kansallinen itsetunto;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">самосознание</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асдышетэт</l>
+     <stg>
+       <st Contlex="N_">асдышетэт</st>
+     </stg><orig>асдышетэт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itseopiskeluopas;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">самоучитель</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аскивалтон</l>
+     <stg>
+       <st Contlex="N_">аскивалтон</st>
+     </stg><orig>аскивалтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itsehallinto;</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аскивалтэт</l>
+     <stg>
+       <st Contlex="N_">аскивалтэт</st>
+     </stg><orig>аскивалтэт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>itsehallinto</t>
+     </tg><note>(<i>elimet; virasto</i>)</note>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аслобет</l>
+     <stg>
+       <st Contlex="N_">аслобет</st>
+     </stg><orig>аслобет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentokone;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">самолёт</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асним</l>
+     <stg>
+       <st Contlex="N_">асним</st>
+     </stg><orig>асним</orig>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>erisnimi;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">собственной ним</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аспалтон</l>
+     <stg>
+       <st Contlex="N_">аспалтон</st>
+     </stg><orig>аспалтон</orig>
+   </lg>
+   <mg ind="1th"><defNative>мае ке</defNative>
+     <tg xml:lang="fin">
+       <t>(itselleen) omiminen, anastaminen, anastus, omakseen otto (t. ottaminen)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кинэ ке</defNative>
+     <tg xml:lang="fin">
+       <t>jnk voittaminen puolelleen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аспирант</l>
+     <stg>
+       <st Contlex="N_">аспирант</st>
+     </stg><orig>аспирант</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>jatko-opiskelija, aspirantti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аспирантура</l>
+     <stg>
+       <st Contlex="N_">аспирантура</st>
+     </stg><orig>аспирантуʼра</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>jatko-opiskelu, aspirantuuri</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аспӧртэмлык</l>
+     <stg>
+       <st Contlex="N_">аспӧртэмлык</st>
+     </stg><orig>аспӧртэмлык</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>omalaatuisuus, omaperäisyys, erikoisuus, erityisyys</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>йӧспӧртэмлык</defNative>
+     <tg xml:lang="fin">
+       <t>omituisuus, erikoisuus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассимиляци</l>
+     <stg>
+       <st Contlex="N_">ассимиляци</st>
+     </stg><orig>ассимиляʼци</orig>
+     <variants>
+       <l_syn>ассимиляция</l_syn>
+     </variants>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>сылмон</b>)</font>
+     <tg xml:lang="fin">
+       <t>assimilaatio, assimiloituminen;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<b>сылмытон</b>)</font>
+     <tg xml:lang="fin">
+       <t>assimilointi, assimiloiminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассимиляция</l>
+     <stg>
+       <st Contlex="N_">ассимиляция</st>
+     </stg><orig>ассимиляʼция</orig>
+     <variants>
+       <l_syn>ассимиляци</l_syn>
+     </variants>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>сылмон</b>)</font>
+     <tg xml:lang="fin">
+       <t>assimilaatio, assimiloituminen;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<b>сылмытон</b>)</font>
+     <tg xml:lang="fin">
+       <t>assimilointi, assimiloiminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассистент</l>
+     <stg>
+       <st Contlex="N_">ассистент</st>
+     </stg><orig>ассистент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>avustaja, apulainen, assistentti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассортимент</l>
+     <stg>
+       <st Contlex="N_">ассортимент</st>
+     </stg><orig>ассортимент</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lajitelma, valikoima</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассоциаци</l>
+     <stg>
+       <st Contlex="N_">ассоциаци</st>
+     </stg>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>yhdistys; liitto, assosiaatio</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <note><i>psyk. </i></note>
+     <tg xml:lang="fin">
+       <t>assosiaatio, kytkeytymä, yhtymä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ассоциация</l>
+     <stg>
+       <st Contlex="N_">ассоциация</st>
+     </stg>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>yhdistys; liitto, assosiaatio</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <note><i>psyk. </i></note>
+     <tg xml:lang="fin">
+       <t>assosiaatio, kytkeytymä, yhtymä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">астроном</l>
+     <stg>
+       <st Contlex="N_">астроном</st>
+     </stg><orig>астроном</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tähtitieteilijä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">астрономи</l>
+     <stg>
+       <st Contlex="N_">астрономи</st>
+     </stg><orig>астроноʼми</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tähtitiede, astronomia // tähtitieteellinen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">астрономия</l>
+     <stg>
+       <st Contlex="N_">астрономия</st>
+     </stg><orig>астроноʼмия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tähtitiede</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асфальт</l>
+     <stg>
+       <st Contlex="N_">асфальт</st>
+     </stg><orig>асфальт</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>asvaltti</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>сюрес</defNative>
+     <tg xml:lang="fin">
+       <t>asvalttitie</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асшӧдон</l>
+     <stg>
+       <st Contlex="N_">асшӧдон</st>
+     </stg><orig>асшӧдон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vointi</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асъет</l>
+     <stg>
+       <st Contlex="N_">асъет</st>
+     </stg><orig>асъет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>omistus;</t>
+     </tg>
+     <xg><x>ас асъет</x>
+       <xt xml:lang="fin">henkilökohtainen omistus, yksityisomistus;</xt>
+     </xg>
+     <xg><x>кун асъет</x>
+       <xt xml:lang="fin">valtion (t. valtiollinen) omistus;</xt>
+     </xg>
+     <xg><x>мер асъет</x>
+       <xt xml:lang="fin">yhteiskunnan (t. julkinen) omistus;</xt>
+     </xg>
+     <xg><x>нимаз асъет</x>
+       <xt xml:lang="fin">yksityisomistus;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">собственность<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асъян: асъян кылӥтэт</l>
+     <stg>
+       <st Contlex="N_">асъян: асъян кылӥтэт</st>
+     </stg>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>possessiivisuffiksi;</t>
+     </tg>
+     <xg><x>асъянъя кылпум вошъян </x><field>kiel.</field>
+       <xt xml:lang="fin">possessiivinen taivutus</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асэриклык</l>
+     <stg>
+       <st Contlex="N_">асэриклык</st>
+     </stg><orig>асэриклык</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>riippumattomuus, suvereenius;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">суверенитет</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">асэстон</l>
+     <stg>
+       <st Contlex="N_">асэстон</st>
+     </stg><orig>асэстон</orig>
+   </lg>
+   <mg ind="1th"><defNative>аслыд карон</defNative>
+     <tg xml:lang="fin">
+       <t>(itselleen) omiminen, omakseen otto (t. ottaminen);</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>киултон</i>)</font>
+     <tg xml:lang="fin">
+       <t>anastaminen, anastus, kaappaaminen, kaappaus, valtaaminen, valtaus</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>пунэман</defNative>
+     <tg xml:lang="fin">
+       <t>lainaaminen, lainaus</t>
+     </tg>
+   <mg ind="3th"/><defNative>аслыд пыӵатон, валан</defNative>
+     <tg xml:lang="fin">
+       <t>omaksuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атай</l>
+     <stg>
+       <st Contlex="N_">атай</st>
+     </stg><orig>атай</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>isä;</t>
+     </tg>
+     <xg><x>атай ним</x>
+       <xt xml:lang="fin">isännimi</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атай-анай</l>
+     <stg>
+       <st Contlex="N_">атай-анай</st>
+     </stg><orig>атай-анай</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>атай-анаез, атаез-анаез</b>)</font>
+     <tg xml:lang="fin">
+       <t>vanhemmat;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">анай-атай</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атайзы</l>
+     <stg>
+       <st Contlex="N_">атайзы</st>
+     </stg><orig>атайзы</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>heidän isänsä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>картлэн атаез</defNative>
+     <tg xml:lang="fin">
+       <t>appi</t>
+       <re>aviomiehen isä</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атака</l>
+     <stg>
+       <st Contlex="N_">атака</st>
+     </stg><orig>атаʼка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hyökkäys</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атаман</l>
+     <stg>
+       <st Contlex="N_">атаман</st>
+     </stg><orig>атаман</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>atamaani</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атас</l>
+     <stg>
+       <st Contlex="N_">атас</st>
+     </stg><orig>атас</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kukko</t>
+     </tg>◊
+     <xg><x>горд атас</x>
+       <xt xml:lang="fin">tulipalo</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атасгурӟон</l>
+     <stg>
+       <st Contlex="N_">атасгурӟон</st>
+     </stg><orig>атасгурӟон</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>orapihlaja</t>
+       <re>Crataegus</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ателье</l>
+     <stg>
+       <st Contlex="N_">ателье</st>
+     </stg><orig>ателье</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ateljee</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атлас</l>
+     <stg>
+       <st Contlex="N_">атлас</st>
+     </stg><orig>аʼтлас</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kartasto;</t>
+     </tg>
+   </mg>
+   <mg><font face="SmolenskSGR">(<i>суредъёсын определитель</i>)</font>
+     <tg xml:lang="fin">
+       <t>kuvasto;</t>
+     </tg><font face="SmolenskSGR"><b>дуннелэн</b></font>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атлас</l>
+     <stg>
+       <st Contlex="N_">атлас</st>
+     </stg><orig>атлаʼс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>atlas(silkki);</t>
+     </tg>
+     <xg><x>атлас дэрем</x><x>атлас платья</x>
+       <xt xml:lang="fin">atlasleninki</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атласэз</l>
+     <stg>
+       <st Contlex="N_">атласэз</st>
+     </stg><orig>аʼтласэз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>maailmankartasto;</t>
+     </tg>
+     <xg><x>будосъёслэн атлассы, будосъёсъя атласэз</x>
+       <xt xml:lang="fin">kasvikuvasto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атлет</l>
+     <stg>
+       <st Contlex="N_">атлет</st>
+     </stg><orig>атлет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>voimailija, atleetti; urheilija</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атлетика</l>
+     <stg>
+       <st Contlex="N_">атлетика</st>
+     </stg><orig>атлеʼтика</orig>
+   </lg>
+   <mg><field>urh.</field>
+     <tg xml:lang="fin">
+       <t>voimailu, atletiikka; urheilu;</t>
+     </tg>
+     <xg><x>капчи атлетика</x>
+       <xt xml:lang="fin">yleisurheilu;</xt>
+     </xg>
+     <xg><x>секыт атлетика</x>
+       <xt xml:lang="fin">painonnosto</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атмосфера</l>
+     <stg>
+       <st Contlex="N_">атмосфера</st>
+     </stg><orig>атмосфеʼра</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ilmakehä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атом</l>
+     <stg>
+       <st Contlex="N_">атом</st>
+     </stg><orig>аʼтом</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>atomi;</t>
+     </tg>
+     <xg><x>атом кужым</x>
+       <xt xml:lang="fin">ydinvoima, atomivoima</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аттестат</l>
+     <stg>
+       <st Contlex="N_">аттестат</st>
+     </stg><orig>аттестат</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>päästötodistus; todistus, kirja</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аттестаци</l>
+     <stg>
+       <st Contlex="N_">аттестаци</st>
+     </stg><orig>аттестаʼци</orig>
+     <variants>
+       <l_syn>аттестация</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(ammatti)pätevyyden määrittely, arvostelu, arvostus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аттестация</l>
+     <stg>
+       <st Contlex="N_">аттестация</st>
+     </stg><orig>аттестаʼция</orig>
+     <variants>
+       <l_syn>аттестаци</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(ammatti)pätevyyden määrittely, arvostelu, arvostus</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атыкай</l>
+     <stg>
+       <st Contlex="N_">атыкай</st>
+     </stg><orig>атыкай</orig>
+   </lg>
+   <mg><note><i>dem. </i></note>
+     <tg xml:lang="fin">
+       <t>pappa, iskä, isä;</t>
+     </tg>
+     <xg><x>атыкай музъем</x>
+       <xt xml:lang="fin">isänmaa</xt>
+     </xg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атя</l>
+     <stg>
+       <st Contlex="N_">атя</st>
+     </stg><orig>атя</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>бадӟымез сестра</defNative>
+     <tg xml:lang="fin">
+       <t>isosisko, (vanhempi) sisar</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>тётя</defNative>
+     <tg xml:lang="fin">
+       <t>täti /</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">апай<rom ind="0_1"/></l_syn>
+       <l_syn>апай<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">атӥ</l>
+     <stg>
+       <st Contlex="N_">атӥ</st>
+     </stg><orig>атӥ</orig>
+   </lg>
+   <mg><note><i>dem. </i></note>
+     <tg xml:lang="fin">
+       <t>pappa, iskä, isä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аудитори</l>
+     <stg>
+       <st Contlex="N_">аудитори</st>
+     </stg><orig>аудитоʼри</orig>
+     <variants>
+       <l_syn>аудитория</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>luentosali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аудитория</l>
+     <stg>
+       <st Contlex="N_">аудитория</st>
+     </stg><orig>аудитоʼрия</orig>
+     <variants>
+       <l_syn>аудитори</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>luentosali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аукцион</l>
+     <stg>
+       <st Contlex="N_">аукцион</st>
+     </stg><orig>аукцион</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>huutokauppa</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">афиша</l>
+     <stg>
+       <st Contlex="N_">афиша</st>
+     </stg><orig>афиʼша</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(mainos)juliste</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">африканец</l>
+     <stg>
+       <st Contlex="N_">африканец</st>
+     </stg><orig>африкаʼнец</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>afrikkalainen</t>
+       <re>ihminen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">африканка</l>
+     <stg>
+       <st Contlex="N_">африканка</st>
+     </stg><orig>африкаʼнка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>afrikkalainen</t>
+       <re>nainen</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ачама</l>
+     <stg>
+       <st Contlex="N_">ачама</st>
+     </stg><orig>ачама</orig>
+   </lg>
+   <mg ind="1th"><defNative>пудо чыртые</defNative>
+     <tg xml:lang="fin">
+       <t>ies</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>энерчак пу</defNative>
+     <tg xml:lang="fin">
+       <t>selustinpuu, setolkan puu</t>
+     </tg>
+   <mg ind="3th"/><defNative>стропило</defNative>
+     <tg xml:lang="fin">
+       <t>kattotuoli</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ашальчи</l>
+     <stg>
+       <st Contlex="N_">ашальчи</st>
+     </stg><orig>ашальчи</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>maarianheinä</t>
+     </tg><note>(<i>Hierochloe)</i></note>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>; kämmekkä</t>
+       <re>Orchis</re>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ашкынон</l>
+     <stg>
+       <st Contlex="N_">ашкынон</st>
+     </stg><orig>ашкынон</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>сьӧраз ортчон</defNative>
+     <tg xml:lang="fin">
+       <t>riehaantuminen, julkeaksi (t. röyhkeäksi) tuleminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>керӟегъяськон</defNative>
+     <tg xml:lang="fin">
+       <t>kiivastuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ашмон</l>
+     <stg>
+       <st Contlex="N_">ашмон</st>
+     </stg><orig>ашмон</orig>
+   </lg>
+   <mg ind="1th"><defNative>кӧттырмостэм луон</defNative>
+     <tg xml:lang="fin">
+       <t>ahneeksi (t. ahnaaksi) tuleminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>жалянэз валасьтэм луон</defNative>
+     <tg xml:lang="fin">
+       <t>paatuminen</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ашык</l>
+     <stg>
+       <st Contlex="N_">ашык</st>
+     </stg><orig>ашык</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><field>anat.</field><font face="SmolenskSGR">(<i>лы ёз</i>)</font>
+     <tg xml:lang="fin">
+       <t>nilkkanivel</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>шудон</defNative>
+     <tg xml:lang="fin">
+       <t>papukka /</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">козлок</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аэровокзал</l>
+     <stg>
+       <st Contlex="N_">аэровокзал</st>
+     </stg><orig>аэровокзал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentoterminaali</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аэродром</l>
+     <stg>
+       <st Contlex="N_">аэродром</st>
+     </stg><orig>аэродром</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentokenttä</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аэродӧдьы</l>
+     <stg>
+       <st Contlex="N_">аэродӧдьы</st>
+     </stg><orig>аэродӧдьы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>moottorireki, moottorikelkka</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аэропорт</l>
+     <stg>
+       <st Contlex="N_">аэропорт</st>
+     </stg><orig>аэропорт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lentoasema</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">аэросани</l>
+     <stg>
+       <st Contlex="N_">аэросани</st>
+     </stg><orig>аэросаʼни</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">аэродӧдьы</l_syn>
+     </variants>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">интыын аскивалтон</l>
+     <stg>
+       <st Contlex="N_">интыын аскивалтон</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>paikallinen itsehallinto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">интыысь аскивалтон</l>
+     <stg>
+       <st Contlex="N_">интыысь аскивалтон</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>paikallinen itsehallinto</t>
+     </tg>
+   </mg>
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">кирос анай</l>
+     <stg>
+       <st Contlex="N_">кирос анай</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kummitäti</t>
+     </tg>
+   </mg>
+</e>
+
+ <e order="2">
+
+   <lg>
+
+     <l pos="N">пуны</l>
+
+     <stg>
+
+       <st Contlex="N_">пуны</st>
+
+     </stg>
+
+   </lg> <etymg> <etym xml:lang="kpv">пон</etym> </etymg>
+
+   <mg> <defNative/>
+
+     <tg xml:lang="fin">
+
+       <t>koira</t>
+
+     </tg>
+
+     <tg xml:lang="hun">
+
+       <t pos="N">kutya</t>
+
+       <t pos="N">eb</t>
+
+     </tg>
+
+   </mg>
+
+</e>
+
+ <e>
+   <lg>
+     <l pos="N">ӟуч анай</l>
+     <stg>
+       <st Contlex="N_">ӟуч анай</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kummitäti</t>
+     </tg>
+   </mg>
+</e>
+</r>
