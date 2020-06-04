@@ -1,0 +1,9 @@
+name = "Udmurt"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.udm"
+
+[windows]
+system_product_code = "A20956EC-901B-4AC8-9CD3-D8897920B4E5"
+msoffice_product_code = "4D7249A1-5B73-40A2-832C-FD79D62BF15E"
