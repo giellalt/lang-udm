@@ -1590,7 +1590,7 @@
     </mg>
   </e>
 <e><lg><l pos="N" type="Prop">Австралия</l><stg><st Contlex="PROP_RUS_JA">Австралия</st></stg><orig>Австраʼлия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Australia</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Аланд</l><stg><st Contlex="PROP_">Аланд</st></stg><orig>Аʼланд</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ahvenanmaa</t></tg><xg><x>Аʼландын улӥсь</x><xt>ahvenanmaalainen;</xt></xg><xg><x>Аʼланд<CHECKME1/> шормуӵъёс</x><xt>Ahvenanmaa, Ahvenanmaan saaristo</xt></xg></mg></e>
+<e><lg><l pos="N" type="Prop">Аланд</l><stg><st Contlex="PROP_">Аланд</st></stg><orig>Аʼланд</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Ahvenanmaa</t></tg><xg><x>Аʼландын улӥсь</x><xt xml:lang="fin">ahvenanmaalainen;</xt></xg><xg><x>Аʼланд<CHECKME1/> шормуӵъёс</x><xt xml:lang="fin">Ahvenanmaa, Ahvenanmaan saaristo</xt></xg></mg></e>
 <e><lg><l pos="N" type="Prop">Англия</l><stg><st Contlex="PROP_RUS_JA">Англия</st></stg><orig>Аʼнглия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Englanti</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Антарктида</l><stg><st Contlex="PROP_">Антарктида</st></stg><orig>Антарктиʼда</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Etelämanner, Etelänapamanner</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Арктика</l><stg><st Contlex="PROP_">Арктика</st></stg><orig>Аʼрктика</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Arktis, pohjoisnapa-alue</t></tg></mg></e>
@@ -1602,7 +1602,7 @@
 <e><lg><l pos="N" type="Prop">Евразия</l><stg><st Contlex="PROP_RUS_JA">Евразия</st></stg><orig>Евраʼзия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Euraasia</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Испания</l><stg><st Contlex="PROP_RUS_JA">Испания</st></stg><orig>Испаʼния</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Espanja</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Кам</l><stg><st Contlex="PROP_">Кам</st></stg><orig>Кам</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Kama(joki)</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Лапландия</l><stg><st Contlex="PROP_RUS_JA">Лапландия</st></stg><orig>Лаплаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Lappi</t></tg><xg><x>Лаплаʼндиын улӥсь</x><xt>lappilainen</xt></xg></mg></e>
+<e><lg><l pos="N" type="Prop">Лапландия</l><stg><st Contlex="PROP_RUS_JA">Лапландия</st></stg><orig>Лаплаʼндия</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Lappi</t></tg><xg><x>Лаплаʼндиын улӥсь</x><xt xml:lang="fin">lappilainen</xt></xg></mg></e>
 <e><lg><l pos="N" type="Prop">Москва</l><stg><st Contlex="PROP_">Москва</st></stg><orig>Москва</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Moskova</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Муско</l><stg><st Contlex="PROP_">Муско</st></stg><orig>Муско</orig></lg><mg><variants><l_syn type="&gt;">Москва</l_syn></variants></mg></e>
 <e><lg><l pos="N" type="Prop">Нидерланд</l><variants><l_syn>Нидерландъёс</l_syn></variants><stg><st Contlex="PROP_">Нидерланд</st></stg><orig>Нидерланд(ъёс)</orig></lg><mg><tg xml:lang="fin"><t pos="N" type="Prop">Alankomaat</t></tg></mg></e>
