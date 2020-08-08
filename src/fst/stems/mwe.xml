@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="udm">
 <e exclude="fst"><lg><l>адӟон падеж</l><stg><st>адӟон падеж</st></stg></lg><pos>N</pos><phonet>адӟон паде́ж</phonet><mg><tg xml:lang="fin"><t>akkusatiivi</t></tg> </mg></e>
 <e exclude="fst"><lg><l>али дыр</l><stg><st>али дыр</st></stg></lg><pos>N</pos><phonet>али дыр</phonet><mg><tg xml:lang="fin"><t>preesens</t></tg> </mg></e>
 <e exclude="fst"><lg><l>англи кыл</l><stg><st>англи кыл</st></stg></lg><pos>N</pos><phonet>англи кыл</phonet><mg><m><head></head><semRel>англичан кыл</semRel></m> <tg xml:lang="fin"><t>englannin kieli, englanti</t></tg> </mg></e>
