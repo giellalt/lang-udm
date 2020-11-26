@@ -95,6 +95,21 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Prl  !!≈ * @CODE@  Prolative
 +Apr  !!≈ * @CODE@  Approximative
 
+! Tags in use.
++Abs
++Com
++Ess
++Hom1
++Hom2
++Orth/Colloq
++Pl1Abe
++Pl2Abe
++Pl3Abe
++Qnt
++Sem/Patr
++Sem/Patr-Fem
++Sem/Patr-Mal
++Tra
 
 !! The possession is marked as such:
 
