@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="udm">
    <e>
       <lg>
-         <l pos="Ger">быгатыса</l>
+         <l pos="V+Ger">быгатыса</l>
          <stg>
             <st Contlex="GER_">быгатыса</st>
          </stg>
@@ -26,7 +26,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">бызьыса</l>
+         <l pos="V+Ger">бызьыса</l>
          <stg>
             <st Contlex="GER_">бызьыса</st>
          </stg>
@@ -48,7 +48,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">бызьытэк</l>
+         <l pos="V+Ger">бызьытэк</l>
          <stg>
             <st Contlex="GER_">бызьытэк</st>
          </stg>
@@ -59,7 +59,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">валатэк</l>
+         <l pos="V+Ger">валатэк</l>
          <stg>
             <st Contlex="GER_">валатэк</st>
          </stg>
@@ -70,7 +70,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">ваменскыса</l>
+         <l pos="V+Ger">ваменскыса</l>
          <stg>
             <st Contlex="GER_">ваменскыса</st>
          </stg>
@@ -92,7 +92,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">вамышъяса</l>
+         <l pos="V+Ger">вамышъяса</l>
          <stg>
             <st Contlex="GER_">вамышъяса</st>
          </stg>
@@ -114,7 +114,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">вераса-вератэк</l>
+         <l pos="V+Ger">вераса-вератэк</l>
          <stg>
             <st Contlex="GER_">вераса-вератэк</st>
          </stg>
@@ -125,7 +125,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">визаськыса</l>
+         <l pos="V+Ger">визаськыса</l>
          <stg>
             <st Contlex="GER_">визаськыса</st>
          </stg>
@@ -147,7 +147,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">вожпотыса</l>
+         <l pos="V+Ger">вожпотыса</l>
          <stg>
             <st Contlex="GER_">вожпотыса</st>
          </stg>
@@ -169,7 +169,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">выжыятъяса</l>
+         <l pos="V+Ger">выжыятъяса</l>
          <stg>
             <st Contlex="GER_">выжыятъяса</st>
          </stg>
@@ -191,7 +191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">гордэктытозь</l>
+         <l pos="V+Ger">гордэктытозь</l>
          <stg>
             <st Contlex="GER_">гордэктытозь</st>
          </stg>
@@ -202,7 +202,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">дӥсьтыса</l>
+         <l pos="V+Ger">дӥсьтыса</l>
          <stg>
             <st Contlex="GER_">дӥсьтыса</st>
          </stg>
@@ -224,7 +224,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">дӥсьтытэк</l>
+         <l pos="V+Ger">дӥсьтытэк</l>
          <stg>
             <st Contlex="GER_">дӥсьтытэк</st>
          </stg>
@@ -235,7 +235,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">дугдылытэк</l>
+         <l pos="V+Ger">дугдылытэк</l>
          <stg>
             <st Contlex="GER_">дугдылытэк</st>
          </stg>
@@ -246,7 +246,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">дыртыса</l>
+         <l pos="V+Ger">дыртыса</l>
          <stg>
             <st Contlex="GER_">дыртыса</st>
          </stg>
@@ -268,7 +268,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">дыртытэк</l>
+         <l pos="V+Ger">дыртытэк</l>
          <stg>
             <st Contlex="GER_">дыртытэк</st>
          </stg>
@@ -279,7 +279,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">жадьылытэк</l>
+         <l pos="V+Ger">жадьылытэк</l>
          <stg>
             <st Contlex="GER_">жадьылытэк</st>
          </stg>
@@ -290,7 +290,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">жадьытозь</l>
+         <l pos="V+Ger">жадьытозь</l>
          <stg>
             <st Contlex="GER_">жадьытозь</st>
          </stg>
@@ -301,7 +301,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">жадьытэк</l>
+         <l pos="V+Ger">жадьытэк</l>
          <stg>
             <st Contlex="GER_">жадьытэк</st>
          </stg>
@@ -312,7 +312,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">жаляса-жалятэк</l>
+         <l pos="V+Ger">жаляса-жалятэк</l>
          <stg>
             <st Contlex="GER_">жаляса-жалятэк</st>
          </stg>
@@ -323,7 +323,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">жалятэк</l>
+         <l pos="V+Ger">жалятэк</l>
          <stg>
             <st Contlex="GER_">жалятэк</st>
          </stg>
@@ -334,7 +334,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">ӝожаса</l>
+         <l pos="V+Ger">ӝожаса</l>
          <stg>
             <st Contlex="GER_">ӝожаса</st>
          </stg>
@@ -356,7 +356,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">кӧсатытозь</l>
+         <l pos="V+Ger">кӧсатытозь</l>
          <stg>
             <st Contlex="GER_">кӧсатытозь</st>
          </stg>
@@ -367,7 +367,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">куанытозь</l>
+         <l pos="V+Ger">куанытозь</l>
          <stg>
             <st Contlex="GER_">куанытозь</st>
          </stg>
@@ -378,7 +378,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">куспатыса</l>
+         <l pos="V+Ger">куспатыса</l>
          <stg>
             <st Contlex="GER_">куспатыса</st>
          </stg>
@@ -400,7 +400,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">луыса</l>
+         <l pos="V+Ger">луыса</l>
          <stg>
             <st Contlex="GER_">луыса</st>
          </stg>
@@ -422,7 +422,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">луытозь</l>
+         <l pos="V+Ger">луытозь</l>
          <stg>
             <st Contlex="GER_">луытозь</st>
          </stg>
@@ -433,7 +433,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">малпаса</l>
+         <l pos="V+Ger">малпаса</l>
          <stg>
             <st Contlex="GER_">малпаса</st>
          </stg>
@@ -455,7 +455,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">малпаськытэк</l>
+         <l pos="V+Ger">малпаськытэк</l>
          <stg>
             <st Contlex="GER_">малпаськытэк</st>
          </stg>
@@ -466,7 +466,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">малпатэк</l>
+         <l pos="V+Ger">малпатэк</l>
          <stg>
             <st Contlex="GER_">малпатэк</st>
          </stg>
@@ -477,7 +477,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">медъяськыса</l>
+         <l pos="V+Ger">медъяськыса</l>
          <stg>
             <st Contlex="GER_">медъяськыса</st>
          </stg>
@@ -499,7 +499,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">медыса</l>
+         <l pos="V+Ger">медыса</l>
          <stg>
             <st Contlex="GER_">медыса</st>
          </stg>
@@ -521,7 +521,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">мыльытозь</l>
+         <l pos="V+Ger">мыльытозь</l>
          <stg>
             <st Contlex="GER_">мыльытозь</st>
          </stg>
@@ -532,7 +532,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">пазяса</l>
+         <l pos="V+Ger">пазяса</l>
          <stg>
             <st Contlex="GER_">пазяса</st>
          </stg>
@@ -554,7 +554,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">пӧртэмъяськыса</l>
+         <l pos="V+Ger">пӧртэмъяськыса</l>
          <stg>
             <st Contlex="GER_">пӧртэмъяськыса</st>
          </stg>
@@ -576,7 +576,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">пӧяса</l>
+         <l pos="V+Ger">пӧяса</l>
          <stg>
             <st Contlex="GER_">пӧяса</st>
          </stg>
@@ -598,7 +598,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">пумитъяськытэк</l>
+         <l pos="V+Ger">пумитъяськытэк</l>
          <stg>
             <st Contlex="GER_">пумитъяськытэк</st>
          </stg>
@@ -609,7 +609,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">серекъятэк</l>
+         <l pos="V+Ger">серекъятэк</l>
          <stg>
             <st Contlex="GER_">серекъятэк</st>
          </stg>
@@ -620,7 +620,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">сиытозь-юытозь</l>
+         <l pos="V+Ger">сиытозь-юытозь</l>
          <stg>
             <st Contlex="GER_">сиытозь-юытозь</st>
          </stg>
@@ -631,7 +631,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тодыса</l>
+         <l pos="V+Ger">тодыса</l>
          <stg>
             <st Contlex="GER_">тодыса</st>
          </stg>
@@ -653,7 +653,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тупаса</l>
+         <l pos="V+Ger">тупаса</l>
          <stg>
             <st Contlex="GER_">тупаса</st>
          </stg>
@@ -675,7 +675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тупатэк</l>
+         <l pos="V+Ger">тупатэк</l>
          <stg>
             <st Contlex="GER_">тупатэк</st>
          </stg>
@@ -686,7 +686,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">турнатэк</l>
+         <l pos="V+Ger">турнатэк</l>
          <stg>
             <st Contlex="GER_">турнатэк</st>
          </stg>
@@ -697,7 +697,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тыршыса</l>
+         <l pos="V+Ger">тыршыса</l>
          <stg>
             <st Contlex="GER_">тыршыса</st>
          </stg>
@@ -719,7 +719,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тэтчаса</l>
+         <l pos="V+Ger">тэтчаса</l>
          <stg>
             <st Contlex="GER_">тэтчаса</st>
          </stg>
@@ -741,7 +741,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">тяпайтыса</l>
+         <l pos="V+Ger">тяпайтыса</l>
          <stg>
             <st Contlex="GER_">тяпайтыса</st>
          </stg>
@@ -763,7 +763,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">уйлатэк</l>
+         <l pos="V+Ger">уйлатэк</l>
          <stg>
             <st Contlex="GER_">уйлатэк</st>
          </stg>
@@ -774,7 +774,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">улыса</l>
+         <l pos="V+Ger">улыса</l>
          <stg>
             <st Contlex="GER_">улыса</st>
          </stg>
@@ -796,7 +796,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">улыса-улыса</l>
+         <l pos="V+Ger">улыса-улыса</l>
          <stg>
             <st Contlex="GER_">улыса-улыса</st>
          </stg>
@@ -818,7 +818,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">чукатэк</l>
+         <l pos="V+Ger">чукатэк</l>
          <stg>
             <st Contlex="GER_">чукатэк</st>
          </stg>
@@ -829,7 +829,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">шӧдтэк</l>
+         <l pos="V+Ger">шӧдтэк</l>
          <stg>
             <st Contlex="GER_">шӧдтэк</st>
          </stg>
@@ -840,7 +840,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">шӧдылытэк</l>
+         <l pos="V+Ger">шӧдылытэк</l>
          <stg>
             <st Contlex="GER_">шӧдылытэк</st>
          </stg>
@@ -851,7 +851,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">шуыса</l>
+         <l pos="V+Ger">шуыса</l>
          <stg>
             <st Contlex="GER_">шуыса</st>
          </stg>
@@ -873,7 +873,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">ыбыса</l>
+         <l pos="V+Ger">ыбыса</l>
          <stg>
             <st Contlex="GER_">ыбыса</st>
          </stg>
@@ -895,7 +895,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">эктыса</l>
+         <l pos="V+Ger">эктыса</l>
          <stg>
             <st Contlex="GER_">эктыса</st>
          </stg>
@@ -917,7 +917,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Ger">эриктэмаса</l>
+         <l pos="V+Ger">эриктэмаса</l>
          <stg>
             <st Contlex="GER_">эриктэмаса</st>
          </stg>
