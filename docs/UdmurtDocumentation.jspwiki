@@ -3,16 +3,14 @@
 
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/udm/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/udm/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/udm/src/syntax] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/udm/src/phonology/udm-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/udm/test/src/gt-norm-yamls/]
+
+ 
+ 
+ 
+ 
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-udm.eng.html]
-  / [text|http://giellatekno.uit.no/cgi/d-udm.eng.html]
+ 
 
 !!! Grammatical issues
 
