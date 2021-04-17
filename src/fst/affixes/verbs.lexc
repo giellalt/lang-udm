@@ -1,19 +1,19 @@
-!! !!! Udmurt verb inflection
+!! Udmurt verb inflection
 !!
 !! Udmurt verbs are mainly split into two types: 
-!!  * conjugation I, whose stems mostly end on ''ы'' (ex. ''мыны-ны'' 'go', ''юы-ны'' 'drink', ''вераськы-ны'' 'speak')
-!!  * conjugation II, whose stems mostly end on ''а/я'' (ex. ''ужа.ны'' 'work', ''келя.ны'' 'send, put', ''кырӟа.ны'' 'sing')
+!!  * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
+!!  * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
 
 !! Conjugation I verbs also may have a 'short' stem, which subtracts the final
-!! ''ы''. The rule is not necessarily as simple as suffixes that begin on
+!! *ы*. The rule is not necessarily as simple as suffixes that begin on
 !! consonants require a vowel-ending stem, because there are some exceptions.
 !! Following is a list of things that use the short stem (so far
 !! incomplete, but feel free to add to it)
 !!
-!!  * All forms of the ''present affirmative''
-!!  * All forms of the ''present negative''
-!!  * All forms of the ''future affirmative''
-!!  * All forms of the ''future negative''
+!!  * All forms of the *present affirmative*
+!!  * All forms of the *present negative*
+!!  * All forms of the *future affirmative*
+!!  * All forms of the *future negative*
 !!  * Preterite II Negative? 
 !!  * Caritive gerund? 
 !!  
@@ -67,8 +67,8 @@ LEXICON V-NEG_
 !!  бертыны:берт V_MONO  "mennä kotiin" ;
 
 LEXICON V_MONO
-!! Lexicon __@LEXNAME@__ мыныны:мыны
-!! * Yaml: __mynyny__ , This is first declension
+!! Lexicon **@LEXNAME@** мыныны:мыны
+!! * Yaml: **mynyny** , This is first declension
 ! Testing JASKA
 +Ind+PrtI+ConNeg+Pl:%>%^Е2 K ;
 +Ind+PrtII+Neg+Pl2:%>%^И2ллямтэды K ;
@@ -94,8 +94,8 @@ LEXICON V-WITH-KARON
 +Pcle+OLang/RUS+RusV: # ;
 
 LEXICON V_UZA
-!! Lexicon __@LEXNAME@__
-!! * Yaml: __uzhany__ , this is second declension
+!! Lexicon **@LEXNAME@**
+!! * Yaml: **uzhany** , this is second declension
 ! testing JASKA
 +Ind+PrtI+ConNeg+Pl:%>лэ K ;
 +Ind+PrtII+Neg+Pl2:%>мтэды K ;
@@ -118,8 +118,8 @@ LEXICON V_UZA
 
 !! Mutual à la Jaska
 LEXICON V_МЫНЫНЫ !! мыныны:мыны
-!! Lexicon __@LEXNAME@__
-!! * Yaml: __mynyny__ 
+!! Lexicon **@LEXNAME@**
+!! * Yaml: **mynyny** 
 
 +Ind+Prs: APRS ;
 +Ind+Fut+ConNeg+Sg:%^ЫLoss K ;
@@ -136,7 +136,7 @@ LEXICON V_МЫНЫНЫ !! мыныны:мыны
 
 
 LEXICON APRS
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg1:%>%^И2сько K ;
 +Sg2:%>%^И2ськод K ;
 +Sg3:%>%^Е2 K ;
@@ -150,7 +150,7 @@ LEXICON APRS
 +ConNeg+Pl2:%>%^И2ське K ;
 
 LEXICON FUT-PERSON
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg1: K ;
 +Sg2:%>д K ;
 +Sg3:%>з K ;
@@ -159,7 +159,7 @@ LEXICON FUT-PERSON
 +Pl3:%>зы K ;
 
 LEXICON PRTI-PERSON
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg1:%>%^И2 K ;
 +Sg2:%>%^И2д K ;
 +Sg3:%>%^И2з K ;
@@ -169,7 +169,7 @@ LEXICON PRTI-PERSON
 +Pl3:%>%^И2зы K ;
 
 LEXICON PRTII-PERSON
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg1:%>%^И2ськем K ;
 +Sg2:%>%^Е2мед K ;
 +Sg3:%>%^Е2м K ;
@@ -194,7 +194,7 @@ LEXICON PRTII-PERSON
 
 
 LEXICON COND
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg1:          K ;
 +Sg2:          K ;
 +Sg2:ыд        K ;
@@ -213,7 +213,7 @@ LEXICON COND
 +ConNeg+Pl3:зы K ;
 
 LEXICON IMPRT
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +Sg2:%^ЫLoss K	   ;
 !+Sg3:%>%^О2з K	; Kozmács István 2014-05-27 => Opt
 +Pl2:%>%^Е2лэ K	;
@@ -225,14 +225,14 @@ LEXICON IMPRT
 !+ConNeg+Pl3:%>%^Е2лэ K	; Kozmács István 2014-05-27 => Opt
 
 LEXICON OPT
-!! Lexicon __@LEXNAME@__
+!! Lexicon **@LEXNAME@**
 +ConNeg+Sg:%^ЫLoss K ;
 +ConNeg+Sg3:%^ЫLossVar K	;
 +ConNeg+Pl:%>%^Е2 K ;
 +ConNeg+Pl:%>%^Е2лэ K	;
 
 LEXICON NONFINITES
-    !! Lexicon __@LEXNAME@__
+    !! Lexicon **@LEXNAME@**
 +Inf:ны  K	;
 +GerPos:%>са  K	;
 +GerNeg:%>тэк  K	;

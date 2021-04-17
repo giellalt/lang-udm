@@ -1,6 +1,6 @@
-!! !!!Udmurt Proper noun inflection
+!! # Udmurt Proper noun inflection
 
-!! !! Place names based on names of old tribes
+!! Place names based on names of old tribes
 
 !! These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
 !! cases, they take an infix which is optional.
@@ -15,23 +15,27 @@
 
 !! Infix is optional in some cases
 
-!! || Case    ||  Infix || No infix
-!! | Iness.    |  Салья-ла-н   |  Салья-ын
-!! | Illat.     |  Салья-ла      |  Салья-е
-!! | Elat.      |  Салья-ла-сь   |  Салья-ысь
-!! | Egress.    |  Салья-ла-сен  |  Салья-ысен
+!! |   Case    |  Infix | No infix
+
+!! | --- | --- | --- 
+!! |  Iness.    |  Салья-ла-н   |  Салья-ын
+!! |  Illat.     |  Салья-ла      |  Салья-е
+!! |  Elat.      |  Салья-ла-сь   |  Салья-ысь
+!! |  Egress.    |  Салья-ла-сен  |  Салья-ысен
 
 !! The following cases do not have the infix at all
 
-!! || Case    ||  No infix
-!!  | Terminat.  |  Салья-озь
-!!  | Prol.      |  Салья-тӥ
-!!  | Appr.      |  Салья-лань
+!! |   Case    |  No infix
+
+!! | --- | --- 
+!! |  Terminat.  |  Салья-озь
+!! |  Prol.      |  Салья-тӥ
+!! |  Appr.      |  Салья-лань
 
 
 LEXICON PROP_
-!! So far the PROP (underline) lexicon is a dummy pexicon that just gives __+N+Prop__,
-!! and then redirects to ''NOUNSUF_01''.
+!! So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
+!! and then redirects to *NOUNSUF_01*.
 : NOUNSUF_01 ;
 
 LEXICON PROP_RUS_JA
@@ -39,19 +43,21 @@ LEXICON PROP_RUS_JA
 +Err/Orth: NOUNSUF_01 ;
 
 LEXICON PROP_HEIMONNIMET
-!! Words from lexicon __@LEXNAME@__ are "old" tribe and place names, 
+!! Words from lexicon **@LEXNAME@** are "old" tribe and place names, 
 !! which have an optional infix for some cases, while some do not.
 +Sg:%>ла HEIMO_SUFFIXES_LA ;
 +Sg:     HEIMO_SUFFIXES_NIL ;
 
 LEXICON HEIMO_SUFFIXES_LA
-!! In __@LEXNAME@__, we append the cases with their post-ла realizations.
+!! In **@LEXNAME@**, we append the cases with their post-ла realizations.
 !! Examples:
-!! || Case    ||  Infix || No infix
-!! | Iness.     |  Салья-ла-н    |  Салья-ын
-!! | Illat.     |  Салья-ла      |  Салья-е
-!! | Elat.      |  Салья-ла-сь   |  Салья-ысь
-!! | Egress.    |  Салья-ла-сен  |  Салья-ысен
+!! |   Case    |  Infix | No infix
+
+!! | --- | --- | --- 
+!! |  Iness.     |  Салья-ла-н    |  Салья-ын
+!! |  Illat.     |  Салья-ла      |  Салья-е
+!! |  Elat.      |  Салья-ла-сь   |  Салья-ысь
+!! |  Egress.    |  Салья-ла-сен  |  Салья-ысен
 
 !! Note also that the infix results in a 'short' case affix.
 +Ine:%>н   K;
@@ -61,12 +67,14 @@ LEXICON HEIMO_SUFFIXES_LA
 +Acc:%>з   K;
 
 LEXICON HEIMO_SUFFIXES_NIL
-!! In __@LEXNAME@__, the word gets cases with no infix.
+!! In **@LEXNAME@**, the word gets cases with no infix.
 
-!!  || Case  || wordform
-!!  | Terminat.  |  Салья-озь
-!!  | Prol.      |  Салья-тӥ
-!!  | Appr.      |  Салья-лань
+!! |   Case  | wordform
+
+!! | --- | --- 
+!! |  Terminat.  |  Салья-озь
+!! |  Prol.      |  Салья-тӥ
+!! |  Appr.      |  Салья-лань
 ! These are the obligatorily non-infixing cases
 +Nom:%>0 K;
 +Prl:%>етӥ K;

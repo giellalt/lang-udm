@@ -1,20 +1,20 @@
-!! !!!Udmurt twol file
+!! # Udmurt twol file
 
-!! !!Alphabet, Sets and Definitions
+!! ## Alphabet, Sets and Definitions
 
 Alphabet
 
-!! !!Letters of the alphabet
+!! ## Letters of the alphabet
 
 а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я !!= * @CODE@
 А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я !!= * @CODE@
 
-!! !!Archiphonemes for vowels
+!! ## Archiphonemes for vowels
 !  е1:е а1:а и1:и у1:у ӱ1:ӱ
 !  Е1:Е И1:И У1:У Ӱ1:Ӱ
 
 %^@:0  	   !!= @CODE@ This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
-!! !!Triggers
+!! ## Triggers
 
 %^ConsTransf:0 !!= * @CODE@ 
 %^KIN:0        !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
@@ -39,7 +39,7 @@ Alphabet
 %{еэ%}:е	       !!= * @CODE@ morpheme initial vowel е э , e.g. Acc
 
 
-!! !!Boundary symbols
+!! ## Boundary symbols
 
  %> !!= * @CODE@ 
  #  !!  * hash #
@@ -53,7 +53,7 @@ Alphabet
  ;
 
 
-!! !!Sets 
+!! ## Sets 
 
 Sets
 BackLabVow =   о у ё ю О У Ё Ю ;
@@ -93,7 +93,7 @@ all =  Ltrs  %- ;
 
 
 
-!! !!Definitions
+!! ## Definitions
 
 Definitions
 
@@ -101,44 +101,44 @@ Definitions
 
 
 
-!! !!Rules
+!! ## Rules
 
 Rules
 
 
 
-!! !!DEPALATALISATION
+!! ## DEPALATALISATION
 
 "Depalatalize и"
-!! __@RULENAME@__
+!! **@RULENAME@**
  и:ӥ <=> CnsPair %>  _ ;
 
 "Depalatalize е"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е2:э <=> [ CnsPair | у ] ы: %>  _ ;
 !!€ мыны%>%^Е2
 !!€ мын0%>э
 
 "Depalatalized %{еэ%} "
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{еэ%}:э <=> [ CnsPair | у ] ы: %>  _ ;
 !!€ укмысназ%>%{еэ%}с
 !!€ укмысназ%>эс
 
 "Depalatalize и"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^И2:ӥ <=> CnsPair ы: %>  _ ;
 !!€ мыны%>%^И2сько
 !!€ мын0%>ӥсько
 
 "Depalatalize е3:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е3:е <=> [ CnsNoPair (%^SYNC:)  | [ о | и | ы | а ] (%^RusJa:|%^RusJaErr:|%^NotRusJa:) | я: (%^RusJa:|%^NotRusJa:|%^RusJaErr:) | е: [%^RusJa:|%^NotRusJa:|%^RusJaErr:] | ь: ] %> _ ;
 !!€ бакча%>%^Е3
 !!€ бакча%>е
 
 "Depalatalize е3:э"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е3:э <=> [ CnsPair: - [ с | С ]| ы:0 ] (%^SYNC:) %>  _ ;
           [ Ltrs: - [ ё:|Ё:]] [ с | C ] (%^SYNC:) %>  _ ;
           [ Ltrs: - [ ъ:|Ъ:]] [ ё:|Ё:] [ с | C ] (%^SYNC:) %>  _ ;
@@ -146,11 +146,11 @@ Rules
 
 
 "Depalatalize and raise е3:ы"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е3:ы <=>  %> ъ: ё: с %>  _ ;
 
 "Depalatalize and raise ё:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ё:о <=> Vow: (%^RusJa:|%^NotRusJa:|%^RusJaErr:) %> ъ: _ с ;
 !!€ корка%>ъёс
 !!€ корка%>0ос
@@ -159,11 +159,11 @@ Rules
 
 
 "%^А3:а"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^А3:а <=> Cns %>  _ ;
 
 "%^О2:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^О2:о <=> [ [Cns|Vow] ы: (%>) | [Vow - [ ы: | й: ]] %> ( %^Л3:0 ) ] _ ;
 !!€ мыны%>%^О2
 !!€ мын0%>о
@@ -171,43 +171,43 @@ Rules
 !!€ ужа%>ло
 
 "Palatal %^О2:ё"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^О2:ё <=>  [ ь: | й: ] (ы:) (%>)  _ ;
 
 
 "Palatal э:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
  э:е <=>  [ Vow | CnsNoPair ] :0* %> _  ;
 
 "Palatal е"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е2:е <=> [CnsNoPair|ь:|ъ:| й:] ы: %>  _ ;
 
 "Palatal и"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^И2:и <=> [CnsNoPair|ь:|ъ:|у| й:] ы: %>  _ ;
 !!€ луы%>%^И2з
 !!€ лу0%>из
 
 "Palatal а"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^А3:я <=> [ь:| й:|Vow:] %>  _ ;
 
 "Palatal и:й"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^И2:й <=> [ а | я ] %>  _ [ #| %>] ;
 
 
-!! !!VOWEL LOSS
+!! ## VOWEL LOSS
 "Stem vowel loss ы:0 LEFT" !! Is this really necessary
-!! __@RULENAME@__
+!! **@RULENAME@**
  ы:0 <= _ %> [ %^Е2: | %{еэ%}: | %^И2: | %^О2: ] ;
 !!€ луы%>%^Е2м
 !!€ лу0%>эм
          Vow Cns _ [ %^ЫLoss: | %^О2: ] ;
 
 "Stem vowel loss Ы2:0 RIGHT"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ы:0 => _  %> [ %^Е2: | %{еэ%}: | %^И2: | %^О2: ] ;
 !!€ луы%>%^Е2м
 !!€ лу0%>эм
@@ -220,49 +220,49 @@ Rules
 !!€ возь00
 
 "я:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  я:0 <=>  _ %^RusJa: %> [%^Е3: | ъ: ё: | ы | л ] ;
 
 "е:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:0 <=>  _ %^RusJa: %> [%^Е3: | ъ: ё: | ы | л ] ;
           [ CnsNoPair | р | Р ] _ Cns %^SYNC: %> :Vow ;
 
 "е:ь"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:ь <=> CnsPair _ Cns %^SYNC: %> :Vow ;
 
 "э:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  э:0 <=>  Cns _ Cns %^SYNC: %> :Vow ;
 
 
 "Palatal е:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Е2:0 <=> [ а | я ] %>  _ ;
 
 "Palatal и:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^И2:0 <=> [ а | я ] %>  _ Cns ;
 
 "%^О2:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^О2:0 <=> [ а | я ]  _ ;
 !!€ ужа%>%^О2
 !!€ ужа%>0
 
 "й:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  й:0 <=> _ (%>) [ %^И2: | %^Е2: | %^О2: | %^Е3: ] ;
 
 "ь:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ь:0 <=> _ (ы:) (%>) [ %^И2: | %^Е2: | %^О2: | %^Е3: ] ;
 !!€ возь%>Ы2#
 !!€ возь%>ы0
 
 "ъ:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ъ:0 <=> Vow: (%^RusJa:|%^NotRusJa:|%^RusJaErr:) %> _ ;
 !!€ корка%>ъёс
 !!€ корка%>0ос
@@ -270,40 +270,40 @@ Rules
 !!€ собрани00%>0ос
      [ ь | й ] %> _ [ я | ё ] ;
 
-!! !!ZERO TO CONSONANT
+!! ## ZERO TO CONSONANT
 "%^Л3:л"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^Л3:л <=> Vow %> _ %^О2: ;
 !!€ ужа%>%^Л3%^О2
 !!€ ужа%>ло
 
-!! !!CONSONANTS
+!! ## CONSONANTS
 
 "Devoicing д:т"
-!! __@RULENAME@__
+!! **@RULENAME@**
  д:т <=> CnsVoiceless %> _ ;
 
 "Devoicing з:с"
-!! __@RULENAME@__
+!! **@RULENAME@**
  з:с <=> CnsVoiceless %> _ ;
 
 "Surface consonant before vowel %^К3:к"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^К3:к <=> _ %> :Vow ;
 
 "Surface consonant before vowel %^М3:м"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^М3:м <=> _ %> :Vow ;
 
 "Disallow %^NotRusJa after cons or other vowels"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 %^NotRusJa:0 /<= и [ е: | я:]  _ ;
 
 "Disallow %^RusJa after cons or other vowels"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 %^RusJa:0 /<= [Cns: | о | а | и | ы | у | ю | ё | ъ | ь| Cns: [ е: | я:] ] _ ;
 
 "Disallow %^RusJaErr after cons or other vowels"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 %^RusJaErr:0 /<= [Cns: | о | а | и | ы | у | ю | ё | ъ | ь| Cns: [ е: | я:] ] _ ;
 
