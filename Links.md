@@ -1,0 +1,5 @@
+* [root-morphology.md](root-morphology.md)
+* [nouns-affixes.md](nouns-affixes.md)
+* [adverbs-affixes.md](adverbs-affixes.md)
+* [propernouns-affixes.md](propernouns-affixes.md)
+* [verbs-affixes.md](verbs-affixes.md)
