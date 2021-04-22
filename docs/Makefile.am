@@ -30,6 +30,7 @@ MD_PAGES=root-morphology.md \
 # subjunctions-stems.md       \
 # verbs-stems.md              \
 # adjectives-affixes.md       \
-# propernouns-stems.md      \
-# udm-phon-phonology.md       \
+# propernouns-stems.md        \
+# udm-phon-phonology.md
+
 include $(top_srcdir)/../giella-core/am-shared/docs-dir-include.am
