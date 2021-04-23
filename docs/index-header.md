@@ -5,11 +5,18 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/issues)
 [![Build status](https://github.com/giellalt/lang-udm/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-udm/actions)
 
-This page documents the work on the **Udmurt language model**. 
+This is the documentation of a tentative finite state automaton for the **Udmurt language model**. 
+The automaton is made after the same model as the Sami automata.
 
-# Project documentation
+# General documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+-   [Notes on the transcription](transcription.html)
+-   [A plan for the work](udm-plan.html)
+-   [The file structure](filestructure.html)
+
+# Documentation of specific files
+
+-   [Documentating the verb file](verbs.html)
 
 # In-source documentation
 
