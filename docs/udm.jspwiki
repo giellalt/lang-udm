@@ -1,19 +1,18 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+# Free and Open source Finnish analyser gtsvn-fi
 
-;Authors: Divvun and Giellatekno teams, community members
-;Software version: 2012
-;Documentation license: GNU GFDL
-;SVN Revision: $Revision: 68217 $
-;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
+* **Authors**:  Divvun and Giellatekno teams, community members
+* **Software version**:  2012
+* **Documentation license**:  GNU GFDL
+* **SVN Revision: $Revision**:  68217 $
+* **SVN Date: $Date: 2013-01-16 11:31**: 33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+# GTSVN-sma
 
 This is free and open source South Sámi morphology.
 
 Morphology
 ----
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
-
 
 Analysis symbols
 ----
@@ -52,7 +51,6 @@ Other verb forms are
   +GerPos	
   +GerNeg	
 
-
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
 Special multiword units are analysed with:
@@ -60,13 +58,10 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 Morphophonology
 ----
@@ -83,15 +78,6 @@ The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 Undeveloped contlexes
-
-
-
-
-
-
-
-
-
 
 AdjTag ;
 AdvTag ;
@@ -186,41 +172,5 @@ NumTag ;
 AdvTag ;
 PronTag ;
 PcleTag ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 There was no content!

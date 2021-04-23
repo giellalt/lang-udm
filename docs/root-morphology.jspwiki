@@ -1,8 +1,7 @@
-
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
- !!!Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols
 
 Analysis symbols
 The morphological analyses of wordforms for the UDMURT language are presented
@@ -26,9 +25,6 @@ The parts-of-speech are:
  * +Pcle  Particle
  * +Num  Numeral
 
-
-
-
 The parts of speech are further split up into:
 
  * +Prop  Proper
@@ -40,19 +36,16 @@ The parts of speech are further split up into:
  * +Rel	  Relative
  * +Indef	  Indefinite
 
-
 The Usage extents are marked using following tags:
 
  * +Err/Orth Not in norm
  * +Use/-Spell Not in speller
-
 
 The nominals are inflected in the following Number
 
  * +Sg  Singular
  * +Du	  Dual
  * +Pl	  Plural
-
 
 The nominals are inflected in the following Case
 TODO: Document case names!
@@ -73,7 +66,6 @@ TODO: Document case names!
  * +Ter  Terminative
  * +Prl  Prolative
  * +Apr  Approximative
-
 
 The possession is marked as such:
 
@@ -141,7 +133,6 @@ Other verb forms are: (TODO: Document the tags)
 
  * +Prc		 This is only for the dictionary at present 2019-06-04
 
-
  * +ABBR  Abbreviation
  * +Symbol = independent symbols in the text stream, like £, €, ©
  * +ACR  Acronym
@@ -166,106 +157,100 @@ Question and Focus particles:
  * +Qst  Question
  * +Foc  Focus
 
-
- * __+Sem/Act__ Activity
- * __+Sem/Amount__ Amount
- * __+Sem/Ani__ Animate
- * __+Sem/Aniprod__ Animal Product
- * __+Sem/Body__ Bodypart
- * __+Sem/Body-abstr__ siellu, vuoig?a, jierbmi
- * __+Sem/Build__ Building
- * __+Sem/Build-part__ Part of Bulding, like the closet
- * __+Sem/Cat__ Category
- * __+Sem/Clth__ Clothes
- * __+Sem/Clth-jewl__ Jewelery
- * __+Sem/Clth-part__ part of clothes, boallu, sávdnji...
- * __+Sem/Ctain__ Container
- * __+Sem/Ctain-abstr__ Abstract container like bank account
- * __+Sem/Ctain-clth__
- * __+Sem/Curr__ Currency like dollár, Not Money
- * __+Sem/Dance__ Dance
- * __+Sem/Dir__ Direction like GPS-kursa
- * __+Sem/Domain__ Domain like politics, reindeerherding (a system of actions)
- * __+Sem/Drink__ Drink
- * __+Sem/Dummytag__ Dummytag
- * __+Sem/Edu__ Educational event
- * __+Sem/Event__ Event
- * __+Sem/Feat__ Feature, like Árvu
- * __+Sem/Feat-phys__ Physiological feature, ivdni, fárda
- * __+Sem/Feat-psych__ Psychological feauture
- * __+Sem/Feat-measr__ Psychological feauture
- * __+Sem/Fem__ Female name
- * __+Sem/Food__ Food
- * __+Sem/Food-med__ Medicine
- * __+Sem/Furn__ Furniture
- * __+Sem/Game__ Game
- * __+Sem/Geom__ Geometrical object
- * __+Sem/Group__ Animal or Human Group
- * __+Sem/Hum__ Human
- * __+Sem/Hum-abstr__ Human abstract
- * __+Sem/Ideol__ Ideology
- * __+Sem/Lang__ Language
- * __+Sem/Mal__ Male name
- * __+Sem/Mat__ Material for producing things
- * __+Sem/Measr__ Measure
- * __+Sem/Money__ Has to do with money, like wages, not Curr(ency)
- * __+Sem/Obj__ Object
- * __+Sem/Obj-clo__ Cloth
- * __+Sem/Obj-cogn__ Cloth
- * __+Sem/Obj-el__ (Electrical) machine or apparatus
- * __+Sem/Obj-ling__ Object with something written on it
- * __+Sem/Obj-rope__ flexible ropelike object
- * __+Sem/Obj-surfc__ Surface object
- * __+Sem/Org__ Organisation
- * __+Sem/Part__ Feature, oassi, bealli
- * __+Sem/Perc-cogn__ Cognative perception
- * __+Sem/Perc-emo__ Emotional perception
- * __+Sem/Perc-phys__ Physical perception
- * __+Sem/Perc-psych__ Physical perception
- * __+Sem/Plant__ Plant
- * __+Sem/Plant-part__ Plant part
- * __+Sem/Plc__ Place
- * __+Sem/Plc-abstr__ Abstract place
- * __+Sem/Plc-elevate__ Place
- * __+Sem/Plc-line__ Place
- * __+Sem/Plc-water__ Place
- * __+Sem/Pos__ Position (as in social position job)
- * __+Sem/Process__ Process
- * __+Sem/Prod__ Product
- * __+Sem/Prod-audio__ Audio product
- * __+Sem/Prod-cogn__ Cognition product
- * __+Sem/Prod-ling__ Linguistic product
- * __+Sem/Prod-vis__ Visual product
- * __+Sem/Rel__ Relation
- * __+Sem/Route__ Name of a Route
- * __+Sem/Rule__ Rule or convention
- * __+Sem/Semcon__ Semantic concept
- * __+Sem/Sign__ Sign (e.g. numbers, punctuation) 
- * __+Sem/Sport__ Sport
- * __+Sem/State__ 
- * __+Sem/State-sick__ Illness
- * __+Sem/Substnc__ Substance, like Air and Water
- * __+Sem/Sur__ Surname
- * __+Sem/Symbol__ Symbol
- * __+Sem/Time__ Time
- * __+Sem/Tool__ Prototypical tool for repairing things
- * __+Sem/Tool-catch__ Tool used for catching (e.g. fish)
- * __+Sem/Tool-clean__ Tool used for cleaning
- * __+Sem/Tool-it__ Tool used in IT
- * __+Sem/Tool-measr__ Tool used for measuring
- * __+Sem/Tool-music__ Music instrument
- * __+Sem/Tool-write__ Writing tool
- * __+Sem/Txt__ Text (girji, lávlla...)
- * __+Sem/Veh__ Vehicle
- * __+Sem/Wpn__ Weapon
- * __+Sem/Wthr__ The Weather or the state of ground
-
-
-
-
+ * **+Sem/Act** Activity
+ * **+Sem/Amount** Amount
+ * **+Sem/Ani** Animate
+ * **+Sem/Aniprod** Animal Product
+ * **+Sem/Body** Bodypart
+ * **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
+ * **+Sem/Build** Building
+ * **+Sem/Build-part** Part of Bulding, like the closet
+ * **+Sem/Cat** Category
+ * **+Sem/Clth** Clothes
+ * **+Sem/Clth-jewl** Jewelery
+ * **+Sem/Clth-part** part of clothes, boallu, sávdnji...
+ * **+Sem/Ctain** Container
+ * **+Sem/Ctain-abstr** Abstract container like bank account
+ * **+Sem/Ctain-clth**
+ * **+Sem/Curr** Currency like dollár, Not Money
+ * **+Sem/Dance** Dance
+ * **+Sem/Dir** Direction like GPS-kursa
+ * **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
+ * **+Sem/Drink** Drink
+ * **+Sem/Dummytag** Dummytag
+ * **+Sem/Edu** Educational event
+ * **+Sem/Event** Event
+ * **+Sem/Feat** Feature, like Árvu
+ * **+Sem/Feat-phys** Physiological feature, ivdni, fárda
+ * **+Sem/Feat-psych** Psychological feauture
+ * **+Sem/Feat-measr** Psychological feauture
+ * **+Sem/Fem** Female name
+ * **+Sem/Food** Food
+ * **+Sem/Food-med** Medicine
+ * **+Sem/Furn** Furniture
+ * **+Sem/Game** Game
+ * **+Sem/Geom** Geometrical object
+ * **+Sem/Group** Animal or Human Group
+ * **+Sem/Hum** Human
+ * **+Sem/Hum-abstr** Human abstract
+ * **+Sem/Ideol** Ideology
+ * **+Sem/Lang** Language
+ * **+Sem/Mal** Male name
+ * **+Sem/Mat** Material for producing things
+ * **+Sem/Measr** Measure
+ * **+Sem/Money** Has to do with money, like wages, not Curr(ency)
+ * **+Sem/Obj** Object
+ * **+Sem/Obj-clo** Cloth
+ * **+Sem/Obj-cogn** Cloth
+ * **+Sem/Obj-el** (Electrical) machine or apparatus
+ * **+Sem/Obj-ling** Object with something written on it
+ * **+Sem/Obj-rope** flexible ropelike object
+ * **+Sem/Obj-surfc** Surface object
+ * **+Sem/Org** Organisation
+ * **+Sem/Part** Feature, oassi, bealli
+ * **+Sem/Perc-cogn** Cognative perception
+ * **+Sem/Perc-emo** Emotional perception
+ * **+Sem/Perc-phys** Physical perception
+ * **+Sem/Perc-psych** Physical perception
+ * **+Sem/Plant** Plant
+ * **+Sem/Plant-part** Plant part
+ * **+Sem/Plc** Place
+ * **+Sem/Plc-abstr** Abstract place
+ * **+Sem/Plc-elevate** Place
+ * **+Sem/Plc-line** Place
+ * **+Sem/Plc-water** Place
+ * **+Sem/Pos** Position (as in social position job)
+ * **+Sem/Process** Process
+ * **+Sem/Prod** Product
+ * **+Sem/Prod-audio** Audio product
+ * **+Sem/Prod-cogn** Cognition product
+ * **+Sem/Prod-ling** Linguistic product
+ * **+Sem/Prod-vis** Visual product
+ * **+Sem/Rel** Relation
+ * **+Sem/Route** Name of a Route
+ * **+Sem/Rule** Rule or convention
+ * **+Sem/Semcon** Semantic concept
+ * **+Sem/Sign** Sign (e.g. numbers, punctuation) 
+ * **+Sem/Sport** Sport
+ * **+Sem/State** 
+ * **+Sem/State-sick** Illness
+ * **+Sem/Substnc** Substance, like Air and Water
+ * **+Sem/Sur** Surname
+ * **+Sem/Symbol** Symbol
+ * **+Sem/Time** Time
+ * **+Sem/Tool** Prototypical tool for repairing things
+ * **+Sem/Tool-catch** Tool used for catching (e.g. fish)
+ * **+Sem/Tool-clean** Tool used for cleaning
+ * **+Sem/Tool-it** Tool used in IT
+ * **+Sem/Tool-measr** Tool used for measuring
+ * **+Sem/Tool-music** Music instrument
+ * **+Sem/Tool-write** Writing tool
+ * **+Sem/Txt** Text (girji, lávlla...)
+ * **+Sem/Veh** Vehicle
+ * **+Sem/Wpn** Weapon
+ * **+Sem/Wthr** The Weather or the state of ground
 
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
@@ -287,7 +272,6 @@ Dialectical variation
  * +Dial/North
  * +Dial/South
 
-
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
@@ -304,7 +288,6 @@ symbols in the lexicon files:
 
  * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
-
 And following triggers to control variation
 
  * %^RusJa Эстония:Эстониез
@@ -312,33 +295,33 @@ And following triggers to control variation
  * %^ЫLossVar This is used for мыныны: мыны ~ мын
  * %^ЫLoss This is used for мыныны: мын
 
-!!Flag diacritics
+## Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
- | @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- | @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- | @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
- | @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
- | @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
- | @P.CmpPref.FALSE@ | Block these words from making further compounds
- | @D.CmpLast.TRUE@ | Block such words from entering R
- | @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
- | @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
- | @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
- | @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
- | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
- | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Udmurt language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
@@ -346,21 +329,8 @@ word classes, or optionally from prefixes:
  *  ABBR_udm2x ;	 abbreviations
  *  N_NEWWORDS ;     These are new nouns without translations
 
-
-
 ABBREVIATIONS
 these still need development 2015-11-03
-
-
-
-
-
-
-
-
-
-
-
 
 AdjTag ;
 AdvTag ;
@@ -455,5 +425,3 @@ NumTag ;
 AdvTag ;
 PronTag ;
 PcleTag ;
-
-
