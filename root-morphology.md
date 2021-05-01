@@ -12,32 +12,32 @@ in this system in terms of the following symbols.
 The parts-of-speech are:
 
  * +N  Noun
- * +A	  Adjective
+ * +A  Adjective
  * +Adv  Adverb
  * +Det  Determiner
- * +V	  Verb
+ * +V  Verb
  * +Pron  Pronoun
- * +CS	  Subordinating conjunction
- * +CC	  Coordinating conjunction
+ * +CS  Subordinating conjunction
+ * +CC  Coordinating conjunction
  * +Adp  Adposition
- * +Po	  Postposition
- * +Pr	  Preposition
+ * +Po  Postposition
+ * +Pr  Preposition
  * +Interj  Interjection
  * +Pcle  Particle
  * +Num  Numeral
 
- * +Conj	 FIXME
+ * +Conj FIXME
 
 The parts of speech are further split up into:
 
  * +Prop  Proper
- * +Pers	  Personal
- * +Dem	  Demonstrative
- * +Interr	  Interrogative
- * +Refl	  Reflexive
+ * +Pers  Personal
+ * +Dem  Demonstrative
+ * +Interr  Interrogative
+ * +Refl  Reflexive
  * +Recipr  Reciprocal
- * +Rel	  Relative
- * +Indef	  Indefinite
+ * +Rel  Relative
+ * +Indef  Indefinite
 
 
 
@@ -52,8 +52,8 @@ The Usage extents are marked using following tags:
 The nominals are inflected in the following Number
 
  * +Sg  Singular
- * +Du	  Dual
- * +Pl	  Plural
+ * +Du  Dual
+ * +Pl  Plural
 
 
 The nominals are inflected in the following Case
@@ -126,12 +126,12 @@ Verb personal forms are:
 
 Other verb forms are: (TODO: Document the tags)
 
- * +Inf	  Infinitive
- * +Ger	 	  Gerund
- * +ConNeg	 	  Connegative (used with verb of negation)
- * +ConNegII 	  Connegative (used with verb of negation) ?Does this apply to Udmurt?
- * +Neg	 	  Negation, (used to mark verb of negation)
- * +ImprtII 	  Imperative II, ?Does this apply to Udmurt?
+ * +Inf  Infinitive
+ * +Ger  Gerund
+ * +ConNeg  Connegative (used with verb of negation)
+ * +ConNegII  Connegative (used with verb of negation) ?Does this apply to Udmurt?
+ * +Neg  Negation, (used to mark verb of negation)
+ * +ImprtII  Imperative II, ?Does this apply to Udmurt?
   +PrcPrsPos    	  Participle present positive
   +PrcPrfAdn    	  Participle perfect adnominal
   +PrcPrfPred   	  Participle perfect predicative
@@ -141,11 +141,11 @@ Other verb forms are: (TODO: Document the tags)
   +GerNeg       	 мынытэк   Gerund negative
   +GerTer       	 мынытозь  Gerund terminative
   +GerTemp      	 мыныку    Gerund temporal
- * +Sup 	  Supine
- * +VGen 	  Verbal genitive
- * +VAbess 	  Verbal abesive
+ * +Sup  Supine
+ * +VGen  Verbal genitive
+ * +VAbess  Verbal abesive
 
- * +Prc		 This is only for the dictionary at present 2019-06-04
+ * +Prc This is only for the dictionary at present 2019-06-04
 
 
  * +ABBR  Abbreviation
@@ -324,15 +324,15 @@ To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
   %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
- * %^Ы2	 morpheme initial disappears after vowel
- * %^Е2	 morpheme initial disappears after vowel
- * %^И2	 morpheme initial disappears after vowel
- * %^О2	 morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3	 Acc, Ill е э ы
- * %^А3	 Ine а, я
+ * %^Ы2 morpheme initial disappears after vowel
+ * %^Е2 morpheme initial disappears after vowel
+ * %^И2 morpheme initial disappears after vowel
+ * %^О2 morpheme initial disappears after vowel also ло after stem-final а
+ * %^Е3 Acc, Ill е э ы
+ * %^А3 Ine а, я
  * %^Л3	        ужаны:ужало
- * %^К3	 нюлэс:нюлэсК3
- * %^М3	 син:синМ3
+ * %^К3 нюлэс:нюлэсК3
+ * %^М3 син:синМ3
 
  * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
@@ -342,7 +342,7 @@ And following triggers to control variation
  * %^RusJa Эстония:Эстониез
  * %^RusJaErr    Эстония:Эстонияез
  * %^NotRusJa    no words in ия ие
- * %^SYNC	
+ * %^SYNC
  * %^ЫLossVar This is used for мыныны: мыны ~ мын
  * %^ЫLoss This is used for мыныны: мын
 
