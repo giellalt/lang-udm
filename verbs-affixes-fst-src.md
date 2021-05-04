@@ -14,7 +14,6 @@ incomplete, but feel free to add to it)
  * All forms of the *future negative*
  * Preterite II Negative? 
  * Caritive gerund? 
-
  
 And the long stem:
  * Infinitive
@@ -31,21 +30,31 @@ in two ways: vowel letters following, or by the palatizing symbol.
 
  LEXICON V_  Verb type is still to be determined.
 
+
+
+
+
 Typical V_MONO entry is the long stem, ending on <ы>
  берты, возьы
 
  бертыны:берт V_MONO  "mennä kotiin" ;
 
-Lexicon __V_MONO__ мыныны:мыны
+Lexicon **V_MONO** мыныны:мыны
 * Yaml: **mynyny** , This is first declension
 
-Lexicon __V_UZA__
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Lexicon **V_UZA**
 * Yaml: **uzhany** , this is second declension
+
 
 Mutual à la Jaska
 мыныны:мыны
-Lexicon __V_МЫНЫНЫ__
+Lexicon **V_МЫНЫНЫ**
 * Yaml: **mynyny** 
+
+
 
 Lexicon **APRS**
 
@@ -55,6 +64,8 @@ Lexicon **PRTI-PERSON**
 
 Lexicon **PRTII-PERSON**
 
+
+
 Lexicon **COND**
 
 Lexicon **IMPRT**
@@ -62,3 +73,6 @@ Lexicon **IMPRT**
 Lexicon **OPT**
 
 Lexicon **NONFINITES**
+
+
+

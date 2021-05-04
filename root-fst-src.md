@@ -1,7 +1,8 @@
+
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
-# Definitions for Multichar_Symbols
+ # Definitions for Multichar_Symbols
 
 Analysis symbols
 The morphological analyses of wordforms for the UDMURT language are presented
@@ -11,46 +12,55 @@ in this system in terms of the following symbols.
 The parts-of-speech are:
 
  * +N  Noun
- * +A	  Adjective
+ * +A  Adjective
  * +Adv  Adverb
  * +Det  Determiner
- * +V	  Verb
+ * +V  Verb
  * +Pron  Pronoun
- * +CS	  Subordinating conjunction
- * +CC	  Coordinating conjunction
+ * +CS  Subordinating conjunction
+ * +CC  Coordinating conjunction
  * +Adp  Adposition
- * +Po	  Postposition
- * +Pr	  Preposition
+ * +Po  Postposition
+ * +Pr  Preposition
  * +Interj  Interjection
  * +Pcle  Particle
  * +Num  Numeral
 
+ * +Conj FIXME
+
 The parts of speech are further split up into:
 
  * +Prop  Proper
- * +Pers	  Personal
- * +Dem	  Demonstrative
- * +Interr	  Interrogative
- * +Refl	  Reflexive
+ * +Pers  Personal
+ * +Dem  Demonstrative
+ * +Interr  Interrogative
+ * +Refl  Reflexive
  * +Recipr  Reciprocal
- * +Rel	  Relative
- * +Indef	  Indefinite
+ * +Rel  Relative
+ * +Indef  Indefinite
+
+
 
 The Usage extents are marked using following tags:
 
  * +Err/Orth Not in norm
  * +Use/-Spell Not in speller
 
+ * +OLang/RUS - Russian
+ * +RusV this is for Russian verbs followed by Udmurt  карыны OR карон
+
 The nominals are inflected in the following Number
 
  * +Sg  Singular
- * +Du	  Dual
- * +Pl	  Plural
+ * +Du  Dual
+ * +Pl  Plural
+
 
 The nominals are inflected in the following Case
 TODO: Document case names!
 
- * +Abs Absolute form 2019-06-03
+ * +Cmpl Absolute form 2019-06-03 is complement of following head 2019-11-21 do we want this
+
  * +Nom  Nominative
  * +Acc  Accusative
  * +Gen  Genitive
@@ -66,6 +76,7 @@ TODO: Document case names!
  * +Ter  Terminative
  * +Prl  Prolative
  * +Apr  Approximative
+
 
 The possession is marked as such:
 
@@ -93,6 +104,8 @@ Verb moods are:
   +Ind	 Indicative
   +Opt	 Optional
 
+
+
 Verb tenses are:
   +Fut    Future
   +Prs    Present
@@ -113,25 +126,27 @@ Verb personal forms are:
 
 Other verb forms are: (TODO: Document the tags)
 
- * +Inf	  Infinitive
- * +Ger	 	  Gerund
- * +ConNeg	 	  Connegative (used with verb of negation)
- * +ConNegII 	  Connegative (used with verb of negation) ?Does this apply to Udmurt?
- * +Neg	 	  Negation, (used to mark verb of negation)
- * +ImprtII 	  Imperative II, ?Does this apply to Udmurt?
+ * +Inf  Infinitive
+ * +Ger  Gerund
+ * +ConNeg  Connegative (used with verb of negation)
+ * +ConNegII  Connegative (used with verb of negation) ?Does this apply to Udmurt?
+ * +Neg  Negation, (used to mark verb of negation)
+ * +ImprtII  Imperative II, ?Does this apply to Udmurt?
   +PrcPrsPos    	  Participle present positive
   +PrcPrfAdn    	  Participle perfect adnominal
   +PrcPrfPred   	  Participle perfect predicative
   +PrcPrfNeg    	  Participle perfect negative 
+  +PrcPrsNeg    	  Participle present negative CHECKME
   +GerPos       	 мыныса    Gerund positive
   +GerNeg       	 мынытэк   Gerund negative
   +GerTer       	 мынытозь  Gerund terminative
   +GerTemp      	 мыныку    Gerund temporal
- * +Sup 	  Supine
- * +VGen 	  Verbal genitive
- * +VAbess 	  Verbal abesive
+ * +Sup  Supine
+ * +VGen  Verbal genitive
+ * +VAbess  Verbal abesive
 
- * +Prc		 This is only for the dictionary at present 2019-06-04
+ * +Prc This is only for the dictionary at present 2019-06-04
+
 
  * +ABBR  Abbreviation
  * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -156,6 +171,29 @@ Non-dictionary words can be recognised with:
 Question and Focus particles:
  * +Qst  Question
  * +Foc  Focus
+
+### Tags distinguishing different versions of the same lemma (before POS)
+ * +v1
+ * +v2
+ * +v3
+ * +v4
+ * +v5
+ * +v6
+ * +v7
+ * +v8
+ * +v9
+ * +v10
+ * +v11
+ * +v12
+ * +v13
+ * +v14
+ * +v15
+ * +v16
+ * +v17
+ * +v18
+ * +v19
+ * +v20
+
 
  * **+Sem/Act** Activity
  * **+Sem/Amount** Amount
@@ -236,6 +274,8 @@ Question and Focus particles:
  * **+Sem/State-sick** Illness
  * **+Sem/Substnc** Substance, like Air and Water
  * **+Sem/Sur** Surname
+ * **+Sem/Sur-Fem** Surname
+ * **+Sem/Sur-Mal** Surname
  * **+Sem/Symbol** Symbol
  * **+Sem/Time** Time
  * **+Sem/Tool** Prototypical tool for repairing things
@@ -250,7 +290,12 @@ Question and Focus particles:
  * **+Sem/Wpn** Weapon
  * **+Sem/Wthr** The Weather or the state of ground
 
+
+
+
+
 Semantics are classified with
+
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
@@ -268,69 +313,99 @@ source and target part-of-speech.
   +Der/Эмтэ     мынэмтэ ужамтэ
   +Der/Этӥ     ordinals
 
+
 Dialectical variation
  * +Dial/North
  * +Dial/South
+
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
   %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
- * %^Ы2	 morpheme initial disappears after vowel
- * %^Е2	 morpheme initial disappears after vowel
- * %^И2	 morpheme initial disappears after vowel
- * %^О2	 morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3	 Acc, Ill е э ы
- * %^А3	 Ine а, я
- * %^К3	 нюлэс:нюлэсК3
- * %^М3	 син:синМ3
+ * %^Ы2 morpheme initial disappears after vowel
+ * %^Е2 morpheme initial disappears after vowel
+ * %^И2 morpheme initial disappears after vowel
+ * %^О2 morpheme initial disappears after vowel also ло after stem-final а
+ * %^Е3 Acc, Ill е э ы
+ * %^А3 Ine а, я
+ * %^Л3	        ужаны:ужало
+ * %^К3 нюлэс:нюлэсК3
+ * %^М3 син:синМ3
 
  * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
+
 
 And following triggers to control variation
 
  * %^RusJa Эстония:Эстониез
- * %^SYNC	
+ * %^RusJaErr    Эстония:Эстонияез
+ * %^NotRusJa    no words in ия ие
+ * %^SYNC
  * %^ЫLossVar This is used for мыныны: мыны ~ мын
  * %^ЫLoss This is used for мыныны: мын
+
+### Symbols that need to be escaped on the lower side (towards twolc):
+
+* »
+* «
+* > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+* < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
-|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
-|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
-|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+ |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+ |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+ |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
-|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
-|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
-|  @P.CmpPref.FALSE@ | Block these words from making further compounds
-|  @D.CmpLast.TRUE@ | Block such words from entering R
-|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
-|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
-|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
-|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+ |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+ |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+ |  @P.CmpPref.FALSE@ | Block these words from making further compounds
+ |  @D.CmpLast.TRUE@ | Block such words from entering R
+ |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+ |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+ |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+ |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
-|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
-|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+ |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+ |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Udmurt language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
  *  ABBR_udm2x ;	 abbreviations
+Testing 2019-11-07
+Testing 2019-11-07
+
  *  N_NEWWORDS ;     These are new nouns without translations
+
+
 
 ABBREVIATIONS
 these still need development 2015-11-03
+
+
+
+
+
+
+
+
+
+
+
 
 AdjTag ;
 AdvTag ;
@@ -425,3 +500,5 @@ NumTag ;
 AdvTag ;
 PronTag ;
 PcleTag ;
+
+

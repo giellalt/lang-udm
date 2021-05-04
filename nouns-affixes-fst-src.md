@@ -40,7 +40,7 @@ Some examples:
 *-V stems*
 
 |  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
-|  бачка | бачкаос | бакчаын | бакчалэн | бачкая
+|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
 |  дунне | дуннеос | дуннеын | дуннелэн | дуннея
 |  ты    | тыос    | тыын    | тылэн    | тыя
 
@@ -48,7 +48,7 @@ Some examples:
 
 |  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
 |  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
-|  тэль  | тельёс  | тэлъын | тэлълэн | тэлья
+|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
 |  вить  | витьёс  | витьын | витьлэн | витья
 
 *Diphthongs*
@@ -199,6 +199,8 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
+
+
 ###  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
@@ -264,14 +266,65 @@ class of nouns described in more depth above.
 this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
 TODO: +N+Sg+Ine     endings	 in "н"
 
-Words from Russian in __N_RUS_JA__ end in –ия, our lexicon entries
+
+Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
 set the stem as ending in –ия, but there is a trigger that causes
 the final "я" to disappear in some situations.
 
-Words from Russian in __N_RUS_JE__ end in –ие, our lexicon entries
+Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
 set the stem as ending in –ие, but there is a trigger that causes
 the final "е" to disappear in some situations.
 
-Words from Tatar in __N_TAT__ preserve the original stem я in all cases.
+Words from Tatar in **N_TAT** preserve the original stem я in all cases.
+
+
+
+
+
+
+according to kpv temporary 2019-11-07
+ * **LEXICON CASEPOSSLEX**
+
+
+ * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+
 
 À la Jaska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
