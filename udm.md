@@ -1,3 +1,659 @@
+Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+
+This is a temporary work around
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Proper names from Bible
+
+
+This is where new words are added as lexc entries before they are
+added to the xml source files.
+апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
+
+ADD NOUNS BELOW
+
+
+
+Numerals
+Numerals in UDMURT language are numbers.
+
+
+Prefixes
+Prefixes in the Udmurt language are bound to beginning of other words.
+
+
+
+# Udmurt twol file
+
+## Alphabet, Sets and Definitions
+
+
+## Letters of the alphabet
+
+ * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
+ * А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
+
+## Archiphonemes for vowels
+
+ %^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+## Triggers
+
+ * %^ConsTransf:0  
+ * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
+ * %^RusJa:0       Эстония:Эстониез
+ * %^RusJaErr:0    Эстония:Эстонияез
+ * %^NotRusJa:0    no words in ия ие
+
+ * %^SYNC:0        
+ * %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
+ * %^ЫLoss:0       This is used for мыныны: мын 
+
+ * Ы2:0	        morpheme initial disappears after vowel ы 0
+
+ * %^Е2:0	        morpheme initial disappears after vowel е э 0
+ * %^И2:0	        morpheme initial disappears after vowel и ӥ 0
+ * %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
+ * %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
+ * %^А3:0	        Ine а, я
+ * %^Л3:0	        ужаны:ужало
+ * %^К3:0	        нюлэс:нюлэс%^К3
+ * %^М3:0	        син:син%^М3
+ * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
+
+
+## Boundary symbols
+
+ *  %>  
+ * hash #
+ *  %-  
+
+
+
+
+## Sets 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Definitions
+
+
+
+
+
+## Rules
+
+
+
+
+## DEPALATALISATION
+
+**Depalatalize и**
+
+**Depalatalize е**
+* *мыны%>%^Е2*
+* *мын0%>э*
+
+**Depalatalized %{еэ%} **
+* *укмысназ%>%{еэ%}с*
+* *укмысназ%>эс*
+
+**Depalatalize и**
+* *мыны%>%^И2сько*
+* *мын0%>ӥсько*
+
+**Depalatalize е3:е**
+* *бакча%>%^Е3*
+* *бакча%>е*
+
+**Depalatalize е3:э**
+
+
+**Depalatalize and raise е3:ы**
+
+**Depalatalize and raise ё:о**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
+
+
+**%^А3:а**
+
+**%^О2:о**
+* *мыны%>%^О2*
+* *мын0%>о*
+* *ужа%>0%^О2*
+* *ужа%>ло*
+
+**Palatal %^О2:ё**
+
+
+**Palatal э:е**
+
+**Palatal е**
+
+**Palatal и**
+* *луы%>%^И2з*
+* *лу0%>из*
+
+**Palatal а**
+
+**Palatal и:й**
+
+
+## VOWEL LOSS
+Is this really necessary
+**Stem vowel loss ы:0 LEFT **
+* *луы%>%^Е2м*
+* *лу0%>эм*
+
+**Stem vowel loss Ы2:0 RIGHT**
+* *луы%>%^Е2м*
+* *лу0%>эм*
+* *мыны#*
+* *мыны0*
+* *мын00*
+* *возьы#*
+* *возьы0*
+* *возь00*
+
+**я:0**
+
+**е:0**
+
+**е:ь**
+
+**э:0**
+
+
+**Palatal е:0**
+
+**Palatal и:0**
+
+**%^О2:0**
+* *ужа%>%^О2*
+* *ужа%>0*
+
+**й:0**
+
+**ь:0**
+* *возь%>Ы2#*
+* *возь%>ы0*
+
+**ъ:0**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
+
+## ZERO TO CONSONANT
+**%^Л3:л**
+* *ужа%>%^Л3%^О2*
+* *ужа%>ло*
+
+## CONSONANTS
+
+**Devoicing д:т**
+
+**Devoicing з:с**
+
+**Surface consonant before vowel %^К3:к**
+
+**Surface consonant before vowel %^М3:м**
+
+**Disallow %^NotRusJa after cons or other vowels**
+
+**Disallow %^RusJa after cons or other vowels**
+
+**Disallow %^RusJaErr after cons or other vowels**
+
+
+# Symbol affixes
+
+
+
+
+
+UDMURT Adjective inflection
+
+Udmurt adjectives inflect for:
+
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
+
+###  Determinative notes
+
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
+
+The cases with alternate forms are:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+Note that these alternative suffixes have palatal and non-palatal versions
+
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+```
+    бадӟым-ъёс-ысьты-з
+    ADJ - PL - CASE - DET
+           vs
+    бадӟым-ъёс-ыз-лэн
+    ADJ - PL - DET - CASE
+```
+
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
+
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
+
+*Absolutive congruence*
+
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
+
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+TODO: what is the difference?
+
+*Determinative Plural with congruence*
+
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
+
+words with this contlex have not been examined
+
+
+
+
+
+
+Cases here all lead to a determinative suffix
+
+Cases here all lead to a determinative suffix
+
+
+
+
+
+
+
+###  UDMURT Noun inflection
+
+Nouns in Udmurt inflects for case, number, and possession. Following are some
+notes for things that need to be done so far, and also an overview of nominal
+inflection types.
+
+Most Udmurt nouns (the vast majority) do not require changes to the stem
+as a result of inflection. These nouns however, for FST purposes, fall into
+some subcategories:
+
+* Vowel-final stems, which also take inflectional suffixes ending on
+  (non-yod) vowels (excepting the adverbial)
+* Consonant-final stems, which take endings beginning on a yodified vowel,
+  if one exists
+* Diphthongal stems, which also take the yodified vowels.
+
+Some inflectional endings thus may have two alternatives:
+
+|  Case                  | Non-yod      | Yod
+|  Nominative plural     | ос           | ёс
+|  Accusative singular   | эз           | ез
+|  Instrumental singular | эн           | ен
+|  Illative singular     | э            | е
+|  Prolative singular    | этӥ          | етӥ
+
+Other cases do not vary depending on these environments.
+
+Note that depending on the palatal/nonpalatal status of the last segment,
+the yodified vowel series may be preceded by a <ъ>. According to references though,
+the palatal marker <ь> must remain even when followed by this series.
+Udmurt also has a unique way of handling hiatus relationships, where the non-yod
+series follows vowels, and the yod series follows consonants.
+
+Also note that though stems may not change, orthographically, there may need to be
+a hard sign inserted to maintain the non-palatal pronunciation of certain
+consonant segments.
+
+Some examples:
+
+*-V stems*
+
+|  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
+|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
+|  дунне | дуннеос | дуннеын | дуннелэн | дуннея
+|  ты    | тыос    | тыын    | тылэн    | тыя
+
+*-C stems*
+
+|  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
+|  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
+|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
+|  вить  | витьёс  | витьын | витьлэн | витья
+
+*Diphthongs*
+
+|  NomSg | NomPl | IneSg | GenSg | Advl Sg
+|  уй    | уйёс  | уйын  | уйлэн | уйя
+
+###  Russian loans ending in -ия/-ие
+
+Russian loanwords ending on these segments delete the final yodified vowel
+in all cases, except for the singular adverbial and nominative singular.
+
+Examples:
+
+|  Nominative Singular   |  конференци–0–я      |  собрани–0–е
+|  Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
+|  Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
+|  Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
+|  Adverbial Singular    |  конференци–я–я      |  собрани–е–я
+
+Note also that Russian stress is preserved in Nominative Singular, but
+Udmurt stress takes over for inflected forms, and shifts to the final vowel.
+
+This applies to all sorts of Russian words, also including placenames ending
+in -я, excepting biblical place names, and Russian personal names.
+
+TODO: implement in propernouns
+
+ * Финляндия - Финляндиын
+ * Эстония   - Эстониын
+
+But:
+
+ * Самария   – Самарияын
+ * Евгения   – Евгения–лы
+ * Юлия      – Юлия–лы
+
+There are also some subtypes, where this deletion does not occur even though
+the word ends in -я:
+
+ * Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
+
+###  Place names based on names of old tribes
+
+See *affixes/propernouns.lexc*, but quickly: 
+
+These typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+cases, they take an infix which is optional. The optional infix causes
+short versions of case suffixes, otherwise the words take the long version.
+
+###  корка / куала
+
+The words *корка, куала* have some forms similar to the tribe/place names, and some
+cases behave differently: Inessive, Elative have the short consonant-only
+suffix, but unlike the tribe/place names, there is no -ла- infix.
+
+TODO: write tests
+
+###  "Old" Finno-ugric stems (-м-, -г-, -т-)
+
+TODO: add these to lexicon, and add morphology. Consider marking in morphology
+in a way that NDS can present:  син син(м)-
+TODO: write tests
+TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
+
+```
+         <l>muohta</l>
+         <lc>muohttaga</lc>
+```
+
+Some particularly old words have since experienced some amount of deletion
+and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
+but their appearance isn't completely regular, in that some variation
+exists, and sometimes the "short" stem without this segment appears where
+the "long" stem usually would.
+
+Usually, these will also be marked in dictionaries. син син(м)-.
+
+When the possessive is applied to nominative versions of these forms,
+the possessive will have the vowel -ы- instead of -э- or -е-. Also,
+the 'old' segments appear.
+
+Examples:
+
+-м–
+
+|  син        | син–тэм      | синм–ысь                | сынм–ы
+|  *silmä*  | *sokea*    | (elat.)                 | (px. y. 1. p.)
+|  визь       | визь–тэк     | визьм–о				 |  
+|  *järki*  | (abess.)     | *viisas*				 |  
+|  куйнь      | куйнь–лэсь   | куйньм–ой				 |  
+|  *kolme*  | (abl.)       | *3:n päivän kuluessa* |  
+|             | куйнь–етй    | ~ куйньм–етӥ			 |  
+|             | *kolmas*   | *kolmas*				 |  
+|  ин         |               | инм–ын				 |  
+|  *taivas* |               | (iness.)				 |  
+
+-к–
+
+|  кус        |  кус–лы     |   куск–ын        |  куск–ы
+|  *lantio* |  (dat.)     |   (iness.)       |  (Px Sg1)
+|  *vyötärö*|             |                |  
+|  улеп       |  улеп–лы     |   улепк–ын       |  
+|  *elävä*  |  (dat.)      |   (instr.)       |  
+|  nюлэс      | нюлэс–лы     |   нюлэск–ын      |  
+|  *metsä*  |  (dat.)      |   (iness.)       |  
+|  вис        | вис–лы       |   виск–ын        |  
+|  *tauko*  |  (dat.)      |   (iness.)       |  
+|  *väli*   |	 	 |	 	         |  
+
+-т–
+
+|  кык        |  кык–намы      |   кыкт–о
+|  *kaksi*  |  *me kaksin* | *kaksoset*
+|             |                | *kaksospari*
+|             |  кык–етӥ       |  кыкт–ой
+|             |  *toinen*    | *kahden päivän kuluessa*
+|             |                |  кыкт–етӥ
+|             |                |   *toinen*
+
+###  Vowel deletion stems
+
+* TODO: add to lexicon, also need a morphophonological symbol for these
+* TODO: write tests
+
+Some stems also delete vowels in specific cases, generally when the stem is
+attached to a vowel-initial suffix. Alternatively, the vowels may remain,
+but a epenthetic consonant may appear: -к-
+
+Optional deletion
+
+|  сэрег      | серг–ын  | 
+|  *nurkka* | (iness.) | 
+|  *kulma*           |                |   
+|  сюлэм      | сюлм–ыд  | сюлэм–ыд
+|  *sydän*  | (Px Sg2) | (Px Sg2)
+
+Deletion or epenthesis
+
+|  вадес               | вадьс-ын   |  вадеск–ын
+|  *aika, hetki*     | (iness.)   |  (iness.)
+|  *paikka, palsta*          |                |   
+|  пыдэс               | пыдс–ын    |  пидэск–ын
+|  *pohja*           | (iness.)   |  (iness.)
+|  урдэс               | урдс–ын    |  урдэск–ын
+|  *vierus*          | (iness.)   |  (iness.)
+
+NB: palatal quality implied by the yodified vowel in the first example is
+preserved via a soft sign.
+
+
+
+###  Suffix ordering with possessive construction
+
+The possessive construction results in different case ordering:
+
+*N-Num-Poss-Case*:
+
+* Genetive
+* Ablative
+* Dative
+* Abessive
+* Adverbial
+* Approximative
+* Terminative
+
+*N-Num-Case-Poss*:
+
+* Inessive
+* Elative
+* Illative
+* Egressive
+* Prolative
+* Instrumental
+
+Note that since the adjective 'determinative' is essentially the 3rd person
+singular possessive, the above ordering also follows for adjective inflection.
+Also note, some cases have atlernate forms for when tehy come before the possessive.
+
+Cases with alternate forms:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+*Examples*:
+
+Genetive:
+
+|  Px 1pSg        | Px 2pSg         | Px 3pSg
+|  бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
+|  бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
+
+Inessive:
+
+|  Px 1pSg      | Px 2pSg      | Px 3pSg
+|  бакча-я-м    | бакча-я-д    | бакча-я-з
+|  бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
+
+Elative:
+
+|  Px 1pSg          | Px 2pSg          | Px 3pSg
+|  бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
+|  бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
+
+* TODO: write tests for these ordering situations
+* TODO: implement these in lexc
+
+Noun Lexica
+
+Words from lexicon N_ are mostly covered. These are from the main
+class of nouns described in more depth above.
+
+this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
+TODO: +N+Sg+Ine     endings	 in "н"
+
+
+Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
+set the stem as ending in –ия, but there is a trigger that causes
+the final "я" to disappear in some situations.
+
+Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
+set the stem as ending in –ие, but there is a trigger that causes
+the final "е" to disappear in some situations.
+
+Words from Tatar in **N_TAT** preserve the original stem я in all cases.
+
+
+
+
+
+
+according to kpv temporary 2019-11-07
+ * **LEXICON CASEPOSSLEX**
+
+
+ * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+
+
+À la Jaska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
@@ -341,331 +997,13 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 
 
-###  UDMURT Noun inflection
+# Adverbs
+Udmurt (Votyak) .
 
-Nouns in Udmurt inflects for case, number, and possession. Following are some
-notes for things that need to be done so far, and also an overview of nominal
-inflection types.
+The adverbs have a minimal morphology, just the tag +Adv.
 
-Most Udmurt nouns (the vast majority) do not require changes to the stem
-as a result of inflection. These nouns however, for FST purposes, fall into
-some subcategories:
 
-* Vowel-final stems, which also take inflectional suffixes ending on
-  (non-yod) vowels (excepting the adverbial)
-* Consonant-final stems, which take endings beginning on a yodified vowel,
-  if one exists
-* Diphthongal stems, which also take the yodified vowels.
-
-Some inflectional endings thus may have two alternatives:
-
-|  Case                  | Non-yod      | Yod
-|  Nominative plural     | ос           | ёс
-|  Accusative singular   | эз           | ез
-|  Instrumental singular | эн           | ен
-|  Illative singular     | э            | е
-|  Prolative singular    | этӥ          | етӥ
-
-Other cases do not vary depending on these environments.
-
-Note that depending on the palatal/nonpalatal status of the last segment,
-the yodified vowel series may be preceded by a <ъ>. According to references though,
-the palatal marker <ь> must remain even when followed by this series.
-Udmurt also has a unique way of handling hiatus relationships, where the non-yod
-series follows vowels, and the yod series follows consonants.
-
-Also note that though stems may not change, orthographically, there may need to be
-a hard sign inserted to maintain the non-palatal pronunciation of certain
-consonant segments.
-
-Some examples:
-
-*-V stems*
-
-|  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
-|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
-|  дунне | дуннеос | дуннеын | дуннелэн | дуннея
-|  ты    | тыос    | тыын    | тылэн    | тыя
-
-*-C stems*
-
-|  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
-|  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
-|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
-|  вить  | витьёс  | витьын | витьлэн | витья
-
-*Diphthongs*
-
-|  NomSg | NomPl | IneSg | GenSg | Advl Sg
-|  уй    | уйёс  | уйын  | уйлэн | уйя
-
-###  Russian loans ending in -ия/-ие
-
-Russian loanwords ending on these segments delete the final yodified vowel
-in all cases, except for the singular adverbial and nominative singular.
-
-Examples:
-
-|  Nominative Singular   |  конференци–0–я      |  собрани–0–е
-|  Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
-|  Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
-|  Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
-|  Adverbial Singular    |  конференци–я–я      |  собрани–е–я
-
-Note also that Russian stress is preserved in Nominative Singular, but
-Udmurt stress takes over for inflected forms, and shifts to the final vowel.
-
-This applies to all sorts of Russian words, also including placenames ending
-in -я, excepting biblical place names, and Russian personal names.
-
-TODO: implement in propernouns
-
- * Финляндия - Финляндиын
- * Эстония   - Эстониын
-
-But:
-
- * Самария   – Самарияын
- * Евгения   – Евгения–лы
- * Юлия      – Юлия–лы
-
-There are also some subtypes, where this deletion does not occur even though
-the word ends in -я:
-
- * Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
-
-###  Place names based on names of old tribes
-
-See *affixes/propernouns.lexc*, but quickly: 
-
-These typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-cases, they take an infix which is optional. The optional infix causes
-short versions of case suffixes, otherwise the words take the long version.
-
-###  корка / куала
-
-The words *корка, куала* have some forms similar to the tribe/place names, and some
-cases behave differently: Inessive, Elative have the short consonant-only
-suffix, but unlike the tribe/place names, there is no -ла- infix.
-
-TODO: write tests
-
-###  "Old" Finno-ugric stems (-м-, -г-, -т-)
-
-TODO: add these to lexicon, and add morphology. Consider marking in morphology
-in a way that NDS can present:  син син(м)-
-TODO: write tests
-TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
-
-```
-         <l>muohta</l>
-         <lc>muohttaga</lc>
-```
-
-Some particularly old words have since experienced some amount of deletion
-and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
-but their appearance isn't completely regular, in that some variation
-exists, and sometimes the "short" stem without this segment appears where
-the "long" stem usually would.
-
-Usually, these will also be marked in dictionaries. син син(м)-.
-
-When the possessive is applied to nominative versions of these forms,
-the possessive will have the vowel -ы- instead of -э- or -е-. Also,
-the 'old' segments appear.
-
-Examples:
-
--м–
-
-|  син        | син–тэм      | синм–ысь                | сынм–ы
-|  *silmä*  | *sokea*    | (elat.)                 | (px. y. 1. p.)
-|  визь       | визь–тэк     | визьм–о				 |  
-|  *järki*  | (abess.)     | *viisas*				 |  
-|  куйнь      | куйнь–лэсь   | куйньм–ой				 |  
-|  *kolme*  | (abl.)       | *3:n päivän kuluessa* |  
-|             | куйнь–етй    | ~ куйньм–етӥ			 |  
-|             | *kolmas*   | *kolmas*				 |  
-|  ин         |               | инм–ын				 |  
-|  *taivas* |               | (iness.)				 |  
-
--к–
-
-|  кус        |  кус–лы     |   куск–ын        |  куск–ы
-|  *lantio* |  (dat.)     |   (iness.)       |  (Px Sg1)
-|  *vyötärö*|             |                |  
-|  улеп       |  улеп–лы     |   улепк–ын       |  
-|  *elävä*  |  (dat.)      |   (instr.)       |  
-|  nюлэс      | нюлэс–лы     |   нюлэск–ын      |  
-|  *metsä*  |  (dat.)      |   (iness.)       |  
-|  вис        | вис–лы       |   виск–ын        |  
-|  *tauko*  |  (dat.)      |   (iness.)       |  
-|  *väli*   |	 	 |	 	         |  
-
--т–
-
-|  кык        |  кык–намы      |   кыкт–о
-|  *kaksi*  |  *me kaksin* | *kaksoset*
-|             |                | *kaksospari*
-|             |  кык–етӥ       |  кыкт–ой
-|             |  *toinen*    | *kahden päivän kuluessa*
-|             |                |  кыкт–етӥ
-|             |                |   *toinen*
-
-###  Vowel deletion stems
-
-* TODO: add to lexicon, also need a morphophonological symbol for these
-* TODO: write tests
-
-Some stems also delete vowels in specific cases, generally when the stem is
-attached to a vowel-initial suffix. Alternatively, the vowels may remain,
-but a epenthetic consonant may appear: -к-
-
-Optional deletion
-
-|  сэрег      | серг–ын  | 
-|  *nurkka* | (iness.) | 
-|  *kulma*           |                |   
-|  сюлэм      | сюлм–ыд  | сюлэм–ыд
-|  *sydän*  | (Px Sg2) | (Px Sg2)
-
-Deletion or epenthesis
-
-|  вадес               | вадьс-ын   |  вадеск–ын
-|  *aika, hetki*     | (iness.)   |  (iness.)
-|  *paikka, palsta*          |                |   
-|  пыдэс               | пыдс–ын    |  пидэск–ын
-|  *pohja*           | (iness.)   |  (iness.)
-|  урдэс               | урдс–ын    |  урдэск–ын
-|  *vierus*          | (iness.)   |  (iness.)
-
-NB: palatal quality implied by the yodified vowel in the first example is
-preserved via a soft sign.
-
-
-
-###  Suffix ordering with possessive construction
-
-The possessive construction results in different case ordering:
-
-*N-Num-Poss-Case*:
-
-* Genetive
-* Ablative
-* Dative
-* Abessive
-* Adverbial
-* Approximative
-* Terminative
-
-*N-Num-Case-Poss*:
-
-* Inessive
-* Elative
-* Illative
-* Egressive
-* Prolative
-* Instrumental
-
-Note that since the adjective 'determinative' is essentially the 3rd person
-singular possessive, the above ordering also follows for adjective inflection.
-Also note, some cases have atlernate forms for when tehy come before the possessive.
-
-Cases with alternate forms:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-*Examples*:
-
-Genetive:
-
-|  Px 1pSg        | Px 2pSg         | Px 3pSg
-|  бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
-|  бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
-
-Inessive:
-
-|  Px 1pSg      | Px 2pSg      | Px 3pSg
-|  бакча-я-м    | бакча-я-д    | бакча-я-з
-|  бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
-
-Elative:
-
-|  Px 1pSg          | Px 2pSg          | Px 3pSg
-|  бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
-|  бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
-
-* TODO: write tests for these ordering situations
-* TODO: implement these in lexc
-
-Noun Lexica
-
-Words from lexicon N_ are mostly covered. These are from the main
-class of nouns described in more depth above.
-
-this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
-TODO: +N+Sg+Ine     endings	 in "н"
-
-
-Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
-set the stem as ending in –ия, but there is a trigger that causes
-the final "я" to disappear in some situations.
-
-Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
-set the stem as ending in –ие, but there is a trigger that causes
-the final "е" to disappear in some situations.
-
-Words from Tatar in **N_TAT** preserve the original stem я in all cases.
-
-
-
-
-
-
-according to kpv temporary 2019-11-07
- * **LEXICON CASEPOSSLEX**
-
-
- * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
-
-
-À la Jaska
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ LEXICON ADV_  Undeveloped contlexes
 
 
 
@@ -811,290 +1149,6 @@ PLACE NAMES FROM TEMPLATES !!
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-UDMURT Adjective inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-```
-    бадӟым-ъёс-ысьты-з
-    ADJ - PL - CASE - DET
-           vs
-    бадӟым-ъёс-ыз-лэн
-    ADJ - PL - DET - CASE
-```
-
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
-
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
-
-*Absolutive congruence*
-
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
-
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
-
-words with this contlex have not been examined
-
-
-
-
-
-
-Cases here all lead to a determinative suffix
-
-Cases here all lead to a determinative suffix
-
-
-
-
-
-
-
-UDMURT Pronoun inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-
-words with this contlex have not been examined
-
-
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
-
-
-
-мон:м
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-# Adverbs
-Udmurt (Votyak) .
-
-The adverbs have a minimal morphology, just the tag +Adv.
-
-
- LEXICON ADV_  Undeveloped contlexes
-
-
-
-
-
-UDMURT Adjective inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-```
-    бадӟым-ъёс-ысьты-з
-    ADJ - PL - CASE - DET
-           vs
-    бадӟым-ъёс-ыз-лэн
-    ADJ - PL - DET - CASE
-```
-
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
-
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
-
-*Absolutive congruence*
-
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
-
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
-
-words with this contlex have not been examined
 
 
 
@@ -1296,57 +1350,82 @@ Lexicon *NONFINITESjaska*
 
 
 
-# Udmurt twol file
+UDMURT Adjective inflection
 
-## Alphabet, Sets and Definitions
+Udmurt adjectives inflect for:
 
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
 
-## Letters of the alphabet
+###  Determinative notes
 
- * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
- * А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
 
-## Archiphonemes for vowels
+The cases with alternate forms are:
 
- %^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
-## Triggers
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
 
- * %^ConsTransf:0  
- * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
- * %^RusJa:0       Эстония:Эстониез
- * %^RusJaErr:0    Эстония:Эстонияез
- * %^NotRusJa:0    no words in ия ие
+Note that these alternative suffixes have palatal and non-palatal versions
 
- * %^SYNC:0        
- * %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
- * %^ЫLoss:0       This is used for мыныны: мын 
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
- * Ы2:0	        morpheme initial disappears after vowel ы 0
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
 
- * %^Е2:0	        morpheme initial disappears after vowel е э 0
- * %^И2:0	        morpheme initial disappears after vowel и ӥ 0
- * %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
- * %^А3:0	        Ine а, я
- * %^Л3:0	        ужаны:ужало
- * %^К3:0	        нюлэс:нюлэс%^К3
- * %^М3:0	        син:син%^М3
- * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
+```
+    бадӟым-ъёс-ысьты-з
+    ADJ - PL - CASE - DET
+           vs
+    бадӟым-ъёс-ыз-лэн
+    ADJ - PL - DET - CASE
+```
 
-## Boundary symbols
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
 
- *  %>  
- * hash #
- *  %-  
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
 
+*Absolutive congruence*
 
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
 
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-## Sets 
+TODO: what is the difference?
 
+*Determinative Plural with congruence*
 
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
 
+words with this contlex have not been examined
 
 
 
@@ -1358,138 +1437,91 @@ Lexicon *NONFINITESjaska*
 
 
 
-## Definitions
 
+UDMURT Pronoun inflection
 
+Udmurt adjectives inflect for:
 
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
 
+###  Determinative notes
 
-## Rules
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
 
+The cases with alternate forms are:
 
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
 
+Note that these alternative suffixes have palatal and non-palatal versions
 
-## DEPALATALISATION
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-**Depalatalize и**
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
 
-**Depalatalize е**
-* *мыны%>%^Е2*
-* *мын0%>э*
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
-**Depalatalized %{еэ%} **
-* *укмысназ%>%{еэ%}с*
-* *укмысназ%>эс*
 
-**Depalatalize и**
-* *мыны%>%^И2сько*
-* *мын0%>ӥсько*
+words with this contlex have not been examined
 
-**Depalatalize е3:е**
-* *бакча%>%^Е3*
-* *бакча%>е*
 
-**Depalatalize е3:э**
+ * **LEXICON PERS** 
+ * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
 
 
-**Depalatalize and raise е3:ы**
 
-**Depalatalize and raise ё:о**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
+мон:м
 
 
-**%^А3:а**
 
-**%^О2:о**
-* *мыны%>%^О2*
-* *мын0%>о*
-* *ужа%>0%^О2*
-* *ужа%>ло*
 
-**Palatal %^О2:ё**
 
 
-**Palatal э:е**
 
-**Palatal е**
 
-**Palatal и**
-* *луы%>%^И2з*
-* *лу0%>из*
 
-**Palatal а**
 
-**Palatal и:й**
 
 
-## VOWEL LOSS
-Is this really necessary
-**Stem vowel loss ы:0 LEFT **
-* *луы%>%^Е2м*
-* *лу0%>эм*
 
-**Stem vowel loss Ы2:0 RIGHT**
-* *луы%>%^Е2м*
-* *лу0%>эм*
-* *мыны#*
-* *мыны0*
-* *мын00*
-* *возьы#*
-* *возьы0*
-* *возь00*
 
-**я:0**
 
-**е:0**
 
-**е:ь**
 
-**э:0**
 
 
-**Palatal е:0**
 
-**Palatal и:0**
 
-**%^О2:0**
-* *ужа%>%^О2*
-* *ужа%>0*
 
-**й:0**
 
-**ь:0**
-* *возь%>Ы2#*
-* *возь%>ы0*
 
-**ъ:0**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
 
-## ZERO TO CONSONANT
-**%^Л3:л**
-* *ужа%>%^Л3%^О2*
-* *ужа%>ло*
 
-## CONSONANTS
 
-**Devoicing д:т**
 
-**Devoicing з:с**
 
-**Surface consonant before vowel %^К3:к**
 
-**Surface consonant before vowel %^М3:м**
 
-**Disallow %^NotRusJa after cons or other vowels**
 
-**Disallow %^RusJa after cons or other vowels**
 
-**Disallow %^RusJaErr after cons or other vowels**
+
+
+
+
+
 
 
 Morphology
@@ -1995,36 +2027,20 @@ PronTag ;
 PcleTag ;
 
 
-Prefixes
-Prefixes in the Udmurt language are bound to beginning of other words.
 
 
 
-This is where new words are added as lexc entries before they are
-added to the xml source files.
-апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
+We describe here how abbreviations are in Udmurt are read out, e.g.
+for text-to-speech systems.
 
-ADD NOUNS BELOW
+For example:
 
-
-
-Exceptions are quite strange word-forms. the ones that do not fit anywhere 
-else. This file contains all enumerated word forms that cannot reasonably be
-created from lexical data by regular inflection. Usually there should be next
-to none exceptions, it's always better to have a paradigm that covers only
-one or few words than an exception since these will not work nicely with e.g.
-compounding scheme or possibly many end applications.
-
-
-This is a temporary work around
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
-
-Proper names from Bible
-
-
-Numerals
-Numerals in UDMURT language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -2094,21 +2110,5 @@ This is for the numerals 20-69
 
 
 
-
-
-
-
-
-We describe here how abbreviations are in Udmurt are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
 
 
