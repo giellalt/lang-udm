@@ -5,8 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/issues)
 [![Build status](https://github.com/giellalt/lang-udm/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-udm/actions)
 
-This is the documentation of a tentative finite state automaton for the **Udmurt language model**. 
-The automaton is made after the same model as the Sami automata.
+This is the documentation of a tentative finite state automaton for the [Udmurt language model](http://github.com/giellalt/lang-udm). The automaton is made after the same model as the Sami automata.
 
 # General documentation
 
