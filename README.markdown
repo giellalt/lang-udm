@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-udm.git/trunk lang-udm
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-udm/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-udm/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
