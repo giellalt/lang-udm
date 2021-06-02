@@ -1,5 +1,7 @@
 # Udmurt twol file
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
+
 ## Alphabet, Sets and Definitions
 
 

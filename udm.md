@@ -1905,6 +1905,8 @@ according to kpv temporary 2019-11-07
 
 # Udmurt twol file
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
+
 ## Alphabet, Sets and Definitions
 
 
