@@ -1,5 +1,5 @@
 
-      U D M U R T  G R A M M A R   C H E C K E R
+U D M U R T  G R A M M A R   C H E C K E R
 
 
 
@@ -409,3 +409,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-udm/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>

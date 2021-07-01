@@ -41,7 +41,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 ## Boundary symbols
 
  *  %>  
- * hash #
+* hash #
  *  %-  
 
 
@@ -195,3 +195,5 @@ Is this really necessary
 
 **Disallow %^RusJaErr after cons or other vowels**
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>

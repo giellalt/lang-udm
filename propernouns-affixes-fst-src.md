@@ -85,7 +85,7 @@ Beginning 2012-11-15
 
 
 
-PLACE NAMES FROM TEMPLATES !!
+
 
 
 
@@ -132,7 +132,6 @@ Ending 2012-11-15
 
 FEMALE NAMES FROM TEMPLATE
 
-PLACE NAMES FROM TEMPLATES !!
 
 
 
@@ -150,3 +149,6 @@ PLACE NAMES FROM TEMPLATES !!
 
 
 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>

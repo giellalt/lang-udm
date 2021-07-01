@@ -13,3 +13,5 @@ Russian verbs are often followed by the Udmurt карыны OR карон
 Proper names from Bible
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>

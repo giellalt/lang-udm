@@ -35,11 +35,11 @@ Note that these alternative suffixes have palatal and non-palatal versions
 TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
 ```
-    бадӟым-ъёс-ысьты-з
-    ADJ - PL - CASE - DET
-           vs
-    бадӟым-ъёс-ыз-лэн
-    ADJ - PL - DET - CASE
+бадӟым-ъёс-ысьты-з
+ADJ - PL - CASE - DET
+vs
+бадӟым-ъёс-ыз-лэн
+ADJ - PL - DET - CASE
 ```
 
 Plurality in Determinative
@@ -86,3 +86,5 @@ words with this contlex have not been examined
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>

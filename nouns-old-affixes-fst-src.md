@@ -9,9 +9,9 @@ as a result of inflection. These nouns however, for FST purposes, fall into
 some subcategories:
 
 * Vowel-final stems, which also take inflectional suffixes ending on
-  (non-yod) vowels (excepting the adverbial)
+(non-yod) vowels (excepting the adverbial)
 * Consonant-final stems, which take endings beginning on a yodified vowel,
-  if one exists
+if one exists
 * Diphthongal stems, which also take the yodified vowels.
 
 Some inflectional endings thus may have two alternatives:
@@ -77,19 +77,19 @@ in -я, excepting biblical place names, and Russian personal names.
 
 TODO: implement in propernouns
 
- * Финляндия - Финляндиын
- * Эстония   - Эстониын
+* Финляндия - Финляндиын
+* Эстония   - Эстониын
 
 But:
 
- * Самария   – Самарияын
- * Евгения   – Евгения–лы
- * Юлия      – Юлия–лы
+* Самария   – Самарияын
+* Евгения   – Евгения–лы
+* Юлия      – Юлия–лы
 
 There are also some subtypes, where this deletion does not occur even though
 the word ends in -я:
 
- * Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
+* Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
 
 ###  Place names based on names of old tribes
 
@@ -115,8 +115,8 @@ TODO: write tests
 TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
 
 ```
-         <l>muohta</l>
-         <lc>muohttaga</lc>
+<l>muohta</l>
+<lc>muohttaga</lc>
 ```
 
 Some particularly old words have since experienced some amount of deletion
@@ -341,3 +341,5 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>
