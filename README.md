@@ -3,7 +3,7 @@ The Udmurt morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/issues)
 [![Build Status](https://github.com/giellalt/lang-udm/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-udm/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-udm)](https://raw.githubusercontent.com/giellalt/lang-udm/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/blob/main/LICENSE)
 
 This repository contains finite state source files for the Udmurt language,
 for building morphological analysers, proofing tools
