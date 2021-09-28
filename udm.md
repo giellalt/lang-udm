@@ -606,7 +606,43 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-udm/blob/main/../src/cg3/functions.cg3)</small># Udmurt twol file
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-udm/blob/main/../src/cg3/functions.cg3)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+
+This is a temporary work around
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Proper names from Bible
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>Prefixes
+Prefixes in the Udmurt language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/prefixes.lexc)</small>Numerals
+Numerals in UDMURT language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/numerals.lexc)</small>This is where new words are added as lexc entries before they are
+added to the xml source files.
+апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
+
+ADD NOUNS BELOW
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Udmurt twol file
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
 
@@ -804,20 +840,7 @@ Is this really necessary
 **Disallow %^RusJaErr after cons or other vowels**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small># Adverbs
-Udmurt (Votyak) .
-
-The adverbs have a minimal morphology, just the tag +Adv.
-
-
- LEXICON ADV_  Undeveloped contlexes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adverbs.lexc)</small>###  UDMURT Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -1148,146 +1171,196 @@ according to kpv temporary 2019-11-07
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small># Udmurt Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small>UDMURT Adjective inflection
 
-Place names based on names of old tribes
+Udmurt adjectives inflect for:
 
-These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-cases, they take an infix which is optional.
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
 
-The following may be exhaustive, but unsure yet.
+###  Determinative notes
 
-* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
-* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
-* -ка: Поска
-* -ра: Бигра, Эгра
-* -ла: Чола
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
 
-Infix is optional in some cases
+The cases with alternate forms are:
 
-|   Case    |  Infix | No infix
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
 
-| --- | --- | --- 
-|  Iness.    |  Салья-ла-н   |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+Note that these alternative suffixes have palatal and non-palatal versions
 
-The following cases do not have the infix at all
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-|   Case    |  No infix
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
 
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
+```
+бадӟым-ъёс-ысьты-з
+ADJ - PL - CASE - DET
+vs
+бадӟым-ъёс-ыз-лэн
+ADJ - PL - DET - CASE
+```
 
-So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
-and then redirects to *NOUNSUF_01*.
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
 
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
 
-Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
-which have an optional infix for some cases, while some do not.
+*Absolutive congruence*
 
-In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
-Examples:
-|   Case    |  Infix | No infix
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
 
-| --- | --- | --- 
-|  Iness.     |  Салья-ла-н    |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-Note also that the infix results in a 'short' case affix.
+TODO: what is the difference?
 
-In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
+*Determinative Plural with congruence*
 
-|   Case  | wordform
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
 
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
+words with this contlex have not been examined
 
 
 
-Russian type Surnames 
 
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
 
 
+Cases here all lead to a determinative suffix
 
+Cases here all lead to a determinative suffix
 
 
- * :2 PropSur-kal ;  These are foreign Л words
 
 
 
-Абдеев:Абдеев
 
-Багрий:Багр
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives-old.lexc)</small>
+# Symbol affixes
 
-Аморский:Аморск
 
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/symbols.lexc)</small># Adverbs
+Udmurt (Votyak) .
 
+The adverbs have a minimal morphology, just the tag +Adv.
 
 
+ LEXICON ADV_  Undeveloped contlexes
 
-These are vowel-final stems
-They have previously received +Sem/Fem tags
 
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adverbs.lexc)</small>UDMURT Adjective inflection
 
+Udmurt adjectives inflect for:
 
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
 
+###  Determinative notes
 
-Should this be limited to +Sg? 2015-09-06
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
 
-Вили:Вил
+The cases with alternate forms are:
 
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
 
+Note that these alternative suffixes have palatal and non-palatal versions
 
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-Андрей:Андре
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
 
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
+```
+бадӟым-ъёс-ысьты-з
+ADJ - PL - CASE - DET
+vs
+бадӟым-ъёс-ыз-лэн
+ADJ - PL - DET - CASE
+```
 
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
 
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
 
+*Absolutive congruence*
 
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
 
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
+TODO: what is the difference?
 
+*Determinative Plural with congruence*
 
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
 
-
-Ending 2012-11-15
-
-
-
-
-
-
-
-
-
-FEMALE NAMES FROM TEMPLATE
-
-
-
-
-
-
-
+words with this contlex have not been examined
 
 
 
@@ -1301,7 +1374,86 @@ FEMALE NAMES FROM TEMPLATE
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>###  UDMURT Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>Udmurt verb inflection
+Udmurt verbs are mainly split into two types: 
+* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
+* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
+
+Conjugation I verbs also may have a 'short' stem, which subtracts the final
+*ы*. The rule is not necessarily as simple as suffixes that begin on
+consonants require a vowel-ending stem, because there are some exceptions.
+Following is a list of things that use the short stem (so far
+incomplete, but feel free to add to it)
+* All forms of the *present affirmative*
+* All forms of the *present negative*
+* All forms of the *future affirmative*
+* All forms of the *future negative*
+* Preterite II Negative? 
+* Caritive gerund? 
+
+And the long stem:
+* Infinitive
+* Conditional affirmative, negative
+* basic gerund, temporal gerund, fourth gerund ?
+* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
+
+There are some orthographic things to consider, and they show up in the way
+verbs are inflected. The palatizing series [[d z l n s t] is represented 
+in two ways: vowel letters following, or by the palatizing symbol. 
+
+возьыны    ..   возе    ..   возисько
+бертыны    ..   бертэ   ..   бертӥсько
+
+ LEXICON V_  Verb type is still to be determined.
+
+
+
+
+
+Typical V_MONO entry is the long stem, ending on <ы>
+берты, возьы
+
+бертыны:берт V_MONO  "mennä kotiin" ;
+
+Lexicon **V_MONO** мыныны:мыны
+* Yaml: **mynyny** , This is first declension
+
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Lexicon **V_UZA**
+* Yaml: **uzhany** , this is second declension
+
+
+Mutual à la Jaska
+мыныны:мыны
+Lexicon **V_МЫНЫНЫ**
+* Yaml: **mynyny** 
+
+
+
+Lexicon **APRS**
+
+Lexicon **FUT-PERSON**
+
+Lexicon **PRTI-PERSON**
+
+Lexicon **PRTII-PERSON**
+
+
+
+Lexicon **COND**
+
+Lexicon **IMPRT**
+
+Lexicon **OPT**
+
+Lexicon **NONFINITES**
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small>###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -1645,86 +1797,160 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>Udmurt verb inflection
-Udmurt verbs are mainly split into two types: 
-* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
-* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small># Udmurt Proper noun inflection
 
-Conjugation I verbs also may have a 'short' stem, which subtracts the final
-*ы*. The rule is not necessarily as simple as suffixes that begin on
-consonants require a vowel-ending stem, because there are some exceptions.
-Following is a list of things that use the short stem (so far
-incomplete, but feel free to add to it)
-* All forms of the *present affirmative*
-* All forms of the *present negative*
-* All forms of the *future affirmative*
-* All forms of the *future negative*
-* Preterite II Negative? 
-* Caritive gerund? 
+Place names based on names of old tribes
 
-And the long stem:
-* Infinitive
-* Conditional affirmative, negative
-* basic gerund, temporal gerund, fourth gerund ?
-* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
+These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+cases, they take an infix which is optional.
 
-There are some orthographic things to consider, and they show up in the way
-verbs are inflected. The palatizing series [[d z l n s t] is represented 
-in two ways: vowel letters following, or by the palatizing symbol. 
+The following may be exhaustive, but unsure yet.
 
-возьыны    ..   возе    ..   возисько
-бертыны    ..   бертэ   ..   бертӥсько
+* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
+* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
+* -ка: Поска
+* -ра: Бигра, Эгра
+* -ла: Чола
 
- LEXICON V_  Verb type is still to be determined.
+Infix is optional in some cases
 
+|   Case    |  Infix | No infix
 
+| --- | --- | --- 
+|  Iness.    |  Салья-ла-н   |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
 
+The following cases do not have the infix at all
 
+|   Case    |  No infix
 
-Typical V_MONO entry is the long stem, ending on <ы>
-берты, возьы
-
-бертыны:берт V_MONO  "mennä kotiin" ;
-
-Lexicon **V_MONO** мыныны:мыны
-* Yaml: **mynyny** , This is first declension
-
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
-
-Lexicon **V_UZA**
-* Yaml: **uzhany** , this is second declension
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
 
 
-Mutual à la Jaska
-мыныны:мыны
-Lexicon **V_МЫНЫНЫ**
-* Yaml: **mynyny** 
+So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
+and then redirects to *NOUNSUF_01*.
 
 
+Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
+which have an optional infix for some cases, while some do not.
 
-Lexicon **APRS**
+In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
+Examples:
+|   Case    |  Infix | No infix
 
-Lexicon **FUT-PERSON**
+| --- | --- | --- 
+|  Iness.     |  Салья-ла-н    |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
 
-Lexicon **PRTI-PERSON**
+Note also that the infix results in a 'short' case affix.
 
-Lexicon **PRTII-PERSON**
+In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
+
+|   Case  | wordform
+
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
 
 
 
-Lexicon **COND**
+Russian type Surnames 
 
-Lexicon **IMPRT**
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
 
-Lexicon **OPT**
 
-Lexicon **NONFINITES**
+
+
+
+ * :2 PropSur-kal ;  These are foreign Л words
+
+
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+
+
+
+
+
+
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+
+
+
+Андрей:Андре
+
+
+
+
+
+
+
+
+
+
+
+
+Ending 2012-11-15
+
+
+
+
+
+
+
+
+
+FEMALE NAMES FROM TEMPLATE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small>UDMURT Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>UDMURT Pronoun inflection
 
 Udmurt adjectives inflect for:
 
@@ -1760,55 +1986,20 @@ Note that these alternative suffixes have palatal and non-palatal versions
 
 TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
-```
-бадӟым-ъёс-ысьты-з
-ADJ - PL - CASE - DET
-vs
-бадӟым-ъёс-ыз-лэн
-ADJ - PL - DET - CASE
-```
-
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
-
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
-
-*Absolutive congruence*
-
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
-
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
 
 words with this contlex have not been examined
 
 
+ * **LEXICON PERS** 
+ * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
+
+
+
+мон:м
 
 
 
 
-Cases here all lead to a determinative suffix
-
-Cases here all lead to a determinative suffix
 
 
 
@@ -1816,83 +2007,22 @@ Cases here all lead to a determinative suffix
 
 
 
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives-old.lexc)</small>UDMURT Adjective inflection
 
-Udmurt adjectives inflect for:
 
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
 
-###  Determinative notes
 
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
 
-The cases with alternate forms are:
 
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
 
-Note that these alternative suffixes have palatal and non-palatal versions
 
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
 
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
 
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
-```
-бадӟым-ъёс-ысьты-з
-ADJ - PL - CASE - DET
-vs
-бадӟым-ъёс-ыз-лэн
-ADJ - PL - DET - CASE
-```
 
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
 
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
 
-*Absolutive congruence*
 
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
 
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
-
-words with this contlex have not been examined
 
 
 
@@ -1906,7 +2036,7 @@ words with this contlex have not been examined
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>Udmurt verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
 * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
@@ -2019,100 +2149,6 @@ Lexicon *NONFINITESjaska*
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs-old.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/symbols.lexc)</small>UDMURT Pronoun inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-
-words with this contlex have not been examined
-
-
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
-
-
-
-мон:м
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
@@ -2617,43 +2653,24 @@ PcleTag ;
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/root.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
-else. This file contains all enumerated word forms that cannot reasonably be
-created from lexical data by regular inflection. Usually there should be next
-to none exceptions, it's always better to have a paradigm that covers only
-one or few words than an exception since these will not work nicely with e.g.
-compounding scheme or possibly many end applications.
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/root.lexc)</small>
 
 
-This is a temporary work around
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
+We describe here how abbreviations are in Udmurt are read out, e.g.
+for text-to-speech systems.
 
-Proper names from Bible
+For example:
 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>Numerals
-Numerals in UDMURT language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
-Prefixes in the Udmurt language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/prefixes.lexc)</small>This is where new words are added as lexc entries before they are
-added to the xml source files.
-апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
-
-ADD NOUNS BELOW
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 
 
@@ -2724,23 +2741,6 @@ This is for the numerals 20-69
 
 * * *
 <small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
-
-
-We describe here how abbreviations are in Udmurt are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 U D M U R T  G R A M M A R   C H E C K E R
 
 
