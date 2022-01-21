@@ -606,531 +606,297 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-udm/blob/main/../src/cg3/functions.cg3)</small># Udmurt twol file
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet, Sets and Definitions
-
-
-## Letters of the alphabet
-
- * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
- * А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
-
-## Archiphonemes for vowels
-
- %^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
-## Triggers
-
- * %^ConsTransf:0  
- * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
- * %^RusJa:0       Эстония:Эстониез
- * %^RusJaErr:0    Эстония:Эстонияез
- * %^NotRusJa:0    no words in ия ие
-
- * %^SYNC:0        
- * %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
- * %^ЫLoss:0       This is used for мыныны: мын 
-
- * Ы2:0	        morpheme initial disappears after vowel ы 0
-
- * %^Е2:0	        morpheme initial disappears after vowel е э 0
- * %^И2:0	        morpheme initial disappears after vowel и ӥ 0
- * %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
- * %^А3:0	        Ine а, я
- * %^Л3:0	        ужаны:ужало
- * %^К3:0	        нюлэс:нюлэс%^К3
- * %^М3:0	        син:син%^М3
- * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
-
-
-## Boundary symbols
-
- *  %>  
-* hash #
- *  %-  
-
-
-
-
-## Sets 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Definitions
-
-
-
-
-
-## Rules
-
-
-
-
-## DEPALATALISATION
-
-**Depalatalize и**
-
-**Depalatalize е**
-* *мыны%>%^Е2*
-* *мын0%>э*
-
-**Depalatalized %{еэ%} **
-* *укмысназ%>%{еэ%}с*
-* *укмысназ%>эс*
-
-**Depalatalize и**
-* *мыны%>%^И2сько*
-* *мын0%>ӥсько*
-
-**Depalatalize е3:е**
-* *бакча%>%^Е3*
-* *бакча%>е*
-
-**Depalatalize е3:э**
-
-
-**Depalatalize and raise е3:ы**
-
-**Depalatalize and raise ё:о**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
-
-
-**%^А3:а**
-
-**%^О2:о**
-* *мыны%>%^О2*
-* *мын0%>о*
-* *ужа%>0%^О2*
-* *ужа%>ло*
-
-**Palatal %^О2:ё**
-
-
-**Palatal э:е**
-
-**Palatal е**
-
-**Palatal и**
-* *луы%>%^И2з*
-* *лу0%>из*
-
-**Palatal а**
-
-**Palatal и:й**
-
-
-## VOWEL LOSS
-Is this really necessary
-**Stem vowel loss ы:0 LEFT **
-* *луы%>%^Е2м*
-* *лу0%>эм*
-
-**Stem vowel loss Ы2:0 RIGHT**
-* *луы%>%^Е2м*
-* *лу0%>эм*
-* *мыны#*
-* *мыны0*
-* *мын00*
-* *возьы#*
-* *возьы0*
-* *возь00*
-
-**я:0**
-
-**е:0**
-
-**е:ь**
-
-**э:0**
-
-
-**Palatal е:0**
-
-**Palatal и:0**
-
-**%^О2:0**
-* *ужа%>%^О2*
-* *ужа%>0*
-
-**й:0**
-
-**ь:0**
-* *возь%>Ы2#*
-* *возь%>ы0*
-
-**ъ:0**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
-
-## ZERO TO CONSONANT
-**%^Л3:л**
-* *ужа%>%^Л3%^О2*
-* *ужа%>ло*
-
-## CONSONANTS
-
-**Devoicing д:т**
-
-**Devoicing з:с**
-
-**Surface consonant before vowel %^К3:к**
-
-**Surface consonant before vowel %^М3:м**
-
-**Disallow %^NotRusJa after cons or other vowels**
-
-**Disallow %^RusJa after cons or other vowels**
-
-**Disallow %^RusJaErr after cons or other vowels**
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>Numerals
-Numerals in UDMURT language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
-Prefixes in the Udmurt language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/prefixes.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
-else. This file contains all enumerated word forms that cannot reasonably be
-created from lexical data by regular inflection. Usually there should be next
-to none exceptions, it's always better to have a paradigm that covers only
-one or few words than an exception since these will not work nicely with e.g.
-compounding scheme or possibly many end applications.
-
-
-This is a temporary work around
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
-
-Proper names from Bible
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are
-added to the xml source files.
-апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
-
-ADD NOUNS BELOW
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-udm/blob/main/../src/cg3/functions.cg3)</small>
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols
 
 Analysis symbols
 The morphological analyses of wordforms for the UDMURT language are presented
 in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
- * +WORK
+* +WORK
 The parts-of-speech are:
 
- * +N  Noun
- * +A  Adjective
- * +Adv  Adverb
- * +Det  Determiner
- * +V  Verb
- * +Pron  Pronoun
- * +CS  Subordinating conjunction
- * +CC  Coordinating conjunction
- * +Adp  Adposition
- * +Po  Postposition
- * +Pr  Preposition
- * +Interj  Interjection
- * +Pcle  Particle
- * +Num  Numeral
+* +N  Noun
+* +A  Adjective
+* +Adv  Adverb
+* +Det  Determiner
+* +V  Verb
+* +Pron  Pronoun
+* +CS  Subordinating conjunction
+* +CC  Coordinating conjunction
+* +Adp  Adposition
+* +Po  Postposition
+* +Pr  Preposition
+* +Interj  Interjection
+* +Pcle  Particle
+* +Num  Numeral
 
- * +Conj FIXME
+* +Conj FIXME
 
 The parts of speech are further split up into:
 
- * +Prop  Proper
- * +Pers  Personal
- * +Dem  Demonstrative
- * +Interr  Interrogative
- * +Refl  Reflexive
- * +Recipr  Reciprocal
- * +Rel  Relative
- * +Indef  Indefinite
+* +Prop  Proper
+* +Pers  Personal
+* +Dem  Demonstrative
+* +Interr  Interrogative
+* +Refl  Reflexive
+* +Recipr  Reciprocal
+* +Rel  Relative
+* +Indef  Indefinite
 
 
 
 The Usage extents are marked using following tags:
 
- * +Err/Orth Not in norm
- * +Use/-Spell Not in speller
+* +Err/Orth Not in norm
+* +Use/-Spell Not in speller
 
- * +OLang/RUS - Russian
- * +RusV this is for Russian verbs followed by Udmurt  карыны OR карон
+* +OLang/RUS - Russian
+* +RusV this is for Russian verbs followed by Udmurt  карыны OR карон
 
 The nominals are inflected in the following Number
 
- * +Sg  Singular
- * +Du  Dual
- * +Pl  Plural
+* +Sg  Singular
+* +Du  Dual
+* +Pl  Plural
 
 
 The nominals are inflected in the following Case
 TODO: Document case names!
 
- * +Cmpl Absolute form 2019-06-03 is complement of following head 2019-11-21 do we want this
+* +Cmpl Absolute form 2019-06-03 is complement of following head 2019-11-21 do we want this
 
- * +Nom  Nominative
- * +Acc  Accusative
- * +Gen  Genitive
- * +Abl  Ablative
- * +Dat  Dative
- * +Ins  Instrumental
- * +Abe  Abessive
- * +Advl  Adverbial
- * +Ine  Inessive 
- * +Ill  Illative
- * +Ela  Elative
- * +Egr  Egressive
- * +Ter  Terminative
- * +Prl  Prolative
- * +Apr  Approximative
+* +Nom  Nominative
+* +Acc  Accusative
+* +Gen  Genitive
+* +Abl  Ablative
+* +Dat  Dative
+* +Ins  Instrumental
+* +Abe  Abessive
+* +Advl  Adverbial
+* +Ine  Inessive 
+* +Ill  Illative
+* +Ela  Elative
+* +Egr  Egressive
+* +Ter  Terminative
+* +Prl  Prolative
+* +Apr  Approximative
 
 
 The possession is marked as such:
 
- * +PxSg1
- * +PxSg2
- * +PxSg3
- * +PxPl1
- * +PxPl2
- * +PxPl3
+* +PxSg1
+* +PxSg2
+* +PxSg3
+* +PxPl1
+* +PxPl2
+* +PxPl3
 
 The comparative forms are:
 
- * +Comp  Comparative
- * +Superl  Superlative
+* +Comp  Comparative
+* +Superl  Superlative
 
 Numerals are classified under:
 
- * +Attr  Attributive form (adnominal)
- * +Card  Cardinal
- * +Ord  Ordinal
+* +Attr  Attributive form (adnominal)
+* +Card  Cardinal
+* +Ord  Ordinal
 
 Verb moods are:
-  +Cond	 Conditional
-  +Imprt	 Imperative
-  +Ind	 Indicative
-  +Opt	 Optional
+ +Cond	 Conditional
+ +Imprt	 Imperative
+ +Ind	 Indicative
+ +Opt	 Optional
 
 
 
 Verb tenses are:
-  +Fut    Future
-  +Prs    Present
-  +PrtI   Preterite One
-  +PrtII  Preterite Two
+ +Fut    Future
+ +Prs    Present
+ +PrtI   Preterite One
+ +PrtII  Preterite Two
 
 Verb personal forms are:
 
- * +Sg1
- * +Sg2
- * +Sg3
- * +Du1
- * +Du2
- * +Du3
- * +Pl1
- * +Pl2
- * +Pl3
+* +Sg1
+* +Sg2
+* +Sg3
+* +Du1
+* +Du2
+* +Du3
+* +Pl1
+* +Pl2
+* +Pl3
 
 Other verb forms are: (TODO: Document the tags)
 
- * +Inf  Infinitive
- * +Ger  Gerund
- * +ConNeg  Connegative (used with verb of negation)
- * +ConNegII  Connegative (used with verb of negation) ?Does this apply to Udmurt?
- * +Neg  Negation, (used to mark verb of negation)
- * +ImprtII  Imperative II, ?Does this apply to Udmurt?
-  +PrcPrsPos    	  Participle present positive
-  +PrcPrfAdn    	  Participle perfect adnominal
-  +PrcPrfPred   	  Participle perfect predicative
-  +PrcPrfNeg    	  Participle perfect negative 
-  +PrcPrsNeg    	  Participle present negative CHECKME
-  +GerPos       	 мыныса    Gerund positive
-  +GerNeg       	 мынытэк   Gerund negative
-  +GerTer       	 мынытозь  Gerund terminative
-  +GerTemp      	 мыныку    Gerund temporal
- * +Sup  Supine
- * +VGen  Verbal genitive
- * +VAbess  Verbal abesive
+* +Inf  Infinitive
+* +Ger  Gerund
+* +ConNeg  Connegative (used with verb of negation)
+* +ConNegII  Connegative (used with verb of negation) ?Does this apply to Udmurt?
+* +Neg  Negation, (used to mark verb of negation)
+* +ImprtII  Imperative II, ?Does this apply to Udmurt?
+ +PrcPrsPos    	  Participle present positive
+ +PrcPrfAdn    	  Participle perfect adnominal
+ +PrcPrfPred   	  Participle perfect predicative
+ +PrcPrfNeg    	  Participle perfect negative 
+ +PrcPrsNeg    	  Participle present negative CHECKME
+ +GerPos       	 мыныса    Gerund positive
+ +GerNeg       	 мынытэк   Gerund negative
+ +GerTer       	 мынытозь  Gerund terminative
+ +GerTemp      	 мыныку    Gerund temporal
+* +Sup  Supine
+* +VGen  Verbal genitive
+* +VAbess  Verbal abesive
 
- * +Prc This is only for the dictionary at present 2019-06-04
+* +Prc This is only for the dictionary at present 2019-06-04
 
 
- * +ABBR  Abbreviation
- * +Symbol = independent symbols in the text stream, like £, €, ©
- * +ACR  Acronym
+* +ABBR  Abbreviation
+* +Symbol = independent symbols in the text stream, like £, €, ©
+* +ACR  Acronym
 
 Special symbols are classified with:
- * +CLB   Clause boundary
- * +PUNCT   Punctuation 
- * +LEFT   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
- * +RIGHT   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
+* +CLB   Clause boundary
+* +PUNCT   Punctuation 
+* +LEFT   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
+* +RIGHT   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
 
 The verbs are syntactically split according to transitivity:
 
- * +TV Transitive
- * +IV Intransitive
+* +TV Transitive
+* +IV Intransitive
 
 Special multiword units are analysed with:
- * +Multi Multiword phrase tag
+* +Multi Multiword phrase tag
 Non-dictionary words can be recognised with:
- * +Guess machine guessed
+* +Guess machine guessed
 
 Question and Focus particles:
- * +Qst  Question
- * +Foc  Focus
+* +Qst  Question
+* +Foc  Focus
 
 ### Tags distinguishing different versions of the same lemma (before POS)
- * +v1
- * +v2
- * +v3
- * +v4
- * +v5
- * +v6
- * +v7
- * +v8
- * +v9
- * +v10
- * +v11
- * +v12
- * +v13
- * +v14
- * +v15
- * +v16
- * +v17
- * +v18
- * +v19
- * +v20
+* +v1
+* +v2
+* +v3
+* +v4
+* +v5
+* +v6
+* +v7
+* +v8
+* +v9
+* +v10
+* +v11
+* +v12
+* +v13
+* +v14
+* +v15
+* +v16
+* +v17
+* +v18
+* +v19
+* +v20
 
 
- * **+Sem/Act** Activity
- * **+Sem/Amount** Amount
- * **+Sem/Ani** Animate
- * **+Sem/Aniprod** Animal Product
- * **+Sem/Body** Bodypart
- * **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
- * **+Sem/Build** Building
- * **+Sem/Build-part** Part of Bulding, like the closet
- * **+Sem/Cat** Category
- * **+Sem/Clth** Clothes
- * **+Sem/Clth-jewl** Jewelery
- * **+Sem/Clth-part** part of clothes, boallu, sávdnji...
- * **+Sem/Ctain** Container
- * **+Sem/Ctain-abstr** Abstract container like bank account
- * **+Sem/Ctain-clth**
- * **+Sem/Curr** Currency like dollár, Not Money
- * **+Sem/Dance** Dance
- * **+Sem/Dir** Direction like GPS-kursa
- * **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
- * **+Sem/Drink** Drink
- * **+Sem/Dummytag** Dummytag
- * **+Sem/Edu** Educational event
- * **+Sem/Event** Event
- * **+Sem/Feat** Feature, like Árvu
- * **+Sem/Feat-phys** Physiological feature, ivdni, fárda
- * **+Sem/Feat-psych** Psychological feauture
- * **+Sem/Feat-measr** Psychological feauture
- * **+Sem/Fem** Female name
- * **+Sem/Food** Food
- * **+Sem/Food-med** Medicine
- * **+Sem/Furn** Furniture
- * **+Sem/Game** Game
- * **+Sem/Geom** Geometrical object
- * **+Sem/Group** Animal or Human Group
- * **+Sem/Hum** Human
- * **+Sem/Hum-abstr** Human abstract
- * **+Sem/Ideol** Ideology
- * **+Sem/Lang** Language
- * **+Sem/Mal** Male name
- * **+Sem/Mat** Material for producing things
- * **+Sem/Measr** Measure
- * **+Sem/Money** Has to do with money, like wages, not Curr(ency)
- * **+Sem/Obj** Object
- * **+Sem/Obj-clo** Cloth
- * **+Sem/Obj-cogn** Cloth
- * **+Sem/Obj-el** (Electrical) machine or apparatus
- * **+Sem/Obj-ling** Object with something written on it
- * **+Sem/Obj-rope** flexible ropelike object
- * **+Sem/Obj-surfc** Surface object
- * **+Sem/Org** Organisation
- * **+Sem/Part** Feature, oassi, bealli
- * **+Sem/Perc-cogn** Cognative perception
- * **+Sem/Perc-emo** Emotional perception
- * **+Sem/Perc-phys** Physical perception
- * **+Sem/Perc-psych** Physical perception
- * **+Sem/Plant** Plant
- * **+Sem/Plant-part** Plant part
- * **+Sem/Plc** Place
- * **+Sem/Plc-abstr** Abstract place
- * **+Sem/Plc-elevate** Place
- * **+Sem/Plc-line** Place
- * **+Sem/Plc-water** Place
- * **+Sem/Pos** Position (as in social position job)
- * **+Sem/Process** Process
- * **+Sem/Prod** Product
- * **+Sem/Prod-audio** Audio product
- * **+Sem/Prod-cogn** Cognition product
- * **+Sem/Prod-ling** Linguistic product
- * **+Sem/Prod-vis** Visual product
- * **+Sem/Rel** Relation
- * **+Sem/Route** Name of a Route
- * **+Sem/Rule** Rule or convention
- * **+Sem/Semcon** Semantic concept
- * **+Sem/Sign** Sign (e.g. numbers, punctuation) 
- * **+Sem/Sport** Sport
- * **+Sem/State** 
- * **+Sem/State-sick** Illness
- * **+Sem/Substnc** Substance, like Air and Water
- * **+Sem/Sur** Surname
- * **+Sem/Sur-Fem** Surname
- * **+Sem/Sur-Mal** Surname
- * **+Sem/Symbol** Symbol
- * **+Sem/Time** Time
- * **+Sem/Tool** Prototypical tool for repairing things
- * **+Sem/Tool-catch** Tool used for catching (e.g. fish)
- * **+Sem/Tool-clean** Tool used for cleaning
- * **+Sem/Tool-it** Tool used in IT
- * **+Sem/Tool-measr** Tool used for measuring
- * **+Sem/Tool-music** Music instrument
- * **+Sem/Tool-write** Writing tool
- * **+Sem/Txt** Text (girji, lávlla...)
- * **+Sem/Veh** Vehicle
- * **+Sem/Wpn** Weapon
- * **+Sem/Wthr** The Weather or the state of ground
+* **+Sem/Act** Activity
+* **+Sem/Amount** Amount
+* **+Sem/Ani** Animate
+* **+Sem/Aniprod** Animal Product
+* **+Sem/Body** Bodypart
+* **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
+* **+Sem/Build** Building
+* **+Sem/Build-part** Part of Bulding, like the closet
+* **+Sem/Cat** Category
+* **+Sem/Clth** Clothes
+* **+Sem/Clth-jewl** Jewelery
+* **+Sem/Clth-part** part of clothes, boallu, sávdnji...
+* **+Sem/Ctain** Container
+* **+Sem/Ctain-abstr** Abstract container like bank account
+* **+Sem/Ctain-clth**
+* **+Sem/Curr** Currency like dollár, Not Money
+* **+Sem/Dance** Dance
+* **+Sem/Dir** Direction like GPS-kursa
+* **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
+* **+Sem/Drink** Drink
+* **+Sem/Dummytag** Dummytag
+* **+Sem/Edu** Educational event
+* **+Sem/Event** Event
+* **+Sem/Feat** Feature, like Árvu
+* **+Sem/Feat-phys** Physiological feature, ivdni, fárda
+* **+Sem/Feat-psych** Psychological feauture
+* **+Sem/Feat-measr** Psychological feauture
+* **+Sem/Fem** Female name
+* **+Sem/Food** Food
+* **+Sem/Food-med** Medicine
+* **+Sem/Furn** Furniture
+* **+Sem/Game** Game
+* **+Sem/Geom** Geometrical object
+* **+Sem/Group** Animal or Human Group
+* **+Sem/Hum** Human
+* **+Sem/Hum-abstr** Human abstract
+* **+Sem/Ideol** Ideology
+* **+Sem/Lang** Language
+* **+Sem/Mal** Male name
+* **+Sem/Mat** Material for producing things
+* **+Sem/Measr** Measure
+* **+Sem/Money** Has to do with money, like wages, not Curr(ency)
+* **+Sem/Obj** Object
+* **+Sem/Obj-clo** Cloth
+* **+Sem/Obj-cogn** Cloth
+* **+Sem/Obj-el** (Electrical) machine or apparatus
+* **+Sem/Obj-ling** Object with something written on it
+* **+Sem/Obj-rope** flexible ropelike object
+* **+Sem/Obj-surfc** Surface object
+* **+Sem/Org** Organisation
+* **+Sem/Part** Feature, oassi, bealli
+* **+Sem/Perc-cogn** Cognative perception
+* **+Sem/Perc-emo** Emotional perception
+* **+Sem/Perc-phys** Physical perception
+* **+Sem/Perc-psych** Physical perception
+* **+Sem/Plant** Plant
+* **+Sem/Plant-part** Plant part
+* **+Sem/Plc** Place
+* **+Sem/Plc-abstr** Abstract place
+* **+Sem/Plc-elevate** Place
+* **+Sem/Plc-line** Place
+* **+Sem/Plc-water** Place
+* **+Sem/Pos** Position (as in social position job)
+* **+Sem/Process** Process
+* **+Sem/Prod** Product
+* **+Sem/Prod-audio** Audio product
+* **+Sem/Prod-cogn** Cognition product
+* **+Sem/Prod-ling** Linguistic product
+* **+Sem/Prod-vis** Visual product
+* **+Sem/Rel** Relation
+* **+Sem/Route** Name of a Route
+* **+Sem/Rule** Rule or convention
+* **+Sem/Semcon** Semantic concept
+* **+Sem/Sign** Sign (e.g. numbers, punctuation) 
+* **+Sem/Sport** Sport
+* **+Sem/State** 
+* **+Sem/State-sick** Illness
+* **+Sem/Substnc** Substance, like Air and Water
+* **+Sem/Sur** Surname
+* **+Sem/Sur-Fem** Surname
+* **+Sem/Sur-Mal** Surname
+* **+Sem/Symbol** Symbol
+* **+Sem/Time** Time
+* **+Sem/Tool** Prototypical tool for repairing things
+* **+Sem/Tool-catch** Tool used for catching (e.g. fish)
+* **+Sem/Tool-clean** Tool used for cleaning
+* **+Sem/Tool-it** Tool used in IT
+* **+Sem/Tool-measr** Tool used for measuring
+* **+Sem/Tool-music** Music instrument
+* **+Sem/Tool-write** Writing tool
+* **+Sem/Txt** Text (girji, lávlla...)
+* **+Sem/Veh** Vehicle
+* **+Sem/Wpn** Weapon
+* **+Sem/Wthr** The Weather or the state of ground
 
 
 
@@ -1142,51 +908,51 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
- * +V→N
- * +V→V
- * +V→A
-  +Der/ку     мыныку ужаку
-  +Der/ны     мыныны ужаны
-  +Der/Он     мынон ужан
-  +Der/Оно     мыноно ужано
-  +Der/тозь   мынытозь ужатозь
-  +Der/тэм   мынӥсьтэм ужасьтэм
-  +Der/Эм     мынэм ужам
-  +Der/Эмтэ     мынэмтэ ужамтэ
-  +Der/Этӥ     ordinals
+* +V→N
+* +V→V
+* +V→A
+ +Der/ку     мыныку ужаку
+ +Der/ны     мыныны ужаны
+ +Der/Он     мынон ужан
+ +Der/Оно     мыноно ужано
+ +Der/тозь   мынытозь ужатозь
+ +Der/тэм   мынӥсьтэм ужасьтэм
+ +Der/Эм     мынэм ужам
+ +Der/Эмтэ     мынэмтэ ужамтэ
+ +Der/Этӥ     ordinals
 
 
 Dialectical variation
- * +Dial/North
- * +Dial/South
+* +Dial/North
+* +Dial/South
 
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
-  %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
- * %^Ы2 morpheme initial disappears after vowel
- * %^Е2 morpheme initial disappears after vowel
- * %^И2 morpheme initial disappears after vowel
- * %^О2 morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3 Acc, Ill е э ы
- * %^А3 Ine а, я
- * %^Л3	        ужаны:ужало
- * %^К3 нюлэс:нюлэсК3
- * %^М3 син:синМ3
+ %^@  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@
+* %^Ы2 morpheme initial disappears after vowel
+* %^Е2 morpheme initial disappears after vowel
+* %^И2 morpheme initial disappears after vowel
+* %^О2 morpheme initial disappears after vowel also ло after stem-final а
+* %^Е3 Acc, Ill е э ы
+* %^А3 Ine а, я
+* %^Л3	        ужаны:ужало
+* %^К3 нюлэс:нюлэсК3
+* %^М3 син:синМ3
 
- * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
+* %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
 
 And following triggers to control variation
 
- * %^RusJa Эстония:Эстониез
- * %^RusJaErr    Эстония:Эстонияез
- * %^NotRusJa    no words in ия ие
- * %^SYNC
- * %^ЫLossVar This is used for мыныны: мыны ~ мын
- * %^ЫLoss This is used for мыныны: мын
+* %^RusJa Эстония:Эстониез
+* %^RusJaErr    Эстония:Эстонияез
+* %^NotRusJa    no words in ия ие
+* %^SYNC
+* %^ЫLossVar This is used for мыныны: мыны ~ мын
+* %^ЫLoss This is used for мыныны: мын
 
 ### Symbols that need to be escaped on the lower side (towards twolc):
 
@@ -1200,38 +966,38 @@ And following triggers to control variation
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
- |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
- |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
- |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
- |  @P.CmpPref.FALSE@ | Block these words from making further compounds
- |  @D.CmpLast.TRUE@ | Block such words from entering R
- |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
- |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
- |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
- |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
- |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
- |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Udmurt language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
- *  ABBR_udm2x ;	 abbreviations
+*  ABBR_udm2x ;	 abbreviations
 Testing 2019-11-07
 Testing 2019-11-07
 
- *  N_NEWWORDS ;     These are new nouns without translations
+*  N_NEWWORDS ;     These are new nouns without translations
 
 
 
@@ -1638,10 +1404,10 @@ Words from Tatar in **N_TAT** preserve the original stem я in all cases.
 
 
 according to kpv temporary 2019-11-07
- * **LEXICON CASEPOSSLEX**
+* **LEXICON CASEPOSSLEX**
 
 
- * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+* LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
 
 
 À la Jaska
@@ -1684,288 +1450,7 @@ according to kpv temporary 2019-11-07
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small># Adverbs
-Udmurt (Votyak) .
-
-The adverbs have a minimal morphology, just the tag +Adv.
-
-
- LEXICON ADV_  Undeveloped contlexes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adverbs.lexc)</small>UDMURT Adjective inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-```
-бадӟым-ъёс-ысьты-з
-ADJ - PL - CASE - DET
-vs
-бадӟым-ъёс-ыз-лэн
-ADJ - PL - DET - CASE
-```
-
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
-
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
-
-*Absolutive congruence*
-
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
-
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
-
-words with this contlex have not been examined
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>UDMURT Pronoun inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-
-words with this contlex have not been examined
-
-
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
-
-
-
-мон:м
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>UDMURT Adjective inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-```
-бадӟым-ъёс-ысьты-з
-ADJ - PL - CASE - DET
-vs
-бадӟым-ъёс-ыз-лэн
-ADJ - PL - DET - CASE
-```
-
-Plurality in Determinative
-Note that there are two options for how plural attributive adjectives may appear.
-One option is the aforementioned, another option is for plural to appear twice.
-
-In this situation, one of the plurals has a different form:
-These examples are from Udmurtin kielioppi: 
-
-*Absolutive congruence*
-
-|  Case   | Yks.            | Mon.
-|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
-|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
-|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
-|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
-
-*Determinative Singular ~ Plural*
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-TODO: what is the difference?
-
-*Determinative Plural with congruence*
-
-|  Case   | Abs.                    | Det.
-|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
-|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
-
-words with this contlex have not been examined
-
-
-
-
-
-
-Cases here all lead to a determinative suffix
-
-Cases here all lead to a determinative suffix
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives-old.lexc)</small>###  UDMURT Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small>###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -2309,7 +1794,275 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>Udmurt verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>UDMURT Adjective inflection
+
+Udmurt adjectives inflect for:
+
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
+
+###  Determinative notes
+
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
+
+The cases with alternate forms are:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+Note that these alternative suffixes have palatal and non-palatal versions
+
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+```
+бадӟым-ъёс-ысьты-з
+ADJ - PL - CASE - DET
+vs
+бадӟым-ъёс-ыз-лэн
+ADJ - PL - DET - CASE
+```
+
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
+
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
+
+*Absolutive congruence*
+
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
+
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+TODO: what is the difference?
+
+*Determinative Plural with congruence*
+
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
+
+words with this contlex have not been examined
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>UDMURT Pronoun inflection
+
+Udmurt adjectives inflect for:
+
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
+
+###  Determinative notes
+
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
+
+The cases with alternate forms are:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+Note that these alternative suffixes have palatal and non-palatal versions
+
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+
+words with this contlex have not been examined
+
+
+* **LEXICON PERS** 
+* **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
+
+
+
+мон:м
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>UDMURT Adjective inflection
+
+Udmurt adjectives inflect for:
+
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
+
+###  Determinative notes
+
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
+
+The cases with alternate forms are:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+Note that these alternative suffixes have palatal and non-palatal versions
+
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+```
+бадӟым-ъёс-ысьты-з
+ADJ - PL - CASE - DET
+vs
+бадӟым-ъёс-ыз-лэн
+ADJ - PL - DET - CASE
+```
+
+Plurality in Determinative
+Note that there are two options for how plural attributive adjectives may appear.
+One option is the aforementioned, another option is for plural to appear twice.
+
+In this situation, one of the plurals has a different form:
+These examples are from Udmurtin kielioppi: 
+
+*Absolutive congruence*
+
+|  Case   | Yks.            | Mon.
+|  Nom.   | бадӟым гурт     | бадӟым(-есь) гурт-ъёс
+|  Iness. | бадӟым гурт-ын  | бадӟым(-есь) гурт-ъёс-ын
+|  Illat. | бадӟым гурт-э   | бадӟым(-есь) гурт-ъёс-ы
+|  Elat.  | бадӟым гурт-ысь | бадӟым(-есь) гурт-ъёс-ысь
+
+*Determinative Singular ~ Plural*
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+TODO: what is the difference?
+
+*Determinative Plural with congruence*
+
+|  Case   | Abs.                    | Det.
+|  Nom.   | бадӟым-есь гурт-ъёс     | бадӟым-есь-ёс-ыз гурт-ъёс
+|  Iness. | бадӟым-есь гурт-ъёс-ын  | бадӟым-есь-ёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-есь гурт-ъёс-ы   | бадӟым-есь-ёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-есь гурт-ъёс-ысь | бадӟым-есь-ёс-ысьты-з гурт-ъёс-ысь
+
+words with this contlex have not been examined
+
+
+
+
+
+
+Cases here all lead to a determinative suffix
+
+Cases here all lead to a determinative suffix
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives-old.lexc)</small>Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
 * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
@@ -2339,7 +2092,7 @@ in two ways: vowel letters following, or by the palatizing symbol.
 возьыны    ..   возе    ..   возисько
 бертыны    ..   бертэ   ..   бертӥсько
 
- LEXICON V_  Verb type is still to be determined.
+LEXICON V_  Verb type is still to be determined.
 
 
 
@@ -2388,7 +2141,173 @@ Lexicon **NONFINITES**
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small>Udmurt verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small># Adverbs
+Udmurt (Votyak) .
+
+The adverbs have a minimal morphology, just the tag +Adv.
+
+
+LEXICON ADV_  Undeveloped contlexes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adverbs.lexc)</small># Udmurt Proper noun inflection
+
+Place names based on names of old tribes
+
+These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+cases, they take an infix which is optional.
+
+The following may be exhaustive, but unsure yet.
+
+* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
+* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
+* -ка: Поска
+* -ра: Бигра, Эгра
+* -ла: Чола
+
+Infix is optional in some cases
+
+|   Case    |  Infix | No infix
+
+| --- | --- | --- 
+|  Iness.    |  Салья-ла-н   |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+
+The following cases do not have the infix at all
+
+|   Case    |  No infix
+
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
+
+
+So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
+and then redirects to *NOUNSUF_01*.
+
+
+Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
+which have an optional infix for some cases, while some do not.
+
+In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
+Examples:
+|   Case    |  Infix | No infix
+
+| --- | --- | --- 
+|  Iness.     |  Салья-ла-н    |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+
+Note also that the infix results in a 'short' case affix.
+
+In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
+
+|   Case  | wordform
+
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
+
+
+
+Russian type Surnames 
+
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
+
+
+
+
+
+* :2 PropSur-kal ;  These are foreign Л words
+
+
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+
+
+
+
+
+
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+
+
+
+Андрей:Андре
+
+
+
+
+
+
+
+
+
+
+
+
+Ending 2012-11-15
+
+
+
+
+
+
+
+
+
+FEMALE NAMES FROM TEMPLATE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
 * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
@@ -2418,7 +2337,7 @@ in two ways: vowel letters following, or by the palatizing symbol.
 возьыны    ..   возе    ..   возисько
 бертыны    ..   бертэ   ..   бертӥсько
 
- LEXICON V_  Verb type is still to be determined.
+LEXICON V_  Verb type is still to be determined.
 
 Typical V_MONO entry is the long stem, ending on <ы>
 берты, возьы
@@ -2500,160 +2419,241 @@ Lexicon *NONFINITESjaska*
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs-old.lexc)</small># Udmurt Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs-old.lexc)</small># Udmurt twol file
 
-Place names based on names of old tribes
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
 
-These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-cases, they take an infix which is optional.
+## Alphabet, Sets and Definitions
 
-The following may be exhaustive, but unsure yet.
 
-* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
-* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
-* -ка: Поска
-* -ра: Бигра, Эгра
-* -ла: Чола
+## Letters of the alphabet
 
-Infix is optional in some cases
+* а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
+* А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
 
-|   Case    |  Infix | No infix
+## Archiphonemes for vowels
 
-| --- | --- | --- 
-|  Iness.    |  Салья-ла-н   |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+%^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+## Triggers
 
-The following cases do not have the infix at all
+* %^ConsTransf:0  
+* %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
+* %^RusJa:0       Эстония:Эстониез
+* %^RusJaErr:0    Эстония:Эстонияез
+* %^NotRusJa:0    no words in ия ие
 
-|   Case    |  No infix
+* %^SYNC:0        
+* %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
+* %^ЫLoss:0       This is used for мыныны: мын 
 
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
+* Ы2:0	        morpheme initial disappears after vowel ы 0
 
+* %^Е2:0	        morpheme initial disappears after vowel е э 0
+* %^И2:0	        morpheme initial disappears after vowel и ӥ 0
+* %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
+* %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
+* %^А3:0	        Ine а, я
+* %^Л3:0	        ужаны:ужало
+* %^К3:0	        нюлэс:нюлэс%^К3
+* %^М3:0	        син:син%^М3
+* %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
 
-So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
-and then redirects to *NOUNSUF_01*.
 
+## Boundary symbols
 
-Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
-which have an optional infix for some cases, while some do not.
+*  %>  
+* hash #
+*  %-  
 
-In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
-Examples:
-|   Case    |  Infix | No infix
 
-| --- | --- | --- 
-|  Iness.     |  Салья-ла-н    |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
 
-Note also that the infix results in a 'short' case affix.
 
-In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
+## Sets 
 
-|   Case  | wordform
 
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
 
 
 
-Russian type Surnames 
 
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
 
 
 
 
 
- * :2 PropSur-kal ;  These are foreign Л words
 
 
 
-Абдеев:Абдеев
+## Definitions
 
-Багрий:Багр
 
 
-Аморский:Аморск
 
 
+## Rules
 
 
 
 
+## DEPALATALISATION
 
+**Depalatalize и**
 
-These are vowel-final stems
-They have previously received +Sem/Fem tags
+**Depalatalize е**
+* *мыны%>%^Е2*
+* *мын0%>э*
 
+**Depalatalized %{еэ%} **
+* *укмысназ%>%{еэ%}с*
+* *укмысназ%>эс*
 
+**Depalatalize и**
+* *мыны%>%^И2сько*
+* *мын0%>ӥсько*
 
+**Depalatalize е3:е**
+* *бакча%>%^Е3*
+* *бакча%>е*
 
+**Depalatalize е3:э**
 
 
+**Depalatalize and raise е3:ы**
 
+**Depalatalize and raise ё:о**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
 
-Should this be limited to +Sg? 2015-09-06
 
-Вили:Вил
+**%^А3:а**
 
+**%^О2:о**
+* *мыны%>%^О2*
+* *мын0%>о*
+* *ужа%>0%^О2*
+* *ужа%>ло*
 
+**Palatal %^О2:ё**
 
 
-Андрей:Андре
+**Palatal э:е**
 
+**Palatal е**
 
+**Palatal и**
+* *луы%>%^И2з*
+* *лу0%>из*
 
+**Palatal а**
 
+**Palatal и:й**
 
 
+## VOWEL LOSS
+Is this really necessary
+**Stem vowel loss ы:0 LEFT **
+* *луы%>%^Е2м*
+* *лу0%>эм*
 
+**Stem vowel loss Ы2:0 RIGHT**
+* *луы%>%^Е2м*
+* *лу0%>эм*
+* *мыны#*
+* *мыны0*
+* *мын00*
+* *возьы#*
+* *возьы0*
+* *возь00*
 
+**я:0**
 
+**е:0**
 
+**е:ь**
 
+**э:0**
 
-Ending 2012-11-15
 
+**Palatal е:0**
 
+**Palatal и:0**
 
+**%^О2:0**
+* *ужа%>%^О2*
+* *ужа%>0*
 
+**й:0**
 
+**ь:0**
+* *возь%>Ы2#*
+* *возь%>ы0*
 
+**ъ:0**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
 
+## ZERO TO CONSONANT
+**%^Л3:л**
+* *ужа%>%^Л3%^О2*
+* *ужа%>ло*
 
+## CONSONANTS
 
-FEMALE NAMES FROM TEMPLATE
+**Devoicing д:т**
 
+**Devoicing з:с**
 
+**Surface consonant before vowel %^К3:к**
 
+**Surface consonant before vowel %^М3:м**
 
+**Disallow %^NotRusJa after cons or other vowels**
 
+**Disallow %^RusJa after cons or other vowels**
 
+**Disallow %^RusJaErr after cons or other vowels**
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>This is where new words are added as lexc entries before they are
+added to the xml source files.
+апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
 
-
-
-
-
-
-
-
-
+ADD NOUNS BELOW
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>Prefixes
+Prefixes in the Udmurt language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/prefixes.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+
+This is a temporary work around
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Proper names from Bible
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>Numerals
+Numerals in UDMURT language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/numerals.lexc)</small>
 
 
 We describe here how abbreviations are in Udmurt are read out, e.g.
@@ -2661,12 +2661,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *
@@ -2689,7 +2689,7 @@ For example:
 
 
 
- :одӥг%    1MILJON ; 
+:одӥг%    1MILJON ; 
 
 
 

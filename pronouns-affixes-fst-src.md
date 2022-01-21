@@ -38,8 +38,8 @@ TODO: ordering of suffixes sometimes differs? Compare this with possession morph
 words with this contlex have not been examined
 
 
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
+* **LEXICON PERS** 
+* **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
 
 
 

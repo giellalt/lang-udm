@@ -283,10 +283,10 @@ Words from Tatar in **N_TAT** preserve the original stem я in all cases.
 
 
 according to kpv temporary 2019-11-07
- * **LEXICON CASEPOSSLEX**
+* **LEXICON CASEPOSSLEX**
 
 
- * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+* LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
 
 
 À la Jaska

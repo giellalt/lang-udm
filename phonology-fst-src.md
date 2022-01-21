@@ -7,42 +7,42 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 
 ## Letters of the alphabet
 
- * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
- * А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
+* а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
+* А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
 
 ## Archiphonemes for vowels
 
- %^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+%^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
 ## Triggers
 
- * %^ConsTransf:0  
- * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
- * %^RusJa:0       Эстония:Эстониез
- * %^RusJaErr:0    Эстония:Эстонияез
- * %^NotRusJa:0    no words in ия ие
+* %^ConsTransf:0  
+* %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
+* %^RusJa:0       Эстония:Эстониез
+* %^RusJaErr:0    Эстония:Эстонияез
+* %^NotRusJa:0    no words in ия ие
 
- * %^SYNC:0        
- * %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
- * %^ЫLoss:0       This is used for мыныны: мын 
+* %^SYNC:0        
+* %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
+* %^ЫLoss:0       This is used for мыныны: мын 
 
- * Ы2:0	        morpheme initial disappears after vowel ы 0
+* Ы2:0	        morpheme initial disappears after vowel ы 0
 
- * %^Е2:0	        morpheme initial disappears after vowel е э 0
- * %^И2:0	        morpheme initial disappears after vowel и ӥ 0
- * %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
- * %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
- * %^А3:0	        Ine а, я
- * %^Л3:0	        ужаны:ужало
- * %^К3:0	        нюлэс:нюлэс%^К3
- * %^М3:0	        син:син%^М3
- * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
+* %^Е2:0	        morpheme initial disappears after vowel е э 0
+* %^И2:0	        morpheme initial disappears after vowel и ӥ 0
+* %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
+* %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
+* %^А3:0	        Ine а, я
+* %^Л3:0	        ужаны:ужало
+* %^К3:0	        нюлэс:нюлэс%^К3
+* %^М3:0	        син:син%^М3
+* %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
 
 
 ## Boundary symbols
 
- *  %>  
+*  %>  
 * hash #
- *  %-  
+*  %-  
 
 
 

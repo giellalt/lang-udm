@@ -28,7 +28,7 @@ in two ways: vowel letters following, or by the palatizing symbol.
 возьыны    ..   возе    ..   возисько
 бертыны    ..   бертэ   ..   бертӥсько
 
- LEXICON V_  Verb type is still to be determined.
+LEXICON V_  Verb type is still to be determined.
 
 
 
