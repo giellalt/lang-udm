@@ -1,225 +1,24 @@
+# Udmurt description 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+All documents in one file
 
 
 
 * Sets for POS sub-categories
 
-
-
-
-
 * Sets for Semantic tags
-
-
-
-
 
 * Sets for Morphosyntactic properties
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Sets for verbs
-
 
 - V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
-
-
 * The set COPULAS is for predicative constructions
 
-
-
-
-
-
-
 * NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
 
 * The PRE-NP-HEAD family of sets
 
@@ -227,90 +26,30 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
 The set **NOT-NPMOD** is used to find barriers between NPs.
 Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
 meaning: Scan to the first noun, ignoring anything that can be
 part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
-
-
-
-
-
 * Miscellaneous sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * Border sets and their complements
 
-
-
-
-
-
-
-
-
-
-
-
-
 * Syntactic sets
-
-
-
 
 These were the set types.
 
-
-
 ## HABITIVE MAPPING
 
-
 * **hab1** 
-
 
 * **hab2** 
 
 * **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
 
-
-
 * **habNomLeft** 
 
-
 * **hab4** 	
-
-
 
 * **hab6** 
 
@@ -319,90 +58,11 @@ These were the set types.
 * **hab8** This is not HAB
 * **hab5**  This is not HAB
 
-
-
 * **habDain** (<hab> @ADVL>) for (Pron Dem Pl Loc) if leat followed by Nom to the right
-
-
-
 
 * **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **spred<obj** (@SPRED<OBJ) for Acc; the object of an SPRPED. Not to be mistaken with OPRED. If SPRED is to the left, and copulas is to the left of it. Nom or Hab are found sentence initially.
-
 
 * **Hab<spred** (@<SPRED) for Nom; if copulas, goallut or jápmit is FMAINV and habitive or human Loc is found to the left. OR: if Ill or @Pron< followed by HAB are found to the left.
 
@@ -414,14 +74,11 @@ These were the set types.
 
 * **<spred** (<ext> @<SUBJ) for Nom, but not for Pers. To the left boahtit or heaŋgát as MAINV, and futher to the left is some kind of place related word, or time related word
 
-
 * **<spredQst1** (<ext> @<SUBJ) for Nom in a typically question sentence; if A) Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. B) same as a, only the Qst-pcle is attached to copulas. C) Qst to the left, with copulas to its left, but not if two Nom:s are found somewhere to the right. D) copulas to the left, and BOS to the left. E) Loc or Ill to the left, and Loc or Hab to the left of this, Qst and copulas to the left. F) Num @>N to the left, Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. NOTE) for all these rules; human, Loc or Sem/Plc not allowed to the right.
 
 * **<spredQst2** (@<SPRED) for Nom; in a typically question sentence; differs from <spredQst1 by not beeing as restricted to the right. Though you are not allowed to be Pers or human.
 
 * **Nom<spredQst** (@<SPRED) for Nom; in a typically question sentence. Differs from <spredQst2 by letting Nom be found between SPRED and copulas
-
-
 
 * **<spred** (@<SPRED) for A Nom or N Nom if; the subject Nom is on the same side of copulas as you: on the right side of copulas
 
@@ -430,7 +87,6 @@ These were the set types.
 * **leftCop<spred** (@<SPRED) for Nom; if copulas is the main verb to the left, and there is no Ess found to the left of cop (note that Loc is allowed between target and cop). OR: if you are Coll or Sem/Group with copulas to your left. 
 
 * **<spredLocEXPERIMENT** (@<SPRED) for material Loc; if you are to the right of copulas, and the Nom to the left of copulas is not a hab-actor
-
 
 * **NumTime** (@<SPRED) for A Nom
 
@@ -452,22 +108,13 @@ These were the set types.
 
 * **r492>** (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
 
-
-
 * **AdjSpredSg>** (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
 
 * **SpredSg>Hab** (@SPRED>) for Nom; if you are sentence initial, copulas is located to the right, and there is a habitive to the right of copulas
 
-
-
 * **Spred>SubjInf** (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
 
 * **spredCoord** (@<SPRED) coordination for Nom; only if there already is a SPRED to the left of CNP. Not if there is some kind of comparison involved.
-
-
-
-
-
 
 * **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
 
@@ -476,142 +123,63 @@ These were the set types.
 
 * **subj>Pl** (@SUBJ>) for plural nominatives
 
-
 * **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
 
 * **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **f<advl** (@-F<ADVL) for infinite adverbials
 
 * **f<advl** (@-F<ADVL) for infinite adverbials
-
-
 
 * **s-boundary=advl>** (@ADVL>) for ADVL that resemble s-booundaries. Mainverb to the right.
-
-
-
 
 * **-fobj>** (@-FOBJ>) for Acc 
 
 * **-fobj>** (@-FOBJ>) for Acc
 
-
-
-
 * **advl>mainV** (@ADVL>) if; finite mainverb not found to the left, but the finite mainverb is found to the right.
 
-
 * **<advl** (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
-
-
-
 
 * **<advlPoPr** (@<ADVL) if mainverb to the left.
 * **advlPoPr>** (@<ADVL) if mainverb to the right.
 
-
-
 * **advlEss>** (@<ADVL) for weather and time Ess, if FMAINV to the left.
-
-
-
-
-
 
 * **advl>inbetween** (@ADVL>) for Adv; if inbetween two sentenceboundaries where no mainverb is present.
 
 * **comma<advlEOS** (@<ADVL) if; comma found to the left and the finite mainverb to the left of comma. To the right is the end of the sentence.
 
-
-
 * **advlBOS>** (@ADVL>) if; you are N Ill and found sentnece initially. First one to your right is a clause.
-
 
 * **<advlPoEOS** (@<ADVL) for Po; if you are found at the very end of a sentence. A mainverb is needed to the right though.
 
-
-
 * **cleanupILL<advl** (@<ADVL) for N Ill if; there are no boundarysymbols to your left, if you arent already @N< OR @APP-N<, and no mainverb is to yor left.
-
-
-
-
-
-
-
-
-
-
 
 * **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
-
 ### sma object
-
-
-
-
-
-
-
-
 
 * **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
 * **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
-
-
-
-
 
 ## SUBJ MAPPING - leftovers
 
 ## OBJ MAPPING - leftovers
 
-
 ## HNOUN MAPPING
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-udm/blob/main/../src/cg3/functions.cg3)</small># Udmurt twol file
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-udm/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# Udmurt twol file
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
 
 ## Alphabet, Sets and Definitions
-
 
 ## Letters of the alphabet
 
@@ -645,41 +213,17 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * %^М3:0	        син:син%^М3
 * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
 
-
 ## Boundary symbols
 
 *  %>  
 * hash #
 *  %-  
 
-
-
-
 ## Sets 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Definitions
 
-
-
-
-
 ## Rules
-
-
-
 
 ## DEPALATALISATION
 
@@ -703,7 +247,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 
 **Depalatalize е3:э**
 
-
 **Depalatalize and raise е3:ы**
 
 **Depalatalize and raise ё:о**
@@ -711,7 +254,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * *корка%>0ос*
 * *собрание%^RusJa%>ъёс*
 * *собрани00%>0ос*
-
 
 **%^А3:а**
 
@@ -722,7 +264,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * *ужа%>ло*
 
 **Palatal %^О2:ё**
-
 
 **Palatal э:е**
 
@@ -735,7 +276,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 **Palatal а**
 
 **Palatal и:й**
-
 
 ## VOWEL LOSS
 Is this really necessary
@@ -760,7 +300,6 @@ Is this really necessary
 **е:ь**
 
 **э:0**
-
 
 **Palatal е:0**
 
@@ -804,13 +343,17 @@ Is this really necessary
 **Disallow %^RusJaErr after cons or other vowels**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc)</small>
+
+---
+
+Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
 created from lexical data by regular inflection. Usually there should be next
 to none exceptions, it's always better to have a paradigm that covers only
 one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
-
 
 This is a temporary work around
 words that do not occur alone
@@ -818,29 +361,43 @@ Russian verbs are often followed by the Udmurt карыны OR карон
 
 Proper names from Bible
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>Numerals
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+Numerals
 Numerals in UDMURT language are numbers.
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+Prefixes
 Prefixes in the Udmurt language are bound to beginning of other words.
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/prefixes.lexc)</small>This is where new words are added as lexc entries before they are
+
+<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/prefixes.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are
 added to the xml source files.
 апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
 
 ADD NOUNS BELOW
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>###  UDMURT Noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -1041,8 +598,6 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-
-
 ###  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
@@ -1108,7 +663,6 @@ class of nouns described in more depth above.
 this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
 TODO: +N+Sg+Ine     endings	 in "н"
 
-
 Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
 set the stem as ending in –ия, but there is a trigger that causes
 the final "я" to disappear in some situations.
@@ -1119,72 +673,33 @@ the final "е" to disappear in some situations.
 
 Words from Tatar in **N_TAT** preserve the original stem я in all cases.
 
-
-
-
-
-
 according to kpv temporary 2019-11-07
 * **LEXICON CASEPOSSLEX**
 
-
 * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
-
 
 À la Jaska
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small># Adverbs
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+# Adverbs
 Udmurt (Votyak) .
 
 The adverbs have a minimal morphology, just the tag +Adv.
 
-
 LEXICON ADV_  Undeveloped contlexes
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adverbs.lexc)</small>Udmurt verb inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adverbs.lexc)</small>
+
+---
+
+Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
 * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
@@ -1224,23 +739,14 @@ Typical V_MONO entry is the long stem, ending on <ы>
 Lexicon *V_MONO*
 * Yaml: **mynyny**
 
-
-
-
-
 Lexicon *V_UZA*
 * Yaml: **uzhany**
-
-
 
 возь >   ..   возе    ..   возисько
 берт >   ..   бертэ   ..   бертӥсько
 
-
-
 Lexicon *OPRS*
 NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
-
 
 Lexicon *APRS*
 
@@ -1258,8 +764,6 @@ Lexicon *PRTI-PERSON*
 
 Lexicon *PRTII-PERSON*
 
-
-
 Lexicon *COND*
 
 Lexicon *IMPRT*
@@ -1273,8 +777,6 @@ Mutual à la Jaska
 Lexicon *V_МЫНЫНЫ*
 * Yaml: **mynyny**
 
-
-
 Lexicon *APRSjaska*
 
 Lexicon *FUT-PERSONjaska*
@@ -1282,8 +784,6 @@ Lexicon *FUT-PERSONjaska*
 Lexicon *PRTI-PERSONjaska*
 
 Lexicon *PRTII-PERSONjaska*
-
-
 
 Lexicon *CONDjaska*
 
@@ -1293,10 +793,13 @@ Lexicon *OPTjaska*
 
 Lexicon *NONFINITESjaska*
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs-old.lexc)</small>UDMURT Pronoun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs-old.lexc)</small>
+
+---
+
+UDMURT Pronoun inflection
 
 Udmurt adjectives inflect for:
 
@@ -1332,57 +835,20 @@ Note that these alternative suffixes have palatal and non-palatal versions
 
 TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
-
 words with this contlex have not been examined
-
 
 * **LEXICON PERS** 
 * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
 
-
-
 мон:м
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>UDMURT Adjective inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+
+UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
 
@@ -1459,23 +925,17 @@ TODO: what is the difference?
 
 words with this contlex have not been examined
 
-
-
-
-
-
 Cases here all lead to a determinative suffix
 
 Cases here all lead to a determinative suffix
-
-
-
-
-
-
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives-old.lexc)</small># Udmurt Proper noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives-old.lexc)</small>
+
+---
+
+# Udmurt Proper noun inflection
 
 Place names based on names of old tribes
 
@@ -1509,10 +969,8 @@ The following cases do not have the infix at all
 |  Prol.      |  Салья-тӥ
 |  Appr.      |  Салья-лань
 
-
 So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
 and then redirects to *NOUNSUF_01*.
-
 
 Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
 which have an optional infix for some cases, while some do not.
@@ -1538,97 +996,39 @@ In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
 |  Prol.      |  Салья-тӥ
 |  Appr.      |  Салья-лань
 
-
-
 Russian type Surnames 
 
 Preparing for the template urj-Cyrl
 Beginning 2012-11-15
 
-
-
-
-
 * :2 PropSur-kal ;  These are foreign Л words
-
-
 
 Абдеев:Абдеев
 
 Багрий:Багр
 
-
 Аморский:Аморск
-
-
-
-
-
-
-
 
 These are vowel-final stems
 They have previously received +Sem/Fem tags
-
-
-
-
-
-
-
 
 Should this be limited to +Sg? 2015-09-06
 
 Вили:Вил
 
-
-
-
 Андрей:Андре
-
-
-
-
-
-
-
-
-
-
-
 
 Ending 2012-11-15
 
-
-
-
-
-
-
-
-
 FEMALE NAMES FROM TEMPLATE
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/propernouns.lexc)</small>UDMURT Adjective inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+
+UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
 
@@ -1705,19 +1105,13 @@ TODO: what is the difference?
 
 words with this contlex have not been examined
 
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>Udmurt verb inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+
+Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
 * conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
@@ -1749,10 +1143,6 @@ in two ways: vowel letters following, or by the palatizing symbol.
 
 LEXICON V_  Verb type is still to be determined.
 
-
-
-
-
 Typical V_MONO entry is the long stem, ending on <ы>
 берты, возьы
 
@@ -1767,13 +1157,10 @@ Russian verbs are often followed by the Udmurt карыны OR карон
 Lexicon **V_UZA**
 * Yaml: **uzhany** , this is second declension
 
-
 Mutual à la Jaska
 мыныны:мыны
 Lexicon **V_МЫНЫНЫ**
 * Yaml: **mynyny** 
-
-
 
 Lexicon **APRS**
 
@@ -1783,8 +1170,6 @@ Lexicon **PRTI-PERSON**
 
 Lexicon **PRTII-PERSON**
 
-
-
 Lexicon **COND**
 
 Lexicon **IMPRT**
@@ -1793,18 +1178,22 @@ Lexicon **OPT**
 
 Lexicon **NONFINITES**
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+
+
 # Symbol affixes
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/symbols.lexc)</small>###  UDMURT Noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/symbols.lexc)</small>
+
+---
+
+###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -2005,8 +1394,6 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-
-
 ###  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
@@ -2094,61 +1481,15 @@ which tends to take short case suffixes when they are available.
 
 Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 À la Jaska
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns-old.lexc)</small>
+
+---
+
+
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
@@ -2189,8 +1530,6 @@ The parts of speech are further split up into:
 * +Rel  Relative
 * +Indef  Indefinite
 
-
-
 The Usage extents are marked using following tags:
 
 * +Err/Orth Not in norm
@@ -2204,7 +1543,6 @@ The nominals are inflected in the following Number
 * +Sg  Singular
 * +Du  Dual
 * +Pl  Plural
-
 
 The nominals are inflected in the following Case
 TODO: Document case names!
@@ -2226,7 +1564,6 @@ TODO: Document case names!
 * +Ter  Terminative
 * +Prl  Prolative
 * +Apr  Approximative
-
 
 The possession is marked as such:
 
@@ -2253,8 +1590,6 @@ Verb moods are:
  +Imprt	 Imperative
  +Ind	 Indicative
  +Opt	 Optional
-
-
 
 Verb tenses are:
  +Fut    Future
@@ -2296,7 +1631,6 @@ Other verb forms are: (TODO: Document the tags)
 * +VAbess  Verbal abesive
 
 * +Prc This is only for the dictionary at present 2019-06-04
-
 
 * +ABBR  Abbreviation
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -2343,7 +1677,6 @@ Question and Focus particles:
 * +v18
 * +v19
 * +v20
-
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount
@@ -2440,12 +1773,7 @@ Question and Focus particles:
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-
-
-
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
@@ -2463,11 +1791,9 @@ source and target part-of-speech.
  +Der/Эмтэ     мынэмтэ ужамтэ
  +Der/Этӥ     ordinals
 
-
 Dialectical variation
 * +Dial/North
 * +Dial/South
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -2486,7 +1812,6 @@ symbols in the lexicon files:
 
 * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
-
 And following triggers to control variation
 
 * %^RusJa Эстония:Эстониез
@@ -2502,7 +1827,6 @@ And following triggers to control variation
 * «
 * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
-
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -2541,21 +1865,8 @@ Testing 2019-11-07
 
 *  N_NEWWORDS ;     These are new nouns without translations
 
-
-
 ABBREVIATIONS
 these still need development 2015-11-03
-
-
-
-
-
-
-
-
-
-
-
 
 AdjTag ;
 AdvTag ;
@@ -2651,72 +1962,11 @@ AdvTag ;
 PronTag ;
 PcleTag ;
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/root.lexc)</small>
 
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/root.lexc)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
@@ -2878,78 +2128,25 @@ raised							_r
 lowered							_o 
 advanced tongue root				_A 
 retracted tongue root			_q
+
 * * *
-<small>This (part of) documentation was generated from [../src/phonetics/txt2ipa.xfscript](http://github.com/giellalt/lang-udm/blob/main/../src/phonetics/txt2ipa.xfscript)</small>
 
+<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-udm/blob/main/src/phonetics/txt2ipa.xfscript)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
 :одӥг%    1MILJON ; 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This is for the numerals 20-69
 
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
+
+---
+
 
 
 We describe here how abbreviations are in Udmurt are read out, e.g.
@@ -2964,41 +2161,28 @@ For example:
 * esim.:esimerkki # ; 
 * esim.:esimerkiksi # ; 
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+---
+
+
 U D M U R T  G R A M M A R   C H E C K E R
-
-
-
-
-
-
-
-
 
 # DELIMITERS
 
-
 # TAGS AND SETS
 
-
-
 ## Tags
-
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
 ### Beginning and end of sentence
 BOS
 EOS
-
-
 
 ### Parts of speech tags
 
@@ -3028,8 +2212,6 @@ PUNCT
 COMMA
 ¶
 
-
-
 ### Tags for POS sub-categories
 
 Pers
@@ -3045,7 +2227,6 @@ Prop
 Allegro
 Arab
 Romertall
-
 
 ### Tags for morphosyntactic properties
 
@@ -3108,11 +2289,7 @@ Sup
 Actio
 VAbess
 
-
-
 Err/Orth
-
-
 
 ### Semantic tags
 
@@ -3145,14 +2322,10 @@ HUMAN
 HAB-ACTOR
 HAB-ACTOR-NOT-HUMAN
 
-
 PROP-ATTR
 PROP-SUR
 
-
-
 TIME-N-SET
-
 
 ###  Syntactic tags
 
@@ -3224,22 +2397,15 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-
-
-
-
 ## Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-
-
 ### Sets for Single-word sets
 
 INITIAL
-
 
 ### Sets for word or not
 
@@ -3247,7 +2413,6 @@ WORD
 REAL-WORD
 REAL-WORD-NOT-ABBR
 NOT-COMMA
-
 
 ### Case sets
 
@@ -3262,7 +2427,6 @@ NOT-ACC
 
 ### Verb sets
 
-
 NOT-V
 
 ### Sets for finiteness and mood
@@ -3272,7 +2436,6 @@ REAL-NEG
 MOOD-V
 
 NOT-PRFPRC
-
 
 ### Sets for person
 
@@ -3286,49 +2449,15 @@ PL1-V
 PL2-V
 PL3-V
 
-
-
-
-
 ### Pronoun sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Adjectival sets and their complements
 
-
-
-
 ### Adverbial sets and their complements
-
-
-
 
 ### Sets of elements with common syntactic behaviour
 
-
 ### NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
-
 
 ### The PRE-NP-HEAD family of sets
 
@@ -3336,86 +2465,34 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Border sets and their complements
-
-
-
-
-
-
-
-
-
-
 
 ### Grammarchecker sets
 
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-udm/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-udm/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# Grammar checker tokenisation for udm
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
+```
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-
-Issues:
-- [X] Ambiguous input
-- Seems to work fine
-- [X] Ambiguous multiword expessions with ambiguous tokenisation
-- Seems to work – represented within lexc now; hfst-tokenise also
-supports forms on the analyses now
-- [X] Ambiguous multiword expessions need reorganising after CG
-- The module cg-mwesplit takes wordforms from readings and turns them into
-new cohorts
-- [X] Unknown words
-- The set-difference method only works for words without
-flag diacritics (even though we should be working only on the form-side?)
-and leads to binary blow-up: With only lower unknowns, we get 45M;
-lower+upper gives 67M, while no unknowns gives 27M
-- Fixed instead by treating empty analyses as unknown-tokens in
-hfst-tokenise, and outputting unmatched strings with a prefix
-- [ ] Treat input that's within superblanks as unmatched
-- probably requires a change in hfst-tokenise itself
-- [X] Try >1 space for ambiguous MWE's? – represented within lexc now
-- [ ] Try set-difference-unknowns method with regular hfst commands?
+```
 
 More usage examples:
+```
 $ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -3430,9 +2507,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
@@ -3446,14 +2520,11 @@ so far:
 
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -3462,7 +2533,12 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](http://github.com/giellalt/lang-udm/blob/main/../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small># Tokeniser for udm
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
+
+---
+
+# Tokeniser for udm
 
 Usage:
 ```
@@ -3474,12 +2550,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -3494,9 +2565,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1. unknown word-like forms, and
@@ -3515,16 +2583,12 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-
-
 ## Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -3533,4 +2597,8 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](http://github.com/giellalt/lang-udm/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+

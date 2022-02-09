@@ -5,13 +5,15 @@ to none exceptions, it's always better to have a paradigm that covers only
 one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
 
-
 This is a temporary work around
 words that do not occur alone
 Russian verbs are often followed by the Udmurt карыны OR карон
 
 Proper names from Bible
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/stems/exceptions.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+

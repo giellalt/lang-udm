@@ -4,7 +4,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 
 ## Alphabet, Sets and Definitions
 
-
 ## Letters of the alphabet
 
 * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
@@ -37,41 +36,17 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * %^М3:0	        син:син%^М3
 * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
 
-
 ## Boundary symbols
 
 *  %>  
 * hash #
 *  %-  
 
-
-
-
 ## Sets 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Definitions
 
-
-
-
-
 ## Rules
-
-
-
 
 ## DEPALATALISATION
 
@@ -95,7 +70,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 
 **Depalatalize е3:э**
 
-
 **Depalatalize and raise е3:ы**
 
 **Depalatalize and raise ё:о**
@@ -103,7 +77,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * *корка%>0ос*
 * *собрание%^RusJa%>ъёс*
 * *собрани00%>0ос*
-
 
 **%^А3:а**
 
@@ -114,7 +87,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * *ужа%>ло*
 
 **Palatal %^О2:ё**
-
 
 **Palatal э:е**
 
@@ -127,7 +99,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 **Palatal а**
 
 **Palatal и:й**
-
 
 ## VOWEL LOSS
 Is this really necessary
@@ -152,7 +123,6 @@ Is this really necessary
 **е:ь**
 
 **э:0**
-
 
 **Palatal е:0**
 
@@ -196,4 +166,8 @@ Is this really necessary
 **Disallow %^RusJaErr after cons or other vowels**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

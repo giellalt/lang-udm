@@ -34,54 +34,16 @@ Note that these alternative suffixes have palatal and non-palatal versions
 
 TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
 
-
 words with this contlex have not been examined
-
 
 * **LEXICON PERS** 
 * **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
 
-
-
 мон:м
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+

@@ -199,8 +199,6 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-
-
 ###  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
@@ -266,7 +264,6 @@ class of nouns described in more depth above.
 this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
 TODO: +N+Sg+Ine     endings	 in "н"
 
-
 Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
 set the stem as ending in –ия, but there is a trigger that causes
 the final "я" to disappear in some situations.
@@ -277,56 +274,16 @@ the final "е" to disappear in some situations.
 
 Words from Tatar in **N_TAT** preserve the original stem я in all cases.
 
-
-
-
-
-
 according to kpv temporary 2019-11-07
 * **LEXICON CASEPOSSLEX**
 
-
 * LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
-
 
 À la Jaska
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+

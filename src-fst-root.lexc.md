@@ -39,8 +39,6 @@ The parts of speech are further split up into:
 * +Rel  Relative
 * +Indef  Indefinite
 
-
-
 The Usage extents are marked using following tags:
 
 * +Err/Orth Not in norm
@@ -54,7 +52,6 @@ The nominals are inflected in the following Number
 * +Sg  Singular
 * +Du  Dual
 * +Pl  Plural
-
 
 The nominals are inflected in the following Case
 TODO: Document case names!
@@ -76,7 +73,6 @@ TODO: Document case names!
 * +Ter  Terminative
 * +Prl  Prolative
 * +Apr  Approximative
-
 
 The possession is marked as such:
 
@@ -103,8 +99,6 @@ Verb moods are:
  +Imprt	 Imperative
  +Ind	 Indicative
  +Opt	 Optional
-
-
 
 Verb tenses are:
  +Fut    Future
@@ -146,7 +140,6 @@ Other verb forms are: (TODO: Document the tags)
 * +VAbess  Verbal abesive
 
 * +Prc This is only for the dictionary at present 2019-06-04
-
 
 * +ABBR  Abbreviation
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -193,7 +186,6 @@ Question and Focus particles:
 * +v18
 * +v19
 * +v20
-
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount
@@ -290,12 +282,7 @@ Question and Focus particles:
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-
-
-
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
@@ -313,11 +300,9 @@ source and target part-of-speech.
  +Der/Эмтэ     мынэмтэ ужамтэ
  +Der/Этӥ     ordinals
 
-
 Dialectical variation
 * +Dial/North
 * +Dial/South
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -336,7 +321,6 @@ symbols in the lexicon files:
 
 * %{еэ%}	        morpheme initial vowel е э , e.g. Acc
 
-
 And following triggers to control variation
 
 * %^RusJa Эстония:Эстониез
@@ -352,7 +336,6 @@ And following triggers to control variation
 * «
 * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
-
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -391,21 +374,8 @@ Testing 2019-11-07
 
 *  N_NEWWORDS ;     These are new nouns without translations
 
-
-
 ABBREVIATIONS
 these still need development 2015-11-03
-
-
-
-
-
-
-
-
-
-
-
 
 AdjTag ;
 AdvTag ;
@@ -501,6 +471,9 @@ AdvTag ;
 PronTag ;
 PcleTag ;
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/root.lexc)</small>
+
+---
+

@@ -38,23 +38,14 @@ Typical V_MONO entry is the long stem, ending on <ы>
 Lexicon *V_MONO*
 * Yaml: **mynyny**
 
-
-
-
-
 Lexicon *V_UZA*
 * Yaml: **uzhany**
-
-
 
 возь >   ..   возе    ..   возисько
 берт >   ..   бертэ   ..   бертӥсько
 
-
-
 Lexicon *OPRS*
 NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
-
 
 Lexicon *APRS*
 
@@ -72,8 +63,6 @@ Lexicon *PRTI-PERSON*
 
 Lexicon *PRTII-PERSON*
 
-
-
 Lexicon *COND*
 
 Lexicon *IMPRT*
@@ -87,8 +76,6 @@ Mutual à la Jaska
 Lexicon *V_МЫНЫНЫ*
 * Yaml: **mynyny**
 
-
-
 Lexicon *APRSjaska*
 
 Lexicon *FUT-PERSONjaska*
@@ -96,8 +83,6 @@ Lexicon *FUT-PERSONjaska*
 Lexicon *PRTI-PERSONjaska*
 
 Lexicon *PRTII-PERSONjaska*
-
-
 
 Lexicon *CONDjaska*
 
@@ -107,7 +92,9 @@ Lexicon *OPTjaska*
 
 Lexicon *NONFINITESjaska*
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs-old.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs-old.lexc)</small>
+
+---
+

@@ -199,8 +199,6 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-
-
 ###  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
@@ -288,58 +286,11 @@ which tends to take short case suffixes when they are available.
 
 Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 À la Jaska
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns-old.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/nouns-old.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns-old.lexc)</small>
+
+---
+

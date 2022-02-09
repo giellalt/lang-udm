@@ -30,10 +30,6 @@ in two ways: vowel letters following, or by the palatizing symbol.
 
 LEXICON V_  Verb type is still to be determined.
 
-
-
-
-
 Typical V_MONO entry is the long stem, ending on <ы>
 берты, возьы
 
@@ -48,13 +44,10 @@ Russian verbs are often followed by the Udmurt карыны OR карон
 Lexicon **V_UZA**
 * Yaml: **uzhany** , this is second declension
 
-
 Mutual à la Jaska
 мыныны:мыны
 Lexicon **V_МЫНЫНЫ**
 * Yaml: **mynyny** 
-
-
 
 Lexicon **APRS**
 
@@ -64,8 +57,6 @@ Lexicon **PRTI-PERSON**
 
 Lexicon **PRTII-PERSON**
 
-
-
 Lexicon **COND**
 
 Lexicon **IMPRT**
@@ -74,7 +65,9 @@ Lexicon **OPT**
 
 Lexicon **NONFINITES**
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+

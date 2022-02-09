@@ -75,16 +75,9 @@ TODO: what is the difference?
 
 words with this contlex have not been examined
 
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-udm/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+
