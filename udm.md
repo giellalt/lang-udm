@@ -170,685 +170,7 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-udm/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-# Udmurt twol file
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet, Sets and Definitions
-
-## Letters of the alphabet
-
-* а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
-* А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
-
-## Archiphonemes for vowels
-
-%^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
-## Triggers
-
-* %^ConsTransf:0  
-* %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
-* %^RusJa:0       Эстония:Эстониез
-* %^RusJaErr:0    Эстония:Эстонияез
-* %^NotRusJa:0    no words in ия ие
-
-* %^SYNC:0        
-* %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
-* %^ЫLoss:0       This is used for мыныны: мын 
-
-* Ы2:0	        morpheme initial disappears after vowel ы 0
-
-* %^Е2:0	        morpheme initial disappears after vowel е э 0
-* %^И2:0	        morpheme initial disappears after vowel и ӥ 0
-* %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
-* %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
-* %^А3:0	        Ine а, я
-* %^Л3:0	        ужаны:ужало
-* %^К3:0	        нюлэс:нюлэс%^К3
-* %^М3:0	        син:син%^М3
-* %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
-
-## Boundary symbols
-
-*  %>  
-* hash #
-*  %-  
-
-## Sets 
-
-## Definitions
-
-## Rules
-
-## DEPALATALISATION
-
-**Depalatalize и**
-
-**Depalatalize е**
-* *мыны%>%^Е2*
-* *мын0%>э*
-
-**Depalatalized %{еэ%} **
-* *укмысназ%>%{еэ%}с*
-* *укмысназ%>эс*
-
-**Depalatalize и**
-* *мыны%>%^И2сько*
-* *мын0%>ӥсько*
-
-**Depalatalize е3:е**
-* *бакча%>%^Е3*
-* *бакча%>е*
-
-**Depalatalize е3:э**
-
-**Depalatalize and raise е3:ы**
-
-**Depalatalize and raise ё:о**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
-
-**%^А3:а**
-
-**%^О2:о**
-* *мыны%>%^О2*
-* *мын0%>о*
-* *ужа%>0%^О2*
-* *ужа%>ло*
-
-**Palatal %^О2:ё**
-
-**Palatal э:е**
-
-**Palatal е**
-
-**Palatal и**
-* *луы%>%^И2з*
-* *лу0%>из*
-
-**Palatal а**
-
-**Palatal и:й**
-
-## VOWEL LOSS
-Is this really necessary
-**Stem vowel loss ы:0 LEFT **
-* *луы%>%^Е2м*
-* *лу0%>эм*
-
-**Stem vowel loss Ы2:0 RIGHT**
-* *луы%>%^Е2м*
-* *лу0%>эм*
-* *мыны#*
-* *мыны0*
-* *мын00*
-* *возьы#*
-* *возьы0*
-* *возь00*
-
-**я:0**
-
-**е:0**
-
-**е:ь**
-
-**э:0**
-
-**Palatal е:0**
-
-**Palatal и:0**
-
-**%^О2:0**
-* *ужа%>%^О2*
-* *ужа%>0*
-
-**й:0**
-
-**ь:0**
-* *возь%>Ы2#*
-* *возь%>ы0*
-
-**ъ:0**
-* *корка%>ъёс*
-* *корка%>0ос*
-* *собрание%^RusJa%>ъёс*
-* *собрани00%>0ос*
-
-## ZERO TO CONSONANT
-**%^Л3:л**
-* *ужа%>%^Л3%^О2*
-* *ужа%>ло*
-
-## CONSONANTS
-
-**Devoicing д:т**
-
-**Devoicing з:с**
-
-**Surface consonant before vowel %^К3:к**
-
-**Surface consonant before vowel %^М3:м**
-
-**Disallow %^NotRusJa after cons or other vowels**
-
-**Disallow %^RusJa after cons or other vowels**
-
-**Disallow %^RusJaErr after cons or other vowels**
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc)</small>
-
----
-
-Exceptions are quite strange word-forms. the ones that do not fit anywhere 
-else. This file contains all enumerated word forms that cannot reasonably be
-created from lexical data by regular inflection. Usually there should be next
-to none exceptions, it's always better to have a paradigm that covers only
-one or few words than an exception since these will not work nicely with e.g.
-compounding scheme or possibly many end applications.
-
-This is a temporary work around
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
-
-Proper names from Bible
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
-
----
-
-Numerals
-Numerals in UDMURT language are numbers.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/numerals.lexc)</small>
-
----
-
-Prefixes
-Prefixes in the Udmurt language are bound to beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/prefixes.lexc)</small>
-
----
-
-This is where new words are added as lexc entries before they are
-added to the xml source files.
-апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
-
-ADD NOUNS BELOW
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
-
----
-
-###  UDMURT Noun inflection
-
-Nouns in Udmurt inflects for case, number, and possession. Following are some
-notes for things that need to be done so far, and also an overview of nominal
-inflection types.
-
-Most Udmurt nouns (the vast majority) do not require changes to the stem
-as a result of inflection. These nouns however, for FST purposes, fall into
-some subcategories:
-
-* Vowel-final stems, which also take inflectional suffixes ending on
-(non-yod) vowels (excepting the adverbial)
-* Consonant-final stems, which take endings beginning on a yodified vowel,
-if one exists
-* Diphthongal stems, which also take the yodified vowels.
-
-Some inflectional endings thus may have two alternatives:
-
-|  Case                  | Non-yod      | Yod
-|  Nominative plural     | ос           | ёс
-|  Accusative singular   | эз           | ез
-|  Instrumental singular | эн           | ен
-|  Illative singular     | э            | е
-|  Prolative singular    | этӥ          | етӥ
-
-Other cases do not vary depending on these environments.
-
-Note that depending on the palatal/nonpalatal status of the last segment,
-the yodified vowel series may be preceded by a <ъ>. According to references though,
-the palatal marker <ь> must remain even when followed by this series.
-Udmurt also has a unique way of handling hiatus relationships, where the non-yod
-series follows vowels, and the yod series follows consonants.
-
-Also note that though stems may not change, orthographically, there may need to be
-a hard sign inserted to maintain the non-palatal pronunciation of certain
-consonant segments.
-
-Some examples:
-
-*-V stems*
-
-|  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
-|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
-|  дунне | дуннеос | дуннеын | дуннелэн | дуннея
-|  ты    | тыос    | тыын    | тылэн    | тыя
-
-*-C stems*
-
-|  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
-|  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
-|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
-|  вить  | витьёс  | витьын | витьлэн | витья
-
-*Diphthongs*
-
-|  NomSg | NomPl | IneSg | GenSg | Advl Sg
-|  уй    | уйёс  | уйын  | уйлэн | уйя
-
-###  Russian loans ending in -ия/-ие
-
-Russian loanwords ending on these segments delete the final yodified vowel
-in all cases, except for the singular adverbial and nominative singular.
-
-Examples:
-
-|  Nominative Singular   |  конференци–0–я      |  собрани–0–е
-|  Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
-|  Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
-|  Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
-|  Adverbial Singular    |  конференци–я–я      |  собрани–е–я
-
-Note also that Russian stress is preserved in Nominative Singular, but
-Udmurt stress takes over for inflected forms, and shifts to the final vowel.
-
-This applies to all sorts of Russian words, also including placenames ending
-in -я, excepting biblical place names, and Russian personal names.
-
-TODO: implement in propernouns
-
-* Финляндия - Финляндиын
-* Эстония   - Эстониын
-
-But:
-
-* Самария   – Самарияын
-* Евгения   – Евгения–лы
-* Юлия      – Юлия–лы
-
-There are also some subtypes, where this deletion does not occur even though
-the word ends in -я:
-
-* Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
-
-###  Place names based on names of old tribes
-
-See *affixes/propernouns.lexc*, but quickly: 
-
-These typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-cases, they take an infix which is optional. The optional infix causes
-short versions of case suffixes, otherwise the words take the long version.
-
-###  корка / куала
-
-The words *корка, куала* have some forms similar to the tribe/place names, and some
-cases behave differently: Inessive, Elative have the short consonant-only
-suffix, but unlike the tribe/place names, there is no -ла- infix.
-
-TODO: write tests
-
-###  "Old" Finno-ugric stems (-м-, -г-, -т-)
-
-TODO: add these to lexicon, and add morphology. Consider marking in morphology
-in a way that NDS can present:  син син(м)-
-TODO: write tests
-TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
-
-```
-<l>muohta</l>
-<lc>muohttaga</lc>
-```
-
-Some particularly old words have since experienced some amount of deletion
-and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
-but their appearance isn't completely regular, in that some variation
-exists, and sometimes the "short" stem without this segment appears where
-the "long" stem usually would.
-
-Usually, these will also be marked in dictionaries. син син(м)-.
-
-When the possessive is applied to nominative versions of these forms,
-the possessive will have the vowel -ы- instead of -э- or -е-. Also,
-the 'old' segments appear.
-
-Examples:
-
--м–
-
-|  син        | син–тэм      | синм–ысь                | сынм–ы
-|  *silmä*  | *sokea*    | (elat.)                 | (px. y. 1. p.)
-|  визь       | визь–тэк     | визьм–о				 |  
-|  *järki*  | (abess.)     | *viisas*				 |  
-|  куйнь      | куйнь–лэсь   | куйньм–ой				 |  
-|  *kolme*  | (abl.)       | *3:n päivän kuluessa* |  
-|             | куйнь–етй    | ~ куйньм–етӥ			 |  
-|             | *kolmas*   | *kolmas*				 |  
-|  ин         |               | инм–ын				 |  
-|  *taivas* |               | (iness.)				 |  
-
--к–
-
-|  кус        |  кус–лы     |   куск–ын        |  куск–ы
-|  *lantio* |  (dat.)     |   (iness.)       |  (Px Sg1)
-|  *vyötärö*|             |                |  
-|  улеп       |  улеп–лы     |   улепк–ын       |  
-|  *elävä*  |  (dat.)      |   (instr.)       |  
-|  nюлэс      | нюлэс–лы     |   нюлэск–ын      |  
-|  *metsä*  |  (dat.)      |   (iness.)       |  
-|  вис        | вис–лы       |   виск–ын        |  
-|  *tauko*  |  (dat.)      |   (iness.)       |  
-|  *väli*   |	 	 |	 	         |  
-
--т–
-
-|  кык        |  кык–намы      |   кыкт–о
-|  *kaksi*  |  *me kaksin* | *kaksoset*
-|             |                | *kaksospari*
-|             |  кык–етӥ       |  кыкт–ой
-|             |  *toinen*    | *kahden päivän kuluessa*
-|             |                |  кыкт–етӥ
-|             |                |   *toinen*
-
-###  Vowel deletion stems
-
-* TODO: add to lexicon, also need a morphophonological symbol for these
-* TODO: write tests
-
-Some stems also delete vowels in specific cases, generally when the stem is
-attached to a vowel-initial suffix. Alternatively, the vowels may remain,
-but a epenthetic consonant may appear: -к-
-
-Optional deletion
-
-|  сэрег      | серг–ын  | 
-|  *nurkka* | (iness.) | 
-|  *kulma*           |                |   
-|  сюлэм      | сюлм–ыд  | сюлэм–ыд
-|  *sydän*  | (Px Sg2) | (Px Sg2)
-
-Deletion or epenthesis
-
-|  вадес               | вадьс-ын   |  вадеск–ын
-|  *aika, hetki*     | (iness.)   |  (iness.)
-|  *paikka, palsta*          |                |   
-|  пыдэс               | пыдс–ын    |  пидэск–ын
-|  *pohja*           | (iness.)   |  (iness.)
-|  урдэс               | урдс–ын    |  урдэск–ын
-|  *vierus*          | (iness.)   |  (iness.)
-
-NB: palatal quality implied by the yodified vowel in the first example is
-preserved via a soft sign.
-
-###  Suffix ordering with possessive construction
-
-The possessive construction results in different case ordering:
-
-*N-Num-Poss-Case*:
-
-* Genetive
-* Ablative
-* Dative
-* Abessive
-* Adverbial
-* Approximative
-* Terminative
-
-*N-Num-Case-Poss*:
-
-* Inessive
-* Elative
-* Illative
-* Egressive
-* Prolative
-* Instrumental
-
-Note that since the adjective 'determinative' is essentially the 3rd person
-singular possessive, the above ordering also follows for adjective inflection.
-Also note, some cases have atlernate forms for when tehy come before the possessive.
-
-Cases with alternate forms:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-*Examples*:
-
-Genetive:
-
-|  Px 1pSg        | Px 2pSg         | Px 3pSg
-|  бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
-|  бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
-
-Inessive:
-
-|  Px 1pSg      | Px 2pSg      | Px 3pSg
-|  бакча-я-м    | бакча-я-д    | бакча-я-з
-|  бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
-
-Elative:
-
-|  Px 1pSg          | Px 2pSg          | Px 3pSg
-|  бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
-|  бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
-
-* TODO: write tests for these ordering situations
-* TODO: implement these in lexc
-
-Noun Lexica
-
-Words from lexicon N_ are mostly covered. These are from the main
-class of nouns described in more depth above.
-
-this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
-TODO: +N+Sg+Ine     endings	 in "н"
-
-Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
-set the stem as ending in –ия, but there is a trigger that causes
-the final "я" to disappear in some situations.
-
-Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
-set the stem as ending in –ие, but there is a trigger that causes
-the final "е" to disappear in some situations.
-
-Words from Tatar in **N_TAT** preserve the original stem я in all cases.
-
-according to kpv temporary 2019-11-07
-* **LEXICON CASEPOSSLEX**
-
-* LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
-
-À la Jaska
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
-
----
-
-# Adverbs
-Udmurt (Votyak) .
-
-The adverbs have a minimal morphology, just the tag +Adv.
-
-LEXICON ADV_  Undeveloped contlexes
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adverbs.lexc)</small>
-
----
-
-Udmurt verb inflection
-Udmurt verbs are mainly split into two types: 
-* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
-* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
-
-Conjugation I verbs also may have a 'short' stem, which subtracts the final
-*ы*. The rule is not necessarily as simple as suffixes that begin on
-consonants require a vowel-ending stem, because there are some exceptions.
-Following is a list of things that use the short stem (so far
-incomplete, but feel free to add to it)
-* All forms of the *present affirmative*
-* All forms of the *present negative*
-* All forms of the *future affirmative*
-* All forms of the *future negative*
-* Preterite II Negative? 
-* Caritive gerund? 
-
-And the long stem:
-* Infinitive
-* Conditional affirmative, negative
-* basic gerund, temporal gerund, fourth gerund ?
-* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
-
-There are some orthographic things to consider, and they show up in the way
-verbs are inflected. The palatizing series [d z l n s t] is represented 
-in two ways: vowel letters following, or by the palatizing symbol. 
-
-возьыны    ..   возе    ..   возисько
-бертыны    ..   бертэ   ..   бертӥсько
-
-LEXICON V_  Verb type is still to be determined.
-
-Typical V_MONO entry is the long stem, ending on <ы>
-берты, возьы
-
-бертыны:берт V_MONO  "mennä kotiin" ;
-
-Lexicon *V_MONO*
-* Yaml: **mynyny**
-
-Lexicon *V_UZA*
-* Yaml: **uzhany**
-
-возь >   ..   возе    ..   возисько
-берт >   ..   бертэ   ..   бертӥсько
-
-Lexicon *OPRS*
-NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
-
-Lexicon *APRS*
-
-Lexicon *FUTPAST*
-
-Lexicon *FUTPASTSG*
-
-Lexicon *FUTPASTPL*
-
-Lexicon *FUTPASTPLSHORT*
-
-Lexicon *FUT-PERSON*
-
-Lexicon *PRTI-PERSON*
-
-Lexicon *PRTII-PERSON*
-
-Lexicon *COND*
-
-Lexicon *IMPRT*
-
-Lexicon *OPT*
-
-Lexicon *NONFINITES*
-
-Mutual à la Jaska
-мыныны:мыны
-Lexicon *V_МЫНЫНЫ*
-* Yaml: **mynyny**
-
-Lexicon *APRSjaska*
-
-Lexicon *FUT-PERSONjaska*
-
-Lexicon *PRTI-PERSONjaska*
-
-Lexicon *PRTII-PERSONjaska*
-
-Lexicon *CONDjaska*
-
-Lexicon *IMPRTjaska*
-
-Lexicon *OPTjaska*
-
-Lexicon *NONFINITESjaska*
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs-old.lexc)</small>
-
----
-
-UDMURT Pronoun inflection
-
-Udmurt adjectives inflect for:
-
-* Number
-* Case
-* Determinativity (Absolutive / Determinative)
-* Comparative (TODO: can comparative co-occur with other stuff?)
-
-###  Determinative notes
-
-When an adjective occurs in determinative, it must agree for number and case.
-However, when determinative co-occurs with certain cases, these cases
-have alternate forms.
-
-The cases with alternate forms are:
-
-* Accusative singular, plural
-* Inessive singular, plural
-* Illative singular, plural
-* Elative singular, plural
-
-Note that these alternative suffixes have palatal and non-palatal versions
-
-|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
-|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
-|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
-|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
-
-|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
-|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
-|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
-|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
-
-TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
-
-words with this contlex have not been examined
-
-* **LEXICON PERS** 
-* **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
-
-мон:м
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/pronouns.lexc)</small>
-
----
-
-UDMURT Adjective inflection
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-udm/blob/main/src/cg3/functions.cg3)</small>UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
 
@@ -935,99 +257,6 @@ Cases here all lead to a determinative suffix
 
 ---
 
-# Udmurt Proper noun inflection
-
-Place names based on names of old tribes
-
-These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
-cases, they take an infix which is optional.
-
-The following may be exhaustive, but unsure yet.
-
-* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
-* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
-* -ка: Поска
-* -ра: Бигра, Эгра
-* -ла: Чола
-
-Infix is optional in some cases
-
-|   Case    |  Infix | No infix
-
-| --- | --- | --- 
-|  Iness.    |  Салья-ла-н   |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
-
-The following cases do not have the infix at all
-
-|   Case    |  No infix
-
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
-
-So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
-and then redirects to *NOUNSUF_01*.
-
-Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
-which have an optional infix for some cases, while some do not.
-
-In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
-Examples:
-|   Case    |  Infix | No infix
-
-| --- | --- | --- 
-|  Iness.     |  Салья-ла-н    |  Салья-ын
-|  Illat.     |  Салья-ла      |  Салья-е
-|  Elat.      |  Салья-ла-сь   |  Салья-ысь
-|  Egress.    |  Салья-ла-сен  |  Салья-ысен
-
-Note also that the infix results in a 'short' case affix.
-
-In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
-
-|   Case  | wordform
-
-| --- | --- 
-|  Terminat.  |  Салья-озь
-|  Prol.      |  Салья-тӥ
-|  Appr.      |  Салья-лань
-
-Russian type Surnames 
-
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
-
-* :2 PropSur-kal ;  These are foreign Л words
-
-Абдеев:Абдеев
-
-Багрий:Багр
-
-Аморский:Аморск
-
-These are vowel-final stems
-They have previously received +Sem/Fem tags
-
-Should this be limited to +Sg? 2015-09-06
-
-Вили:Вил
-
-Андрей:Андре
-
-Ending 2012-11-15
-
-FEMALE NAMES FROM TEMPLATE
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/propernouns.lexc)</small>
-
----
-
 UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
@@ -1111,85 +340,16 @@ words with this contlex have not been examined
 
 ---
 
-Udmurt verb inflection
-Udmurt verbs are mainly split into two types: 
-* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
-* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
+# Adverbs
+Udmurt (Votyak) .
 
-Conjugation I verbs also may have a 'short' stem, which subtracts the final
-*ы*. The rule is not necessarily as simple as suffixes that begin on
-consonants require a vowel-ending stem, because there are some exceptions.
-Following is a list of things that use the short stem (so far
-incomplete, but feel free to add to it)
-* All forms of the *present affirmative*
-* All forms of the *present negative*
-* All forms of the *future affirmative*
-* All forms of the *future negative*
-* Preterite II Negative? 
-* Caritive gerund? 
+The adverbs have a minimal morphology, just the tag +Adv.
 
-And the long stem:
-* Infinitive
-* Conditional affirmative, negative
-* basic gerund, temporal gerund, fourth gerund ?
-* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
-
-There are some orthographic things to consider, and they show up in the way
-verbs are inflected. The palatizing series [[d z l n s t] is represented 
-in two ways: vowel letters following, or by the palatizing symbol. 
-
-возьыны    ..   возе    ..   возисько
-бертыны    ..   бертэ   ..   бертӥсько
-
-LEXICON V_  Verb type is still to be determined.
-
-Typical V_MONO entry is the long stem, ending on <ы>
-берты, возьы
-
-бертыны:берт V_MONO  "mennä kotiin" ;
-
-Lexicon **V_MONO** мыныны:мыны
-* Yaml: **mynyny** , This is first declension
-
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
-
-Lexicon **V_UZA**
-* Yaml: **uzhany** , this is second declension
-
-Mutual à la Jaska
-мыныны:мыны
-Lexicon **V_МЫНЫНЫ**
-* Yaml: **mynyny** 
-
-Lexicon **APRS**
-
-Lexicon **FUT-PERSON**
-
-Lexicon **PRTI-PERSON**
-
-Lexicon **PRTII-PERSON**
-
-Lexicon **COND**
-
-Lexicon **IMPRT**
-
-Lexicon **OPT**
-
-Lexicon **NONFINITES**
+LEXICON ADV_  Undeveloped contlexes
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
-
----
-
-
-# Symbol affixes
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adverbs.lexc)</small>
 
 ---
 
@@ -1486,6 +646,792 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns-old.lexc)</small>
+
+---
+
+###  UDMURT Noun inflection
+
+Nouns in Udmurt inflects for case, number, and possession. Following are some
+notes for things that need to be done so far, and also an overview of nominal
+inflection types.
+
+Most Udmurt nouns (the vast majority) do not require changes to the stem
+as a result of inflection. These nouns however, for FST purposes, fall into
+some subcategories:
+
+* Vowel-final stems, which also take inflectional suffixes ending on
+(non-yod) vowels (excepting the adverbial)
+* Consonant-final stems, which take endings beginning on a yodified vowel,
+if one exists
+* Diphthongal stems, which also take the yodified vowels.
+
+Some inflectional endings thus may have two alternatives:
+
+|  Case                  | Non-yod      | Yod
+|  Nominative plural     | ос           | ёс
+|  Accusative singular   | эз           | ез
+|  Instrumental singular | эн           | ен
+|  Illative singular     | э            | е
+|  Prolative singular    | этӥ          | етӥ
+
+Other cases do not vary depending on these environments.
+
+Note that depending on the palatal/nonpalatal status of the last segment,
+the yodified vowel series may be preceded by a <ъ>. According to references though,
+the palatal marker <ь> must remain even when followed by this series.
+Udmurt also has a unique way of handling hiatus relationships, where the non-yod
+series follows vowels, and the yod series follows consonants.
+
+Also note that though stems may not change, orthographically, there may need to be
+a hard sign inserted to maintain the non-palatal pronunciation of certain
+consonant segments.
+
+Some examples:
+
+*-V stems*
+
+|  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
+|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
+|  дунне | дуннеос | дуннеын | дуннелэн | дуннея
+|  ты    | тыос    | тыын    | тылэн    | тыя
+
+*-C stems*
+
+|  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
+|  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
+|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
+|  вить  | витьёс  | витьын | витьлэн | витья
+
+*Diphthongs*
+
+|  NomSg | NomPl | IneSg | GenSg | Advl Sg
+|  уй    | уйёс  | уйын  | уйлэн | уйя
+
+###  Russian loans ending in -ия/-ие
+
+Russian loanwords ending on these segments delete the final yodified vowel
+in all cases, except for the singular adverbial and nominative singular.
+
+Examples:
+
+|  Nominative Singular   |  конференци–0–я      |  собрани–0–е
+|  Nominative Plural     |  конференци–0–ос     |  собрани–0–ос
+|  Inessive Singular     |  конференци–0–ын     |  собрани–0–ын
+|  Genitive Singular     |  конференци–0–лэн    |  собрани–0–лэн
+|  Adverbial Singular    |  конференци–я–я      |  собрани–е–я
+
+Note also that Russian stress is preserved in Nominative Singular, but
+Udmurt stress takes over for inflected forms, and shifts to the final vowel.
+
+This applies to all sorts of Russian words, also including placenames ending
+in -я, excepting biblical place names, and Russian personal names.
+
+TODO: implement in propernouns
+
+* Финляндия - Финляндиын
+* Эстония   - Эстониын
+
+But:
+
+* Самария   – Самарияын
+* Евгения   – Евгения–лы
+* Юлия      – Юлия–лы
+
+There are also some subtypes, where this deletion does not occur even though
+the word ends in -я:
+
+* Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
+
+###  Place names based on names of old tribes
+
+See *affixes/propernouns.lexc*, but quickly: 
+
+These typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+cases, they take an infix which is optional. The optional infix causes
+short versions of case suffixes, otherwise the words take the long version.
+
+###  корка / куала
+
+The words *корка, куала* have some forms similar to the tribe/place names, and some
+cases behave differently: Inessive, Elative have the short consonant-only
+suffix, but unlike the tribe/place names, there is no -ла- infix.
+
+TODO: write tests
+
+###  "Old" Finno-ugric stems (-м-, -г-, -т-)
+
+TODO: add these to lexicon, and add morphology. Consider marking in morphology
+in a way that NDS can present:  син син(м)-
+TODO: write tests
+TODO: how to mark the inflectional stems in the lexicon for display in dictionaries, similar to smenob?
+
+```
+<l>muohta</l>
+<lc>muohttaga</lc>
+```
+
+Some particularly old words have since experienced some amount of deletion
+and simplification of clusters. Deleted segments reappear in some forms (inflectional, derivational),
+but their appearance isn't completely regular, in that some variation
+exists, and sometimes the "short" stem without this segment appears where
+the "long" stem usually would.
+
+Usually, these will also be marked in dictionaries. син син(м)-.
+
+When the possessive is applied to nominative versions of these forms,
+the possessive will have the vowel -ы- instead of -э- or -е-. Also,
+the 'old' segments appear.
+
+Examples:
+
+-м–
+
+|  син        | син–тэм      | синм–ысь                | сынм–ы
+|  *silmä*  | *sokea*    | (elat.)                 | (px. y. 1. p.)
+|  визь       | визь–тэк     | визьм–о				 |  
+|  *järki*  | (abess.)     | *viisas*				 |  
+|  куйнь      | куйнь–лэсь   | куйньм–ой				 |  
+|  *kolme*  | (abl.)       | *3:n päivän kuluessa* |  
+|             | куйнь–етй    | ~ куйньм–етӥ			 |  
+|             | *kolmas*   | *kolmas*				 |  
+|  ин         |               | инм–ын				 |  
+|  *taivas* |               | (iness.)				 |  
+
+-к–
+
+|  кус        |  кус–лы     |   куск–ын        |  куск–ы
+|  *lantio* |  (dat.)     |   (iness.)       |  (Px Sg1)
+|  *vyötärö*|             |                |  
+|  улеп       |  улеп–лы     |   улепк–ын       |  
+|  *elävä*  |  (dat.)      |   (instr.)       |  
+|  nюлэс      | нюлэс–лы     |   нюлэск–ын      |  
+|  *metsä*  |  (dat.)      |   (iness.)       |  
+|  вис        | вис–лы       |   виск–ын        |  
+|  *tauko*  |  (dat.)      |   (iness.)       |  
+|  *väli*   |	 	 |	 	         |  
+
+-т–
+
+|  кык        |  кык–намы      |   кыкт–о
+|  *kaksi*  |  *me kaksin* | *kaksoset*
+|             |                | *kaksospari*
+|             |  кык–етӥ       |  кыкт–ой
+|             |  *toinen*    | *kahden päivän kuluessa*
+|             |                |  кыкт–етӥ
+|             |                |   *toinen*
+
+###  Vowel deletion stems
+
+* TODO: add to lexicon, also need a morphophonological symbol for these
+* TODO: write tests
+
+Some stems also delete vowels in specific cases, generally when the stem is
+attached to a vowel-initial suffix. Alternatively, the vowels may remain,
+but a epenthetic consonant may appear: -к-
+
+Optional deletion
+
+|  сэрег      | серг–ын  | 
+|  *nurkka* | (iness.) | 
+|  *kulma*           |                |   
+|  сюлэм      | сюлм–ыд  | сюлэм–ыд
+|  *sydän*  | (Px Sg2) | (Px Sg2)
+
+Deletion or epenthesis
+
+|  вадес               | вадьс-ын   |  вадеск–ын
+|  *aika, hetki*     | (iness.)   |  (iness.)
+|  *paikka, palsta*          |                |   
+|  пыдэс               | пыдс–ын    |  пидэск–ын
+|  *pohja*           | (iness.)   |  (iness.)
+|  урдэс               | урдс–ын    |  урдэск–ын
+|  *vierus*          | (iness.)   |  (iness.)
+
+NB: palatal quality implied by the yodified vowel in the first example is
+preserved via a soft sign.
+
+###  Suffix ordering with possessive construction
+
+The possessive construction results in different case ordering:
+
+*N-Num-Poss-Case*:
+
+* Genetive
+* Ablative
+* Dative
+* Abessive
+* Adverbial
+* Approximative
+* Terminative
+
+*N-Num-Case-Poss*:
+
+* Inessive
+* Elative
+* Illative
+* Egressive
+* Prolative
+* Instrumental
+
+Note that since the adjective 'determinative' is essentially the 3rd person
+singular possessive, the above ordering also follows for adjective inflection.
+Also note, some cases have atlernate forms for when tehy come before the possessive.
+
+Cases with alternate forms:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+*Examples*:
+
+Genetive:
+
+|  Px 1pSg        | Px 2pSg         | Px 3pSg
+|  бакча-е-лэн    | бакча-ед-лэн    | бакча-ез-лэн
+|  бакча-ос-ы-лэн | бакча-ос-ыд-лэн | бакча-ос-ыз-лэн
+
+Inessive:
+
+|  Px 1pSg      | Px 2pSg      | Px 3pSg
+|  бакча-я-м    | бакча-я-д    | бакча-я-з
+|  бакча-ос-а-м | бакча-ос-а-д | бакча-ос-а-з
+
+Elative:
+
+|  Px 1pSg          | Px 2pSg          | Px 3pSg
+|  бакча-ысьты-м    | бакча-ысьты-д    | бакча-ысьты-з
+|  бакча-ос-ысьты-м | бакча-ос-ысьты-д | бакча-ос-ысьты-з
+
+* TODO: write tests for these ordering situations
+* TODO: implement these in lexc
+
+Noun Lexica
+
+Words from lexicon N_ are mostly covered. These are from the main
+class of nouns described in more depth above.
+
+this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
+TODO: +N+Sg+Ine     endings	 in "н"
+
+Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
+set the stem as ending in –ия, but there is a trigger that causes
+the final "я" to disappear in some situations.
+
+Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
+set the stem as ending in –ие, but there is a trigger that causes
+the final "е" to disappear in some situations.
+
+Words from Tatar in **N_TAT** preserve the original stem я in all cases.
+
+according to kpv temporary 2019-11-07
+* **LEXICON CASEPOSSLEX**
+
+* LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+
+À la Jaska
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+UDMURT Pronoun inflection
+
+Udmurt adjectives inflect for:
+
+* Number
+* Case
+* Determinativity (Absolutive / Determinative)
+* Comparative (TODO: can comparative co-occur with other stuff?)
+
+###  Determinative notes
+
+When an adjective occurs in determinative, it must agree for number and case.
+However, when determinative co-occurs with certain cases, these cases
+have alternate forms.
+
+The cases with alternate forms are:
+
+* Accusative singular, plural
+* Inessive singular, plural
+* Illative singular, plural
+* Elative singular, plural
+
+Note that these alternative suffixes have palatal and non-palatal versions
+
+|  Nom.   | бадӟым-ез гурт          | бадӟым-ъёс-ыз гурт-ъёс
+|  Iness. | бадӟым-а-з гурт-ын      | бадӟым-ъёс-а-з гурт-ъёс-ын
+|  Illat. | бадӟым-а-з гурт-э       | бадӟым-ъёс-а-з гурт-ъёс-ы
+|  Elat.  | бадӟым-ысьты-з гурт-ысь | бадӟым-ъёс-ысьты-з гурт-ъёс-ысь
+
+|  Nom.   | пичи-ез бакча           | пичи-ос-ыз бакча-ос
+|  Iness. | пичи-я-з бакча-ын       | пичи-ос-а-з бакча-ос-ын
+|  Illat. | пичи-я-з бакча-е        | пичи-ос-а-з бакча-ос-ы
+|  Elat.  | пичи-ысьты-з бакча-ысь  | пичи-ос-ысьты-з бакча-ос-ысь
+
+TODO: ordering of suffixes sometimes differs? Compare this with possession morph.
+
+words with this contlex have not been examined
+
+* **LEXICON PERS** 
+* **мон+Pron+Pers+Sg1:м PRON-PERS-SG1_ ;** ...
+
+мон:м
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+
+# Udmurt Proper noun inflection
+
+Place names based on names of old tribes
+
+These words typically end on -я, –га, –ка, –ра, –ла. When inflecting in some
+cases, they take an infix which is optional.
+
+The following may be exhaustive, but unsure yet.
+
+* -я: Салья, Монья, Кибъя, Чабъя, Ӟумъя, Вамъя
+* -га: Можга, Пурга, Дурга, Нылга, Эбга, Коньга
+* -ка: Поска
+* -ра: Бигра, Эгра
+* -ла: Чола
+
+Infix is optional in some cases
+
+|   Case    |  Infix | No infix
+
+| --- | --- | --- 
+|  Iness.    |  Салья-ла-н   |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+
+The following cases do not have the infix at all
+
+|   Case    |  No infix
+
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
+
+So far the PROP (underline) lexicon is a dummy pexicon that just gives **+N+Prop**,
+and then redirects to *NOUNSUF_01*.
+
+Words from lexicon **PROP_HEIMONNIMET** are "old" tribe and place names, 
+which have an optional infix for some cases, while some do not.
+
+In **HEIMO_SUFFIXES_LA**, we append the cases with their post-ла realizations.
+Examples:
+|   Case    |  Infix | No infix
+
+| --- | --- | --- 
+|  Iness.     |  Салья-ла-н    |  Салья-ын
+|  Illat.     |  Салья-ла      |  Салья-е
+|  Elat.      |  Салья-ла-сь   |  Салья-ысь
+|  Egress.    |  Салья-ла-сен  |  Салья-ысен
+
+Note also that the infix results in a 'short' case affix.
+
+In **HEIMO_SUFFIXES_NIL**, the word gets cases with no infix.
+
+|   Case  | wordform
+
+| --- | --- 
+|  Terminat.  |  Салья-озь
+|  Prol.      |  Салья-тӥ
+|  Appr.      |  Салья-лань
+
+Russian type Surnames 
+
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
+
+* :2 PropSur-kal ;  These are foreign Л words
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+Аморский:Аморск
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+Андрей:Андре
+
+Ending 2012-11-15
+
+FEMALE NAMES FROM TEMPLATE
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+
+
+# Symbol affixes
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/symbols.lexc)</small>
+
+---
+
+Udmurt verb inflection
+Udmurt verbs are mainly split into two types: 
+* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
+* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
+
+Conjugation I verbs also may have a 'short' stem, which subtracts the final
+*ы*. The rule is not necessarily as simple as suffixes that begin on
+consonants require a vowel-ending stem, because there are some exceptions.
+Following is a list of things that use the short stem (so far
+incomplete, but feel free to add to it)
+* All forms of the *present affirmative*
+* All forms of the *present negative*
+* All forms of the *future affirmative*
+* All forms of the *future negative*
+* Preterite II Negative? 
+* Caritive gerund? 
+
+And the long stem:
+* Infinitive
+* Conditional affirmative, negative
+* basic gerund, temporal gerund, fourth gerund ?
+* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
+
+There are some orthographic things to consider, and they show up in the way
+verbs are inflected. The palatizing series [d z l n s t] is represented 
+in two ways: vowel letters following, or by the palatizing symbol. 
+
+возьыны    ..   возе    ..   возисько
+бертыны    ..   бертэ   ..   бертӥсько
+
+LEXICON V_  Verb type is still to be determined.
+
+Typical V_MONO entry is the long stem, ending on <ы>
+берты, возьы
+
+бертыны:берт V_MONO  "mennä kotiin" ;
+
+Lexicon *V_MONO*
+* Yaml: **mynyny**
+
+Lexicon *V_UZA*
+* Yaml: **uzhany**
+
+возь >   ..   возе    ..   возисько
+берт >   ..   бертэ   ..   бертӥсько
+
+Lexicon *OPRS*
+NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
+
+Lexicon *APRS*
+
+Lexicon *FUTPAST*
+
+Lexicon *FUTPASTSG*
+
+Lexicon *FUTPASTPL*
+
+Lexicon *FUTPASTPLSHORT*
+
+Lexicon *FUT-PERSON*
+
+Lexicon *PRTI-PERSON*
+
+Lexicon *PRTII-PERSON*
+
+Lexicon *COND*
+
+Lexicon *IMPRT*
+
+Lexicon *OPT*
+
+Lexicon *NONFINITES*
+
+Mutual à la Jaska
+мыныны:мыны
+Lexicon *V_МЫНЫНЫ*
+* Yaml: **mynyny**
+
+Lexicon *APRSjaska*
+
+Lexicon *FUT-PERSONjaska*
+
+Lexicon *PRTI-PERSONjaska*
+
+Lexicon *PRTII-PERSONjaska*
+
+Lexicon *CONDjaska*
+
+Lexicon *IMPRTjaska*
+
+Lexicon *OPTjaska*
+
+Lexicon *NONFINITESjaska*
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs-old.lexc)</small>
+
+---
+
+Udmurt verb inflection
+Udmurt verbs are mainly split into two types: 
+* conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
+* conjugation II, whose stems mostly end on *а/я* (ex. *ужа.ны* 'work', *келя.ны* 'send, put', *кырӟа.ны* 'sing')
+
+Conjugation I verbs also may have a 'short' stem, which subtracts the final
+*ы*. The rule is not necessarily as simple as suffixes that begin on
+consonants require a vowel-ending stem, because there are some exceptions.
+Following is a list of things that use the short stem (so far
+incomplete, but feel free to add to it)
+* All forms of the *present affirmative*
+* All forms of the *present negative*
+* All forms of the *future affirmative*
+* All forms of the *future negative*
+* Preterite II Negative? 
+* Caritive gerund? 
+
+And the long stem:
+* Infinitive
+* Conditional affirmative, negative
+* basic gerund, temporal gerund, fourth gerund ?
+* gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
+
+There are some orthographic things to consider, and they show up in the way
+verbs are inflected. The palatizing series [[d z l n s t] is represented 
+in two ways: vowel letters following, or by the palatizing symbol. 
+
+возьыны    ..   возе    ..   возисько
+бертыны    ..   бертэ   ..   бертӥсько
+
+LEXICON V_  Verb type is still to be determined.
+
+Typical V_MONO entry is the long stem, ending on <ы>
+берты, возьы
+
+бертыны:берт V_MONO  "mennä kotiin" ;
+
+Lexicon **V_MONO** мыныны:мыны
+* Yaml: **mynyny** , This is first declension
+
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Lexicon **V_UZA**
+* Yaml: **uzhany** , this is second declension
+
+Mutual à la Jaska
+мыныны:мыны
+Lexicon **V_МЫНЫНЫ**
+* Yaml: **mynyny** 
+
+Lexicon **APRS**
+
+Lexicon **FUT-PERSON**
+
+Lexicon **PRTI-PERSON**
+
+Lexicon **PRTII-PERSON**
+
+Lexicon **COND**
+
+Lexicon **IMPRT**
+
+Lexicon **OPT**
+
+Lexicon **NONFINITES**
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+
+# Udmurt twol file
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
+
+## Alphabet, Sets and Definitions
+
+## Letters of the alphabet
+
+* а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
+* А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
+
+## Archiphonemes for vowels
+
+%^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
+## Triggers
+
+* %^ConsTransf:0  
+* %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
+* %^RusJa:0       Эстония:Эстониез
+* %^RusJaErr:0    Эстония:Эстонияез
+* %^NotRusJa:0    no words in ия ие
+
+* %^SYNC:0        
+* %^ЫLossVar:0       This is used for мыныны: мыны ~ мын 
+* %^ЫLoss:0       This is used for мыныны: мын 
+
+* Ы2:0	        morpheme initial disappears after vowel ы 0
+
+* %^Е2:0	        morpheme initial disappears after vowel е э 0
+* %^И2:0	        morpheme initial disappears after vowel и ӥ 0
+* %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
+* %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
+* %^А3:0	        Ine а, я
+* %^Л3:0	        ужаны:ужало
+* %^К3:0	        нюлэс:нюлэс%^К3
+* %^М3:0	        син:син%^М3
+* %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
+
+## Boundary symbols
+
+*  %>  
+* hash #
+*  %-  
+
+## Sets 
+
+## Definitions
+
+## Rules
+
+## DEPALATALISATION
+
+**Depalatalize и**
+
+**Depalatalize е**
+* *мыны%>%^Е2*
+* *мын0%>э*
+
+**Depalatalized %{еэ%} **
+* *укмысназ%>%{еэ%}с*
+* *укмысназ%>эс*
+
+**Depalatalize и**
+* *мыны%>%^И2сько*
+* *мын0%>ӥсько*
+
+**Depalatalize е3:е**
+* *бакча%>%^Е3*
+* *бакча%>е*
+
+**Depalatalize е3:э**
+
+**Depalatalize and raise е3:ы**
+
+**Depalatalize and raise ё:о**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
+
+**%^А3:а**
+
+**%^О2:о**
+* *мыны%>%^О2*
+* *мын0%>о*
+* *ужа%>0%^О2*
+* *ужа%>ло*
+
+**Palatal %^О2:ё**
+
+**Palatal э:е**
+
+**Palatal е**
+
+**Palatal и**
+* *луы%>%^И2з*
+* *лу0%>из*
+
+**Palatal а**
+
+**Palatal и:й**
+
+## VOWEL LOSS
+Is this really necessary
+**Stem vowel loss ы:0 LEFT **
+* *луы%>%^Е2м*
+* *лу0%>эм*
+
+**Stem vowel loss Ы2:0 RIGHT**
+* *луы%>%^Е2м*
+* *лу0%>эм*
+* *мыны#*
+* *мыны0*
+* *мын00*
+* *возьы#*
+* *возьы0*
+* *возь00*
+
+**я:0**
+
+**е:0**
+
+**е:ь**
+
+**э:0**
+
+**Palatal е:0**
+
+**Palatal и:0**
+
+**%^О2:0**
+* *ужа%>%^О2*
+* *ужа%>0*
+
+**й:0**
+
+**ь:0**
+* *возь%>Ы2#*
+* *возь%>ы0*
+
+**ъ:0**
+* *корка%>ъёс*
+* *корка%>0ос*
+* *собрание%^RusJa%>ъёс*
+* *собрани00%>0ос*
+
+## ZERO TO CONSONANT
+**%^Л3:л**
+* *ужа%>%^Л3%^О2*
+* *ужа%>ло*
+
+## CONSONANTS
+
+**Devoicing д:т**
+
+**Devoicing з:с**
+
+**Surface consonant before vowel %^К3:к**
+
+**Surface consonant before vowel %^М3:м**
+
+**Disallow %^NotRusJa after cons or other vowels**
+
+**Disallow %^RusJa after cons or other vowels**
+
+**Disallow %^RusJaErr after cons or other vowels**
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
@@ -1968,6 +1914,55 @@ PcleTag ;
 
 ---
 
+Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+This is a temporary work around
+words that do not occur alone
+Russian verbs are often followed by the Udmurt карыны OR карон
+
+Proper names from Bible
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are
+added to the xml source files.
+апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
+
+ADD NOUNS BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+Numerals
+Numerals in UDMURT language are numbers.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+Prefixes
+Prefixes in the Udmurt language are bound to beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/prefixes.lexc)</small>
+
+---
+
 
 
 retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
@@ -2137,18 +2132,6 @@ retracted tongue root			_q
 
 
 
-:одӥг%    1MILJON ; 
-
-This is for the numerals 20-69
-
-* * *
-
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
-
----
-
-
-
 We describe here how abbreviations are in Udmurt are read out, e.g.
 for text-to-speech systems.
 
@@ -2164,6 +2147,18 @@ For example:
 * * *
 
 <small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+---
+
+
+
+:одӥг%    1MILJON ; 
+
+This is for the numerals 20-69
+
+* * *
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
 
@@ -2205,7 +2200,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -2319,9 +2313,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -2410,8 +2401,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -2470,75 +2459,7 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-udm/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-# Grammar checker tokenisation for udm
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* select extended latin symbols
-* select symbols
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for udm
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-udm/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for udm
 
 Usage:
 ```
@@ -2550,7 +2471,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -2599,6 +2520,69 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for udm
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
