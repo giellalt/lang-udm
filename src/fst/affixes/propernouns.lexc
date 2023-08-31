@@ -159,12 +159,16 @@ LEXICON Deriv-RUS-YJ_SURMAL
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON PROP-PLC_KEL1 !should depricate 2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
+PROP-PLC_KAL;
 LEXICON PROP-PLC_KAL
 +Sem/Plc+Sg: CASEPOSSLEX ;
 
 LEXICON PROP-PLC_KIT
 +Sem/Plc+Sg: CASEPOSSLEX ;
 
+LEXICON PROP-PLC_VELE !should depricate	2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
+	PROP-PLC_KUDO ;
 LEXICON PROP-PLC_KUDO
 +Sg:%^RusJa CASEPOSSLEX ;
 +Sg+Err/Orth:%^RusJaErr CASEPOSSLEX ;
