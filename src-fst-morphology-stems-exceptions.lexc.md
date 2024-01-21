@@ -13,7 +13,7 @@ Proper names from Bible
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
 
 ---
 

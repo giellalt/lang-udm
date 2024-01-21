@@ -253,7 +253,7 @@ Cases here all lead to a determinative suffix
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives-old.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/adjectives-old.lexc)</small>
 
 ---
 
@@ -336,7 +336,7 @@ words with this contlex have not been examined
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
 
@@ -349,7 +349,7 @@ LEXICON ADV_  Undeveloped contlexes
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/adverbs.lexc)</small>
 
 ---
 
@@ -645,7 +645,7 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns-old.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/nouns-old.lexc)</small>
 
 ---
 
@@ -934,7 +934,7 @@ according to kpv temporary 2019-11-07
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -983,7 +983,7 @@ words with this contlex have not been examined
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
 
@@ -1076,7 +1076,7 @@ FEMALE NAMES FROM TEMPLATE
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -1085,7 +1085,7 @@ FEMALE NAMES FROM TEMPLATE
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -1185,7 +1185,7 @@ Lexicon *NONFINITESjaska*
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs-old.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/verbs-old.lexc)</small>
 
 ---
 
@@ -1258,7 +1258,7 @@ Lexicon **NONFINITES**
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 
@@ -1431,7 +1431,7 @@ Is this really necessary
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -1910,7 +1910,7 @@ PcleTag ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -1929,7 +1929,7 @@ Proper names from Bible
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
 
 ---
 
@@ -1941,7 +1941,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
 
@@ -1950,7 +1950,7 @@ Numerals in UDMURT language are numbers.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
 
@@ -1959,7 +1959,7 @@ Prefixes in the Udmurt language are bound to beginning of other words.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/stems/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
@@ -2126,7 +2126,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-udm/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-udm/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -2146,7 +2146,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
@@ -2158,7 +2158,7 @@ This is for the numerals 20-69
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
 

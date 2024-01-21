@@ -40,7 +40,7 @@ Some examples:
 *-V stems*
 
 |  NomSg | NomPl   | IneSg   | GenSg    | Advl Sg
-|  бакча | бакчаос | бакчаын | бакчалэн | бакчая
+|  бачка | бачкаос | бакчаын | бакчалэн | бачкая
 |  дунне | дуннеос | дуннеын | дуннелэн | дуннея
 |  ты    | тыос    | тыын    | тылэн    | тыя
 
@@ -48,7 +48,7 @@ Some examples:
 
 |  NomSg | NomPl   | IneSg  | GenSg   | Advl Sg
 |  гурт  | гуртъёс | гуртын | гуртлэн | гуртъя
-|  тэль  | тэльёс  | тэльын | тэльлэн | тэлья
+|  тэль  | тельёс  | тэлъын | тэлълэн | тэлья
 |  вить  | витьёс  | витьын | витьлэн | витья
 
 *Diphthongs*
@@ -193,7 +193,7 @@ Deletion or epenthesis
 |  *paikka, palsta*          |                |   
 |  пыдэс               | пыдс–ын    |  пидэск–ын
 |  *pohja*           | (iness.)   |  (iness.)
-|  урдэс               | урдс–ын    |  урдэск–ын
+|  удрэс               | удрс–ын    |  удрэск–ын
 |  *vierus*          | (iness.)   |  (iness.)
 
 NB: palatal quality implied by the yodified vowel in the first example is
@@ -261,29 +261,36 @@ Noun Lexica
 Words from lexicon N_ are mostly covered. These are from the main
 class of nouns described in more depth above.
 
-this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
-TODO: +N+Sg+Ine     endings	 in "н"
+TODO: +Sg: POSTPX ;
 
-Words from Russian in **N_RUS_JA** end in –ия, our lexicon entries
-set the stem as ending in –ия, but there is a trigger that causes
-the final "я" to disappear in some situations.
+Words from Russian in *N_RUS_JA* end on –ия, but our lexicon entries
+set the stem as ending in –и, because the final -я appears only in some
+situations.
+TODO: possessives
 
-Words from Russian in **N_RUS_JE** end in –ие, our lexicon entries
-set the stem as ending in –ие, but there is a trigger that causes
-the final "е" to disappear in some situations.
+Words from Russian in *N_RUS_JE* end on –ие, but our lexicon entries
+set the stem as ending in –и, because the final -е appears only in some
+situations.
+TODO: possessives
 
-Words from Tatar in **N_TAT** preserve the original stem я in all cases.
+*CASESUF_JE* controls the occurrence of the original -е in the stem, which occurs
+in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+in their initial vowel use this yodified version.
 
-according to kpv temporary 2019-11-07
-* **LEXICON CASEPOSSLEX**
+*CASESUF_JA* controls the occurrence of the original -я in the stem, which occurs
+in Nominative and Adverbial cases. Also note that cases with a yodified possibility
+in their initial vowel use this yodified version.
 
-* LEXICON NMN_END-IN-Ч/ДЗ  водз:водз
+*CASESUF_KORKA* controls the output of case suffixes in the корка/куала type
+which tends to take short case suffixes when they are available.
+
+Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 À la Jaska
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/nouns-old.lexc)</small>
 
 ---
 

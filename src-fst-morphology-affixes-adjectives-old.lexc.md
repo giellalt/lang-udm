@@ -81,7 +81,7 @@ Cases here all lead to a determinative suffix
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/adjectives-old.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/adjectives-old.lexc)</small>
 
 ---
 

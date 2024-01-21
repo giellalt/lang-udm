@@ -22,7 +22,7 @@ And the long stem:
 * gerunds: instrumental -(э)мен/-(е)мен, elative -(э)мысь/-(е)мысь ?
 
 There are some orthographic things to consider, and they show up in the way
-verbs are inflected. The palatizing series [[d z l n s t] is represented 
+verbs are inflected. The palatizing series [d z l n s t] is represented 
 in two ways: vowel letters following, or by the palatizing symbol. 
 
 возьыны    ..   возе    ..   возисько
@@ -35,39 +35,66 @@ Typical V_MONO entry is the long stem, ending on <ы>
 
 бертыны:берт V_MONO  "mennä kotiin" ;
 
-Lexicon **V_MONO** мыныны:мыны
-* Yaml: **mynyny** , This is first declension
+Lexicon *V_MONO*
+* Yaml: **mynyny**
 
-words that do not occur alone
-Russian verbs are often followed by the Udmurt карыны OR карон
+Lexicon *V_UZA*
+* Yaml: **uzhany**
 
-Lexicon **V_UZA**
-* Yaml: **uzhany** , this is second declension
+возь >   ..   возе    ..   возисько
+берт >   ..   бертэ   ..   бертӥсько
+
+Lexicon *OPRS*
+NB: here we use non-palatal vowels, and shift them to palatal variants in phonology
+
+Lexicon *APRS*
+
+Lexicon *FUTPAST*
+
+Lexicon *FUTPASTSG*
+
+Lexicon *FUTPASTPL*
+
+Lexicon *FUTPASTPLSHORT*
+
+Lexicon *FUT-PERSON*
+
+Lexicon *PRTI-PERSON*
+
+Lexicon *PRTII-PERSON*
+
+Lexicon *COND*
+
+Lexicon *IMPRT*
+
+Lexicon *OPT*
+
+Lexicon *NONFINITES*
 
 Mutual à la Jaska
 мыныны:мыны
-Lexicon **V_МЫНЫНЫ**
-* Yaml: **mynyny** 
+Lexicon *V_МЫНЫНЫ*
+* Yaml: **mynyny**
 
-Lexicon **APRS**
+Lexicon *APRSjaska*
 
-Lexicon **FUT-PERSON**
+Lexicon *FUT-PERSONjaska*
 
-Lexicon **PRTI-PERSON**
+Lexicon *PRTI-PERSONjaska*
 
-Lexicon **PRTII-PERSON**
+Lexicon *PRTII-PERSONjaska*
 
-Lexicon **COND**
+Lexicon *CONDjaska*
 
-Lexicon **IMPRT**
+Lexicon *IMPRTjaska*
 
-Lexicon **OPT**
+Lexicon *OPTjaska*
 
-Lexicon **NONFINITES**
+Lexicon *NONFINITESjaska*
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/verbs-old.lexc)</small>
 
 ---
 
