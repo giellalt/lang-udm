@@ -1,6 +1,10 @@
-# Udmurt description 
+# Udmurt language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-cg3-functions.cg3.md 
 
 
 
@@ -170,7 +174,14 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-udm/blob/main/src/cg3/functions.cg3)</small>UDMURT Adjective inflection
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-udm/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# src-fst-morphology-affixes-adjectives-old.lexc.md 
+
+UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
 
@@ -257,6 +268,8 @@ Cases here all lead to a determinative suffix
 
 ---
 
+# src-fst-morphology-affixes-adjectives.lexc.md 
+
 UDMURT Adjective inflection
 
 Udmurt adjectives inflect for:
@@ -340,6 +353,8 @@ words with this contlex have not been examined
 
 ---
 
+# src-fst-morphology-affixes-adverbs.lexc.md 
+
 # Adverbs
 Udmurt (Votyak) .
 
@@ -352,6 +367,8 @@ LEXICON ADV_  Undeveloped contlexes
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/adverbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/adverbs.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-nouns-old.lexc.md 
 
 ###  UDMURT Noun inflection
 
@@ -649,6 +666,8 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 ---
 
+# src-fst-morphology-affixes-nouns.lexc.md 
+
 ###  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
@@ -938,6 +957,8 @@ according to kpv temporary 2019-11-07
 
 ---
 
+# src-fst-morphology-affixes-pronouns.lexc.md 
+
 UDMURT Pronoun inflection
 
 Udmurt adjectives inflect for:
@@ -986,6 +1007,8 @@ words with this contlex have not been examined
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-propernouns.lexc.md 
 
 # Udmurt Proper noun inflection
 
@@ -1080,6 +1103,8 @@ FEMALE NAMES FROM TEMPLATE
 
 ---
 
+# src-fst-morphology-affixes-symbols.lexc.md 
+
 
 # Symbol affixes
 
@@ -1088,6 +1113,8 @@ FEMALE NAMES FROM TEMPLATE
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-verbs-old.lexc.md 
 
 Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
@@ -1189,6 +1216,8 @@ Lexicon *NONFINITESjaska*
 
 ---
 
+# src-fst-morphology-affixes-verbs.lexc.md 
+
 Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
 * conjugation I, whose stems mostly end on *ы* (ex. *мыны-ны* 'go', *юы-ны* 'drink', *вераськы-ны* 'speak')
@@ -1261,6 +1290,8 @@ Lexicon **NONFINITES**
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
+
+# src-fst-morphology-phonology.twolc.md 
 
 # Udmurt twol file
 
@@ -1434,6 +1465,8 @@ Is this really necessary
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
+
+# src-fst-morphology-root.lexc.md 
 
 
 Morphology
@@ -1914,6 +1947,8 @@ PcleTag ;
 
 ---
 
+# src-fst-morphology-stems-exceptions.lexc.md 
+
 Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
 created from lexical data by regular inflection. Usually there should be next
@@ -1933,6 +1968,8 @@ Proper names from Bible
 
 ---
 
+# src-fst-morphology-stems-nouns_newwords.lexc.md 
+
 This is where new words are added as lexc entries before they are
 added to the xml source files.
 апра+N:апра N_  "(eng) /(fin) /(hun) /(rus) " ;
@@ -1945,6 +1982,8 @@ ADD NOUNS BELOW
 
 ---
 
+# src-fst-morphology-stems-numerals.lexc.md 
+
 Numerals
 Numerals in UDMURT language are numbers.
 
@@ -1954,6 +1993,8 @@ Numerals in UDMURT language are numbers.
 
 ---
 
+# src-fst-morphology-stems-prefixes.lexc.md 
+
 Prefixes
 Prefixes in the Udmurt language are bound to beginning of other words.
 
@@ -1962,6 +2003,8 @@ Prefixes in the Udmurt language are bound to beginning of other words.
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -2130,6 +2173,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+
 
 
 We describe here how abbreviations are in Udmurt are read out, e.g.
@@ -2150,6 +2195,8 @@ For example:
 
 ---
 
+# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
+
 
 
 :одӥг%    1MILJON ; 
@@ -2161,6 +2208,8 @@ This is for the numerals 20-69
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
+
+# tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 U D M U R T  G R A M M A R   C H E C K E R
@@ -2459,7 +2508,14 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-udm/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for udm
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-udm/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+
+# Tokeniser for udm
 
 Usage:
 ```
@@ -2522,6 +2578,8 @@ Finally we mark as a token any sequence making up a:
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
 # Grammar checker tokenisation for udm
 
@@ -2586,6 +2644,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -2647,6 +2707,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-udm/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-

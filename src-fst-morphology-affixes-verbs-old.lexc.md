@@ -95,6 +95,3 @@ Lexicon *NONFINITESjaska*
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/verbs-old.lexc)</small>
-
----
-

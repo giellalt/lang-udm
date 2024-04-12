@@ -168,6 +168,3 @@ Is this really necessary
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/phonology.twolc)</small>
-
----
-

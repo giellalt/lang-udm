@@ -291,6 +291,3 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns-old.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/nouns-old.lexc)</small>
-
----
-

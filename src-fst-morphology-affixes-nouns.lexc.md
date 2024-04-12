@@ -284,6 +284,3 @@ according to kpv temporary 2019-11-07
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
-
----
-
