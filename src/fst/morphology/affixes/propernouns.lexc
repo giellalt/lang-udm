@@ -159,22 +159,34 @@ LEXICON Deriv-RUS-YJ_SURMAL
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON PROP-PLC_KEL1 !should depricate 2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
-PROP-PLC_KAL;
-LEXICON PROP-PLC_KAL
+!LEXICON PROP_KEL1_PLC !should depricate 2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
+!PROP_KAL_PLC;
+LEXICON PROP_KAL_PLC
 +Sem/Plc+Sg: CASEPOSSLEX ;
 
-LEXICON PROP-PLC_KIT
-+Sem/Plc+Sg: CASEPOSSLEX ;
+LEXICON PROP_KAL
+ PROP_ ;
+LEXICON PROP_KAL_SUR
+ PROP_ ;
+LEXICON PROP_KUDO
+ PROP_ ;
+LEXICON PROP_OSH
+ PROP_ ;
+LEXICON PROP_OSH_PLC
+ PROP_ ;
 
-LEXICON PROP-PLC_VELE !should depricate	2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
-	PROP-PLC_KUDO ;
-LEXICON PROP-PLC_KUDO
+
+!LEXICON PROP_KIT_PLC
+!+Sem/Plc+Sg: CASEPOSSLEX ;
+
+!LEXICON PROP_VELE_PLC !should depricate	2023-08-30, wait for src/scripts/urj-Cyrl-udm-conversion.pl
+!	PROP_KUDO_PLC ;
+LEXICON PROP_KUDO_PLC
 +Sg:%^RusJa CASEPOSSLEX ;
 +Sg+Err/Orth:%^RusJaErr CASEPOSSLEX ;
 +Sg:%^NotRusJa CASEPOSSLEX ;
 
-!2018-10-21!LEXICON PROP-PLC_OSH
+!2018-10-21!LEXICON PROP_OSH_PLC
 !2018-10-21!+Sem/Plc+Sg: CASEPOSSLEX ;
 
 !! These are vowel-final stems
@@ -192,12 +204,12 @@ LEXICON PROP_KAL_FEM
 +Sem/Fem+Sg: CASEPOSSLEX ;
 LEXICON PROP_KAL_MAL
 +Sem/Mal+Sg: CASEPOSSLEX ;
-LEXICON PROP_KIT_FEM
-+Sem/Fem+Sg: CASEPOSSLEX ;
-LEXICON PROP_KIT_MAL
-+Sem/Mal+Sg: CASEPOSSLEX ;
-LEXICON PROP_KIT_SUR
-+Sem/Sur+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KIT_FEM
+!+Sem/Fem+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KIT_MAL
+!+Sem/Mal+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KIT_SUR
+!+Sem/Sur+Sg: CASEPOSSLEX ;
 
 
 LEXICON PROP_KUDO_FEM
