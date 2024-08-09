@@ -5,6 +5,10 @@
 LEXICON N_NEWWORDS
 test:test N_ "(eng) /(fin) /(hun) /(rus) " ;
 !! ADD NOUNS BELOW
+
+фараон+N:фараон N_ ;
+храм+N:храм N_ ;
+скиния+N:скиния N_ ;
 Интӧро+N:Интӧро N_  "" ;
 МТФ+N:МТФ N_  "" ;
 РСФСР+N:РСФСР N_  "" ;
