@@ -16,12 +16,13 @@ use open qw( :encoding(UTF-8) :std );
 
 while(<>) {
 	# Continuation lexicon substitutions:
-	s/ия\ +PROP-PLC_KUDO\ +\"Z\"\ *\;/ия\ PROP_RUS_JA\ \"Z\"\ \;/g ;
+	s/ия PROP_KUDO_PLC/ия PROP_RUS_JA/g ;
+	s/ия\ +PROP-PLC_KUDO\ \;/ия\ PROP_RUS_JA\ \;/g ;
 	s/PROP-PLC_VELE/PROP_KUDO_PLC/g ;
 	s/PROP-PLC_KEL1/PROP_KAL_PLC/g ;
 	s/PROP_OSH_PLC/PROP_KAL_PLC/g ;
-	s/PROP_KAL/PROP_/g ;
 	s/PROP_KAL_SUR/PROP_/g ;
+	s/PROP_KAL/PROP_/g ;
 	s/PROP_KUDO/PROP_/g ;
 	s/PROP_OSH/PROP_/g ;
 #	s/л\ +CYRL-CONS_SUR\ +\"Z\"\ *\;/л\ CYRL-Л_SUR\ \"Z\"\ \;/g ;
