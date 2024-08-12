@@ -135,7 +135,7 @@ Rules
 
 "Depalatalize е3:е"
 !! **@RULENAME@**
- %^Е3:е <=> [ CnsNoPair (%^SYNC:)  | [ о | и | ы | а ] (%^RusJa:|%^RusJaErr:|%^NotRusJa:) | я: (%^RusJa:|%^NotRusJa:|%^RusJaErr:) | е: [%^RusJa:|%^NotRusJa:|%^RusJaErr:] | ь: ] %> _ ;
+ %^Е3:е <=> [ CnsNoPair (%^SYNC:)  | [ о | и | ы | а ] (%^RusJa:|%^RusJaErr:|%^NotRusJa:) | я: (%^RusJa:|%^NotRusJa:|%^RusJaErr:) | е: [%^RusJa:|%^NotRusJa:|%^RusJaErr:] | ь: | й: ] %> _ ;
 !!€ бакча%>%^Е3
 !!€ бакча%>е
 
