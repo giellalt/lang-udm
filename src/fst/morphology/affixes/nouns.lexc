@@ -285,7 +285,7 @@ LEXICON N_RUS_JA
 !! set the stem as ending in –ия, but there is a trigger that causes
 !! the final "я" to disappear in some situations.
 ! Testing Jaska
-:я%^RusJa NOUNSUF ;
+:%^RusJa NOUNSUF ;
 +Err/Orth: NOUNSUF ;
 
 LEXICON N_RUS_JE
@@ -293,7 +293,7 @@ LEXICON N_RUS_JE
 !! set the stem as ending in –ие, but there is a trigger that causes
 !! the final "е" to disappear in some situations.
 ! Testing Jaska
-:е%^RusJa NOUNSUF ;
+:%^RusJa NOUNSUF ;
 +Err/Orth: NOUNSUF ;
 
 LEXICON N_TAT
