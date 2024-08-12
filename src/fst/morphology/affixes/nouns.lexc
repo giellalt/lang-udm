@@ -272,6 +272,9 @@ LEXICON N_
 ! Testing Jaska
  NOUNSUF ;
 
+LEXICON N_rus100 ! loanword 100%
+N_ ;
+
 LEXICON N_КОРКА
 !! this nouns, as well as коала, have special +N+Sg+Ine endings in "н" 
 !! TODO: +N+Sg+Ine     endings	 in "н"
