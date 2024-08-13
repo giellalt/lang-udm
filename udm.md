@@ -927,6 +927,8 @@ Elative:
 * TODO: implement these in lexc
 
 Noun Lexica
+Words from lexicon N_Y are characterized by the onset vowel ы instead of э
+ки, кыл, ныл, ним
 
 Words from lexicon N_ are mostly covered. These are from the main
 class of nouns described in more depth above.
@@ -1325,6 +1327,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * %^И2:0	        morpheme initial disappears after vowel и ӥ 0
 * %^О2:о	        morpheme initial disappears after vowel also ло after stem-final а
 * %^Е3:е %^Е3:э %^Е3:ы        Acc, Ill е э ы
+* %^Ы3:и %^Ы3:ы        Acc, PX in some nouns
 * %^А3:0	        Ine а, я
 * %^Л3:0	        ужаны:ужало
 * %^К3:0	        нюлэс:нюлэс%^К3
@@ -1364,6 +1367,10 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * *бакча%>е*
 
 **Depalatalize е3:э**
+
+**Depalatalize е3:е**
+
+**Depalatalize Ы3:ы**
 
 **Depalatalize and raise е3:ы**
 
@@ -1784,6 +1791,7 @@ symbols in the lexicon files:
 * %^И2 morpheme initial disappears after vowel
 * %^О2 morpheme initial disappears after vowel also ло after stem-final а
 * %^Е3 Acc, Ill е э ы
+* %^Ы3        Acc, PX in some nouns
 * %^А3 Ine а, я
 * %^Л3	        ужаны:ужало
 * %^К3 нюлэс:нюлэсК3

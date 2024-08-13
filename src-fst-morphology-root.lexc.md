@@ -314,6 +314,7 @@ symbols in the lexicon files:
 * %^И2 morpheme initial disappears after vowel
 * %^О2 morpheme initial disappears after vowel also ло after stem-final а
 * %^Е3 Acc, Ill е э ы
+* %^Ы3        Acc, PX in some nouns
 * %^А3 Ine а, я
 * %^Л3	        ужаны:ужало
 * %^К3 нюлэс:нюлэсК3

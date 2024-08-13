@@ -257,6 +257,8 @@ Elative:
 * TODO: implement these in lexc
 
 Noun Lexica
+Words from lexicon N_Y are characterized by the onset vowel ы instead of э
+ки, кыл, ныл, ним
 
 Words from lexicon N_ are mostly covered. These are from the main
 class of nouns described in more depth above.
