@@ -17,6 +17,7 @@
             * [phonology.twolc](src-fst-morphology-phonology.twolc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/phonology.twolc))
             * [root.lexc](src-fst-morphology-root.lexc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/root.lexc))
             * `stems/`
+                * [adjectives_newwords.lexc](src-fst-morphology-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc))
                 * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/exceptions.lexc))
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/numerals.lexc))
