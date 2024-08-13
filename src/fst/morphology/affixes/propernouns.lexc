@@ -42,6 +42,9 @@ LEXICON PROP_RUS_JA
 :%^RusJa NOUNSUF_01 ;
 +Err/Orth: NOUNSUF_01 ;
 
+LEXICON PROP_KENKSH !Temporary until conversion works 2024-08-13 Jaska
+  PROP_ ;
+
 LEXICON PROP_HEIMONNIMET
 !! Words from lexicon **@LEXNAME@** are "old" tribe and place names, 
 !! which have an optional infix for some cases, while some do not.
