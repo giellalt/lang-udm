@@ -308,21 +308,27 @@ LEXICON N_TAT
 NOUNSUF ;
 
 LEXICON N_СИН
-:%^М3 NOUNSUF_01_V ;
+:%^М3 NOUNSUF_01_Y_VOWEL_INIT ;
+!:%^М3 NOUNSUF_01_V ;
 : NOUNSUF_01_C ;
 
 LEXICON N_НЮЛЭС
-:%^К3 NOUNSUF_01_V ;
+:%^К3 NOUNSUF_01_Y_VOWEL_INIT ;
+!:%^К3 NOUNSUF_01_V ;
 : NOUNSUF_01_C ;
 
 LEXICON N_УРДЭС !FIXME 2024-08-13 ^Ы
-:%^SYNC NOUNSUF_01_V ; !урдсын
-:%^К3 NOUNSUF_01_V ; !урдэскын
+:%^SYNC NOUNSUF_01_Y_VOWEL_INIT ; !урдсын
+:%^К3 NOUNSUF_01_Y_VOWEL_INIT ; !урдэскын
+!:%^SYNC NOUNSUF_01_V ; !урдсын
+!:%^К3 NOUNSUF_01_V ; !урдэскын
 : NOUNSUF_01_C ;
 
 LEXICON N_СЮЛЭМ
-:%^SYNC NOUNSUF_01_V ; !сюлмын
-: NOUNSUF_01_V ; !сюлэмын
+:%^SYNC NOUNSUF_01_Y_VOWEL_INIT ; !сюлмын
+: NOUNSUF_01_Y_VOWEL_INIT ; !сюлэмын
+!:%^SYNC NOUNSUF_01_V ; !сюлмын
+!: NOUNSUF_01_V ; !сюлэмын
 : NOUNSUF_01_C ;
 
 
@@ -352,11 +358,15 @@ LEXICON NOUNSUF_01
 
 LEXICON NOUNSUF_01_Y
  NOUNSUF_01_C ;
+ NOUNSUF_01_Y_VOWEL_INIT ;
+
+LEXICON NOUNSUF_01_Y_VOWEL_INIT
 +Sg: AFTER-SG-CASE_V_Y ;
 +Pl:%>ъёс AFTER-SG/PL-CASE_V ;
 +Sg+Ter+PxPl1:%>озямы K ; !Sg
 +Sg+Ter+PxPl2:%>озяды K ; ! Sg
 +Sg+Ter+PxPl3:%>озязы K ; !Sg
+
 
 LEXICON NOUNSUF_01_C
 +Sg: AFTER-SG/PL-CASE_C ;
