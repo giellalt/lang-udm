@@ -264,6 +264,10 @@
 !! * TODO: implement these in lexc
 
 !! Noun Lexica
+LEXICON N_Y
+!! Words from lexicon @LEXNAME@ are characterized by the onset vowel ы instead of э
+!! ки, кыл, ныл, ним
+NOUNSUF_01_Y ;
 
 LEXICON N_
 !! Words from lexicon @LEXNAME@ are mostly covered. These are from the main
@@ -346,6 +350,14 @@ LEXICON NOUNSUF_01
  NOUNSUF_01_C ;
  NOUNSUF_01_V ;
 
+LEXICON NOUNSUF_01_Y
+ NOUNSUF_01_C ;
++Sg: AFTER-SG-CASE_V_Y ;
++Pl:%>ъёс AFTER-SG/PL-CASE_V ;
++Sg+Ter+PxPl1:%>озямы K ; !Sg
++Sg+Ter+PxPl2:%>озяды K ; ! Sg
++Sg+Ter+PxPl3:%>озязы K ; !Sg
+
 LEXICON NOUNSUF_01_C
 +Sg: AFTER-SG/PL-CASE_C ;
 +Pl:%>ъёс AFTER-SG/PL-CASE_C ;
@@ -406,6 +418,9 @@ LEXICON AFTER-SG/PL-CASE_C
 +Apr+PxPl2:%>дылань K ;
 +Apr+PxPl3:%>зылань K ;
 
+!LEXICON AFTER-PL-CASE_V
+!AFTER-SG/PL-CASE_V ;
+
 LEXICON AFTER-SG/PL-CASE_V
 +Acc:%>%^Е3з K;
 +Ins:%>эн K;
@@ -447,6 +462,92 @@ LEXICON AFTER-SG/PL-CASE_V
 +Advl+PxSg1:%>%^Е3я K ;
 +Advl+PxSg2:%>%^Е3дъя K ;
 +Advl+PxSg3:%>%^Е3зъя K ;
+
++Ine+PxSg1:%>%^А3м K ;
++Ine+PxSg2:%>%^А3д K ;
++Ine+PxSg3:%>%^А3з K ;
++Ine+PxPl1:%>%^А3мы K ;
++Ine+PxPl2:%>%^А3ды K ;
++Ine+PxPl3:%>%^А3зы K ;
+
++Ill+PxSg1:%>%^А3м K ;
++Ill+PxSg2:%>%^А3д K ;
++Ill+PxSg3:%>%^А3з K ;
++Ill+PxPl1:%>%^А3мы K ;
++Ill+PxPl2:%>%^А3ды K ;
++Ill+PxPl3:%>%^А3зы K ;
+
++Ela+PxSg1:%>ысьтым K ;  ! yaml says no t
++Ela+PxSg2:%>ысьтыд K ;  ! yaml says no t
++Ela+PxSg3:%>ысьтыз K ;  ! yaml says no t
++Ela+PxPl1:%>ысьтымы K ; ! yaml says no t
++Ela+PxPl2:%>ысьтыды K ; ! yaml says no t
++Ela+PxPl3:%>ысьтызы K ; ! yaml says no t
+
++Ela+PxSg1:%>ысеным K ;
++Ela+PxSg2:%>ысеныд K ;
++Ela+PxSg3:%>ысеныз K ;
++Ela+PxPl1:%>ысенымы K ;
++Ela+PxPl2:%>ысеныды K ;
++Ela+PxPl3:%>ысенызы K ;
+
++Ter+PxSg1:%>озям K ;
++Ter+PxSg2:%>озяд K ;
++Ter+PxSg3:%>озяз K ;
+
++Prl+PxSg1:%>этӥм K ;
++Prl+PxSg2:%>этӥд K ;
++Prl+PxSg3:%>этӥз K ;
++Prl+PxPl1:%>этӥмы K ;
++Prl+PxPl2:%>этӥды K ;
++Prl+PxPl3:%>этӥзы K ;
+
++Apr+PxSg1:%>элань K ;
++Apr+PxSg2:%>эдлань K ;
++Apr+PxSg3:%>эзлань K ;
+
+!
+LEXICON AFTER-SG-CASE_V_Y
++Acc:%>%^Ы3з K;
++Ins:%>эн K;
++Ine:%>ын K;
++Ill:%>%^Ы3 K;
++Ela:%>ысь K;
++Egr:%>ысен K;
++Ter:%>озь K;
++Prl:%>этӥ K;
+
+! with possession
++Nom+PxSg1:%>%^Ы3 K ;
++Nom+PxSg2:%>%^Ы3д K ;
++Nom+PxSg3:%>%^Ы3з K ;
+
++Gen+PxSg1:%>%^Ы3лэн K ;
++Gen+PxSg2:%>%^Ы3длэн K ;
++Gen+PxSg3:%>%^Ы3злэн K ;
+
++Abl+PxSg1:%>%^Ы3лэсь K ;
++Abl+PxSg2:%>%^Ы3длэсь K ;
++Abl+PxSg3:%>%^Ы3злэсь K ;
+
++Dat+PxSg1:%>%^Ы3лы K ;
++Dat+PxSg2:%>%^Ы3длы K ;
++Dat+PxSg3:%>%^Ы3злы K ;
+
++Ins+PxSg1:%>%^Ы3ным K ;
++Ins+PxSg2:%>%^Ы3ныд K ;
++Ins+PxSg3:%>%^Ы3ныз K ;
++Ins+PxPl1:%>%^Ы3нымы K ;
++Ins+PxPl2:%>%^Ы3ныды K ;
++Ins+PxPl3:%>%^Ы3нызы K ;
+
++Abe+PxSg1:%>%^Ы3тэк K ;
++Abe+PxSg2:%>%^Ы3дтэк K ;
++Abe+PxSg3:%>%^Ы3зтэк K ;
+
++Advl+PxSg1:%>%^Ы3я K ;
++Advl+PxSg2:%>%^Ы3дъя K ;
++Advl+PxSg3:%>%^Ы3зъя K ;
 
 +Ine+PxSg1:%>%^А3м K ;
 +Ine+PxSg2:%>%^А3д K ;

@@ -501,6 +501,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 %^И2	       !!≈ * @CODE@ morpheme initial disappears after vowel
 %^О2	       !!≈ * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
 %^Е3	       !!≈ * @CODE@ Acc, Ill е э ы
+%^Ы3       !!= * @CODE@ Acc, PX in some nouns
 %^А3	       !!≈ * @CODE@ Ine а, я
 %^Л3	       !!= * @CODE@ ужаны:ужало
 %^К3	       !!≈ * @CODE@ нюлэс:нюлэсК3

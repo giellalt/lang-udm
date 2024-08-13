@@ -34,6 +34,7 @@ Alphabet
 %^И2:0	       !!= * @CODE@ morpheme initial disappears after vowel и ӥ 0
 %^О2:о	       !!= * @CODE@ morpheme initial disappears after vowel also ло after stem-final а
 %^Е3:е %^Е3:э %^Е3:ы       !!= * @CODE@ Acc, Ill е э ы
+%^Ы3:и %^Ы3:ы       !!= * @CODE@ Acc, PX in some nouns
 %^А3:0	       !!= * @CODE@ Ine а, я
 %^Л3:0	       !!= * @CODE@ ужаны:ужало
 %^К3:0	       !!= * @CODE@ нюлэс:нюлэс%^К3
@@ -145,6 +146,15 @@ Rules
           [ Ltrs: - [ ё:|Ё:]] [ с | C ] (%^SYNC:) %>  _ ;
           [ Ltrs: - [ ъ:|Ъ:]] [ ё:|Ё:] [ с | C ] (%^SYNC:) %>  _ ;
 ! [[ (Ltrs:) Ltrs: Ltrs: CnsPair: ] - [ %> ъ: ё: с ]| ы: ] (%^SYNC:) %>  _ ;
+
+"Depalatalize е3:е"
+!! **@RULENAME@**
+ %^Ы3:и <=> [ ь: | й: ] %> _ ;
+
+
+"Depalatalize Ы3:ы"
+!! **@RULENAME@**
+ %^Ы3:ы <=> [ Cns| Vow ] (%^SYNC:) %>  _ ;
 
 
 "Depalatalize and raise е3:ы"
