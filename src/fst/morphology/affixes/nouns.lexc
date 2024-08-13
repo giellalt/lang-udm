@@ -315,7 +315,7 @@ LEXICON N_НЮЛЭС
 :%^К3 NOUNSUF_01_V ;
 : NOUNSUF_01_C ;
 
-LEXICON N_УРДЭС
+LEXICON N_УРДЭС !FIXME 2024-08-13 ^Ы
 :%^SYNC NOUNSUF_01_V ; !урдсын
 :%^К3 NOUNSUF_01_V ; !урдэскын
 : NOUNSUF_01_C ;
