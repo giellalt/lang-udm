@@ -75,6 +75,8 @@
 
 !! words with this contlex have not been examined
 
+LEXICON A_rus80 !!not 100% transfer of Russian adjective (for hunspell)
+A_ ;
 
 LEXICON A_
  ADJSUF ;
