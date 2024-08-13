@@ -372,7 +372,9 @@ word classes, or optionally from prefixes:
 Testing 2019-11-07
 Testing 2019-11-07
 
+*  A_NEWWORDS ;     These are new adjectives without translations
 *  N_NEWWORDS ;     These are new nouns without translations
+*  V_NEWWORDS ;     These are new verbs without translations
 
 ABBREVIATIONS
 these still need development 2015-11-03

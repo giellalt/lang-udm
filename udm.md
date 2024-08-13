@@ -1842,7 +1842,9 @@ word classes, or optionally from prefixes:
 Testing 2019-11-07
 Testing 2019-11-07
 
+*  A_NEWWORDS ;     These are new adjectives without translations
 *  N_NEWWORDS ;     These are new nouns without translations
+*  V_NEWWORDS ;     These are new verbs without translations
 
 ABBREVIATIONS
 these still need development 2015-11-03
@@ -2014,6 +2016,19 @@ Prefixes in the Udmurt language are bound to beginning of other words.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
+
+---
+
+# src-fst-morphology-stems-verbs_newwords.lexc.md 
+
+This is where new words are added as lexc entries before they are
+added to Verdd
+
+ADD VERBS BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-udm/blob/main/src/fst/morphology/stems/verbs_newwords.lexc)</small>
 
 ---
 
