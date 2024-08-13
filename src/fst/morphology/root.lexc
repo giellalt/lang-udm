@@ -584,7 +584,9 @@ LEXICON Root
  Acronym ;!! Testing 2019-11-07
  urj-Cyrl-ProperNouns ; !! Testing 2019-11-07
 
+ A_NEWWORDS ;    !!= * @CODE@ These are new adjectives without translations
  N_NEWWORDS ;    !!= * @CODE@ These are new nouns without translations
+ V_NEWWORDS ;    !!= * @CODE@ These are new verbs without translations
 
  V-NEG_ ;
  EXCEPTIONS ;

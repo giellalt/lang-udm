@@ -25,6 +25,7 @@ while(<>) {
 	s/PROP_KAL/PROP_/g ;
 	s/PROP_KUDO/PROP_/g ;
 	s/PROP_OSH/PROP_/g ;
+	s/PROP_KENKSH/PROP_/g ;
 #	s/л\ +CYRL-CONS_SUR\ +\"Z\"\ *\;/л\ CYRL-Л_SUR\ \"Z\"\ \;/g ;
 #	s/ C-FI-NEN/nen LONDON/g ;
 #	s/SUND/BERN/g ;
