@@ -149,7 +149,7 @@ Special symbols are classified with:
 * +CLB   Clause boundary
 * +PUNCT   Punctuation 
 * +LEFT   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
-* +RIGHT   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
+* +RIGHT +MIDDLE   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
 
 The verbs are syntactically split according to transitivity:
 
