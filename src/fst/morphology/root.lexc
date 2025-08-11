@@ -191,7 +191,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +CLB    !!≈ * @CODE@   Clause boundary
 +PUNCT  !!≈ * @CODE@   Punctuation 
 +LEFT   !!≈ * @CODE@   The left in paired punctuation, e.g. %‹+PUNCT+LEFT
-+RIGHT  !!≈ * @CODE@   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
++RIGHT +MIDDLE !!≈ * @CODE@   The right in paired punctuation, e.g. %)+PUNCT+RIGHT
 
 !! The verbs are syntactically split according to transitivity:
 
