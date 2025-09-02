@@ -46,8 +46,8 @@
 <e exclude="fst"><lg><l>лыктон падеж</l><stg><st>лыктон падеж</st></stg></lg><pos></pos><phonet>лыктон паде́ж</phonet><mg><tg xml:lang="fin"><t>approksimatiivi</t></tg> </mg></e>
 <e exclude="fst"><lg><l>лэсьтон падеж</l><stg><st>лэсьтон падеж</st></stg></lg><pos></pos><phonet>лэсьтон паде́ж</phonet><mg><tg xml:lang="fin"><t>instrumentaali</t></tg> </mg></e>
 <e exclude="fst"><lg><l>люкон падеж</l><stg><st>люкон падеж</st></stg></lg><pos></pos><phonet>люкон паде́ж</phonet><mg><tg xml:lang="fin"><t>ablatiivi</t></tg> </mg></e>
-<e exclude="fst"><lg><l>медици́нской институт</l><stg><st>медици́нской институт</st></stg></lg><pos></pos><phonet>медици́нской институ́т</phonet><mg><tg xml:lang="fin"><t>lääketieteellinen instituutti</t></tg> </mg></e>
-<e exclude="fst"><lg><l>механи́ческой институт</l><stg><st>механи́ческой институт</st></stg></lg><pos></pos><phonet>механи́ческой институ́т</phonet><mg><tg xml:lang="fin"><t>teknillinen instituutti</t></tg> </mg></e>
+<e exclude="fst"><lg><l>медицинской институт</l><stg><st>медици́нской институт</st></stg></lg><pos></pos><phonet>медици́нской институ́т</phonet><mg><tg xml:lang="fin"><t>lääketieteellinen instituutti</t></tg> </mg></e>
+<e exclude="fst"><lg><l>механической институт</l><stg><st>механи́ческой институт</st></stg></lg><pos></pos><phonet>механи́ческой институ́т</phonet><mg><tg xml:lang="fin"><t>teknillinen instituutti</t></tg> </mg></e>
 <e exclude="fst"><lg><l>мисьтаськон машина</l><stg><st>мисьтаськон машина</st></stg></lg><pos></pos><phonet>мисьтаськон машина́</phonet><mg><tg xml:lang="fin"><t>pesukone</t></tg> </mg></e>
 <e exclude="fst"><lg><l>модальной кылпуктос</l><stg><st>модальной кылпуктос</st></stg></lg><pos></pos><phonet>модальной кылпуктос</phonet><mg><tg xml:lang="fin"><t>modaalinen ilmaus, modaalirakenne</t></tg> </mg></e>
 <e exclude="fst"><lg><l>мосо лыдним</l><stg><st>мосо лыдним</st></stg></lg><pos></pos><phonet>мосо лыдним</phonet><mg><tg xml:lang="fin"><t>murtoluku</t></tg> </mg></e>
@@ -63,13 +63,13 @@
 <e exclude="fst"><lg><l>ош койык</l><stg><st>ош койык</st></stg></lg><pos></pos><phonet>ош койык</phonet><mg><tg xml:lang="fin"><t>uroshirvi, hirvihärkä</t></tg> </mg></e>
 <e exclude="fst"><lg><l>ӧвӧлтон али дыр</l><stg><st>ӧвӧлтон али дыр</st></stg></lg><pos></pos><phonet>ӧвӧлтон али дыр</phonet><mg><tg xml:lang="fin"><t>kielteinen preesens</t></tg> </mg></e>
 <e exclude="fst"><lg><l>памильной чай</l><stg><st>памильной чай</st></stg></lg><pos></pos><phonet>памильной чай</phonet><mg><tg xml:lang="fin"><t>kaupasta ostettu tee</t></tg> </mg></e>
-<e exclude="fst"><lg><l>педагоги́ческой институт</l><stg><st>педагоги́ческой институт</st></stg></lg><pos></pos><phonet>педагоги́ческой институ́т</phonet><mg><m><head></head><semRel>пединститу́т</semRel></m> <tg xml:lang="fin"><t>pedagoginen instituutti</t></tg> </mg></e>
+<e exclude="fst"><lg><l>педагогической институт</l><stg><st>педагоги́ческой институт</st></stg></lg><pos></pos><phonet>педагоги́ческой институ́т</phonet><mg><m><head></head><semRel>пединститу́т</semRel></m> <tg xml:lang="fin"><t>pedagoginen instituutti</t></tg> </mg></e>
 <e exclude="fst"><lg><l>потон падеж</l><stg><st>потон падеж</st></stg></lg><pos></pos><phonet>потон паде́ж</phonet><mg><tg xml:lang="fin"><t>elatiivi</t></tg> </mg></e>
 <e exclude="fst"><lg><l>приём корка</l><stg><st>приём корка</st></stg></lg><pos></pos><phonet>приём корка</phonet><mg><tg xml:lang="fin"><t>kutsuntapaikka</t></tg> </mg></e>
 <e exclude="fst"><lg><l>пумо: трос пумоесь тылобурдоос</l><stg><st>пумо: трос пумоесь тылобурдоос</st></stg></lg><pos></pos><phonet>пумо: трос пумоесь тылобурдоос</phonet><mg><tg xml:lang="fin"><t>monia erilaisia lintuja</t></tg> </mg></e>
 <e exclude="fst"><lg><l>пырон падеж</l><stg><st>пырон падеж</st></stg></lg><pos></pos><phonet>пырон паде́ж</phonet><mg><tg xml:lang="fin"><t>illatiivi</t></tg> </mg></e>
 <e exclude="fst"><lg><l>радлыко лыдним</l><stg><st>радлыко лыдним</st></stg></lg><pos></pos><phonet>радлыко лыдним</phonet><mg><tg xml:lang="fin"><t>järjestysluku</t></tg> </mg></e>
-<e exclude="fst"><lg><l>сельскохозя́йственной институт</l><stg><st>сельскохозя́йственной институт</st></stg></lg><pos></pos><phonet>сельскохозя́йственной институ́т</phonet><mg><tg xml:lang="fin"><t>maatalousinstituutti</t></tg> </mg></e>
+<e exclude="fst"><lg><l>сельскохозяйственной институт</l><stg><st>сельскохозя́йственной институт</st></stg></lg><pos></pos><phonet>сельскохозя́йственной институ́т</phonet><mg><tg xml:lang="fin"><t>maatalousinstituutti</t></tg> </mg></e>
 <e exclude="fst"><lg><l>сётон падеж</l><stg><st>сётон падеж</st></stg></lg><pos></pos><phonet>сётон паде́ж</phonet><mg><tg xml:lang="fin"><t>datiivi</t></tg> </mg></e>
 <e exclude="fst"><lg><l>тодмо ортчем дыр</l><stg><st>тодмо ортчем дыр</st></stg></lg><pos></pos><phonet>тодмо ортчем дыр</phonet><mg><tg xml:lang="fin"><t>I preteriti</t></tg> </mg></e>
 <e exclude="fst"><lg><l>тодмосним пӧрмитӥсь итэт</l><stg><st>тодмосним пӧрмитӥсь итэт</st></stg></lg><pos></pos><phonet>тодмосним пӧрмитӥсь итэт</phonet><mg><tg xml:lang="fin"><t>adjektiivinjohdin</t></tg> </mg></e>
