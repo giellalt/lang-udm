@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-udm%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-udm)](https://github.com/giellalt/lang-udm/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-udm/main/badge.svg)](https://github.com/giellalt/lang-udm/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-udm?label=CI)](https://builds.giellalt.org/pipelines/lang-udm/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/udmu1245)
 
 This is the documentation of a tentative finite state automaton for the [Udmurt language model](http://github.com/giellalt/lang-udm). The automaton is made after the same model as the Sami automata.
 

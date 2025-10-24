@@ -4,7 +4,7 @@ All doc-comment documentation in one large file.
 
 ---
 
-# src-cg3-functions.cg3.md 
+## src-cg3-functions.cg3.md 
 
 
 
@@ -43,7 +43,7 @@ part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
 These were the set types.
 
-## HABITIVE MAPPING
+### HABITIVE MAPPING
 
 * **hab1** 
 
@@ -162,16 +162,16 @@ These were the set types.
 
 * **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
-### sma object
+#### sma object
 
 * **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
 * **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
 
-## SUBJ MAPPING - leftovers
+### SUBJ MAPPING - leftovers
 
-## OBJ MAPPING - leftovers
+### OBJ MAPPING - leftovers
 
-## HNOUN MAPPING
+### HNOUN MAPPING
 
 * * *
 
@@ -179,7 +179,7 @@ These were the set types.
 
 ---
 
-# src-fst-morphology-affixes-adjectives-old.lexc.md 
+## src-fst-morphology-affixes-adjectives-old.lexc.md 
 
 UDMURT Adjective inflection
 
@@ -190,7 +190,7 @@ Udmurt adjectives inflect for:
 * Determinativity (Absolutive / Determinative)
 * Comparative (TODO: can comparative co-occur with other stuff?)
 
-###  Determinative notes
+####  Determinative notes
 
 When an adjective occurs in determinative, it must agree for number and case.
 However, when determinative co-occurs with certain cases, these cases
@@ -268,7 +268,7 @@ Cases here all lead to a determinative suffix
 
 ---
 
-# src-fst-morphology-affixes-adjectives.lexc.md 
+## src-fst-morphology-affixes-adjectives.lexc.md 
 
 UDMURT Adjective inflection
 
@@ -279,7 +279,7 @@ Udmurt adjectives inflect for:
 * Determinativity (Absolutive / Determinative)
 * Comparative (TODO: can comparative co-occur with other stuff?)
 
-###  Determinative notes
+####  Determinative notes
 
 When an adjective occurs in determinative, it must agree for number and case.
 However, when determinative co-occurs with certain cases, these cases
@@ -353,9 +353,9 @@ words with this contlex have not been examined
 
 ---
 
-# src-fst-morphology-affixes-adverbs.lexc.md 
+## src-fst-morphology-affixes-adverbs.lexc.md 
 
-# Adverbs
+## Adverbs
 Udmurt (Votyak) .
 
 The adverbs have a minimal morphology, just the tag +Adv.
@@ -368,9 +368,9 @@ LEXICON ADV_  Undeveloped contlexes
 
 ---
 
-# src-fst-morphology-affixes-nouns-old.lexc.md 
+## src-fst-morphology-affixes-nouns-old.lexc.md 
 
-###  UDMURT Noun inflection
+####  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -428,7 +428,7 @@ Some examples:
 |  NomSg | NomPl | IneSg | GenSg | Advl Sg
 |  уй    | уйёс  | уйын  | уйлэн | уйя
 
-###  Russian loans ending in -ия/-ие
+####  Russian loans ending in -ия/-ие
 
 Russian loanwords ending on these segments delete the final yodified vowel
 in all cases, except for the singular adverbial and nominative singular.
@@ -463,7 +463,7 @@ the word ends in -я:
 
 * Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
 
-###  Place names based on names of old tribes
+####  Place names based on names of old tribes
 
 See *affixes/propernouns.lexc*, but quickly: 
 
@@ -471,7 +471,7 @@ These typically end on -я, –га, –ка, –ра, –ла. When inflecting 
 cases, they take an infix which is optional. The optional infix causes
 short versions of case suffixes, otherwise the words take the long version.
 
-###  корка / куала
+####  корка / куала
 
 The words *корка, куала* have some forms similar to the tribe/place names, and some
 cases behave differently: Inessive, Elative have the short consonant-only
@@ -479,7 +479,7 @@ suffix, but unlike the tribe/place names, there is no -ла- infix.
 
 TODO: write tests
 
-###  "Old" Finno-ugric stems (-м-, -г-, -т-)
+####  "Old" Finno-ugric stems (-м-, -г-, -т-)
 
 TODO: add these to lexicon, and add morphology. Consider marking in morphology
 in a way that NDS can present:  син син(м)-
@@ -541,7 +541,7 @@ Examples:
 |             |                |  кыкт–етӥ
 |             |                |   *toinen*
 
-###  Vowel deletion stems
+####  Vowel deletion stems
 
 * TODO: add to lexicon, also need a morphophonological symbol for these
 * TODO: write tests
@@ -571,7 +571,7 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-###  Suffix ordering with possessive construction
+####  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
 
@@ -666,9 +666,9 @@ Words from Tatar in *N_TAT* preserve the original stem я in all cases.
 
 ---
 
-# src-fst-morphology-affixes-nouns.lexc.md 
+## src-fst-morphology-affixes-nouns.lexc.md 
 
-###  UDMURT Noun inflection
+####  UDMURT Noun inflection
 
 Nouns in Udmurt inflects for case, number, and possession. Following are some
 notes for things that need to be done so far, and also an overview of nominal
@@ -726,7 +726,7 @@ Some examples:
 |  NomSg | NomPl | IneSg | GenSg | Advl Sg
 |  уй    | уйёс  | уйын  | уйлэн | уйя
 
-###  Russian loans ending in -ия/-ие
+####  Russian loans ending in -ия/-ие
 
 Russian loanwords ending on these segments delete the final yodified vowel
 in all cases, except for the singular adverbial and nominative singular.
@@ -761,7 +761,7 @@ the word ends in -я:
 
 * Non-russian words ending in -я (Loans from Tatar): чия *kirsikka* - чия–лы
 
-###  Place names based on names of old tribes
+####  Place names based on names of old tribes
 
 See *affixes/propernouns.lexc*, but quickly: 
 
@@ -769,7 +769,7 @@ These typically end on -я, –га, –ка, –ра, –ла. When inflecting 
 cases, they take an infix which is optional. The optional infix causes
 short versions of case suffixes, otherwise the words take the long version.
 
-###  корка / куала
+####  корка / куала
 
 The words *корка, куала* have some forms similar to the tribe/place names, and some
 cases behave differently: Inessive, Elative have the short consonant-only
@@ -777,7 +777,7 @@ suffix, but unlike the tribe/place names, there is no -ла- infix.
 
 TODO: write tests
 
-###  "Old" Finno-ugric stems (-м-, -г-, -т-)
+####  "Old" Finno-ugric stems (-м-, -г-, -т-)
 
 TODO: add these to lexicon, and add morphology. Consider marking in morphology
 in a way that NDS can present:  син син(м)-
@@ -839,7 +839,7 @@ Examples:
 |             |                |  кыкт–етӥ
 |             |                |   *toinen*
 
-###  Vowel deletion stems
+####  Vowel deletion stems
 
 * TODO: add to lexicon, also need a morphophonological symbol for these
 * TODO: write tests
@@ -869,7 +869,7 @@ Deletion or epenthesis
 NB: palatal quality implied by the yodified vowel in the first example is
 preserved via a soft sign.
 
-###  Suffix ordering with possessive construction
+####  Suffix ordering with possessive construction
 
 The possessive construction results in different case ordering:
 
@@ -959,7 +959,7 @@ according to kpv temporary 2019-11-07
 
 ---
 
-# src-fst-morphology-affixes-prefixes.lexc.md 
+## src-fst-morphology-affixes-prefixes.lexc.md 
 
 Prefixes
 Prefixes in the Udmurt language are bound to beginning of other words.
@@ -970,7 +970,7 @@ Prefixes in the Udmurt language are bound to beginning of other words.
 
 ---
 
-# src-fst-morphology-affixes-pronouns.lexc.md 
+## src-fst-morphology-affixes-pronouns.lexc.md 
 
 UDMURT Pronoun inflection
 
@@ -981,7 +981,7 @@ Udmurt adjectives inflect for:
 * Determinativity (Absolutive / Determinative)
 * Comparative (TODO: can comparative co-occur with other stuff?)
 
-###  Determinative notes
+####  Determinative notes
 
 When an adjective occurs in determinative, it must agree for number and case.
 However, when determinative co-occurs with certain cases, these cases
@@ -1021,9 +1021,9 @@ words with this contlex have not been examined
 
 ---
 
-# src-fst-morphology-affixes-propernouns.lexc.md 
+## src-fst-morphology-affixes-propernouns.lexc.md 
 
-# Udmurt Proper noun inflection
+## Udmurt Proper noun inflection
 
 Place names based on names of old tribes
 
@@ -1116,10 +1116,10 @@ FEMALE NAMES FROM TEMPLATE
 
 ---
 
-# src-fst-morphology-affixes-symbols.lexc.md 
+## src-fst-morphology-affixes-symbols.lexc.md 
 
 
-# Symbol affixes
+## Symbol affixes
 
 * * *
 
@@ -1127,7 +1127,7 @@ FEMALE NAMES FROM TEMPLATE
 
 ---
 
-# src-fst-morphology-affixes-verbs-old.lexc.md 
+## src-fst-morphology-affixes-verbs-old.lexc.md 
 
 Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
@@ -1229,7 +1229,7 @@ Lexicon *NONFINITESjaska*
 
 ---
 
-# src-fst-morphology-affixes-verbs.lexc.md 
+## src-fst-morphology-affixes-verbs.lexc.md 
 
 Udmurt verb inflection
 Udmurt verbs are mainly split into two types: 
@@ -1304,23 +1304,23 @@ Lexicon **NONFINITES**
 
 ---
 
-# src-fst-morphology-phonology.twolc.md 
+## src-fst-morphology-phonology.twolc.md 
 
-# Udmurt twol file
+## Udmurt twol file
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-udm/blob/main/src/fst/phonology.twolc) 
 
-## Alphabet, Sets and Definitions
+### Alphabet, Sets and Definitions
 
-## Letters of the alphabet
+### Letters of the alphabet
 
 * а б в г д е ё ж ӝ з ӟ и ӥ й к л м н о ӧ п р с т у ф х ц ч ӵ ш щ ъ ы ь э ю я 
 * А Б В Г Д Е Ё Ж Ӝ З Ӟ И Ӥ Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ӵ Ш Щ Ъ Ы Ь Э Ю Я 
 
-## Archiphonemes for vowels
+### Archiphonemes for vowels
 
 %^@:0  	    This apparently causes :о +V+Ind+PrtII:%>еме%>%^@ +V+Ind+Fut:%>о%>%^@ +V+Ind+PrtI:%>и%>%^@ 
-## Triggers
+### Triggers
 
 * %^ConsTransf:0  
 * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
@@ -1345,19 +1345,19 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 * %^М3:0	        син:син%^М3
 * %{еэ%}:е	        morpheme initial vowel е э , e.g. Acc
 
-## Boundary symbols
+### Boundary symbols
 
 *  %>  
 * hash #
 *  %-  
 
-## Sets 
+### Sets 
 
-## Definitions
+### Definitions
 
-## Rules
+### Rules
 
-## DEPALATALISATION
+### DEPALATALISATION
 
 **Depalatalize и**
 
@@ -1413,7 +1413,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-u
 
 **Palatal и:й**
 
-## VOWEL LOSS
+### VOWEL LOSS
 Is this really necessary
 **Stem vowel loss ы:0 LEFT **
 * *луы%>%^Е2м*
@@ -1457,12 +1457,12 @@ Is this really necessary
 * *собрание%^RusJa%>ъёс*
 * *собрани00%>0ос*
 
-## ZERO TO CONSONANT
+### ZERO TO CONSONANT
 **%^Л3:л**
 * *ужа%>%^Л3%^О2*
 * *ужа%>ло*
 
-## CONSONANTS
+### CONSONANTS
 
 **Devoicing д:т**
 
@@ -1484,13 +1484,13 @@ Is this really necessary
 
 ---
 
-# src-fst-morphology-root.lexc.md 
+## src-fst-morphology-root.lexc.md 
 
 
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
-# Definitions for Multichar_Symbols
+## Definitions for Multichar_Symbols
 
 Analysis symbols
 The morphological analyses of wordforms for the UDMURT language are presented
@@ -1653,7 +1653,7 @@ Question and Focus particles:
 * +Qst  Question
 * +Foc  Focus
 
-### Tags distinguishing different versions of the same lemma (before POS)
+#### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
 * +v2
 * +v3
@@ -1819,14 +1819,14 @@ And following triggers to control variation
 * %^ЫLossVar This is used for мыныны: мыны ~ мын
 * %^ЫLoss This is used for мыныны: мын
 
-### Symbols that need to be escaped on the lower side (towards twolc):
+#### Symbols that need to be escaped on the lower side (towards twolc):
 
 * »
 * «
 * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
-## Flag diacritics
+### Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
@@ -1968,7 +1968,7 @@ PcleTag ;
 
 ---
 
-# src-fst-morphology-stems-adjectives_newwords.lexc.md 
+## src-fst-morphology-stems-adjectives_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are
 added to Verdd
@@ -1981,7 +1981,7 @@ ADD ADJECTIVES BELOW
 
 ---
 
-# src-fst-morphology-stems-exceptions.lexc.md 
+## src-fst-morphology-stems-exceptions.lexc.md 
 
 Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
@@ -2002,7 +2002,7 @@ Proper names from Bible
 
 ---
 
-# src-fst-morphology-stems-nouns_newwords.lexc.md 
+## src-fst-morphology-stems-nouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are
 added to the xml source files.
@@ -2016,7 +2016,7 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-numerals.lexc.md 
+## src-fst-morphology-stems-numerals.lexc.md 
 
 Numerals
 Numerals in UDMURT language are numbers.
@@ -2027,7 +2027,7 @@ Numerals in UDMURT language are numbers.
 
 ---
 
-# src-fst-morphology-stems-verbs_newwords.lexc.md 
+## src-fst-morphology-stems-verbs_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are
 added to Verdd
@@ -2040,7 +2040,7 @@ ADD VERBS BELOW
 
 ---
 
-# src-fst-phonetics-txt2ipa.xfscript.md 
+## src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -2209,7 +2209,7 @@ retracted tongue root			_q
 
 ---
 
-# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+## src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -2231,7 +2231,7 @@ For example:
 
 ---
 
-# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
+## src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
 
 
 
@@ -2245,26 +2245,26 @@ This is for the numerals 20-69
 
 ---
 
-# tools-grammarcheckers-grammarchecker.cg3.md 
+## tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 U D M U R T  G R A M M A R   C H E C K E R
 
-# DELIMITERS
+## DELIMITERS
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Tags
+### Tags
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 BOS
 EOS
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 A
@@ -2291,7 +2291,7 @@ PUNCT
 COMMA
 ¶
 
-### Tags for POS sub-categories
+#### Tags for POS sub-categories
 
 Pers
 Dem
@@ -2307,7 +2307,7 @@ Allegro
 Arab
 Romertall
 
-### Tags for morphosyntactic properties
+#### Tags for morphosyntactic properties
 
 Nom
 Acc
@@ -2370,7 +2370,7 @@ VAbess
 
 Err/Orth
 
-### Semantic tags
+#### Semantic tags
 
 Sem/Act
 Sem/Ani
@@ -2403,7 +2403,7 @@ PROP-SUR
 
 TIME-N-SET
 
-###  Syntactic tags
+####  Syntactic tags
 
 @+FAUXV
 @+FMAINV
@@ -2473,22 +2473,22 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-## Sets containing sets of lists and tags
+### Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-### Sets for Single-word sets
+#### Sets for Single-word sets
 
 INITIAL
 
-### Sets for word or not
+#### Sets for word or not
 
 WORD
 NOT-COMMA
 
-### Case sets
+#### Case sets
 
 ADLVCASE
 
@@ -2499,11 +2499,11 @@ NOT-NOM
 NOT-GEN
 NOT-ACC
 
-### Verb sets
+#### Verb sets
 
 NOT-V
 
-### Sets for finiteness and mood
+#### Sets for finiteness and mood
 
 REAL-NEG
 
@@ -2511,7 +2511,7 @@ MOOD-V
 
 NOT-PRFPRC
 
-### Sets for person
+#### Sets for person
 
 SG1-V
 SG2-V
@@ -2523,25 +2523,25 @@ PL1-V
 PL2-V
 PL3-V
 
-### Pronoun sets
+#### Pronoun sets
 
-### Adjectival sets and their complements
+#### Adjectival sets and their complements
 
-### Adverbial sets and their complements
+#### Adverbial sets and their complements
 
-### Sets of elements with common syntactic behaviour
+#### Sets of elements with common syntactic behaviour
 
-### NP sets defined according to their morphosyntactic features
+#### NP sets defined according to their morphosyntactic features
 
-### The PRE-NP-HEAD family of sets
+#### The PRE-NP-HEAD family of sets
 
 These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-### Border sets and their complements
+#### Border sets and their complements
 
-### Grammarchecker sets
+#### Grammarchecker sets
 
 * * *
 
@@ -2549,9 +2549,9 @@ expression **WORD - premodifiers**.
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
-# Tokeniser for udm
+## Tokeniser for udm
 
 Usage:
 ```
@@ -2596,7 +2596,7 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-## Unknown handling
+### Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
@@ -2615,9 +2615,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
-# Grammar checker tokenisation for udm
+## Grammar checker tokenisation for udm
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2680,9 +2680,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
 
-# TTS tokenisation for smj
+## TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
