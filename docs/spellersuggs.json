@@ -1,0 +1,6 @@
+/Users/ttr000/git/giellalt/lang-udm/./../giella-core/scripts/make-spellerbadge-json.sh: unknown option ./typosreport/report.json
+Usage: /Users/ttr000/git/giellalt/lang-udm/./../giella-core/scripts/make-spellerbadge-json.sh REPORTFILE
+Build spellerbadge.json for REPORTFILE (typosreport/report.json)
+
+  -h, --help              Print this usage info
+
