@@ -62,6 +62,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! The Usage extents are marked using following tags:
 
 +Err/Orth     !!≈ * @CODE@ Not in norm
++Err/Orth-colloq !!≈ * @CODE@ Not in norm, qolloquial
 +Use/-Spell  !!≈ * @CODE@ Not in speller
 
 +OLang/RUS !!≈ * @CODE@ - Russian
