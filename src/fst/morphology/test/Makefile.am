@@ -18,7 +18,7 @@ XFAIL_TESTS=generate-adjective-lemmas.sh  \
 			missing-multichars.sh \
 			generate-adjective-paradigm.sh \
 			generate-noun-paradigm.sh \
-			generate-verb-paradigm.sh
+			generate-verb-paradigm.sh \
 			generate-noun-lemmas.sh \
 			generate-verb-lemmas.sh \
 			generate-propernoun-lemmas.sh
