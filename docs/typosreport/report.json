@@ -60,19 +60,19 @@
     "true_negative": 0,
     "slowest_lookup": {
       "secs": 0,
-      "subsec_nanos": 7371625
+      "subsec_nanos": 5034334
     },
     "fastest_lookup": {
       "secs": 0,
-      "subsec_nanos": 3970083
+      "subsec_nanos": 1768042
     },
     "average_time": {
       "secs": 0,
-      "subsec_nanos": 5860159
+      "subsec_nanos": 3009193
     },
     "average_time_95pc": {
       "secs": 0,
-      "subsec_nanos": 5860159
+      "subsec_nanos": 3009193
     },
     "average_position_of_correct": 1.0,
     "average_suggestions_for_correct": 5.909091
@@ -109,7 +109,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5875250
+        "subsec_nanos": 4465083
       },
       "false_accept": false
     },
@@ -166,7 +166,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 7304541
+        "subsec_nanos": 2431709
       },
       "false_accept": false
     },
@@ -201,7 +201,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5864250
+        "subsec_nanos": 3759459
       },
       "false_accept": false
     },
@@ -247,7 +247,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 7371625
+        "subsec_nanos": 2558250
       },
       "false_accept": false
     },
@@ -370,7 +370,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 6711250
+        "subsec_nanos": 2297416
       },
       "false_accept": false
     },
@@ -457,29 +457,29 @@
           }
         },
         {
-          "value": "возиськон",
-          "weight": 30.0,
+          "value": "вазиськон",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "возиськон",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
             "reweight_end": 0.0
           }
         },
         {
           "value": "кизиськон",
-          "weight": 30.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 20.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 10.0,
-            "reweight_end": 0.0
-          }
-        },
-        {
-          "value": "вазиськон",
           "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
@@ -493,7 +493,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5003250
+        "subsec_nanos": 5034334
       },
       "false_accept": false
     },
@@ -603,12 +603,12 @@
         },
         {
           "value": "Видзон",
-          "weight": 30.0,
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
             "reweight_end": 0.0
           }
         }
@@ -616,7 +616,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5234042
+        "subsec_nanos": 2412416
       },
       "false_accept": false
     },
@@ -651,7 +651,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 6439458
+        "subsec_nanos": 3060208
       },
       "false_accept": false
     },
@@ -774,7 +774,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 3970083
+        "subsec_nanos": 2191041
       },
       "false_accept": false
     },
@@ -883,21 +883,21 @@
           }
         },
         {
-          "value": "азран",
-          "weight": 30.0,
+          "value": "ансыраз",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
             "reweight_start": 0.0,
-            "reweight_mid": 10.0,
-            "reweight_end": 0.0
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
           }
         }
       ],
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5845250
+        "subsec_nanos": 1768042
       },
       "false_accept": false
     },
@@ -932,17 +932,17 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 4842750
+        "subsec_nanos": 3123167
       },
       "false_accept": false
     }
   ],
   "start_timestamp": {
-    "secs": 1775593662,
-    "subsec_nanos": 41681000
+    "secs": 1775802726,
+    "subsec_nanos": 298191000
   },
   "total_time": {
     "secs": 0,
-    "subsec_nanos": 7695167
+    "subsec_nanos": 9393166
   }
 }
