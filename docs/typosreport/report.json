@@ -60,19 +60,19 @@
     "true_negative": 0,
     "slowest_lookup": {
       "secs": 0,
-      "subsec_nanos": 5851167
+      "subsec_nanos": 5131541
     },
     "fastest_lookup": {
       "secs": 0,
-      "subsec_nanos": 1929292
+      "subsec_nanos": 3217166
     },
     "average_time": {
       "secs": 0,
-      "subsec_nanos": 3700030
+      "subsec_nanos": 4322772
     },
     "average_time_95pc": {
       "secs": 0,
-      "subsec_nanos": 3700030
+      "subsec_nanos": 4322772
     },
     "average_position_of_correct": 1.0,
     "average_suggestions_for_correct": 5.909091
@@ -109,7 +109,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 3164042
+        "subsec_nanos": 4887584
       },
       "false_accept": false
     },
@@ -166,7 +166,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5290208
+        "subsec_nanos": 4995375
       },
       "false_accept": false
     },
@@ -201,7 +201,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5557708
+        "subsec_nanos": 4183083
       },
       "false_accept": false
     },
@@ -247,7 +247,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 3635208
+        "subsec_nanos": 4843125
       },
       "false_accept": false
     },
@@ -370,7 +370,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 2646958
+        "subsec_nanos": 3802958
       },
       "false_accept": false
     },
@@ -457,29 +457,29 @@
           }
         },
         {
-          "value": "вазиськон",
-          "weight": 35.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 20.0,
-            "reweight_start": 10.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 0.0
-          }
-        },
-        {
           "value": "возиськон",
-          "weight": 35.0,
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
-            "reweight_start": 10.0,
-            "reweight_mid": 5.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
           "value": "кизиськон",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "вазиськон",
           "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
@@ -493,7 +493,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 2127792
+        "subsec_nanos": 4267083
       },
       "false_accept": false
     },
@@ -603,12 +603,12 @@
         },
         {
           "value": "Видзон",
-          "weight": 35.0,
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
-            "reweight_start": 10.0,
-            "reweight_mid": 5.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         }
@@ -616,7 +616,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 1954292
+        "subsec_nanos": 5131541
       },
       "false_accept": false
     },
@@ -651,7 +651,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 4652708
+        "subsec_nanos": 3871458
       },
       "false_accept": false
     },
@@ -774,7 +774,7 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 3890958
+        "subsec_nanos": 3217166
       },
       "false_accept": false
     },
@@ -883,21 +883,21 @@
           }
         },
         {
-          "value": "ансыраз",
-          "weight": 35.0,
+          "value": "азран",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
             "mutator_weight": 20.0,
             "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
           }
         }
       ],
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 1929292
+        "subsec_nanos": 4307875
       },
       "false_accept": false
     },
@@ -932,17 +932,17 @@
       "position": 0,
       "time": {
         "secs": 0,
-        "subsec_nanos": 5851167
+        "subsec_nanos": 4043250
       },
       "false_accept": false
     }
   ],
   "start_timestamp": {
-    "secs": 1775803706,
-    "subsec_nanos": 765414000
+    "secs": 1776255252,
+    "subsec_nanos": 835211000
   },
   "total_time": {
     "secs": 0,
-    "subsec_nanos": 10516459
+    "subsec_nanos": 5794917
   }
 }
