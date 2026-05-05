@@ -510,6 +510,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 %{еэ%}	       !!= * @CODE@ morpheme initial vowel е э , e.g. Acc
 
+!! Russian letters from shared-urj_Cyrl
+а́ и́ о́ е́ у́ !!≈ @CODE@
 
 !! And following triggers to control variation
 
