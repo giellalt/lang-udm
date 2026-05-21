@@ -91,12 +91,15 @@ LEXICON ABSCOMP
 
 LEXICON ADJ_ABS
 +Cmpl:  K ; !This may need something else 2019-06-03
++PlA+Abs:%>%^Е3сь  K ; !This may need something else 2019-06-03 вылесь
++PlA+Pl:%>%^Е3сь%>ъёс  ADJ_PL_DETERM_CASE ;! вылесьёс
++Cop+Pl:%>%^Е3сь K ;! this ending occurs (1) as adnominal plural modifier and (2) predicate plural, see also kpv, koi -ӧсь in second function  выльёс
 
 LEXICON ADJ_DETERM
-+Sg:      ADJ_SG/PL_DETERM_CASE ;
-+Pl:%>ъёс  ADJ_SG/PL_DETERM_CASE ;
++Sg:      ADJ_SG_DETERM_CASE ;
++Pl:%>ъёс  ADJ_PL_DETERM_CASE ;! this is the same plural marker as in nouns. +MWN
 
-LEXICON ADJ_SG/PL_DETERM_CASE
+LEXICON ADJ_SG_DETERM_CASE
 +Nom+Det:%>%^Е3з K ;
 +Gen+Det:%>%^Е3злэн K ;
 +Abl+Det:%>%^Е3злэсь K ;
@@ -111,6 +114,22 @@ LEXICON ADJ_SG/PL_DETERM_CASE
 +Ter+Det:%>озяз K ;
 +Prl+Det:%>%^Е3тӥз K ;
 +Apr+Det:%>%^Е3злань K ;
+
+LEXICON ADJ_PL_DETERM_CASE
++Nom+Det:%>ыз K ;
++Gen+Det:%>ызлэн K ;
++Abl+Det:%>ызлэсь K ;
++Dat+Det:%>ызлы K ;
++Ins+Det:%>%^Е3ныз K ;
++Abe+Det:%>ызтэк K ;
++Advl+Det:%>ызъя K ;
++Ine+Det:%>%^А3з K ;
++Ill+Det:%>%^А3з K ;
++Ela+Det:%>ысьтыз K ;
++Ela+Det:%>ысеныз K ;
++Ter+Det:%>озяз K ;
++Prl+Det:%>%^Е3тӥз K ;
++Apr+Det:%>ызлань K ;
 
 
 
