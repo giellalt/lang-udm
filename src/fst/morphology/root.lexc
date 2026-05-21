@@ -73,6 +73,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Sg          !!≈ * @CODE@  Singular
 +Du	     !!≈ * @CODE@  Dual
 +Pl	     !!≈ * @CODE@  Plural
++PlA	     !!≈ * @CODE@  Plural for adjectives Only used with adjectives as adnominal modifiers -есь/-эсь
 
 
 !! The nominals are inflected in the following Case
