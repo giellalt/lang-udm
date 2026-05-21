@@ -79,7 +79,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! TODO: Document case names!
 
 +Cmpl  !!≈ * @CODE@ Absolute form 2019-06-03 is complement of following head 2019-11-21 do we want this
-
+!!≈ * @CODE@
 +Nom  !!≈ * @CODE@  Nominative
 +Acc  !!≈ * @CODE@  Accusative
 +Gen  !!≈ * @CODE@  Genitive
