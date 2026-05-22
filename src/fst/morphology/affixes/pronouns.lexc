@@ -83,18 +83,18 @@ LEXICON PRON-PERS-SG2_ !тон:т
 +Advl:онъя K ;
 
 LEXICON PRON-PERS-SG3_ !со:со
- NOM-K ;
-+Gen:лэн K ;
-+Dat:лы K ;
-+Abl:лэсь K ;
+ NOM_THEN_K ;
+ GEN_THEN_K ;
+ DAT_THEN_K ;
+ ABL_THEN_K ;
 +Acc:е K ;
-+Ins:ин K ;
-+Abe:тэк K ;
-+Apr:лань K ;
+ INS_IN_THEN_K ;
+ ABE_THEN_K ;
+ APR_THEN_K ;
 +Advl:я K ;
 
 LEXICON PRON-PERS-PL1_ !!мон:ми
- NOM-K ;
+ NOM_THEN_K ;
 +Gen:лям K ;
 +Dat:лемлы K ;
 +Dat:лем K ;
@@ -108,7 +108,7 @@ LEXICON PRON-PERS-PL1_ !!мон:ми
 +Advl:я K ;
 
 LEXICON PRON-PERS-PL2_ !!тон:тӥ
- NOM-K ;
+ NOM_THEN_K ;
 +Gen:ляд K ;
 +Dat:ледлы K ;
 +Dat:лед K ;
@@ -122,23 +122,23 @@ LEXICON PRON-PERS-PL2_ !!тон:тӥ
 +Advl:я K ;
 
 LEXICON PRON-PERS-PL3_ !!со:соос
- NOM-K ;
-+Gen:лэн K ;
-+Dat:лы K ;
-+Abl:лэсь K ;
+ NOM_THEN_K ;
+ GEN_THEN_K ;
+ DAT_THEN_K ;
+ ABL_THEN_K ;
 +Acc:ыз K ;
-+Acc:ты K ;
++Acc:ты K ;!? Dial/Northern
 +Ins:ын K ;
-+Abe:тэк K ;
-+Apr:лань K ;
+ ABE_THEN_K ;
+ APR_THEN_K ;
 +Advl:ъя K ;
 
 !LEXICON PRON-PERS-MUTUAL
-! NOM-K ;
-! APR-K ;
+! NOM_THEN_K ;
+! APR_THEN_K ;
 !+Advl:%>ъя K ;
-! ABE-K ;
-! DAT-K ; !sg3
+! ABE_THEN_K ;
+! DAT_THEN_K ; !sg3
 
 !LEXICON ADJ_SG/PL_DETERM_CASE
 !+Gen+Det:%>%^Е3злэн K ;
@@ -504,11 +504,12 @@ LEXICON INDEFINITE-PRON
 сыӵе-сыӵе+Pron:сыӵе-сыӵе K ;
 сыӵе-таӵе+Pron:сыӵе-таӵе K ;
 сякой+Pron:сякой K ;
-та+Pron:та K ;
+!таин+Pron:таин K ;
+та+Pron+Dem+Sg:та PRON-PERS-SG3_ ;!со:со
+та+Pron+Dem+Pl:та%>ъёс PRON-PERS-PL3_ ;!соос
 таберезэ+Pron:таберезэ K ;
 тазь+Pron:тазь K ;
 таиз+Pron:таиз K ;
-таин+Pron:таин K ;
 такем+Pron:такем K ;
 таку+Pron:таку K ;
 такуен+Pron:такуен K ;
@@ -580,16 +581,16 @@ LEXICON COLL-PRON
 укмысназы+Pron+AssocColl+Pl3:укмысназы MUTUAL-ASSOC-COLL ;
 
 LEXICON MUTUAL-UNIV-PERS-PRON
- NOM-K ;
- GEN-K ;
- DAT-K ;
+ NOM_THEN_K ;
+ GEN_THEN_K ;
+ DAT_THEN_K ;
 
 LEXICON MUTUAL-ASSOC-COLL
- NOM-K ;
+ NOM_THEN_K ;
 +Acc:%>%{еэ%}с K ;
- DAT-K ;
- GEN-K ;
- ABL-K ;
+ DAT_THEN_K ;
+ GEN_THEN_K ;
+ ABL_THEN_K ;
 
 
 
@@ -671,13 +672,13 @@ LEXICON RECIPROC
 ог-огзы+v3+Pron+Recip+Pl3+Apr:одӥгзылань-огзы K ;
 
 LEXICON MUTUAL-RECIPROC
- NOM-K ;
- GEN-K ;
- ABL-K ;
- DAT-K ;
- ABE-K ;
+ NOM_THEN_K ;
+ GEN_THEN_K ;
+ ABL_THEN_K ;
+ DAT_THEN_K ;
+ ABE_THEN_K ;
 +Advl:%>я K ;
- APR-K ;
+ APR_THEN_K ;
 
 
 ! vim: set ft=xfst-lexc:

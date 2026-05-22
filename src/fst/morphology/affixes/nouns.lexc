@@ -266,7 +266,8 @@
 !! Noun Lexica
 LEXICON N_Y
 !! Words from lexicon @LEXNAME@ are characterized by the onset vowel ы instead of э
-!! ки, кыл, ныл, ним
+!! Kel'makov & Hännikäinen 2009: 80-81, 166: азь, вын, йыл, йыр, ки, кыл, ныл, ним, пель, пум, пыд, сьӧр, сюлэм, ул, ым
+!! син:синмын, тыш:тышкын
 NOUNSUF_01_Y ;
 
 LEXICON N_
@@ -380,13 +381,13 @@ LEXICON NOUNSUF_01_V
 +Sg+Ter+PxPl3:%>озязы K ; !Sg
 
 LEXICON AFTER-SG/PL-CASE_C
- NOM-K ;
+ NOM_THEN_K ;
 +Acc+Dial/North:%>ты K;
- GEN-K ;
- ABL-K ;
- DAT-K ;
- ABE-K ;
- APR-K ;
+ GEN_THEN_K ;
+ ABL_THEN_K ;
+ DAT_THEN_K ;
+ ABE_THEN_K ;
+ APR_THEN_K ;
 +Advl:%>ъя K;
 ! with possession
 +Nom+PxPl1:%>мы K ;
@@ -432,8 +433,9 @@ LEXICON AFTER-SG/PL-CASE_C
 !AFTER-SG/PL-CASE_V ;
 
 LEXICON AFTER-SG/PL-CASE_V
-+Acc:%>%^Е3з K;
-+Ins:%>эн K;
++Acc:%>%^Е2з K;
+!+Acc:%>%^Е3з K;
++Ins:%>%^Е2н K;
 +Ine:%>ын K;
 +Ill:%>%^Е3 K;
 +Ela:%>ысь K;
@@ -602,22 +604,25 @@ LEXICON AFTER-SG-CASE_V_Y
 +Apr+PxSg2:%>эдлань K ;
 +Apr+PxSg3:%>эзлань K ;
 
-LEXICON ABE-K
+LEXICON ABE_THEN_K
 +Abe:%>тэк K ;
 
-LEXICON ABL-K
+LEXICON ABL_THEN_K
 +Abl:%>лэсь K ;
 
-LEXICON APR-K
+LEXICON APR_THEN_K
 +Apr:%>лань K ;
 
-LEXICON DAT-K
+LEXICON DAT_THEN_K
 +Dat:%>лы K ;
 
-LEXICON GEN-K
+LEXICON GEN_THEN_K
 +Gen:%>лэн K ;
 
-LEXICON NOM-K
+LEXICON INS_IN_THEN_K
++Ins:%>ин K ;
+
+LEXICON NOM_THEN_K
 +Nom: K ;
 
 
