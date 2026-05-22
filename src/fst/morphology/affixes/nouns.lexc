@@ -264,6 +264,15 @@
 !! * TODO: implement these in lexc
 
 !! Noun Lexica
+LEXICON N_EY
+!! These are ordered from the Udm-Fin dictionary N_, N_Y
+ N_ ;
+ N_Y ;
+LEXICON N_YE
+!! These are ordered from the Udm-Fin dictionary N_Y, N_
+ N_Y ;
+ N_ ;
+
 LEXICON N_Y
 !! Words from lexicon @LEXNAME@ are characterized by the onset vowel ы instead of э
 !! Kel'makov & Hännikäinen 2009: 80-81, 166: азь, вын, йыл, йыр, ки, кыл, ныл, ним, пель, пум, пыд, сьӧр, сюлэм, ул, ым
