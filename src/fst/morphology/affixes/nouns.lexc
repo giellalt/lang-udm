@@ -487,8 +487,8 @@ LEXICON AFTER-SG/PL-CASE_V
 +Ill+PxPl2:%>%^А3ды K ;
 +Ill+PxPl3:%>%^А3зы K ;
 
-+Ela+PxSg1:%>ысьтым K ;  ! yaml says no t
-+Ela+PxSg2:%>ысьтыд K ;  ! yaml says no t
++Ela+PxSg1:%>ысьтым K ;  ! Kel'makov & Hännikäinen 2009 only -ысьты-
++Ela+PxSg2:%>ысьтыд K ;  ! Hence, fix yaml files!2026-05-22 yaml says no t 
 +Ela+PxSg3:%>ысьтыз K ;  ! yaml says no t
 +Ela+PxPl1:%>ысьтымы K ; ! yaml says no t
 +Ela+PxPl2:%>ысьтыды K ; ! yaml says no t
