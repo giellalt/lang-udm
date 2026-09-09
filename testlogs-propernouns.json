@@ -1,0 +1,1 @@
+{"id":"propernouns","kind":"lemma","failures":[{"lemma":"Советской Союз","no_generation":[],"wrong_generation":[{"expected":"Советской Союз+N+Prop+Sg+Nom","got":"Сове́тской Союз"}],"analyses":[]}]}
