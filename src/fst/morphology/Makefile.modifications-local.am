@@ -20,7 +20,7 @@
 
 if HAVE_SHARED_URJ_CYRL
 generated_files/urj-Cyrl-$(GLANG)-propernouns.lexc: \
-	$(gt_SHARED_urj_Cyrl)/src/fst/stems/urj-Cyrl-propernouns.lexc
+	$(gt_SHARED_urj_Cyrl)/src/fst/morphology/stems/urj-Cyrl-propernouns.lexc
 	$(AM_V_at)$(MKDIR_P) generated_files
 	$(AM_V_CP)cp -f $< $@
 else
